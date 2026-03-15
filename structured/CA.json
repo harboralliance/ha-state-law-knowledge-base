@@ -1,0 +1,56 @@
+{
+  "state": "California",
+  "state_code": "CA",
+  "industry": "commercial lodging",
+  "source_file": "2026-03-15_California_lodging_compliance.md",
+  "training_required": true,
+  "training_duration_minutes": 20,
+  "training_frequency": "within six months of hire for new employees",
+  "new_hire_deadline_days": null,
+  "new_hire_deadline_text": null,
+  "signage_required": true,
+  "provider_approval_required": false,
+  "provider_approval_type": null,
+  "approval_authority": null,
+  "approval_contact": null,
+  "enforcing_agencies": [
+    "Department of Justice (DOJ)",
+    "Office of the Attorney General (OAG)"
+  ],
+  "applicable_to": [],
+  "required_topics": [
+    "human trafficking awareness"
+  ],
+  "reporting_contacts_required": [],
+  "signage_details": {
+    "languages_required": [
+      "English",
+      "Spanish",
+      "additional language in certain counties"
+    ],
+    "minimum_size": null,
+    "font_size": null,
+    "posting_location": null,
+    "required_content": [
+      "hotline numbers for seeking help or reporting unlawful activity"
+    ]
+  },
+  "recordkeeping_requirements": [],
+  "certificate_requirements": [],
+  "law_references": [
+    "SB 970",
+    "AB 260 (2017)",
+    "SB 225"
+  ],
+  "source_urls": [
+    "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=SB-970-trafficking",
+    "https://www.oag.ca.gov/resource/trafficking-model-notice"
+  ],
+  "harbor_alliance_posture": "immediate-entry",
+  "harbor_alliance_actions": [],
+  "risks_or_constraints": [
+    "non-compliance with posting requirements can result in fines and penalties"
+  ],
+  "notes": [],
+  "needs_review": []
+}

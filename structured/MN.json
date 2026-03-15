@@ -1,0 +1,64 @@
+{
+  "state": "Minnesota",
+  "state_code": "MN",
+  "industry": "commercial lodging",
+  "source_file": "2026-03-15_Minnesota_lodging_compliance.md",
+  "training_required": true,
+  "training_duration_minutes": null,
+  "training_frequency": "annually",
+  "new_hire_deadline_days": 90,
+  "new_hire_deadline_text": "within 90 days of employment",
+  "signage_required": true,
+  "provider_approval_required": false,
+  "provider_approval_type": null,
+  "approval_authority": null,
+  "approval_contact": null,
+  "enforcing_agencies": [
+    "Minnesota Department of Health (MDH)"
+  ],
+  "applicable_to": [
+    "hotel",
+    "motel",
+    "short-term rental"
+  ],
+  "required_topics": [
+    "sex trafficking prevention and response",
+    "virtual presentation",
+    "Training Companion Guide",
+    "Manager & Owner Training Toolkit",
+    "poster set"
+  ],
+  "reporting_contacts_required": [],
+  "signage_details": {
+    "languages_required": [
+      "Spanish",
+      "Somali",
+      "Hmong"
+    ],
+    "minimum_size": null,
+    "font_size": null,
+    "posting_location": "prominently in various areas of the establishment",
+    "required_content": [
+      "back of house poster"
+    ]
+  },
+  "recordkeeping_requirements": [],
+  "certificate_requirements": [],
+  "law_references": [
+    "Minnesota law"
+  ],
+  "source_urls": [
+    "https://www.health.state.mn.us/divisions/food-safety/policies-guidance/training-resources",
+    "https://www.health.state.mn.us/divisions/food-safety/policies-guidance/training-resources/mnhtprn",
+    "https://www.health.state.mn.us/divisions/food-safety/policies-guidance/training-resources/mdh-learning-center"
+  ],
+  "harbor_alliance_posture": "needs-review",
+  "harbor_alliance_actions": [],
+  "risks_or_constraints": [
+    "new hires must complete the training within 90 days of employment"
+  ],
+  "notes": [
+    "The law requires hotels, motels, and short-term rental owners, managers, and on-site employees to complete sex trafficking prevention training."
+  ],
+  "needs_review": []
+}
