@@ -1,0 +1,92 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 6",
+      "relevancy": "100% - 46%",
+      "count": 6,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zhotlin:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "DE",
+      "bill_number": "HB256",
+      "bill_id": 2059887,
+      "change_hash": "5d21d3203eeb4fa518f8db3a18e4a2e6",
+      "url": "https://legiscan.com/DE/bill/HB256/2025",
+      "text_url": "https://legiscan.com/DE/text/HB256/2025",
+      "research_url": "https://legiscan.com/DE/research/HB256/2025",
+      "last_action_date": "2026-03-11",
+      "last_action": "Reported Out of Committee (Education) in House with 1 Favorable, 11 On Its Merits",
+      "title": "An Act To Amend Chapter 404 Of Volume 83 And Chapter 108 Of Volume 84 Of The Laws Of Delaware And Title 14 Of The Delaware Code Relating To Pupil And Student Identification Cards."
+    },
+    "1": {
+      "relevance": 91,
+      "state": "DE",
+      "bill_number": "HB141",
+      "bill_id": 2029370,
+      "change_hash": "7506e0ad020ccb33f625e9c12070f5e9",
+      "url": "https://legiscan.com/DE/bill/HB141/2025",
+      "text_url": "https://legiscan.com/DE/text/HB141/2025",
+      "research_url": "https://legiscan.com/DE/research/HB141/2025",
+      "last_action_date": "2026-03-10",
+      "last_action": "Amendment HA 1 to HB 141 - Introduced and Placed With Bill",
+      "title": "An Act To Amend Titles 11 And 24 Of The Delaware Code Relating To Firearms."
+    },
+    "2": {
+      "relevance": 88,
+      "state": "DE",
+      "bill_number": "HCR4",
+      "bill_id": 1937780,
+      "change_hash": "acd94f6b2fc068854e8592f1edd0c3d9",
+      "url": "https://legiscan.com/DE/bill/HCR4/2025",
+      "text_url": "https://legiscan.com/DE/text/HCR4/2025",
+      "research_url": "https://legiscan.com/DE/research/HCR4/2025",
+      "last_action_date": "2025-01-23",
+      "last_action": "Passed By Senate. Votes: 18 YES 1 ABSENT 2 VACANT",
+      "title": "Recognizing The Month Of January 2025 As &quot;human Trafficking Awareness Month&quot; In Delaware."
+    },
+    "3": {
+      "relevance": 87,
+      "state": "DE",
+      "bill_number": "HB213",
+      "bill_id": 2036864,
+      "change_hash": "5f543ee2d241b57e291ea46d12219789",
+      "url": "https://legiscan.com/DE/bill/HB213/2025",
+      "text_url": "https://legiscan.com/DE/text/HB213/2025",
+      "research_url": "https://legiscan.com/DE/research/HB213/2025",
+      "last_action_date": "2026-03-12",
+      "last_action": "was introduced and adopted in lieu of HB 213",
+      "title": "An Act To Amend Title 10 Of The Delaware Code Relating To Evidence And Witnesses."
+    },
+    "4": {
+      "relevance": 84,
+      "state": "DE",
+      "bill_number": "HB135",
+      "bill_id": 2028972,
+      "change_hash": "40b60ba275aa58604f90a3c68e1dd8a9",
+      "url": "https://legiscan.com/DE/bill/HB135/2025",
+      "text_url": "https://legiscan.com/DE/text/HB135/2025",
+      "research_url": "https://legiscan.com/DE/research/HB135/2025",
+      "last_action_date": "2025-05-07",
+      "last_action": "Assigned to Housing Committee in House",
+      "title": "An Act To Amend Title 10 Of The Delaware Code Relating To Homelessness."
+    },
+    "5": {
+      "relevance": 46,
+      "state": "DE",
+      "bill_number": "SB17",
+      "bill_id": 1911260,
+      "change_hash": "b245fec850359917783fcaebaed098c2",
+      "url": "https://legiscan.com/DE/bill/SB17/2025",
+      "text_url": "https://legiscan.com/DE/text/SB17/2025",
+      "research_url": "https://legiscan.com/DE/research/SB17/2025",
+      "last_action_date": "2025-08-20",
+      "last_action": "Signed by Governor",
+      "title": "An Act To Amend Title 10, Title 11, And Title 19 Of The Delaware Code Relating To Crime Victims And Witnesses."
+    }
+  }
+}

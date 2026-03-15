@@ -1,0 +1,79 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 5",
+      "relevancy": "100% - 67%",
+      "count": 5,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zhotlin:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "AL",
+      "bill_number": "HB268",
+      "bill_id": 2082426,
+      "change_hash": "4ac5cb235ba6e71669706aad181fa8f8",
+      "url": "https://legiscan.com/AL/bill/HB268/2026",
+      "text_url": "https://legiscan.com/AL/text/HB268/2026",
+      "research_url": "https://legiscan.com/AL/research/HB268/2026",
+      "last_action_date": "2026-02-17",
+      "last_action": "Read for the Second Time and placed on the Calendar",
+      "title": "Government Administration, authorizes the State 911 board to monitor the responsiveness of local 911 districts, with conditions under which the State 911 board may assume control of a district"
+    },
+    "1": {
+      "relevance": 80,
+      "state": "AL",
+      "bill_number": "HB586",
+      "bill_id": 2129771,
+      "change_hash": "cafa312d3f4f9528bcca608b64158305",
+      "url": "https://legiscan.com/AL/bill/HB586/2026",
+      "text_url": "https://legiscan.com/AL/text/HB586/2026",
+      "research_url": "https://legiscan.com/AL/research/HB586/2026",
+      "last_action_date": "2026-03-05",
+      "last_action": "Pending House Boards, Agencies and Commissions",
+      "title": "Alabama Real Estate Commission; license required for real estate wholesalers, real estate wholesalers and unsolicited real property solicitors must provide disclosures, Alabama Securities Commission, authorized to enforce, penalties imposed for violations"
+    },
+    "2": {
+      "relevance": 69,
+      "state": "AL",
+      "bill_number": "SB290",
+      "bill_id": 2113439,
+      "change_hash": "9fc6a9392674a8410cfacc8bb814d63f",
+      "url": "https://legiscan.com/AL/bill/SB290/2026",
+      "text_url": "https://legiscan.com/AL/text/SB290/2026",
+      "research_url": "https://legiscan.com/AL/research/SB290/2026",
+      "last_action_date": "2026-02-10",
+      "last_action": "Pending Senate Judiciary",
+      "title": "Elections; voting rights restoration process revised; Alabama Voting Rights Act Commission established to prevent discrimination in voting; duties and membership provided; Secretary of State required to establish database on election administration"
+    },
+    "3": {
+      "relevance": 69,
+      "state": "AL",
+      "bill_number": "HB486",
+      "bill_id": 2120244,
+      "change_hash": "49a06726ca5a5e82cbfafbd8c523d77c",
+      "url": "https://legiscan.com/AL/bill/HB486/2026",
+      "text_url": "https://legiscan.com/AL/text/HB486/2026",
+      "research_url": "https://legiscan.com/AL/research/HB486/2026",
+      "last_action_date": "2026-02-19",
+      "last_action": "Pending House Judiciary",
+      "title": "Elections; voting rights restoration process revised; Alabama Voting Rights Act Commission established to prevent discrimination in voting; duties and membership provided; Secretary of State required to establish database on election administration"
+    },
+    "4": {
+      "relevance": 67,
+      "state": "AL",
+      "bill_number": "HB389",
+      "bill_id": 2109001,
+      "change_hash": "228e1d4bd8edda18241bbc0d169c757d",
+      "url": "https://legiscan.com/AL/bill/HB389/2026",
+      "text_url": "https://legiscan.com/AL/text/HB389/2026",
+      "research_url": "https://legiscan.com/AL/research/HB389/2026",
+      "last_action_date": "2026-02-05",
+      "last_action": "Pending House Judiciary",
+      "title": "Crimes and procedure; domestic violence crimes, substantially revised; temporary holding periods and bond requirements, established; criminal penalties increased under certain conditions"
+    }
+  }
+}

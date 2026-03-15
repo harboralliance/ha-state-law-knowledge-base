@@ -1,0 +1,66 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 4",
+      "relevancy": "100% - 84%",
+      "count": 4,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zhotlin:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "NH",
+      "bill_number": "HB1416",
+      "bill_id": 2056379,
+      "change_hash": "ebe3c8abc32a595c4294cea97473365f",
+      "url": "https://legiscan.com/NH/bill/HB1416/2026",
+      "text_url": "https://legiscan.com/NH/text/HB1416/2026",
+      "research_url": "https://legiscan.com/NH/research/HB1416/2026",
+      "last_action_date": "2026-03-13",
+      "last_action": "Ought to Pass with Amendment 2026-0916h: Motion Adopted Regular Calendar 176-163 03/12/2026 House Journal  8",
+      "title": "Prohibits certain government regulations regarding pregnancy resource centers in connection with abortion and contraception service offerings."
+    },
+    "1": {
+      "relevance": 94,
+      "state": "NH",
+      "bill_number": "HB767",
+      "bill_id": 2064439,
+      "change_hash": "0e83c0ec81e9a971e6239652c03267f4",
+      "url": "https://legiscan.com/NH/bill/HB767/2026",
+      "text_url": "https://legiscan.com/NH/text/HB767/2026",
+      "research_url": "https://legiscan.com/NH/research/HB767/2026",
+      "last_action_date": "2026-01-30",
+      "last_action": "Introduced 01/29/2026 and Referred to Judiciary; Senate Journal 3",
+      "title": "Expanding requirements for reports to law enforcement by the department of health and human services."
+    },
+    "2": {
+      "relevance": 93,
+      "state": "NH",
+      "bill_number": "HB1262",
+      "bill_id": 2054523,
+      "change_hash": "0ef412df9b7cdf40946a4fe473dfbd1c",
+      "url": "https://legiscan.com/NH/bill/HB1262/2026",
+      "text_url": "https://legiscan.com/NH/text/HB1262/2026",
+      "research_url": "https://legiscan.com/NH/research/HB1262/2026",
+      "last_action_date": "2026-03-11",
+      "last_action": "Ought to Pass with Amendment 2026-0979h: Motion Adopted Voice Vote 03/11/2026 House Journal  7",
+      "title": "Relative to home heating oil and propane contracts and sales."
+    },
+    "3": {
+      "relevance": 84,
+      "state": "NH",
+      "bill_number": "HB1658",
+      "bill_id": 2058416,
+      "change_hash": "b516a2969687768ed409fec6168abe09",
+      "url": "https://legiscan.com/NH/bill/HB1658/2026",
+      "text_url": "https://legiscan.com/NH/text/HB1658/2026",
+      "research_url": "https://legiscan.com/NH/research/HB1658/2026",
+      "last_action_date": "2026-03-11",
+      "last_action": "Inexpedient to Legislate: Motion Adopted Voice Vote 03/11/2026 House Journal  7",
+      "title": "Relative to parental consent and age verification for digital application platforms."
+    }
+  }
+}

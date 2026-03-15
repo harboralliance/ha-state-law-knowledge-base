@@ -1,0 +1,40 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 2",
+      "relevancy": "100% - 97%",
+      "count": 2,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zinn:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "LA",
+      "bill_number": "SB136",
+      "bill_id": 2123137,
+      "change_hash": "5335bebc3744823507ecebdf7f6901ff",
+      "url": "https://legiscan.com/LA/bill/SB136/2026",
+      "text_url": "https://legiscan.com/LA/text/SB136/2026",
+      "research_url": "https://legiscan.com/LA/research/SB136/2026",
+      "last_action_date": "2026-03-09",
+      "last_action": "Introduced in the Senate; read by title. Rules suspended. Read second time and referred to the Committee on Senate and Governmental Affairs.",
+      "title": "Provides for redistricting of the Louisiana Senate. (See Act) (OR +$2,934,660 GF EX See Note)"
+    },
+    "1": {
+      "relevance": 97,
+      "state": "LA",
+      "bill_number": "SB282",
+      "bill_id": 2126243,
+      "change_hash": "ef3d680125ca01c9e378dfd365018b1a",
+      "url": "https://legiscan.com/LA/bill/SB282/2026",
+      "text_url": "https://legiscan.com/LA/text/SB282/2026",
+      "research_url": "https://legiscan.com/LA/research/SB282/2026",
+      "last_action_date": "2026-03-09",
+      "last_action": "Introduced in the Senate; read by title. Rules suspended. Read second time and referred to the Committee on Local and Municipal Affairs.",
+      "title": "Authorizes the creation of a cooperative economic development district affiliated with Baton Rouge Community College in East Baton Rouge Parish. (gov sig)"
+    }
+  }
+}

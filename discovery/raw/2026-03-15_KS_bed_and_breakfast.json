@@ -1,0 +1,131 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 9",
+      "relevancy": "100% - 73%",
+      "count": 9,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zbed:(pos=1) AND Zbreakfast:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "KS",
+      "bill_number": "HB2394",
+      "bill_id": 1986910,
+      "change_hash": "befe544a2332af50aeb0af2256119c2a",
+      "url": "https://legiscan.com/KS/bill/HB2394/2025",
+      "text_url": "https://legiscan.com/KS/text/HB2394/2025",
+      "research_url": "https://legiscan.com/KS/research/HB2394/2025",
+      "last_action_date": "2025-02-27",
+      "last_action": "House Referred to Committee on Taxation",
+      "title": "Establishing the property tax use value for residential real property, real property used for commercial and industrial purposes and mobile homes used for residential purposes."
+    },
+    "1": {
+      "relevance": 78,
+      "state": "KS",
+      "bill_number": "SB337",
+      "bill_id": 2082017,
+      "change_hash": "433e9386d4efd4835718b3c1dea8ca9c",
+      "url": "https://legiscan.com/KS/bill/SB337/2025",
+      "text_url": "https://legiscan.com/KS/text/SB337/2025",
+      "research_url": "https://legiscan.com/KS/research/SB337/2025",
+      "last_action_date": "2026-01-16",
+      "last_action": "Senate Referred to Committee on Ways and Means",
+      "title": "Making and concerning certain supplemental appropriations for fiscal year 2026 and appropriations for fiscal years 2027, 2028 and 2029 for various state agencies."
+    },
+    "2": {
+      "relevance": 78,
+      "state": "KS",
+      "bill_number": "HB2455",
+      "bill_id": 2082112,
+      "change_hash": "da30226c20f35c65432c2369cec9bb96",
+      "url": "https://legiscan.com/KS/bill/HB2455/2025",
+      "text_url": "https://legiscan.com/KS/text/HB2455/2025",
+      "research_url": "https://legiscan.com/KS/research/HB2455/2025",
+      "last_action_date": "2026-01-15",
+      "last_action": "House Referred to Committee on Appropriations",
+      "title": "Making and concerning certain supplemental appropriations for fiscal year 2026 and appropriations for fiscal years 2027, 2028 and 2029 for various state agencies."
+    },
+    "3": {
+      "relevance": 77,
+      "state": "KS",
+      "bill_number": "SB315",
+      "bill_id": 2071478,
+      "change_hash": "f824094c7390fb1008405bc2c6160332",
+      "url": "https://legiscan.com/KS/bill/SB315/2025",
+      "text_url": "https://legiscan.com/KS/text/SB315/2025",
+      "research_url": "https://legiscan.com/KS/research/SB315/2025",
+      "last_action_date": "2026-03-05",
+      "last_action": "House Referred to Committee on Appropriations",
+      "title": "Substitute for SB 315 by Committee on Ways and Means - Making and concerning supplemental appropriations for fiscal year 2026 and appropriations for fiscal years 2027, 2028, 2029 and 2030 for various state agencies, authorizing certain capital improvement projects and fees, authorizing certain transfers."
+    },
+    "4": {
+      "relevance": 76,
+      "state": "KS",
+      "bill_number": "HB2434",
+      "bill_id": 2071038,
+      "change_hash": "d88b1a2d9cf4a566ba041445509abbc7",
+      "url": "https://legiscan.com/KS/bill/HB2434/2025",
+      "text_url": "https://legiscan.com/KS/text/HB2434/2025",
+      "research_url": "https://legiscan.com/KS/research/HB2434/2025",
+      "last_action_date": "2026-02-27",
+      "last_action": "Senate Referred to Committee on Ways and Means",
+      "title": "Substitute for HB 2434 by Committee on Appropriations - Making and concerning supplemental appropriations for fiscal year 2026 and appropriations for fiscal years 2027 and 2028 for various state agencies, authorizing certain capital improvement projects and fees, authorizing certain transfers."
+    },
+    "5": {
+      "relevance": 75,
+      "state": "KS",
+      "bill_number": "HB2007",
+      "bill_id": 1916487,
+      "change_hash": "7b37b91b860a41421d688cf4408cf1a9",
+      "url": "https://legiscan.com/KS/bill/HB2007/2025",
+      "text_url": "https://legiscan.com/KS/text/HB2007/2025",
+      "research_url": "https://legiscan.com/KS/research/HB2007/2025",
+      "last_action_date": "2025-04-11",
+      "last_action": "House Approved by Governor on Thursday, April 24, 2025",
+      "title": "Senate Substitute for Substitute for HB 2007 by Committee on Ways and Means - Reconciling multiple amendments to certain statutes."
+    },
+    "6": {
+      "relevance": 74,
+      "state": "KS",
+      "bill_number": "SB68",
+      "bill_id": 1938020,
+      "change_hash": "17e451f1963bfabfed0b150ed733a650",
+      "url": "https://legiscan.com/KS/bill/SB68/2025",
+      "text_url": "https://legiscan.com/KS/text/SB68/2025",
+      "research_url": "https://legiscan.com/KS/research/SB68/2025",
+      "last_action_date": "2025-01-24",
+      "last_action": "Senate Referred to Committee on Ways and Means",
+      "title": "Making and concerning certain supplemental appropriations for fiscal year 2025 and appropriations for fiscal years 2026 and 2027 for various state agencies."
+    },
+    "7": {
+      "relevance": 74,
+      "state": "KS",
+      "bill_number": "HB2082",
+      "bill_id": 1937464,
+      "change_hash": "d2e6f5af47d56ca273cad42abd172e65",
+      "url": "https://legiscan.com/KS/bill/HB2082/2025",
+      "text_url": "https://legiscan.com/KS/text/HB2082/2025",
+      "research_url": "https://legiscan.com/KS/research/HB2082/2025",
+      "last_action_date": "2025-01-23",
+      "last_action": "House Referred to Committee on Appropriations",
+      "title": "Making and concerning certain supplemental appropriations for fiscal year 2025 and appropriations for fiscal years 2026 and 2027 for various state agencies."
+    },
+    "8": {
+      "relevance": 73,
+      "state": "KS",
+      "bill_number": "SB125",
+      "bill_id": 1949165,
+      "change_hash": "5a81426fc7da114e4ffefc56bc0afe38",
+      "url": "https://legiscan.com/KS/bill/SB125/2025",
+      "text_url": "https://legiscan.com/KS/text/SB125/2025",
+      "research_url": "https://legiscan.com/KS/research/SB125/2025",
+      "last_action_date": "2025-04-11",
+      "last_action": "House Motion to override selected line item veto prevailed; Line item vetoes, a portion of 46(a), 46(c), 47, 63(x), 72(b), 73(f), a portion of 76(a), a portion of 76(b),a portion of 83(a), a portion of 89(a), 89(aa), a portion of 92(a), 118(h), 118(i), a portion of 121(a), 135(a), 177(b), 187(h), 188 were overridden. No motion to reconsider remainder of line items, vetoes were ruled sustained Yea: 88 Nay: 34",
+      "title": "Making and concerning supplemental appropriations for fiscal year 2025 and appropriations for fiscal years 2026 and 2027 for various state agencies, authorizing certain capital improvement projects and fees, authorizing certain transfers authorizing the payment of certain claims against the state."
+    }
+  }
+}

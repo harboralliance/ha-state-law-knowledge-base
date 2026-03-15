@@ -1,0 +1,6 @@
+{
+  "status": "ERROR",
+  "alert": {
+    "message": "Invalid API key format -- 172.59.40.239 -- /?key=PASTE_LEGISCAN_API_KEY_HERE&op=getSearch&state=IL&query=signage"
+  }
+}

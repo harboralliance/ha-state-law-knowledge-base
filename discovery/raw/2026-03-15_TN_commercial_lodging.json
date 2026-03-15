@@ -1,0 +1,66 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 4",
+      "relevancy": "100% - 15%",
+      "count": 4,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zcommerci:(pos=1) AND Zlodg:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "TN",
+      "bill_number": "SB0308",
+      "bill_id": 1942764,
+      "change_hash": "08c2bf9e853053bb87d8400a36818da2",
+      "url": "https://legiscan.com/TN/bill/SB0308/2025",
+      "text_url": "https://legiscan.com/TN/text/SB0308/2025",
+      "research_url": "https://legiscan.com/TN/research/SB0308/2025",
+      "last_action_date": "2025-05-13",
+      "last_action": "Effective date(s) 05/05/2025",
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 57, relative to consumption of alcoholic beverages on premises."
+    },
+    "1": {
+      "relevance": 99,
+      "state": "TN",
+      "bill_number": "HB0381",
+      "bill_id": 1942449,
+      "change_hash": "0c4f9e249bb723d989eab0a9afcde062",
+      "url": "https://legiscan.com/TN/bill/HB0381/2025",
+      "text_url": "https://legiscan.com/TN/text/HB0381/2025",
+      "research_url": "https://legiscan.com/TN/research/HB0381/2025",
+      "last_action_date": "2025-05-13",
+      "last_action": "Comp. became Pub. Ch. 362",
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 57, relative to consumption of alcoholic beverages on premises."
+    },
+    "2": {
+      "relevance": 15,
+      "state": "TN",
+      "bill_number": "SB1431",
+      "bill_id": 1971015,
+      "change_hash": "39da05fcf784bbf18bdb2b812cdc64eb",
+      "url": "https://legiscan.com/TN/bill/SB1431/2025",
+      "text_url": "https://legiscan.com/TN/text/SB1431/2025",
+      "research_url": "https://legiscan.com/TN/research/SB1431/2025",
+      "last_action_date": "2025-05-27",
+      "last_action": "Comp. became Pub. Ch. 530",
+      "title": "AN ACT to make appropriations for the purpose of defraying the expenses of the state government for the fiscal years beginning July 1, 2024, and July 1, 2025, in the administration, operation and maintenance of the legislative, executive and judicial branches of the various departments, institutions, offices and agencies of the state; for certain state aid and obligations; for capital outlay, for the service of the public debt, for emergency and contingency; to repeal certain appropriations and any acts inconsistent herewith; to provide provisional continuing appropriations; and to establish certain provisions, limitations and restrictions under which appropriations may be obligated and expended. This act makes appropriations for the purposes described above for the fiscal years beginning July 1, 2024, and July 1, 2025."
+    },
+    "3": {
+      "relevance": 15,
+      "state": "TN",
+      "bill_number": "HB1409",
+      "bill_id": 1971366,
+      "change_hash": "0ea6e67b3b0015071d2678a7380a3a40",
+      "url": "https://legiscan.com/TN/bill/HB1409/2025",
+      "text_url": "https://legiscan.com/TN/text/HB1409/2025",
+      "research_url": "https://legiscan.com/TN/research/HB1409/2025",
+      "last_action_date": "2025-05-27",
+      "last_action": "Effective date(s) 05/21/2025, 07/01/2025",
+      "title": "AN ACT to make appropriations for the purpose of defraying the expenses of the state government for the fiscal years beginning July 1, 2024, and July 1, 2025, in the administration, operation and maintenance of the legislative, executive and judicial branches of the various departments, institutions, offices and agencies of the state; for certain state aid and obligations; for capital outlay, for the service of the public debt, for emergency and contingency; to repeal certain appropriations and any acts inconsistent herewith; to provide provisional continuing appropriations; and to establish certain provisions, limitations and restrictions under which appropriations may be obligated and expended. This act makes appropriations for the purposes described above for the fiscal years beginning July 1, 2024, and July 1, 2025."
+    }
+  }
+}

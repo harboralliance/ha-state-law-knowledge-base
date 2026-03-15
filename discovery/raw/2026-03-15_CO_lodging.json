@@ -1,0 +1,131 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 9",
+      "relevancy": "100% - 78%",
+      "count": 9,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zlodg:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "CO",
+      "bill_number": "SB116",
+      "bill_id": 2120002,
+      "change_hash": "c3d1ea2b6f884508cc6b73ba9d00c81f",
+      "url": "https://legiscan.com/CO/bill/SB116/2026",
+      "text_url": "https://legiscan.com/CO/text/SB116/2026",
+      "research_url": "https://legiscan.com/CO/research/SB116/2026",
+      "last_action_date": "2026-02-19",
+      "last_action": "Introduced In Senate - Assigned to Finance",
+      "title": "Property Tax Modifications"
+    },
+    "1": {
+      "relevance": 95,
+      "state": "CO",
+      "bill_number": "SB012",
+      "bill_id": 2079709,
+      "change_hash": "ca9862bd4b946df8b93156ca68bb026e",
+      "url": "https://legiscan.com/CO/bill/SB012/2026",
+      "text_url": "https://legiscan.com/CO/text/SB012/2026",
+      "research_url": "https://legiscan.com/CO/research/SB012/2026",
+      "last_action_date": "2026-03-09",
+      "last_action": "House Second Reading Laid Over Daily - No Amendments",
+      "title": "Compensable Losses for Tribal Members"
+    },
+    "2": {
+      "relevance": 93,
+      "state": "CO",
+      "bill_number": "SB069",
+      "bill_id": 2101006,
+      "change_hash": "68b03a4ca1219f3fd5b05bc7faac0d66",
+      "url": "https://legiscan.com/CO/bill/SB069/2026",
+      "text_url": "https://legiscan.com/CO/text/SB069/2026",
+      "research_url": "https://legiscan.com/CO/research/SB069/2026",
+      "last_action_date": "2026-03-04",
+      "last_action": "Senate Committee on Education Postpone Indefinitely",
+      "title": "Colorado Domestic Exchange Program"
+    },
+    "3": {
+      "relevance": 93,
+      "state": "CO",
+      "bill_number": "HB1187",
+      "bill_id": 2111928,
+      "change_hash": "b181545160bb47adda72baf0ed57415d",
+      "url": "https://legiscan.com/CO/bill/HB1187/2026",
+      "text_url": "https://legiscan.com/CO/text/HB1187/2026",
+      "research_url": "https://legiscan.com/CO/research/HB1187/2026",
+      "last_action_date": "2026-03-13",
+      "last_action": "House Second Reading Special Order - Passed - No Amendments",
+      "title": "Sunset Fire Suppression Programs"
+    },
+    "4": {
+      "relevance": 92,
+      "state": "CO",
+      "bill_number": "HB1036",
+      "bill_id": 2080025,
+      "change_hash": "6687551e8e7524902af3f9ac2d3362b7",
+      "url": "https://legiscan.com/CO/bill/HB1036/2026",
+      "text_url": "https://legiscan.com/CO/text/HB1036/2026",
+      "research_url": "https://legiscan.com/CO/research/HB1036/2026",
+      "last_action_date": "2026-02-09",
+      "last_action": "House Committee on Finance Postpone Indefinitely",
+      "title": "Local Taxes on Vacant Residential Property"
+    },
+    "5": {
+      "relevance": 87,
+      "state": "CO",
+      "bill_number": "HCR1001",
+      "bill_id": 2132046,
+      "change_hash": "06365141284886e955c8ee558d06d27b",
+      "url": "https://legiscan.com/CO/bill/HCR1001/2026",
+      "text_url": "https://legiscan.com/CO/text/HCR1001/2026",
+      "research_url": "https://legiscan.com/CO/research/HCR1001/2026",
+      "last_action_date": "2026-03-10",
+      "last_action": "Introduced In House - Assigned to State, Civic, Military, & Veterans Affairs",
+      "title": "Charitable Gaming Constitutional Amendment"
+    },
+    "6": {
+      "relevance": 85,
+      "state": "CO",
+      "bill_number": "HB1258",
+      "bill_id": 2120966,
+      "change_hash": "7e2784acc5fd1b3186ec6f11abe35730",
+      "url": "https://legiscan.com/CO/bill/HB1258/2026",
+      "text_url": "https://legiscan.com/CO/text/HB1258/2026",
+      "research_url": "https://legiscan.com/CO/research/HB1258/2026",
+      "last_action_date": "2026-03-10",
+      "last_action": "House Second Reading Passed with Amendments - Committee, Floor",
+      "title": "Changes to Practices Relating to Death"
+    },
+    "7": {
+      "relevance": 83,
+      "state": "CO",
+      "bill_number": "HB1327",
+      "bill_id": 2131324,
+      "change_hash": "cc6a8ed346fc571729da65023064c9ee",
+      "url": "https://legiscan.com/CO/bill/HB1327/2026",
+      "text_url": "https://legiscan.com/CO/text/HB1327/2026",
+      "research_url": "https://legiscan.com/CO/research/HB1327/2026",
+      "last_action_date": "2026-03-09",
+      "last_action": "Introduced In House - Assigned to Health & Human Services",
+      "title": "Large Employer Worker Health-Care Support"
+    },
+    "8": {
+      "relevance": 78,
+      "state": "CO",
+      "bill_number": "HB1088",
+      "bill_id": 2103753,
+      "change_hash": "8264a8868a1a98e9a99030427b1131ef",
+      "url": "https://legiscan.com/CO/bill/HB1088/2026",
+      "text_url": "https://legiscan.com/CO/text/HB1088/2026",
+      "research_url": "https://legiscan.com/CO/research/HB1088/2026",
+      "last_action_date": "2026-03-12",
+      "last_action": "Introduced In Senate - Assigned to State, Veterans, & Military Affairs",
+      "title": "Business Entity Filing Secretary of State"
+    }
+  }
+}

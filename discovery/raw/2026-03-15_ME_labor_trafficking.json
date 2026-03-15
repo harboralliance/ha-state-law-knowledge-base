@@ -1,0 +1,53 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 3",
+      "relevancy": "100% - 80%",
+      "count": 3,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zlabor:(pos=1) AND Ztraffick:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "ME",
+      "bill_number": "LD1888",
+      "bill_id": 2027995,
+      "change_hash": "e7321436831946251d1766fdbe92fa08",
+      "url": "https://legiscan.com/ME/bill/LD1888/2025",
+      "text_url": "https://legiscan.com/ME/text/LD1888/2025",
+      "research_url": "https://legiscan.com/ME/research/LD1888/2025",
+      "last_action_date": "2025-06-25",
+      "last_action": "CARRIED OVER, in the same posture, to any special or regular session of the 132nd Legislature, pursuant to Joint Order SP 800.",
+      "title": "Resolve, to Study the Establishment of a New Crime of Racketeering for Drug Offenses and Sex Trafficking"
+    },
+    "1": {
+      "relevance": 80,
+      "state": "ME",
+      "bill_number": "LD1893",
+      "bill_id": 2027898,
+      "change_hash": "d7b1266e573b60955c8afeb85bca8ef7",
+      "url": "https://legiscan.com/ME/bill/LD1893/2025",
+      "text_url": "https://legiscan.com/ME/text/LD1893/2025",
+      "research_url": "https://legiscan.com/ME/research/LD1893/2025",
+      "last_action_date": "2025-06-25",
+      "last_action": "Carried over, in the same posture, to any special or regular session of the 132nd Legislature, pursuant to Joint Order SP 800.",
+      "title": "An Act to Establish an Independent Office of the Child Advocate"
+    },
+    "2": {
+      "relevance": 80,
+      "state": "ME",
+      "bill_number": "SP0800",
+      "bill_id": 2038183,
+      "change_hash": "bc0daf2dd9ba52d13a64c0020176f308",
+      "url": "https://legiscan.com/ME/bill/SP0800/2025",
+      "text_url": "https://legiscan.com/ME/text/SP0800/2025",
+      "research_url": "https://legiscan.com/ME/research/SP0800/2025",
+      "last_action_date": "2025-06-25",
+      "last_action": "In concurrence. ORDERED SENT FORTHWITH.",
+      "title": "Joint Order, to Carry Over Certain Matters from the First Special Session of the 132nd Legislature"
+    }
+  }
+}

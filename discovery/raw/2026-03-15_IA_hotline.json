@@ -1,0 +1,131 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 9",
+      "relevancy": "100% - 81%",
+      "count": 9,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zhotlin:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "IA",
+      "bill_number": "HSB608",
+      "bill_id": 2090120,
+      "change_hash": "ea3f8dd69d427157c22483558c8aaf0d",
+      "url": "https://legiscan.com/IA/bill/HSB608/2025",
+      "text_url": "https://legiscan.com/IA/text/HSB608/2025",
+      "research_url": "https://legiscan.com/IA/research/HSB608/2025",
+      "last_action_date": "2026-02-18",
+      "last_action": "Subcommittee recommends passage.",
+      "title": "A bill for an act relating to the inclusion of the internet address for the your life Iowa program or successor program on public school student identification cards and including applicability provisions."
+    },
+    "1": {
+      "relevance": 97,
+      "state": "IA",
+      "bill_number": "SF2084",
+      "bill_id": 2089118,
+      "change_hash": "5dbefa04162e377775f5d184043f3069",
+      "url": "https://legiscan.com/IA/bill/SF2084/2025",
+      "text_url": "https://legiscan.com/IA/text/SF2084/2025",
+      "research_url": "https://legiscan.com/IA/research/SF2084/2025",
+      "last_action_date": "2026-02-12",
+      "last_action": "Committee report approving bill, renumbered as SF 2319. S.J. 283.",
+      "title": "A bill for an act relating to the inclusion of the your life Iowa program on public school internet sites.(See SF 2319.)"
+    },
+    "2": {
+      "relevance": 97,
+      "state": "IA",
+      "bill_number": "SF2319",
+      "bill_id": 2115325,
+      "change_hash": "19ea25b88edb0b3c48a052ae18c6115c",
+      "url": "https://legiscan.com/IA/bill/SF2319/2025",
+      "text_url": "https://legiscan.com/IA/text/SF2319/2025",
+      "research_url": "https://legiscan.com/IA/research/SF2319/2025",
+      "last_action_date": "2026-03-12",
+      "last_action": "Subcommittee Meeting: 03/16/2026 12:30PM RM 103.",
+      "title": "A bill for an act relating to the inclusion of the your life Iowa program on public school internet sites.(Formerly SF 2084.)"
+    },
+    "3": {
+      "relevance": 97,
+      "state": "IA",
+      "bill_number": "SF2415",
+      "bill_id": 2120535,
+      "change_hash": "2e5427ff413b5a0c47fa23083abd0c72",
+      "url": "https://legiscan.com/IA/bill/SF2415/2025",
+      "text_url": "https://legiscan.com/IA/text/SF2415/2025",
+      "research_url": "https://legiscan.com/IA/research/SF2415/2025",
+      "last_action_date": "2026-02-24",
+      "last_action": "Subcommittee: McClintock, Bennett, and Sires. S.J. 393.",
+      "title": "A bill for an act relating to provider requirements concerning the mental health of users of an artificial intelligence chatbot, and providing civil penalties."
+    },
+    "4": {
+      "relevance": 88,
+      "state": "IA",
+      "bill_number": "HF2507",
+      "bill_id": 2117437,
+      "change_hash": "70a47c43506a5fbd35040e51f942b651",
+      "url": "https://legiscan.com/IA/bill/HF2507/2025",
+      "text_url": "https://legiscan.com/IA/text/HF2507/2025",
+      "research_url": "https://legiscan.com/IA/research/HF2507/2025",
+      "last_action_date": "2026-02-16",
+      "last_action": "Introduced, placed on calendar. H.J. 300.",
+      "title": "A bill for an act establishing requirements and guidelines for conversational AI services, and providing civil penalties, and including applicability provisions.(Formerly HSB 611.)"
+    },
+    "5": {
+      "relevance": 88,
+      "state": "IA",
+      "bill_number": "SF2417",
+      "bill_id": 2120467,
+      "change_hash": "cca88a3352622433aef6db41e582e673",
+      "url": "https://legiscan.com/IA/bill/SF2417/2025",
+      "text_url": "https://legiscan.com/IA/text/SF2417/2025",
+      "research_url": "https://legiscan.com/IA/research/SF2417/2025",
+      "last_action_date": "2026-02-25",
+      "last_action": "Read first time, passed on file. H.J. 417.",
+      "title": "A bill for an act establishing requirements and guidelines for conversational AI services, and providing civil penalties, and including applicability provisions.(Formerly SSB 3011.)"
+    },
+    "6": {
+      "relevance": 86,
+      "state": "IA",
+      "bill_number": "HF2715",
+      "bill_id": 2122832,
+      "change_hash": "a4cfa7a1489cfe39200cb7ef544d26b5",
+      "url": "https://legiscan.com/IA/bill/HF2715/2025",
+      "text_url": "https://legiscan.com/IA/text/HF2715/2025",
+      "research_url": "https://legiscan.com/IA/research/HF2715/2025",
+      "last_action_date": "2026-02-24",
+      "last_action": "Introduced, placed on calendar. H.J. 401.",
+      "title": "A bill for an act relating to chatbots, including deployer requirements and interactions with minors.(Formerly HSB 647.)"
+    },
+    "7": {
+      "relevance": 84,
+      "state": "IA",
+      "bill_number": "HF665",
+      "bill_id": 1988090,
+      "change_hash": "cd7a21ba32e0cb328f493b84a2778944",
+      "url": "https://legiscan.com/IA/bill/HF665/2025",
+      "text_url": "https://legiscan.com/IA/text/HF665/2025",
+      "research_url": "https://legiscan.com/IA/research/HF665/2025",
+      "last_action_date": "2025-02-28",
+      "last_action": "Introduced, referred to Higher Education. H.J. 476.",
+      "title": "A bill for an act relating to mental health services at public institutions of higher education."
+    },
+    "8": {
+      "relevance": 81,
+      "state": "IA",
+      "bill_number": "SF2197",
+      "bill_id": 2107604,
+      "change_hash": "88e7db761d89a5c07798946a7aa8b9d2",
+      "url": "https://legiscan.com/IA/bill/SF2197/2025",
+      "text_url": "https://legiscan.com/IA/text/SF2197/2025",
+      "research_url": "https://legiscan.com/IA/research/SF2197/2025",
+      "last_action_date": "2026-02-13",
+      "last_action": "Subcommittee recommends amendment and passage.",
+      "title": "A bill for an act relating to app store provider and app developer requirements concerning minor users, and providing civil penalties, and including applicability provisions."
+    }
+  }
+}

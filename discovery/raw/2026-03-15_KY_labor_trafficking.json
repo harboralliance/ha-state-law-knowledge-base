@@ -1,0 +1,105 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 7",
+      "relevancy": "100% - 67%",
+      "count": 7,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zlabor:(pos=1) AND Ztraffick:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "KY",
+      "bill_number": "HB895",
+      "bill_id": 2129372,
+      "change_hash": "9f962a0bd99f7b8476d0be553d202bda",
+      "url": "https://legiscan.com/KY/bill/HB895/2026",
+      "text_url": "https://legiscan.com/KY/text/HB895/2026",
+      "research_url": "https://legiscan.com/KY/research/HB895/2026",
+      "last_action_date": "2026-03-11",
+      "last_action": "to Licensing, Occupations, & Administrative Regulations (H)",
+      "title": "AN ACT relating to the regulation of psychoactive substances."
+    },
+    "1": {
+      "relevance": 99,
+      "state": "KY",
+      "bill_number": "HB9",
+      "bill_id": 2129392,
+      "change_hash": "c14deca9c2e25ddef5c0da3de7b30fcd",
+      "url": "https://legiscan.com/KY/bill/HB9/2026",
+      "text_url": "https://legiscan.com/KY/text/HB9/2026",
+      "research_url": "https://legiscan.com/KY/research/HB9/2026",
+      "last_action_date": "2026-03-11",
+      "last_action": "to Committee on Committees (S)",
+      "title": "AN ACT relating to regulated substances and declaring an emergency."
+    },
+    "2": {
+      "relevance": 98,
+      "state": "KY",
+      "bill_number": "HB612",
+      "bill_id": 2113513,
+      "change_hash": "f863e92866f3e6e0bd692f8ef1a4758e",
+      "url": "https://legiscan.com/KY/bill/HB612/2026",
+      "text_url": "https://legiscan.com/KY/text/HB612/2026",
+      "research_url": "https://legiscan.com/KY/research/HB612/2026",
+      "last_action_date": "2026-02-18",
+      "last_action": "to Licensing, Occupations, & Administrative Regulations (H)",
+      "title": "AN ACT relating to regulated substances and declaring an emergency."
+    },
+    "3": {
+      "relevance": 88,
+      "state": "KY",
+      "bill_number": "HB2",
+      "bill_id": 2089181,
+      "change_hash": "2b5d68146827264b9e3c7bf47efe363f",
+      "url": "https://legiscan.com/KY/bill/HB2/2026",
+      "text_url": "https://legiscan.com/KY/text/HB2/2026",
+      "research_url": "https://legiscan.com/KY/research/HB2/2026",
+      "last_action_date": "2026-03-13",
+      "last_action": "to Appropriations & Revenue (S)",
+      "title": "AN ACT relating to Medicaid, making an appropriation therefor, and declaring an emergency."
+    },
+    "4": {
+      "relevance": 72,
+      "state": "KY",
+      "bill_number": "HB904",
+      "bill_id": 2129364,
+      "change_hash": "9bed25862d74f5c94af320d779153634",
+      "url": "https://legiscan.com/KY/bill/HB904/2026",
+      "text_url": "https://legiscan.com/KY/text/HB904/2026",
+      "research_url": "https://legiscan.com/KY/research/HB904/2026",
+      "last_action_date": "2026-03-13",
+      "last_action": "floor amendment (3) filed to Committee Substitute",
+      "title": "AN ACT relating to gaming."
+    },
+    "5": {
+      "relevance": 69,
+      "state": "KY",
+      "bill_number": "HB160",
+      "bill_id": 2067977,
+      "change_hash": "2c40ab173445a41dd73f26397c3139da",
+      "url": "https://legiscan.com/KY/bill/HB160/2026",
+      "text_url": "https://legiscan.com/KY/text/HB160/2026",
+      "research_url": "https://legiscan.com/KY/research/HB160/2026",
+      "last_action_date": "2026-01-14",
+      "last_action": "to Primary and Secondary Education (H)",
+      "title": "AN ACT relating to public charter schools."
+    },
+    "6": {
+      "relevance": 67,
+      "state": "KY",
+      "bill_number": "HB22",
+      "bill_id": 2066307,
+      "change_hash": "ba152e146b7d9c53e6d8cc4181aeee9a",
+      "url": "https://legiscan.com/KY/bill/HB22/2026",
+      "text_url": "https://legiscan.com/KY/text/HB22/2026",
+      "research_url": "https://legiscan.com/KY/research/HB22/2026",
+      "last_action_date": "2026-01-13",
+      "last_action": "to Judiciary (H)",
+      "title": "AN ACT relating to reproductive privacy."
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 7",
+      "relevancy": "100% - 88%",
+      "count": 7,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zbed:(pos=1) AND Zbreakfast:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "NJ",
+      "bill_number": "S480",
+      "bill_id": 2075218,
+      "change_hash": "eb179d671bcba66e606ea6268eecaf32",
+      "url": "https://legiscan.com/NJ/bill/S480/2026",
+      "text_url": "https://legiscan.com/NJ/text/S480/2026",
+      "research_url": "https://legiscan.com/NJ/research/S480/2026",
+      "last_action_date": "2026-01-13",
+      "last_action": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee",
+      "title": "Establishes Winery Co-marketing Grant Program; appropriates $500,000."
+    },
+    "1": {
+      "relevance": 99,
+      "state": "NJ",
+      "bill_number": "A2912",
+      "bill_id": 2098137,
+      "change_hash": "581cc1ba4d92b8443ba0593fb0c02761",
+      "url": "https://legiscan.com/NJ/bill/A2912/2026",
+      "text_url": "https://legiscan.com/NJ/text/A2912/2026",
+      "research_url": "https://legiscan.com/NJ/research/A2912/2026",
+      "last_action_date": "2026-01-13",
+      "last_action": "Introduced, Referred to Assembly Agriculture and Natural Resources Committee",
+      "title": "Establishes Winery Co-marketing Grant Program; appropriates $500,000."
+    },
+    "2": {
+      "relevance": 93,
+      "state": "NJ",
+      "bill_number": "S474",
+      "bill_id": 2074664,
+      "change_hash": "1b55afbf766478f4359a60a177003370",
+      "url": "https://legiscan.com/NJ/bill/S474/2026",
+      "text_url": "https://legiscan.com/NJ/text/S474/2026",
+      "research_url": "https://legiscan.com/NJ/research/S474/2026",
+      "last_action_date": "2026-01-13",
+      "last_action": "Introduced in the Senate, Referred to Senate Judiciary Committee",
+      "title": "Broadens public awareness signage to include notices in Chinese and Korean."
+    },
+    "3": {
+      "relevance": 93,
+      "state": "NJ",
+      "bill_number": "A1408",
+      "bill_id": 2096812,
+      "change_hash": "039e27e0979b874cd5b1e0d6319c1dfb",
+      "url": "https://legiscan.com/NJ/bill/A1408/2026",
+      "text_url": "https://legiscan.com/NJ/text/A1408/2026",
+      "research_url": "https://legiscan.com/NJ/research/A1408/2026",
+      "last_action_date": "2026-01-13",
+      "last_action": "Introduced, Referred to Assembly Judiciary Committee",
+      "title": "Broadens public awareness signage to include notices in Chinese and Korean."
+    },
+    "4": {
+      "relevance": 93,
+      "state": "NJ",
+      "bill_number": "S929",
+      "bill_id": 2075953,
+      "change_hash": "e3d0794bbccf2056b300b3f144f9d7ee",
+      "url": "https://legiscan.com/NJ/bill/S929/2026",
+      "text_url": "https://legiscan.com/NJ/text/S929/2026",
+      "research_url": "https://legiscan.com/NJ/research/S929/2026",
+      "last_action_date": "2026-01-13",
+      "last_action": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee",
+      "title": "Requires Commission on Human Trafficking to post public awareness signage in additional establishments."
+    },
+    "5": {
+      "relevance": 93,
+      "state": "NJ",
+      "bill_number": "A2163",
+      "bill_id": 2096035,
+      "change_hash": "c6d7758e8b54b0fe38e4e0472bb67e66",
+      "url": "https://legiscan.com/NJ/bill/A2163/2026",
+      "text_url": "https://legiscan.com/NJ/text/A2163/2026",
+      "research_url": "https://legiscan.com/NJ/research/A2163/2026",
+      "last_action_date": "2026-01-13",
+      "last_action": "Introduced, Referred to Assembly Public Safety and Preparedness Committee",
+      "title": "Requires Commission on Human Trafficking to post public awareness signage in additional establishments."
+    },
+    "6": {
+      "relevance": 88,
+      "state": "NJ",
+      "bill_number": "A4033",
+      "bill_id": 2109560,
+      "change_hash": "75bfccf0eb792633d692ec381a152d56",
+      "url": "https://legiscan.com/NJ/bill/A4033/2026",
+      "text_url": "https://legiscan.com/NJ/text/A4033/2026",
+      "research_url": "https://legiscan.com/NJ/research/A4033/2026",
+      "last_action_date": "2026-02-12",
+      "last_action": "Introduced, Referred to Assembly Agriculture and Natural Resources Committee",
+      "title": "Expands definition of \"qualifying land\" to include certain deeds of easement excluding certain portions of farm from preservation."
+    }
+  }
+}

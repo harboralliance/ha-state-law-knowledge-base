@@ -1,0 +1,53 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 3",
+      "relevancy": "100% - 93%",
+      "count": 3,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(((short:(pos=1) PHRASE 2 term:(pos=2)) AND Zrental:(pos=3)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "NH",
+      "bill_number": "HB1068",
+      "bill_id": 2052670,
+      "change_hash": "678eb8307b0ffe680de5c9c258df38d0",
+      "url": "https://legiscan.com/NH/bill/HB1068/2026",
+      "text_url": "https://legiscan.com/NH/text/HB1068/2026",
+      "research_url": "https://legiscan.com/NH/research/HB1068/2026",
+      "last_action_date": "2026-03-12",
+      "last_action": "Ought to Pass with Amendment 2026-0691h: Motion Adopted DV 179-162 03/12/2026 House Journal  8",
+      "title": "Taxing certain occupants who have established permanent residences under the meals and rooms tax."
+    },
+    "1": {
+      "relevance": 94,
+      "state": "NH",
+      "bill_number": "HB1625",
+      "bill_id": 2057705,
+      "change_hash": "c41b98b2003556701865492b09c782ed",
+      "url": "https://legiscan.com/NH/bill/HB1625/2026",
+      "text_url": "https://legiscan.com/NH/text/HB1625/2026",
+      "research_url": "https://legiscan.com/NH/research/HB1625/2026",
+      "last_action_date": "2026-02-05",
+      "last_action": "Inexpedient to Legislate: Motion Adopted Voice Vote 02/05/2026 House Journal  3",
+      "title": "Relative to annual reporting on accessory dwelling unit construction and use."
+    },
+    "2": {
+      "relevance": 93,
+      "state": "NH",
+      "bill_number": "HB1707",
+      "bill_id": 2058423,
+      "change_hash": "1617bfbb5d7837d8997e839767c0a2b7",
+      "url": "https://legiscan.com/NH/bill/HB1707/2026",
+      "text_url": "https://legiscan.com/NH/text/HB1707/2026",
+      "research_url": "https://legiscan.com/NH/research/HB1707/2026",
+      "last_action_date": "2026-02-12",
+      "last_action": "Inexpedient to Legislate: Motion Adopted Voice Vote 02/12/2026 House Journal  4",
+      "title": "Creating an additional property tax for certain unoccupied properties and creating a housing transfer tax exemption for certain low- and moderate-income home buyers."
+    }
+  }
+}

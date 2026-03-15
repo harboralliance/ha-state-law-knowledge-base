@@ -1,0 +1,53 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 3",
+      "relevancy": "100% - 92%",
+      "count": 3,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zhotel:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "CO",
+      "bill_number": "SB109",
+      "bill_id": 2114516,
+      "change_hash": "9c2f562076acd89627b340ba0ac655fc",
+      "url": "https://legiscan.com/CO/bill/SB109/2026",
+      "text_url": "https://legiscan.com/CO/text/SB109/2026",
+      "research_url": "https://legiscan.com/CO/research/SB109/2026",
+      "last_action_date": "2026-03-11",
+      "last_action": "Introduced In House - Assigned to Transportation, Housing & Local Government",
+      "title": "Building Code Accessibility"
+    },
+    "1": {
+      "relevance": 98,
+      "state": "CO",
+      "bill_number": "HB1194",
+      "bill_id": 2114465,
+      "change_hash": "0c0a2f099867e432f714d19c7e23a370",
+      "url": "https://legiscan.com/CO/bill/HB1194/2026",
+      "text_url": "https://legiscan.com/CO/text/HB1194/2026",
+      "research_url": "https://legiscan.com/CO/research/HB1194/2026",
+      "last_action_date": "2026-03-13",
+      "last_action": "House Second Reading Special Order - Passed with Amendments - Committee",
+      "title": "Sunset Combative Sports Office &amp; Commission"
+    },
+    "2": {
+      "relevance": 92,
+      "state": "CO",
+      "bill_number": "HB1257",
+      "bill_id": 2119895,
+      "change_hash": "b2f61c83a674e5234aa975a7fdfe050f",
+      "url": "https://legiscan.com/CO/bill/HB1257/2026",
+      "text_url": "https://legiscan.com/CO/text/HB1257/2026",
+      "research_url": "https://legiscan.com/CO/research/HB1257/2026",
+      "last_action_date": "2026-03-12",
+      "last_action": "House Third Reading Passed - No Amendments",
+      "title": "Local Regulation of Massage Facilities"
+    }
+  }
+}

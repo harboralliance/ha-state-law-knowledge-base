@@ -1,0 +1,53 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 3",
+      "relevancy": "100% - 89%",
+      "count": 3,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zinn:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "AL",
+      "bill_number": "HB331",
+      "bill_id": 2094774,
+      "change_hash": "5d445c8d2b92067efbe9a39fdcaea103",
+      "url": "https://legiscan.com/AL/bill/HB331/2026",
+      "text_url": "https://legiscan.com/AL/text/HB331/2026",
+      "research_url": "https://legiscan.com/AL/research/HB331/2026",
+      "last_action_date": "2026-03-05",
+      "last_action": "Enacted",
+      "title": "Blount County, lodging tax increased, additional lodging tax levied, collection and distribution provided for"
+    },
+    "1": {
+      "relevance": 92,
+      "state": "AL",
+      "bill_number": "HB204",
+      "bill_id": 2073684,
+      "change_hash": "5865b76dab245badc071abdecd50df62",
+      "url": "https://legiscan.com/AL/bill/HB204/2026",
+      "text_url": "https://legiscan.com/AL/text/HB204/2026",
+      "research_url": "https://legiscan.com/AL/research/HB204/2026",
+      "last_action_date": "2026-02-03",
+      "last_action": "Enacted",
+      "title": "Henry County; county lodging tax further provided for"
+    },
+    "2": {
+      "relevance": 89,
+      "state": "AL",
+      "bill_number": "HB611",
+      "bill_id": 2132443,
+      "change_hash": "48f6259e1cc1ab35d045a2d61355fc1e",
+      "url": "https://legiscan.com/AL/bill/HB611/2026",
+      "text_url": "https://legiscan.com/AL/text/HB611/2026",
+      "research_url": "https://legiscan.com/AL/research/HB611/2026",
+      "last_action_date": "2026-03-11",
+      "last_action": "Pending House Local Legislation",
+      "title": "Winston County, lodging tax authorized, fire protection fee imposed, collection and distribution provided, referendum provided"
+    }
+  }
+}
