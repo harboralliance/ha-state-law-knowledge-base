@@ -4,61 +4,54 @@
   "industry": "commercial lodging",
   "source_file": "2026-03-15_Minnesota_lodging_compliance.md",
   "training_required": true,
-  "training_duration_minutes": null,
+  "training_duration_minutes": 45,
   "training_frequency": "annually",
   "new_hire_deadline_days": 90,
-  "new_hire_deadline_text": "within 90 days of employment",
+  "new_hire_deadline_text": null,
   "signage_required": true,
   "provider_approval_required": false,
   "provider_approval_type": null,
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "Minnesota Department of Health (MDH)"
+    "Minnesota Department of Health"
   ],
   "applicable_to": [
-    "hotel",
-    "motel",
-    "short-term rental"
+    "hotel owners",
+    "managers",
+    "on-site employees"
   ],
-  "required_topics": [
-    "sex trafficking prevention and response",
-    "virtual presentation",
-    "Training Companion Guide",
-    "Manager & Owner Training Toolkit",
-    "poster set"
-  ],
+  "required_topics": [],
   "reporting_contacts_required": [],
   "signage_details": {
     "languages_required": [
-      "Spanish",
+      "English",
+      "Spanish/Espa\u00f1ol",
       "Somali",
       "Hmong"
     ],
     "minimum_size": null,
     "font_size": null,
-    "posting_location": "prominently in various areas of the establishment",
+    "posting_location": "a visible location",
     "required_content": [
-      "back of house poster"
+      "Employee Training"
     ]
   },
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    "Minnesota law"
+    "Minnesota Statutes, section 609.235"
   ],
-  "source_urls": [
-    "https://www.health.state.mn.us/divisions/food-safety/policies-guidance/training-resources",
-    "https://www.health.state.mn.us/divisions/food-safety/policies-guidance/training-resources/mnhtprn",
-    "https://www.health.state.mn.us/divisions/food-safety/policies-guidance/training-resources/mdh-learning-center"
-  ],
-  "harbor_alliance_posture": "needs-review",
+  "source_urls": [],
+  "harbor_alliance_posture": "immediate-entry",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "new hires must complete the training within 90 days of employment"
+    "exceptions for employees under 16 and restaurant staff"
   ],
   "notes": [
-    "The law requires hotels, motels, and short-term rental owners, managers, and on-site employees to complete sex trafficking prevention training."
+    "The training must be completed annually by all required staff.",
+    "The back of house poster must remain displayed at all times.",
+    "Ongoing awareness campaigns are necessary to ensure full awareness among employees."
   ],
   "needs_review": []
 }

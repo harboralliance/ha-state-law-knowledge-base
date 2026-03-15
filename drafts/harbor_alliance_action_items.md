@@ -1,33 +1,61 @@
 # Harbor Alliance Action Items
 
 ## Texas
-- **Immediate Market Entry:** Yes, Texas does not require specific human trafficking training for hotel and motel employees before market entry.
-- **Next Steps:**
-  - Ensure all lodging establishments comply with House Bill 390 requirements upon opening.
+
+**Next Steps:**
+- Ensure all employees of commercial lodging establishments with 10 or more rooms complete the annual human trafficking training by December 31, 2026.
+- Verify access to approved training videos and sign necessary agreements if applicable.
+
+**Immediate Market Entry States:**
+- NONE
+
+**States Requiring Approval/Outreach/Special Handling:**
+- NONE
 
 ## California
-- **Immediate Market Entry:** No immediate approval required.
-- **Next Steps:**
-  - Contact local law enforcement or the Office of the Attorney General to ensure compliance with Senate Bill 970 training requirements.
-  - Provide necessary human trafficking training to employees within 20 minutes of employment as per SB 970.
+
+**Next Steps:**
+- Provide human trafficking awareness training to all hotel and motel employees by January 1, 2027.
+- Encourage the use of resources such as the California Coalition to Abolish Slavery and Trafficking (CAST) and the National Human Trafficking Resource Center for additional support.
+
+**Immediate Market Entry States:**
+- NONE
+
+**States Requiring Approval/Outreach/Special Handling:**
+- NONE
 
 ## Illinois
-- **Immediate Market Entry:** No immediate approval required.
-- **Next Steps:**
-  - Review and implement the Human Trafficking Recognition Training by June 1, 2026.
-  - Ensure all relevant staff complete the training within six months of their employment and every two years thereafter.
-  - Monitor compliance with penalties as outlined in Act 2026.
+
+**Next Steps:**
+- Ensure all employees in lodging establishments, restaurants, and truck stops complete human trafficking recognition training by June 30, 2026.
+- Review and implement the model curriculum developed by the Department of Human Services as needed.
+
+**Immediate Market Entry States:**
+- NONE
+
+**States Requiring Approval/Outreach/Special Handling:**
+- NONE
 
 ## Minnesota
-- **Immediate Market Entry:** No immediate approval required.
-- **Next Steps:**
-  - Ensure all hotel, motel, and short-term rental staff complete the required sex trafficking prevention training by June 1, 2023.
-  - Conduct ongoing awareness campaigns for employees.
-  - Monitor compliance with penalties and reporting requirements.
+
+**Next Steps:**
+- Provide training to all hotel, motel, and short-term rental staff on or before September 30, 2026.
+- Ensure all required staff complete the training every year thereafter.
+
+**Immediate Market Entry States:**
+- NONE
+
+**States Requiring Approval/Outreach/Special Handling:**
+- NONE
 
 ## Connecticut
-- **Immediate Market Entry:** No immediate approval required.
-- **Next Steps:**
-  - Provide all hotel and motel staff with the necessary human trafficking training annually to ensure compliance with legislation.
-  - Ensure mandatory data reporting as part of human trafficking legislation is adhered to.
-  - Stay updated on any legislative amendments or updates related to human trafficking prevention.
+
+**Next Steps:**
+- Ensure all employees in the hospitality industry complete annual human trafficking awareness training by December 31, 2026.
+- Encourage participation in specialized trainings for foster parents, law enforcement, and healthcare providers as needed.
+
+**Immediate Market Entry States:**
+- NONE
+
+**States Requiring Approval/Outreach/Special Handling:**
+- NONE

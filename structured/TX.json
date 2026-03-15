@@ -6,52 +6,43 @@
   "training_required": true,
   "training_duration_minutes": null,
   "training_frequency": "annual",
-  "new_hire_deadline_days": null,
-  "new_hire_deadline_text": null,
-  "signage_required": true,
+  "new_hire_deadline_days": 90,
+  "new_hire_deadline_text": "New employees must complete the training within 90 days of hire.",
+  "signage_required": false,
   "provider_approval_required": true,
-  "provider_approval_type": "video-based training approved by the Office of the Attorney General (OAG)",
+  "provider_approval_type": "training approval by the Office of the Attorney General (OAG)",
   "approval_authority": "Office of the Attorney General (OAG)",
-  "approval_contact": "[email\u00a0protected]",
+  "approval_contact": null,
   "enforcing_agencies": [
-    "Texas Department of Licensing and Regulation"
+    "Office of the Attorney General (OAG)"
   ],
   "applicable_to": [
     "commercial lodging establishments with 10 or more rooms",
-    "all lodging establishments in the state, regardless of size"
+    "all lodging establishments in Texas regardless of size"
   ],
-  "required_topics": [
-    "identifying and responding to human trafficking in the hospitality industry"
-  ],
+  "required_topics": [],
   "reporting_contacts_required": [],
   "signage_details": {
-    "languages_required": [
-      "English",
-      "Spanish"
-    ],
+    "languages_required": [],
     "minimum_size": null,
     "font_size": null,
     "posting_location": null,
-    "required_content": [
-      "information on human trafficking",
-      "steps to identify and respond to human trafficking"
-    ]
+    "required_content": []
   },
-  "recordkeeping_requirements": [],
+  "recordkeeping_requirements": [
+    "Operators must retain a copy of each annual certificate of completion for every employee."
+  ],
   "certificate_requirements": [],
   "law_references": [
     "House Bill 390"
   ],
   "source_urls": [
-    "[email\u00a0protected]"
+    "https://www.attorneygeneral.texas.gov/sites/default/files/2023-01/human_trafficking_training_videos.pdf"
   ],
   "harbor_alliance_posture": "approval-required",
-  "harbor_alliance_actions": [
-    "review and comply with the annual training requirement as per HB 390",
-    "ensure all approved training videos are utilized for employee education"
-  ],
+  "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "non-compliance with annual training could result in enforcement actions from state agencies"
+    "State-controlled training requirement, which can impact compliance and operational efficiency."
   ],
   "notes": [],
   "needs_review": []

@@ -5,16 +5,17 @@
   "source_file": "2026-03-15_Illinois_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": 20,
-  "training_frequency": "every 2 years if still employed in that role, within 6 months of starting the job role",
+  "training_frequency": "every 2 years",
   "new_hire_deadline_days": null,
   "new_hire_deadline_text": null,
   "signage_required": false,
-  "provider_approval_required": true,
-  "provider_approval_type": "third party programs",
+  "provider_approval_required": false,
+  "provider_approval_type": null,
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "local governments/law enforcement"
+    "Department of Human Services",
+    "local government units or law enforcement agencies"
   ],
   "applicable_to": [
     "lodging establishments",
@@ -22,14 +23,14 @@
     "truck stops"
   ],
   "required_topics": [
-    "Definition of human trafficking",
-    "Identification of individuals at risk for trafficking",
-    "Difference between labor vs sex trafficking relevant to lodging/food/truck stop employees",
-    "Role of employees in reporting and responding to trafficking"
+    "human trafficking definitions",
+    "risk factors",
+    "difference between labor and sex trafficking",
+    "employee roles in reporting incidents"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
-    "languages_required": [],
+    "languages_required": null,
     "minimum_size": null,
     "font_size": null,
     "posting_location": null,
@@ -38,18 +39,18 @@
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    "Human trafficking recognition training requirement"
+    "Human Trafficking Awareness and Prevention Act",
+    "Effective Date: January 1, 2026"
   ],
   "source_urls": [],
   "harbor_alliance_posture": "approval-required",
-  "harbor_alliance_actions": [
-    "develop a model curriculum if an employer does not administer its own"
-  ],
+  "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "violations can result in fines up to $1,500 per offense"
+    "fines up to $1,500 per offense",
+    "potential legal action by Attorney General or State's Attorney if not corrected within 30 days"
   ],
   "notes": [
-    "The training must be completed within 6 months of starting the job role and every 2 years thereafter if still employed in that role."
+    "Training must be completed within 6 months of employment and every 2 years thereafter"
   ],
   "needs_review": []
 }
