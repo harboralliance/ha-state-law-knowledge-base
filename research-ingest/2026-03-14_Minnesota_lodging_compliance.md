@@ -1,54 +1,41 @@
-### Overview
+### Overview of Human Trafficking Prevention Training for Hotels, Motels, and Short-Term Rentals in Minnesota
 
-The legislation and training provided by the Minnesota Department of Health (MDH) aim to address sex trafficking in hotels, motels, and short-term rentals. These entities are required to provide specific training to their staff to help identify signs of sex trafficking and respond appropriately.
+#### Legal Requirements
+The training is required under Minnesota law (Minnesota Statutes, Section 625D). To comply with the law:
 
-### Legislation
+1. **All Owners, Managers, and On-Site Employees** must complete the training.
+2. **New Employees** must take this training within 90 days of hire.
+3. All required staff must retake the training every year.
 
-Minnesota law requires that all hotel, motel, and short-term rental owners, managers, and on-site employees complete the Minnesota Lodging Sex Trafficking Prevention and Response Training. This includes new hires within 90 days and annual refresher training for all required staff members.
+#### Training Package Components
+The Minnesota Lodging Sex Trafficking Prevention and Response Training Package includes:
+- A virtual presentation (video with guided exercises)
+- Training Companion Guide (PDF) - as a resource for viewing the virtual presentation
+- Manager & Owner Training Toolkit (PDF) - to comply with the law
+- Poster set
+  - Back of House (required to display)
 
-The statute specifies several exemptions:
-- Employees under 16 years old unless they are cleaning rooms
-- Employees working exclusively in restaurants or providing catering services 
-- Employees with no direct contact with guests or guest rooms
+#### Training Completion Requirements
+1. The training should be completed within 45-50 minutes.
+2. Employees must retake the training annually.
+3. A poster set, specifically the "Back of House" poster, is required and must be displayed in a location where all staff can see it.
 
-### Training Package
+### Training Language Availability
+The training materials are available in English, Spanish, Somali, and Hmong starting late fall 2023/early 2024. If you need materials in other languages, email health.safeharbor@state.mn.us.
 
-#### Components:
+### Exemptions
+Certain employees may be exempt from the training requirements:
+- Employees under 16 unless they clean rooms.
+- Employees who work exclusively in a restaurant, providing catering services, or both, without direct contact with guests or guest rooms.
+However, MDH encourages training for all employees.
 
-1. **Virtual Presentation**: A video with guided exercises.
-2. **Training Companion Guide**: PDF resource for viewing the virtual presentation.
-3. **Manager & Owner Training Toolkit**: Detailed guide to comply with the law.
-4. **Posters**:
-   - Back of House (required display)
-   - Housekeeping
-   - Restaurant/Bar
-   - Front desk/lobby
-   - Security
+### Contact Information
+For any questions or assistance accessing the training, contact health.safeharbor@state.mn.us.
 
-#### Availability:
+### Compliance and Assistance
+MDH does not charge fees for the mandatory training package. However, they do not assist with printing posters; licensees are responsible for paying costs of compliance.
 
-The training is available in English and several other languages (Spanish, Somali, Hmong). MDH does not charge a fee for the training package.
+### Updates and Review
+Updates to the training package will be provided by November 1 of each year. In limited situations, parts of the training may be replaced with prior review and approval by MDH.
 
-### Compliance Requirements
-
-- **Completion**: All staff must complete the training.
-- **Frequency**: New employees within 90 days; annual refresher training for all required staff.
-- **Display**: The back of house poster must be displayed in a visible location.
-- **Awareness Campaign**: Ongoing awareness campaigns for staff.
-
-### Exceptions
-
-There are limited exceptions, primarily for:
-- Employees under 16 (unless cleaning)
-- Employees working exclusively in restaurants or providing catering services
-- Employees with no direct contact with guests
-
-MDH encourages training for all employees, even those who may be exempt.
-
-### Contact and Support
-
-For assistance accessing the training or if you have questions, contact the MDH Learning Center at health.safeharbor@state.mn.us or 651-201-4500. The law states that licensees are responsible for any additional costs of compliance such as printing posters.
-
-### Conclusion
-
-The Minnesota legislation and accompanying training provide a framework to address sex trafficking within the hospitality industry, ensuring all employees have the necessary knowledge to identify and respond appropriately. By complying with these requirements, hotels, motels, and short-term rentals can play a crucial role in preventing sex trafficking and protecting vulnerable individuals.
+For more information on human trafficking prevention in Minnesota, visit the [Minnesota Department of Health](https://www.health.state.mn.us/divisions/cdcr/humantrafficking/).

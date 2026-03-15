@@ -1,52 +1,75 @@
 # Texas Application Readiness
 
-The Texas Office of the Attorney General (OAG) requires commercial lodging establishments to provide training on human trafficking awareness as part of their application submission process. Below is a summary of what Harbor Alliance must prepare for compliance.
+## Overview
+The Harbor Alliance must ensure it is prepared for the Texas OAG application submission by focusing on human trafficking compliance. This includes meeting specific standards, gathering necessary materials, and mitigating potential review risks.
 
 ## Materials Needed
 
-1. **Human Trafficking Training Videos**:
-   - Office of the Attorney General: "Human Trafficking Hotel Training" (22 minutes, English, free, online)
-   - Etactics: "Human Trafficking - Texas" (26 minutes, English, $1/user/month, online)
-   - Unbound Now: "Identifying and Responding to Human Trafficking: Commercial Lodging & Hospitality Industry" (25 minutes, English, free, online and in-person; contact [email protected] for more information)
-   - Inhospitable to Human Trafficking Training: "Inhospitable to Human Trafficking Training" (45-60 minutes, English, $25.95, online and in-person; contact [email protected] for more information)
-   - Extended Stay America: "Human Trafficking Training" (30 minutes, English, free, only accessible to ESA associates)
-   - Marriott International: "Recognize and Respond: Addressing Human Trafficking in the Hospitality Industry" (60-80 minutes, English, free, available to Marriott associates; contact Abbe Horswill at [email protected] for more information)
-   - ECPAT-USA: "Your Role in Preventing Human Trafficking: Recognize the Signs" (30 minutes, English and Spanish*; free, online; contact [email protected] for more information)
-   - Refugee Services of Texas: "Survivor Services/HT101" (60 minutes, English, free, in-person; contact [email protected] or [email protected] for more information)
-   - PBJ Learning: Human Trafficking Essentials: Texas Hospitality Awareness HB 390 (26 minutes, English, $24.99, online; contact [email protected])
-   - Compliance Learning Solutions: Combating Human Trafficking in the Hospitality Industry (45 minutes, English, $25.95, online; contact [email protected])
+### Human Trafficking Training
+1. **Training Providers**: 
+   - Office of the Attorney General (OAG)
+     - Course Title: Human Trafficking Hotel Training
+     - Language: English
+     - Cost: Free
+     - Delivery Method: Online
+   - Etactics
+     - Course Title: Human Trafficking – Texas
+     - Language: English
+     - Cost: $1/user/month
+     - Delivery Method: Online
+
+2. **Training Completion Records**:
+   - Attendance sheets
+   - Completion certificates for each employee
+
+### Training Materials
+1. **Approved Trainings List**: 
+   - Detailed list of approved training providers and their courses
+
+2. **Signage**:
+   - Anti-human trafficking signage that must be displayed in commercial lodging establishments
 
 ## Standards to Meet
 
-1. **Training Requirement**:
-   - Provide at least 20 minutes of classroom or other effective interactive training on human trafficking awareness.
-   - This training must be given to all employees who are likely to interact with victims of human trafficking.
-   - Employees hired after July 1, 2023, must also receive this training within six months of their hire date.
+### Employee Requirements
+1. **Annual Training**:
+   - All employees (those with 10 or more rooms) must complete annual human trafficking training.
+   - New employees must complete the training within 90 days of hiring.
 
-2. **Posting Requirement**:
-   - Post a notice informing the public and victims of human trafficking about the telephone hotline numbers they can call or text for help.
-   - The notice must be available in English and Spanish and may require a third language in certain counties subject to federal Voting Rights Act requirements.
+2. **Training Content**:
+   - Employees must be able to identify individuals at risk of human trafficking.
+   - Training must include information on reporting mechanisms (National Human Trafficking Hotline, local law enforcement).
+   - Signage regarding anti-human trafficking measures must be displayed in commercial lodging establishments.
+
+### Documentation
+1. **Training Records**: 
+   - Maintain records of all training sessions, including attendance sheets and completion certificates.
+
+2. **Signage Display**:
+   - Ensure that all required signage is accurately translated and clearly displayed.
 
 ## Likely Review Risks/Gaps
 
-1. **Training Content**:
-   - Ensure that the selected training materials cover all key aspects of human trafficking awareness, including signs of trafficking, reporting procedures, and response protocols.
-   - Verify that the training is up-to-date and relevant to the hospitality industry in Texas.
+### Training Compliance
+1. **Compliance Verification**:
+   - Risk: Potential non-compliance if employees are not adequately trained or training records are incomplete.
+   - Mitigation: Regular audits of training completion rates and signage display.
 
-2. **Employee Engagement**:
-   - Confirm that all required employees have completed the training.
-   - Assess the effectiveness of the training through quizzes or assessments to ensure understanding.
+2. **Training Content Accuracy**:
+   - Risk: Inaccurate or outdated training content leading to gaps in knowledge.
+   - Mitigation: Stay updated with the latest approved training providers and materials.
 
-3. **Posting Requirements**:
-   - Ensure that the notice is prominently displayed in all public areas of the establishment.
-   - Verify that the notice includes accurate and up-to-date information about human trafficking hotlines.
+### Documentation
+1. **Record-Keeping**:
+   - Risk: Lack of adequate documentation resulting in non-compliance during audits.
+   - Mitigation: Implement a robust system for maintaining training records and signage display proof.
 
-4. **Documentation**:
-   - Maintain records of training completion for each employee, including dates and trainer names.
-   - Keep copies of any required notices posted on-site.
+2. **Signage Display Compliance**:
+   - Risk: Signage not displayed or improperly displayed leading to non-compliance.
+   - Mitigation: Regular inspections to ensure signage is correctly placed and visible.
 
-5. **Ongoing Compliance**:
-   - Review the training program annually or as needed to ensure it remains effective and up-to-date.
-   - Stay informed about any updates or changes to human trafficking laws and regulations in Texas.
+## Contact Information
+For further questions about approved training courses, please contact:
+- Office of the Attorney General: [email protected]
 
-By preparing for these requirements, Harbor Alliance can demonstrate its commitment to preventing human trafficking within its establishments and meet the standards expected by the Texas OAG.
+By addressing these requirements thoroughly, the Harbor Alliance can ensure its readiness for the Texas OAG application submission while meeting human trafficking compliance standards.

@@ -1,26 +1,47 @@
 # Harbor Alliance Action Items
 
 ## Texas
-- **Next Steps**: Conduct outreach to hotels and motels to schedule the approved human trafficking training courses listed above. Develop a calendar for when each course will be available and ensure all participants receive necessary materials.
-- **Immediate Market Entry**: NONE. Immediate market entry requires approval from local authorities, which is not feasible at this time.
-- **Special Handling/Approval**: Seek approval from local law enforcement agencies and the Office of the Attorney General to ensure compliance with state regulations.
+**Immediate Market Entry**: Texas requires immediate market entry with the provision of annual human trafficking training for employees at commercial lodging establishments with 10 or more rooms. Approved training providers include the Office of the Attorney General, Etactics, Unbound Now, and others.
+
+**Action Items**:
+- Ensure all required training is completed within 90 days of hire.
+- Maintain records of all training sessions and completion certificates.
+- Display anti-human trafficking signage in commercial lodging establishments.
 
 ## California
-- **Next Steps**: Develop a strategy for providing training to all hotel and motel employees by January 1, 2020. Partner with local organizations that can facilitate the distribution of required training materials.
-- **Immediate Market Entry**: NONE. Immediate market entry requires approval from local authorities, which is not feasible at this time.
-- **Special Handling/Approval**: Seek approval from local law enforcement agencies and the California Department of Civil Rights to ensure compliance with state regulations.
+**Immediate Market Entry**: California requires immediate market entry with the provision of at least 20 minutes of classroom or other effective interactive training regarding human trafficking awareness for employees who interact with victims of trafficking. Approved training providers include various organizations listed, such as ECPAT-USA and PBJ Learning.
+
+**Action Items**:
+- Develop a training program that meets the specified requirements.
+- Maintain records of all training sessions, including attendance sheets, completion certificates, and any feedback from employees.
+- Ensure language compliance by posting all required notices in English and Spanish.
 
 ## Illinois
-- **Next Steps**: Coordinate with hotel and motel owners to ensure training is provided within 6 months of employment and every 2 years thereafter. Develop a system for tracking employee training completion.
-- **Immediate Market Entry**: NONE. Immediate market entry requires approval from local authorities, which is not feasible at this time.
-- **Special Handling/Approval**: Seek approval from local law enforcement agencies to ensure compliance with state regulations.
+**Immediate Market Entry**: Illinois requires immediate market entry with the provision of training for their employees on recognizing human trafficking and protocols for reporting such incidents. Approved training providers can be developed or third-party programs used as long as they include minimum requirements.
+
+**Action Items**:
+- Ensure all required training is completed within six months of employment and repeated every two years.
+- Maintain records of all training sessions and completion certificates.
+- Regularly review and adjust the training program to assess effectiveness.
 
 ## Minnesota
-- **Next Steps**: Provide the required training package (virtual presentation and companion guide) to all hotel, motel, and short-term rental staff within 90 days of employment. Ensure that all staff understand their responsibilities regarding human trafficking.
-- **Immediate Market Entry**: NONE. Immediate market entry requires approval from local authorities, which is not feasible at this time.
-- **Special Handling/Approval**: Seek approval from local law enforcement agencies to ensure compliance with state regulations.
+**Immediate Market Entry**: Minnesota requires immediate market entry with the provision of training for all owners, managers, and on-site employees. Approved training providers include virtual presentations, a Training Companion Guide, and a Manager & Owner Training Toolkit.
+
+**Action Items**:
+- Ensure all required training is completed within 45-50 minutes.
+- Maintain records of all training sessions and completion certificates.
+- Display the "Back of House" poster in a location where all staff can see it.
 
 ## Connecticut
-- **Next Steps**: Develop a plan for providing mandatory training on human trafficking to all hotel and motel employees by January 1, 2026. Establish partnerships with local organizations that can assist in distributing the required training materials.
-- **Immediate Market Entry**: NONE. Immediate market entry requires approval from local authorities, which is not feasible at this time.
-- **Special Handling/Approval**: Seek approval from local law enforcement agencies to ensure compliance with state regulations.
+**Immediate Market Entry**: Connecticut requires immediate market entry with comprehensive training programs for various stakeholders, including Child Protective Services staff, foster parents, service providers, schools, law enforcement, EMS, hospitals, hospitality industry workers, and youth. Approved training providers include organizations listed.
+
+**Action Items**:
+- Ensure all required training is completed annually for relevant employees.
+- Maintain records of all training sessions and completion certificates.
+- Report trafficking referrals as required by law.
+
+## General Action Items
+- **Follow-up Training**: Conduct follow-up training reviews to ensure ongoing compliance and effectiveness.
+- **Compliance Documentation**: Maintain thorough documentation of all training sessions, completions, and any additional actions taken.
+- **Communication**: Regularly communicate with stakeholders regarding compliance requirements and progress.
+- **Review and Adjustments**: Periodically review existing training programs and adjust as necessary based on feedback and best practices.

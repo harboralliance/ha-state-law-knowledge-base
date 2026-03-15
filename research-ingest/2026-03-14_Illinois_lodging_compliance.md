@@ -1,31 +1,23 @@
-### Key Points from the Legislation:
+The provided text appears to be a bill or legislative proposal related to human trafficking awareness and prevention in the lodging, restaurant, and truck stop industries. Here are some key points from the text:
 
 1. **Definitions**:
-   - **Department**: Department of Human Services.
-   - **Employee**: Person employed in a lodging establishment, restaurant, or truck stop who interacts with the public regularly.
-   - **Employer**: Person or entity operating a lodging establishment, restaurant, or truck stop.
-   - **Human Trafficking**: Deprivation or violation of personal liberty with intent to obtain forced labor, commercial sex, or exploit individuals.
-   - **Lodging Establishment**: Hotel or motel (code 721110), casino hotel (code 721120).
-   - **Restaurant**: Business primarily engaged in ready-to-eat food sales (51% of total sales).
-   - **Truck Stop**: Establishment providing services to the trucking industry.
+   - "Employee" refers to anyone employed by a lodging establishment, restaurant, or truck stop who has recurring interactions with the public.
+   - "Employer" is defined as someone who operates a lodging establishment, restaurant, or truck stop.
+   - "Human trafficking" is described as the deprivation or violation of personal liberty with intent to obtain forced labor, services, commercial sex, or exploitation in obscene matter.
 
 2. **Training Requirement**:
-   - Starting June 1, 2020.
-   - Employers must provide training on human trafficking recognition and reporting protocols within 6 months of employment and every 2 years thereafter if still employed by the employer.
-   - Training must be at least 20 minutes in duration.
+   - Beginning June 1, 2020, employers must provide training for their employees on recognizing human trafficking and protocols for reporting such incidents. This training must be completed within six months of employment and repeated every two years if the employee remains with the company.
+   - The training must cover identifying individuals at risk, distinguishing labor from sex trafficking in these industries, and employees' roles in reporting and responding to trafficking instances.
 
-3. **Curriculum**:
-   - Employers can use their own program or a third-party program that meets specific criteria (definition, risk identification, labor vs. sex trafficking, employee roles in reporting).
-   - Department to develop and publish its approved curriculum by July 1, 2020.
-   - The state must consult the U.S. Department of Justice for this development.
+3. **Curriculum Development**:
+   - Employers can use their own or third-party human trafficking training programs as long as they include minimum requirements.
+   - The Department of Human Services is tasked with developing a standard curriculum for approved training programs that all establishments must follow if they do not develop their own program. This curriculum must cover the same essential topics.
 
 4. **Penalties**:
-   - Local government units or law enforcement agencies can monitor compliance with the Act.
-   - Upon discovering a violation, they must provide reasonable notice to the employer within 30 days or face potential civil penalties up to $1,500 per offense if not corrected within the cure period.
+   - Units of local government or law enforcement agencies can monitor and enforce compliance with the Act.
+   - If a violation is found, the employer will receive a reasonable notice informing them that failure to correct the issue within 30 days could result in a civil penalty of up to $1,500 for each offense.
 
 5. **Effective Date**:
-   - The legislation takes effect January 1, 2026.
+   - The bill takes effect January 1, 2026.
 
-### Summary
-
-This legislation aims to enhance awareness and response mechanisms against human trafficking in lodging establishments, restaurants, and truck stops by requiring mandatory training for employees and imposing penalties on non-compliant employers.
+This legislation aims to enhance awareness and prevention measures against human trafficking in key sectors by requiring mandatory training for employees and establishing consequences for non-compliance.
