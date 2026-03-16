@@ -1,0 +1,53 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 3",
+      "relevancy": "100% - 62%",
+      "count": 3,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zinn:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "UT",
+      "bill_number": "HB0470",
+      "bill_id": 2106408,
+      "change_hash": "a16960ef2f2d5fdf6a346dc82a472630",
+      "url": "https://legiscan.com/UT/bill/HB0470/2026",
+      "text_url": "https://legiscan.com/UT/text/HB0470/2026",
+      "research_url": "https://legiscan.com/UT/research/HB0470/2026",
+      "last_action_date": "2026-03-06",
+      "last_action": "House/ filed in House file for bills not passed",
+      "title": "Building Inspection Amendments"
+    },
+    "1": {
+      "relevance": 94,
+      "state": "UT",
+      "bill_number": "HB0002",
+      "bill_id": 2127361,
+      "change_hash": "c8f22c7cd2180ff0cc8462c41c934b2f",
+      "url": "https://legiscan.com/UT/bill/HB0002/2026",
+      "text_url": "https://legiscan.com/UT/text/HB0002/2026",
+      "research_url": "https://legiscan.com/UT/research/HB0002/2026",
+      "last_action_date": "2026-03-13",
+      "last_action": "House/ enrolled bill to Printing in Clerk of the House",
+      "title": "New Fiscal Year Supplemental Appropriations"
+    },
+    "2": {
+      "relevance": 62,
+      "state": "UT",
+      "bill_number": "HB0301",
+      "bill_id": 2087948,
+      "change_hash": "747eda13f459c6b3888801df7bf0af3e",
+      "url": "https://legiscan.com/UT/bill/HB0301/2026",
+      "text_url": "https://legiscan.com/UT/text/HB0301/2026",
+      "research_url": "https://legiscan.com/UT/research/HB0301/2026",
+      "last_action_date": "2026-03-12",
+      "last_action": "House/ to Governor in Executive Branch - Governor",
+      "title": "Drug Recodification"
+    }
+  }
+}

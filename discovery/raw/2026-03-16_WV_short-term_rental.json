@@ -1,0 +1,92 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 6",
+      "relevancy": "100% - 88%",
+      "count": 6,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(((short:(pos=1) PHRASE 2 term:(pos=2)) AND Zrental:(pos=3)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "WV",
+      "bill_number": "HB5065",
+      "bill_id": 2104604,
+      "change_hash": "9e88d815e42dc36b8cd42c7127bef73f",
+      "url": "https://legiscan.com/WV/bill/HB5065/2026",
+      "text_url": "https://legiscan.com/WV/text/HB5065/2026",
+      "research_url": "https://legiscan.com/WV/research/HB5065/2026",
+      "last_action_date": "2026-03-14",
+      "last_action": "Completed legislative action",
+      "title": "Relating to hotel occupancy tax."
+    },
+    "1": {
+      "relevance": 98,
+      "state": "WV",
+      "bill_number": "HB5494",
+      "bill_id": 2116838,
+      "change_hash": "15441640cc271ba41f16bfcdc791e39b",
+      "url": "https://legiscan.com/WV/bill/HB5494/2026",
+      "text_url": "https://legiscan.com/WV/text/HB5494/2026",
+      "research_url": "https://legiscan.com/WV/research/HB5494/2026",
+      "last_action_date": "2026-02-13",
+      "last_action": "To House Finance",
+      "title": "Authorizing county commissions to impose a county-wide emergency services fee on hotel stays."
+    },
+    "2": {
+      "relevance": 96,
+      "state": "WV",
+      "bill_number": "SB659",
+      "bill_id": 2101413,
+      "change_hash": "cfcb08acac7366c624b6fcc0cdfc01db",
+      "url": "https://legiscan.com/WV/bill/SB659/2026",
+      "text_url": "https://legiscan.com/WV/text/SB659/2026",
+      "research_url": "https://legiscan.com/WV/research/SB659/2026",
+      "last_action_date": "2026-03-09",
+      "last_action": "To Governor 3/9/2026",
+      "title": "Prohibiting certain restrictions on regulation of accessory dwelling units"
+    },
+    "3": {
+      "relevance": 89,
+      "state": "WV",
+      "bill_number": "SB1065",
+      "bill_id": 2122154,
+      "change_hash": "c87634ca93a157d285dd7689e79722f6",
+      "url": "https://legiscan.com/WV/bill/SB1065/2026",
+      "text_url": "https://legiscan.com/WV/text/SB1065/2026",
+      "research_url": "https://legiscan.com/WV/research/SB1065/2026",
+      "last_action_date": "2026-03-05",
+      "last_action": "To House Finance",
+      "title": "Reforming licenses related to sale of alcohol and nonintoxicating alcohol products"
+    },
+    "4": {
+      "relevance": 88,
+      "state": "WV",
+      "bill_number": "SB869",
+      "bill_id": 2111731,
+      "change_hash": "fa38cbdbabe4a499865deba7d6c2ba43",
+      "url": "https://legiscan.com/WV/bill/SB869/2026",
+      "text_url": "https://legiscan.com/WV/text/SB869/2026",
+      "research_url": "https://legiscan.com/WV/research/SB869/2026",
+      "last_action_date": "2026-02-09",
+      "last_action": "To Health and Human Resources",
+      "title": "Creating WV Housing Stability Fund"
+    },
+    "5": {
+      "relevance": 88,
+      "state": "WV",
+      "bill_number": "HB4732",
+      "bill_id": 2089765,
+      "change_hash": "0f7c59d6bfff4f56d6ebb6a76e558b7b",
+      "url": "https://legiscan.com/WV/bill/HB4732/2026",
+      "text_url": "https://legiscan.com/WV/text/HB4732/2026",
+      "research_url": "https://legiscan.com/WV/research/HB4732/2026",
+      "last_action_date": "2026-01-22",
+      "last_action": "To House Government Organization",
+      "title": "Relating to zoning ordinances"
+    }
+  }
+}

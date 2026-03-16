@@ -1,8 +1,8 @@
 {
   "state": "Connecticut",
   "state_code": "CT",
-  "industry": "commercial lodging, law enforcement, foster parents, service providers, schools, emergency medical services (EMS), healthcare providers, hospitality industry, other professionals",
-  "source_file": "2026-03-15_Connecticut_lodging_compliance.md",
+  "industry": "commercial lodging",
+  "source_file": "2026-03-16_Connecticut_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
   "training_frequency": "annual",
@@ -14,13 +14,17 @@
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "Department of Children and Families (DCF)"
+    "Department of Public Health (DPH)",
+    "law enforcement"
   ],
   "applicable_to": [
-    "Hotels, motels, inns, and similar lodging; law enforcement; foster parents; service providers; schools; emergency medical services (EMS); healthcare providers; hospitality industry; other professionals"
+    "Hotels",
+    "motels",
+    "inns",
+    "similar lodging"
   ],
   "required_topics": [],
-  "reporting_contacts_required": [],
+  "reporting_contacts_required": false,
   "signage_details": {
     "languages_required": [],
     "minimum_size": null,
@@ -29,23 +33,28 @@
     "required_content": []
   },
   "recordkeeping_requirements": [
-    "guest transactions and receipts for at least six months"
+    "Mandatory data reporting"
   ],
   "certificate_requirements": [],
   "law_references": [
-    "Public Acts 17-32, 16-71, 15-195, 14-186, 13-166, 12-141, 11-180, 10-115"
+    "2017 Public Act 17-32",
+    "2016 Public Act 16-71",
+    "2015 Public Act 15-195",
+    "2014 Public Act 14-186",
+    "2013 Public Act 13-166",
+    "2012 Public Act 12-141",
+    "2011 Public Act 11-180",
+    "2010 Public Act 10-115"
   ],
   "source_urls": [
     "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/trainings-for-providers",
     "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/human-and-sex-trafficking-legislation"
   ],
-  "harbor_alliance_posture": "immediate-entry",
+  "harbor_alliance_posture": "supplement-only",
   "harbor_alliance_actions": [],
-  "risks_or_constraints": [
-    "Resource Allocation"
-  ],
+  "risks_or_constraints": [],
   "notes": [
-    "Training is required annually for all employees, including those in lodging establishments."
+    "Annual training is required for hotels, motels, and lodging businesses regarding human trafficking."
   ],
   "needs_review": []
 }

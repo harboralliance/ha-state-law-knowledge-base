@@ -1,0 +1,105 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 7",
+      "relevancy": "100% - 88%",
+      "count": 7,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zbed:(pos=1) AND Zbreakfast:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "WV",
+      "bill_number": "SB586",
+      "bill_id": 2091850,
+      "change_hash": "33e0ec0e6efe74b18a0d32a416a920a1",
+      "url": "https://legiscan.com/WV/bill/SB586/2026",
+      "text_url": "https://legiscan.com/WV/text/SB586/2026",
+      "research_url": "https://legiscan.com/WV/research/SB586/2026",
+      "last_action_date": "2026-03-13",
+      "last_action": "House Message received",
+      "title": "Modifying requirements for public water systems"
+    },
+    "1": {
+      "relevance": 99,
+      "state": "WV",
+      "bill_number": "SB773",
+      "bill_id": 2108451,
+      "change_hash": "7e3edb9471e363127fc381af6c3774ca",
+      "url": "https://legiscan.com/WV/bill/SB773/2026",
+      "text_url": "https://legiscan.com/WV/text/SB773/2026",
+      "research_url": "https://legiscan.com/WV/research/SB773/2026",
+      "last_action_date": "2026-03-11",
+      "last_action": "On 3rd reading, House Calendar",
+      "title": "Requiring Department of Health to report positive alpha-gal tests to CDC"
+    },
+    "2": {
+      "relevance": 99,
+      "state": "WV",
+      "bill_number": "HB4068",
+      "bill_id": 2079541,
+      "change_hash": "d8be98bda15c98f53f58a76021680212",
+      "url": "https://legiscan.com/WV/bill/HB4068/2026",
+      "text_url": "https://legiscan.com/WV/text/HB4068/2026",
+      "research_url": "https://legiscan.com/WV/research/HB4068/2026",
+      "last_action_date": "2026-01-14",
+      "last_action": "To House Health and Human Resources",
+      "title": "Requiring Department of Health to report positive Alpha Gal tests to CDC"
+    },
+    "3": {
+      "relevance": 99,
+      "state": "WV",
+      "bill_number": "HB5655",
+      "bill_id": 2117966,
+      "change_hash": "62157106599982e6c6205e9666fc1e36",
+      "url": "https://legiscan.com/WV/bill/HB5655/2026",
+      "text_url": "https://legiscan.com/WV/text/HB5655/2026",
+      "research_url": "https://legiscan.com/WV/research/HB5655/2026",
+      "last_action_date": "2026-02-17",
+      "last_action": "To House Government Organization",
+      "title": "Water and Wastewater operator education and experience requirements for certification."
+    },
+    "4": {
+      "relevance": 97,
+      "state": "WV",
+      "bill_number": "SB1065",
+      "bill_id": 2122154,
+      "change_hash": "c87634ca93a157d285dd7689e79722f6",
+      "url": "https://legiscan.com/WV/bill/SB1065/2026",
+      "text_url": "https://legiscan.com/WV/text/SB1065/2026",
+      "research_url": "https://legiscan.com/WV/research/SB1065/2026",
+      "last_action_date": "2026-03-05",
+      "last_action": "To House Finance",
+      "title": "Reforming licenses related to sale of alcohol and nonintoxicating alcohol products"
+    },
+    "5": {
+      "relevance": 89,
+      "state": "WV",
+      "bill_number": "HB4912",
+      "bill_id": 2101108,
+      "change_hash": "21c426aa8e45e9c0f6defb5da87e8047",
+      "url": "https://legiscan.com/WV/bill/HB4912/2026",
+      "text_url": "https://legiscan.com/WV/text/HB4912/2026",
+      "research_url": "https://legiscan.com/WV/research/HB4912/2026",
+      "last_action_date": "2026-01-29",
+      "last_action": "To House Government Organization",
+      "title": "Regarding emergency ambulance fees for owners of collocated rental units"
+    },
+    "6": {
+      "relevance": 88,
+      "state": "WV",
+      "bill_number": "HB5494",
+      "bill_id": 2116838,
+      "change_hash": "15441640cc271ba41f16bfcdc791e39b",
+      "url": "https://legiscan.com/WV/bill/HB5494/2026",
+      "text_url": "https://legiscan.com/WV/text/HB5494/2026",
+      "research_url": "https://legiscan.com/WV/research/HB5494/2026",
+      "last_action_date": "2026-02-13",
+      "last_action": "To House Finance",
+      "title": "Authorizing county commissions to impose a county-wide emergency services fee on hotel stays."
+    }
+  }
+}

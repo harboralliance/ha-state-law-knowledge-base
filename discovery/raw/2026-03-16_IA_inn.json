@@ -1,0 +1,79 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 5",
+      "relevancy": "100% - 40%",
+      "count": 5,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zinn:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "IA",
+      "bill_number": "HF2378",
+      "bill_id": 2112832,
+      "change_hash": "98419be7098350bd18cc01ec790a6f54",
+      "url": "https://legiscan.com/IA/bill/HF2378/2025",
+      "text_url": "https://legiscan.com/IA/text/HF2378/2025",
+      "research_url": "https://legiscan.com/IA/research/HF2378/2025",
+      "last_action_date": "2026-02-10",
+      "last_action": "Introduced, referred to Labor and Workforce. H.J. 243.",
+      "title": "A bill for an act increasing the state minimum hourly wage and providing for subsequent increases by the same percentage as the increase in federal social security benefits."
+    },
+    "1": {
+      "relevance": 67,
+      "state": "IA",
+      "bill_number": "HSB328",
+      "bill_id": 2022399,
+      "change_hash": "74b63da8d7ed4492a6c9f6e8df85d21c",
+      "url": "https://legiscan.com/IA/bill/HSB328/2025",
+      "text_url": "https://legiscan.com/IA/text/HSB328/2025",
+      "research_url": "https://legiscan.com/IA/research/HSB328/2025",
+      "last_action_date": "2025-04-09",
+      "last_action": "Subcommittee: Kaufmann, Bloomingdale, McBurney, Wilson and Wulf. H.J. 920.",
+      "title": "A bill for an act relating to local government property taxes, financial authority, and budgets, modifying appropriations, and including effective date, applicability, and retroactive applicability provisions."
+    },
+    "2": {
+      "relevance": 67,
+      "state": "IA",
+      "bill_number": "SSB1227",
+      "bill_id": 2022186,
+      "change_hash": "7acdfcaaa24f2fee803a96dd0a2d1971",
+      "url": "https://legiscan.com/IA/bill/SSB1227/2025",
+      "text_url": "https://legiscan.com/IA/text/SSB1227/2025",
+      "research_url": "https://legiscan.com/IA/research/SSB1227/2025",
+      "last_action_date": "2025-05-08",
+      "last_action": "Committee report approving bill, renumbered as SF 651.",
+      "title": "A bill for an act relating to local government property taxes, financial authority, and budgets, modifying appropriations, and including effective date, applicability, and retroactive applicability provisions.(See SF 651.)"
+    },
+    "3": {
+      "relevance": 44,
+      "state": "IA",
+      "bill_number": "SF651",
+      "bill_id": 2029620,
+      "change_hash": "99fa3ea18df1360efd404841b276f8e9",
+      "url": "https://legiscan.com/IA/bill/SF651/2025",
+      "text_url": "https://legiscan.com/IA/text/SF651/2025",
+      "research_url": "https://legiscan.com/IA/research/SF651/2025",
+      "last_action_date": "2025-06-16",
+      "last_action": "Referred to Ways and Means. S.J. 1058.",
+      "title": "A bill for an act relating to local government property taxes, financial authority, and budgets, modifying appropriations, and including effective date, applicability, and retroactive applicability provisions.(Formerly SSB 1227.)"
+    },
+    "4": {
+      "relevance": 40,
+      "state": "IA",
+      "bill_number": "SSB3001",
+      "bill_id": 2070961,
+      "change_hash": "7d3d87597da52639bfbc49f4b3c8fbec",
+      "url": "https://legiscan.com/IA/bill/SSB3001/2025",
+      "text_url": "https://legiscan.com/IA/text/SSB3001/2025",
+      "research_url": "https://legiscan.com/IA/research/SSB3001/2025",
+      "last_action_date": "2026-03-11",
+      "last_action": "Committee report approving bill, renumbered as [].",
+      "title": "A bill for an act relating to state and local government taxes, fees, financial authority, and budgets, modifying divisions of revenue, modifying appropriations, and including effective date, applicability, and retroactive applicability provisions."
+    }
+  }
+}

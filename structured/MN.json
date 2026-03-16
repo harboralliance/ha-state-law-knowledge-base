@@ -2,12 +2,12 @@
   "state": "Minnesota",
   "state_code": "MN",
   "industry": "commercial lodging",
-  "source_file": "2026-03-15_Minnesota_lodging_compliance.md",
+  "source_file": "2026-03-16_Minnesota_lodging_compliance.md",
   "training_required": true,
-  "training_duration_minutes": 45,
-  "training_frequency": "annually",
+  "training_duration_minutes": null,
+  "training_frequency": "annual",
   "new_hire_deadline_days": 90,
-  "new_hire_deadline_text": null,
+  "new_hire_deadline_text": "within 90 days of hire",
   "signage_required": true,
   "provider_approval_required": false,
   "provider_approval_type": null,
@@ -17,41 +17,49 @@
     "Minnesota Department of Health"
   ],
   "applicable_to": [
-    "hotel owners",
+    "owners",
     "managers",
     "on-site employees"
   ],
-  "required_topics": [],
+  "required_topics": [
+    "signs of sex trafficking",
+    "recognizing potential victims",
+    "steps to take in response to suspected cases"
+  ],
   "reporting_contacts_required": [],
   "signage_details": {
     "languages_required": [
       "English",
-      "Spanish/Espa\u00f1ol",
+      "Spanish",
       "Somali",
       "Hmong"
     ],
     "minimum_size": null,
     "font_size": null,
-    "posting_location": "a visible location",
-    "required_content": [
-      "Employee Training"
-    ]
+    "posting_location": [
+      "back-of-house areas such as housekeeping, restaurant/bar, front desk/lobby, and security"
+    ],
+    "required_content": []
   },
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    "Minnesota Statutes, section 609.235"
+    {
+      "statute_name": "Minnesota Sex Trafficking Prevention Training Act",
+      "code_section": null,
+      "public_act": null
+    }
   ],
-  "source_urls": [],
-  "harbor_alliance_posture": "immediate-entry",
+  "source_urls": [
+    "https://www.health.state.mn.us/divs/ohp/humantrafficking/training.html"
+  ],
+  "harbor_alliance_posture": "approval-required",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "exceptions for employees under 16 and restaurant staff"
+    "cost associated with compliance, such as printing posters"
   ],
   "notes": [
-    "The training must be completed annually by all required staff.",
-    "The back of house poster must remain displayed at all times.",
-    "Ongoing awareness campaigns are necessary to ensure full awareness among employees."
+    "The training can be accessed through the Minnesota Department of Health (MDH) Learning Center."
   ],
   "needs_review": []
 }

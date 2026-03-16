@@ -1,0 +1,40 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 2",
+      "relevancy": "100% - 80%",
+      "count": 2,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zbed:(pos=1) AND Zbreakfast:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "VT",
+      "bill_number": "H0401",
+      "bill_id": 1983910,
+      "change_hash": "0aed036998cfb64530c05e46206bd247",
+      "url": "https://legiscan.com/VT/bill/H0401/2025",
+      "text_url": "https://legiscan.com/VT/text/H0401/2025",
+      "research_url": "https://legiscan.com/VT/research/H0401/2025",
+      "last_action_date": "2025-06-03",
+      "last_action": "House message: Governor approved bill on June 2, 2025",
+      "title": "An act relating to exemptions for food manufacturing establishments"
+    },
+    "1": {
+      "relevance": 80,
+      "state": "VT",
+      "bill_number": "S0323",
+      "bill_id": 2101806,
+      "change_hash": "7aea9873fb4fc0ef7064bf155dc294ff",
+      "url": "https://legiscan.com/VT/bill/S0323/2025",
+      "text_url": "https://legiscan.com/VT/text/S0323/2025",
+      "research_url": "https://legiscan.com/VT/research/S0323/2025",
+      "last_action_date": "2026-03-17",
+      "last_action": "Favorable report with recommendation of amendment by Committee on Agriculture",
+      "title": "An act relating to miscellaneous agricultural subjects"
+    }
+  }
+}

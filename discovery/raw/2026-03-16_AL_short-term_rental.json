@@ -1,0 +1,40 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 2",
+      "relevancy": "100% - 92%",
+      "count": 2,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(((short:(pos=1) PHRASE 2 term:(pos=2)) AND Zrental:(pos=3)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "AL",
+      "bill_number": "HB611",
+      "bill_id": 2132443,
+      "change_hash": "48f6259e1cc1ab35d045a2d61355fc1e",
+      "url": "https://legiscan.com/AL/bill/HB611/2026",
+      "text_url": "https://legiscan.com/AL/text/HB611/2026",
+      "research_url": "https://legiscan.com/AL/research/HB611/2026",
+      "last_action_date": "2026-03-11",
+      "last_action": "Pending House Local Legislation",
+      "title": "Winston County, lodging tax authorized, fire protection fee imposed, collection and distribution provided, referendum provided"
+    },
+    "1": {
+      "relevance": 92,
+      "state": "AL",
+      "bill_number": "HB296",
+      "bill_id": 2087137,
+      "change_hash": "02fcbd31dd6b4425f077309dbb5201cf",
+      "url": "https://legiscan.com/AL/bill/HB296/2026",
+      "text_url": "https://legiscan.com/AL/text/HB296/2026",
+      "research_url": "https://legiscan.com/AL/research/HB296/2026",
+      "last_action_date": "2026-02-25",
+      "last_action": "Read for the Second Time and placed on the Calendar",
+      "title": "Consumer Protection, Rental Home Marketplace Guarantees Act created"
+    }
+  }
+}

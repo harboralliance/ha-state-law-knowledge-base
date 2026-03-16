@@ -1,0 +1,92 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 6",
+      "relevancy": "100% - 71%",
+      "count": 6,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zmotel:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "NV",
+      "bill_number": "AB266",
+      "bill_id": 1977678,
+      "change_hash": "cde7b2b67c722dff88380102702783d9",
+      "url": "https://legiscan.com/NV/bill/AB266/2025",
+      "text_url": "https://legiscan.com/NV/text/AB266/2025",
+      "research_url": "https://legiscan.com/NV/research/AB266/2025",
+      "last_action_date": "2025-05-30",
+      "last_action": "Chapter 121.",
+      "title": "Makes revisions relating to breastfeeding. (BDR 40-595)"
+    },
+    "1": {
+      "relevance": 96,
+      "state": "NV",
+      "bill_number": "AB447",
+      "bill_id": 2009653,
+      "change_hash": "cc631438c29ad8d6a5d21fb36eb4b27f",
+      "url": "https://legiscan.com/NV/bill/AB447/2025",
+      "text_url": "https://legiscan.com/NV/text/AB447/2025",
+      "research_url": "https://legiscan.com/NV/research/AB447/2025",
+      "last_action_date": "2025-04-12",
+      "last_action": "(Pursuant to Joint Standing Rule No. 14.3.1, no further action allowed.)",
+      "title": "Provides for a partial abatement of the property taxes levied on certain residential rental dwellings. (BDR 32-1079)"
+    },
+    "2": {
+      "relevance": 95,
+      "state": "NV",
+      "bill_number": "AB377",
+      "bill_id": 1996278,
+      "change_hash": "512469dcaae8f3add819bba736f7d9f8",
+      "url": "https://legiscan.com/NV/bill/AB377/2025",
+      "text_url": "https://legiscan.com/NV/text/AB377/2025",
+      "research_url": "https://legiscan.com/NV/research/AB377/2025",
+      "last_action_date": "2025-05-31",
+      "last_action": "Chapter 175.",
+      "title": "Revises provisions relating to real property. (BDR 32-923)"
+    },
+    "3": {
+      "relevance": 84,
+      "state": "NV",
+      "bill_number": "AB40",
+      "bill_id": 1892397,
+      "change_hash": "8b743e1363a9123efabb6cff973209ac",
+      "url": "https://legiscan.com/NV/bill/AB40/2025",
+      "text_url": "https://legiscan.com/NV/text/AB40/2025",
+      "research_url": "https://legiscan.com/NV/research/AB40/2025",
+      "last_action_date": "2025-06-03",
+      "last_action": "Chapter 220. (Effective June 3, 2025)",
+      "title": "Revises various provisions relating to environmental hazards. (BDR 46-265)"
+    },
+    "4": {
+      "relevance": 83,
+      "state": "NV",
+      "bill_number": "SB189",
+      "bill_id": 1959946,
+      "change_hash": "12e623c0beae1492ba64f88e43e483a5",
+      "url": "https://legiscan.com/NV/bill/SB189/2025",
+      "text_url": "https://legiscan.com/NV/text/SB189/2025",
+      "research_url": "https://legiscan.com/NV/research/SB189/2025",
+      "last_action_date": "2025-05-31",
+      "last_action": "Chapter 179.",
+      "title": "Provides for the licensure and regulation of genetic counselors. (BDR 54-69)"
+    },
+    "5": {
+      "relevance": 71,
+      "state": "NV",
+      "bill_number": "SB348",
+      "bill_id": 2006246,
+      "change_hash": "9374fde8942d7da706ba6437034fba89",
+      "url": "https://legiscan.com/NV/bill/SB348/2025",
+      "text_url": "https://legiscan.com/NV/text/SB348/2025",
+      "research_url": "https://legiscan.com/NV/research/SB348/2025",
+      "last_action_date": "2025-06-06",
+      "last_action": "Chapter 386.",
+      "title": "Makes revisions relating to laboratory testing. (BDR 40-123)"
+    }
+  }
+}

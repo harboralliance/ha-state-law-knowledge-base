@@ -1,0 +1,118 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 8",
+      "relevancy": "100% - 57%",
+      "count": 8,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zsex:(pos=1) AND Ztraffick:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "AL",
+      "bill_number": "HB535",
+      "bill_id": 2128311,
+      "change_hash": "eab7fcb6c164661748b8c1f278795043",
+      "url": "https://legiscan.com/AL/bill/HB535/2026",
+      "text_url": "https://legiscan.com/AL/text/HB535/2026",
+      "research_url": "https://legiscan.com/AL/research/HB535/2026",
+      "last_action_date": "2026-03-11",
+      "last_action": "Re-referred to Committee in House of Origin to House Ways and Means General Fund",
+      "title": "Expungement; certain pardoned, vacated, or overturned convictions authorized to be expunged; hearing procedures, further provided"
+    },
+    "1": {
+      "relevance": 98,
+      "state": "AL",
+      "bill_number": "SB203",
+      "bill_id": 2089072,
+      "change_hash": "81456e96a679673e7b7005fb62e8eeea",
+      "url": "https://legiscan.com/AL/bill/SB203/2026",
+      "text_url": "https://legiscan.com/AL/text/SB203/2026",
+      "research_url": "https://legiscan.com/AL/research/SB203/2026",
+      "last_action_date": "2026-02-19",
+      "last_action": "Read for the Second Time and placed on the Calendar",
+      "title": "Crimes and procedure; crimes of indecent exposure and other sex crimes further provided to include additional victims; crime of inpatient custodial sexual misconduct, established; domestic violence offenses, further provided to include additional victims and criminal penalties"
+    },
+    "2": {
+      "relevance": 97,
+      "state": "AL",
+      "bill_number": "HB257",
+      "bill_id": 2082576,
+      "change_hash": "dae5343b7503ddac1099819c8ef2e24b",
+      "url": "https://legiscan.com/AL/bill/HB257/2026",
+      "text_url": "https://legiscan.com/AL/text/HB257/2026",
+      "research_url": "https://legiscan.com/AL/research/HB257/2026",
+      "last_action_date": "2026-02-05",
+      "last_action": "Read for the Second Time and placed on the Calendar",
+      "title": "Crimes and procedure; crime of authority figure sexual abuse, established; crimes of indecent exposure and other sex crimes further provided to include additional victims; crime of inpatient custodial sexual misconduct, established; domestic violence offenses, further provided to include additional victims and criminal penalties"
+    },
+    "3": {
+      "relevance": 97,
+      "state": "AL",
+      "bill_number": "SB112",
+      "bill_id": 2072637,
+      "change_hash": "0689d606d2e835b231ca80c98ee81d2d",
+      "url": "https://legiscan.com/AL/bill/SB112/2026",
+      "text_url": "https://legiscan.com/AL/text/SB112/2026",
+      "research_url": "https://legiscan.com/AL/research/SB112/2026",
+      "last_action_date": "2026-01-13",
+      "last_action": "Pending Senate Healthcare",
+      "title": "Sunset law; Alabama Massage Therapy Licensing Board continued with modification until October 1, 2027"
+    },
+    "4": {
+      "relevance": 96,
+      "state": "AL",
+      "bill_number": "SB136",
+      "bill_id": 2073417,
+      "change_hash": "0e0d1ff151de388daf4557d65661aa98",
+      "url": "https://legiscan.com/AL/bill/SB136/2026",
+      "text_url": "https://legiscan.com/AL/text/SB136/2026",
+      "research_url": "https://legiscan.com/AL/research/SB136/2026",
+      "last_action_date": "2026-03-03",
+      "last_action": "Enacted",
+      "title": "Sunset law; Alabama Massage Therapy Licensing Board continued with modification until October 1, 2027, when renamed Alabama Massage Advisory Council under the regulatory authority of the Alabama Department of Public Health"
+    },
+    "5": {
+      "relevance": 72,
+      "state": "AL",
+      "bill_number": "HB389",
+      "bill_id": 2109001,
+      "change_hash": "228e1d4bd8edda18241bbc0d169c757d",
+      "url": "https://legiscan.com/AL/bill/HB389/2026",
+      "text_url": "https://legiscan.com/AL/text/HB389/2026",
+      "research_url": "https://legiscan.com/AL/research/HB389/2026",
+      "last_action_date": "2026-02-05",
+      "last_action": "Pending House Judiciary",
+      "title": "Crimes and procedure; domestic violence crimes, substantially revised; temporary holding periods and bond requirements, established; criminal penalties increased under certain conditions"
+    },
+    "6": {
+      "relevance": 57,
+      "state": "AL",
+      "bill_number": "SB146",
+      "bill_id": 2079748,
+      "change_hash": "31e57411280d87329095171ce2762e70",
+      "url": "https://legiscan.com/AL/bill/SB146/2026",
+      "text_url": "https://legiscan.com/AL/text/SB146/2026",
+      "research_url": "https://legiscan.com/AL/research/SB146/2026",
+      "last_action_date": "2026-03-12",
+      "last_action": "Pending House Ways and Means General Fund",
+      "title": "Appropriations from State General Fund for executive, legislative, and judicial agencies of the State, other functions of government, debt service, and capital outlay for fiscal year ending September 30, 2027"
+    },
+    "7": {
+      "relevance": 57,
+      "state": "AL",
+      "bill_number": "HB218",
+      "bill_id": 2077734,
+      "change_hash": "6f488b2dcfd3682c5137dd56490a8d56",
+      "url": "https://legiscan.com/AL/bill/HB218/2026",
+      "text_url": "https://legiscan.com/AL/text/HB218/2026",
+      "research_url": "https://legiscan.com/AL/research/HB218/2026",
+      "last_action_date": "2026-01-14",
+      "last_action": "Pending House Ways and Means General Fund",
+      "title": "Appropriations from State General Fund for executive, legislative, and judicial agencies of the State, other functions of government, debt service, and capital outlay for fiscal year ending September 30, 2027"
+    }
+  }
+}

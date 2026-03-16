@@ -1,0 +1,118 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 8",
+      "relevancy": "100% - 67%",
+      "count": 8,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zbed:(pos=1) AND Zbreakfast:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "UT",
+      "bill_number": "HB0172",
+      "bill_id": 2066878,
+      "change_hash": "d25d9d6649c498f266c8c1c479ddaef7",
+      "url": "https://legiscan.com/UT/bill/HB0172/2026",
+      "text_url": "https://legiscan.com/UT/text/HB0172/2026",
+      "research_url": "https://legiscan.com/UT/research/HB0172/2026",
+      "last_action_date": "2026-03-11",
+      "last_action": "House/ to Governor in Executive Branch - Governor",
+      "title": "Food Safety Amendments"
+    },
+    "1": {
+      "relevance": 99,
+      "state": "UT",
+      "bill_number": "HB0265",
+      "bill_id": 2081573,
+      "change_hash": "dc933cef76c54739e71715a0c267dda7",
+      "url": "https://legiscan.com/UT/bill/HB0265/2026",
+      "text_url": "https://legiscan.com/UT/text/HB0265/2026",
+      "research_url": "https://legiscan.com/UT/research/HB0265/2026",
+      "last_action_date": "2026-03-12",
+      "last_action": "House/ enrolled bill to Printing in Clerk of the House",
+      "title": "Non-nicotine Inhalation Product Amendments"
+    },
+    "2": {
+      "relevance": 99,
+      "state": "UT",
+      "bill_number": "HB0379",
+      "bill_id": 2093486,
+      "change_hash": "864913f76bb1685f7292ea810bd83d53",
+      "url": "https://legiscan.com/UT/bill/HB0379/2026",
+      "text_url": "https://legiscan.com/UT/text/HB0379/2026",
+      "research_url": "https://legiscan.com/UT/research/HB0379/2026",
+      "last_action_date": "2026-03-12",
+      "last_action": "House/ enrolled bill to Printing in Clerk of the House",
+      "title": "Child Care Provider Food Preparation Amendments"
+    },
+    "3": {
+      "relevance": 97,
+      "state": "UT",
+      "bill_number": "HB0470",
+      "bill_id": 2106408,
+      "change_hash": "a16960ef2f2d5fdf6a346dc82a472630",
+      "url": "https://legiscan.com/UT/bill/HB0470/2026",
+      "text_url": "https://legiscan.com/UT/text/HB0470/2026",
+      "research_url": "https://legiscan.com/UT/research/HB0470/2026",
+      "last_action_date": "2026-03-06",
+      "last_action": "House/ filed in House file for bills not passed",
+      "title": "Building Inspection Amendments"
+    },
+    "4": {
+      "relevance": 93,
+      "state": "UT",
+      "bill_number": "HB0383",
+      "bill_id": 2093841,
+      "change_hash": "8bdcdb0befb0978ef74a1ebeb37a0f5a",
+      "url": "https://legiscan.com/UT/bill/HB0383/2026",
+      "text_url": "https://legiscan.com/UT/text/HB0383/2026",
+      "research_url": "https://legiscan.com/UT/research/HB0383/2026",
+      "last_action_date": "2026-03-12",
+      "last_action": "House/ to Governor in Executive Branch - Governor",
+      "title": "Department of Health and Human Services Amendments"
+    },
+    "5": {
+      "relevance": 91,
+      "state": "UT",
+      "bill_number": "SB0275",
+      "bill_id": 2111876,
+      "change_hash": "b608c33a9d031e8f07b7dbe02d420d99",
+      "url": "https://legiscan.com/UT/bill/SB0275/2026",
+      "text_url": "https://legiscan.com/UT/text/SB0275/2026",
+      "research_url": "https://legiscan.com/UT/research/SB0275/2026",
+      "last_action_date": "2026-03-13",
+      "last_action": "Senate/ to Governor in Executive Branch - Governor",
+      "title": "State-Endorsed Digital Identity Program Amendments"
+    },
+    "6": {
+      "relevance": 89,
+      "state": "UT",
+      "bill_number": "HB0287",
+      "bill_id": 2085917,
+      "change_hash": "5275b7d6d464566850d9eb3922de735a",
+      "url": "https://legiscan.com/UT/bill/HB0287/2026",
+      "text_url": "https://legiscan.com/UT/text/HB0287/2026",
+      "research_url": "https://legiscan.com/UT/research/HB0287/2026",
+      "last_action_date": "2026-03-06",
+      "last_action": "House/ filed in House file for bills not passed",
+      "title": "Immigrant Driving Amendments"
+    },
+    "7": {
+      "relevance": 67,
+      "state": "UT",
+      "bill_number": "HB0301",
+      "bill_id": 2087948,
+      "change_hash": "747eda13f459c6b3888801df7bf0af3e",
+      "url": "https://legiscan.com/UT/bill/HB0301/2026",
+      "text_url": "https://legiscan.com/UT/text/HB0301/2026",
+      "research_url": "https://legiscan.com/UT/research/HB0301/2026",
+      "last_action_date": "2026-03-12",
+      "last_action": "House/ to Governor in Executive Branch - Governor",
+      "title": "Drug Recodification"
+    }
+  }
+}

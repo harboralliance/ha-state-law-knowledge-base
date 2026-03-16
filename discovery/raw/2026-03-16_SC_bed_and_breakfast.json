@@ -1,0 +1,40 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 2",
+      "relevancy": "100% - 76%",
+      "count": 2,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zbed:(pos=1) AND Zbreakfast:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "SC",
+      "bill_number": "H4378",
+      "bill_id": 2026082,
+      "change_hash": "62c674a4bf62a90fc1ca7d43b01d0a18",
+      "url": "https://legiscan.com/SC/bill/H4378/2025",
+      "text_url": "https://legiscan.com/SC/text/H4378/2025",
+      "research_url": "https://legiscan.com/SC/research/H4378/2025",
+      "last_action_date": "2025-04-23",
+      "last_action": "Introduced and adopted",
+      "title": "Jim and Cheryl Wiszowaty, SC Poultry Festival Citizens of the Year"
+    },
+    "1": {
+      "relevance": 76,
+      "state": "SC",
+      "bill_number": "H4189",
+      "bill_id": 2011524,
+      "change_hash": "69e263685a3f6cb0153e32359f4f75fb",
+      "url": "https://legiscan.com/SC/bill/H4189/2025",
+      "text_url": "https://legiscan.com/SC/text/H4189/2025",
+      "research_url": "https://legiscan.com/SC/research/H4189/2025",
+      "last_action_date": "2026-01-21",
+      "last_action": "Referred to Committee on Medical Affairs",
+      "title": "DHEC Restructuring"
+    }
+  }
+}

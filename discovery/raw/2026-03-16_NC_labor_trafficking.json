@@ -1,0 +1,105 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 7",
+      "relevancy": "100% - 54%",
+      "count": 7,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zlabor:(pos=1) AND Ztraffick:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "NC",
+      "bill_number": "H640",
+      "bill_id": 2017876,
+      "change_hash": "55a09bb5743d280d55e03272ca205938",
+      "url": "https://legiscan.com/NC/bill/H640/2025",
+      "text_url": "https://legiscan.com/NC/text/H640/2025",
+      "research_url": "https://legiscan.com/NC/research/H640/2025",
+      "last_action_date": "2025-04-15",
+      "last_action": "Re-ref Com On Health",
+      "title": "Public Assistance Verification Enhancements"
+    },
+    "1": {
+      "relevance": 97,
+      "state": "NC",
+      "bill_number": "S429",
+      "bill_id": 2012983,
+      "change_hash": "b4c43297cc0eb0bb8190825dfeb1ef62",
+      "url": "https://legiscan.com/NC/bill/S429/2025",
+      "text_url": "https://legiscan.com/NC/text/S429/2025",
+      "research_url": "https://legiscan.com/NC/research/S429/2025",
+      "last_action_date": "2025-07-09",
+      "last_action": "Ch. SL 2025-70",
+      "title": "2025 Public Safety Act"
+    },
+    "2": {
+      "relevance": 94,
+      "state": "NC",
+      "bill_number": "H307",
+      "bill_id": 1992023,
+      "change_hash": "fe8c9cc4ede690fcc2fb528afff2ce95",
+      "url": "https://legiscan.com/NC/bill/H307/2025",
+      "text_url": "https://legiscan.com/NC/text/H307/2025",
+      "research_url": "https://legiscan.com/NC/research/H307/2025",
+      "last_action_date": "2025-10-03",
+      "last_action": "Ch. SL 2025-93",
+      "title": "Iryna&#x27;s Law"
+    },
+    "3": {
+      "relevance": 93,
+      "state": "NC",
+      "bill_number": "H74",
+      "bill_id": 1963467,
+      "change_hash": "fd0ee6aaef9eab52af1cb47f84cb8284",
+      "url": "https://legiscan.com/NC/bill/H74/2025",
+      "text_url": "https://legiscan.com/NC/text/H74/2025",
+      "research_url": "https://legiscan.com/NC/research/H74/2025",
+      "last_action_date": "2025-05-15",
+      "last_action": "Ch. SL 2025-4",
+      "title": "House Budget Technical Corrections"
+    },
+    "4": {
+      "relevance": 88,
+      "state": "NC",
+      "bill_number": "H481",
+      "bill_id": 2012932,
+      "change_hash": "c163d443e0d29d163c5a6cc8f571a852",
+      "url": "https://legiscan.com/NC/bill/H481/2025",
+      "text_url": "https://legiscan.com/NC/text/H481/2025",
+      "research_url": "https://legiscan.com/NC/research/H481/2025",
+      "last_action_date": "2025-04-10",
+      "last_action": "Ref To Com On Rules and Operations of the Senate",
+      "title": "GSC Technical Corrections 2025 Part 2"
+    },
+    "5": {
+      "relevance": 78,
+      "state": "NC",
+      "bill_number": "S257",
+      "bill_id": 1996111,
+      "change_hash": "219a098b526db1dc9a5e0159d29a621b",
+      "url": "https://legiscan.com/NC/bill/S257/2025",
+      "text_url": "https://legiscan.com/NC/text/S257/2025",
+      "research_url": "https://legiscan.com/NC/research/S257/2025",
+      "last_action_date": "2025-06-05",
+      "last_action": "Conf Com Appointed",
+      "title": "2025 Appropriations Act"
+    },
+    "6": {
+      "relevance": 54,
+      "state": "NC",
+      "bill_number": "H40",
+      "bill_id": 1951781,
+      "change_hash": "e79bc7aa670df52a7cc2ccbf281aa9e3",
+      "url": "https://legiscan.com/NC/bill/H40/2025",
+      "text_url": "https://legiscan.com/NC/text/H40/2025",
+      "research_url": "https://legiscan.com/NC/research/H40/2025",
+      "last_action_date": "2025-06-26",
+      "last_action": "Ch. SL 2025-25",
+      "title": "Various GSC Recommendations"
+    }
+  }
+}

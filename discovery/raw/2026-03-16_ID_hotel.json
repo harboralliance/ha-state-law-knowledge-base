@@ -1,0 +1,79 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 5",
+      "relevancy": "100% - 51%",
+      "count": 5,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zhotel:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "ID",
+      "bill_number": "H0770",
+      "bill_id": 2124495,
+      "change_hash": "cf611c36913870cb5c72f2e7ba22790b",
+      "url": "https://legiscan.com/ID/bill/H0770/2026",
+      "text_url": "https://legiscan.com/ID/text/H0770/2026",
+      "research_url": "https://legiscan.com/ID/research/H0770/2026",
+      "last_action_date": "2026-02-26",
+      "last_action": "Reported Printed and Referred to Business",
+      "title": "Amends existing law to revise the amount of required motor vehicle insurance relating to property damage."
+    },
+    "1": {
+      "relevance": 92,
+      "state": "ID",
+      "bill_number": "H0839",
+      "bill_id": 2130070,
+      "change_hash": "dc6e03d933fb63b222fb510c1a0ddfbc",
+      "url": "https://legiscan.com/ID/bill/H0839/2026",
+      "text_url": "https://legiscan.com/ID/text/H0839/2026",
+      "research_url": "https://legiscan.com/ID/research/H0839/2026",
+      "last_action_date": "2026-03-06",
+      "last_action": "Reported Printed and Referred to Revenue & Taxation",
+      "title": "Amends existing law to revise provisions certain definitions related to sales and use tax."
+    },
+    "2": {
+      "relevance": 85,
+      "state": "ID",
+      "bill_number": "S1314",
+      "bill_id": 2117639,
+      "change_hash": "5f09b8f4d4ff49b76695e43ce880db82",
+      "url": "https://legiscan.com/ID/bill/S1314/2026",
+      "text_url": "https://legiscan.com/ID/text/S1314/2026",
+      "research_url": "https://legiscan.com/ID/research/S1314/2026",
+      "last_action_date": "2026-03-12",
+      "last_action": "Reported signed by the Speaker & ordered delivered to Governor",
+      "title": "Amends and repeals existing law to revise provisions regarding the Board of Health and Welfare, substate administrative regions, and regional behavioral health boards."
+    },
+    "3": {
+      "relevance": 82,
+      "state": "ID",
+      "bill_number": "H0644",
+      "bill_id": 2115634,
+      "change_hash": "06955aeba219ac8d37b6264e95b2ceac",
+      "url": "https://legiscan.com/ID/bill/H0644/2026",
+      "text_url": "https://legiscan.com/ID/text/H0644/2026",
+      "research_url": "https://legiscan.com/ID/research/H0644/2026",
+      "last_action_date": "2026-02-13",
+      "last_action": "Reported Printed and Referred to Business",
+      "title": "Amends, repeals, and adds to existing law to establish the Idaho Travel Insurance Act."
+    },
+    "4": {
+      "relevance": 51,
+      "state": "ID",
+      "bill_number": "H0555",
+      "bill_id": 2101792,
+      "change_hash": "c3f0ffab94a565d9c1fdf3d800b0d494",
+      "url": "https://legiscan.com/ID/bill/H0555/2026",
+      "text_url": "https://legiscan.com/ID/text/H0555/2026",
+      "research_url": "https://legiscan.com/ID/research/H0555/2026",
+      "last_action_date": "2026-03-03",
+      "last_action": "Reported Signed by Governor on March 2, 2026 Session Law Chapter 7 Effective: 07/01/2026",
+      "title": "Amends, repeals, and adds to existing law to revise provisions regarding the Idaho Solid Waste Facilities Act."
+    }
+  }
+}

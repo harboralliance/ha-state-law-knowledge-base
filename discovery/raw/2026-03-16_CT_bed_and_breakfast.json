@@ -1,0 +1,66 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 4",
+      "relevancy": "100% - 89%",
+      "count": 4,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zbed:(pos=1) AND Zbreakfast:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "CT",
+      "bill_number": "SB00116",
+      "bill_id": 2112076,
+      "change_hash": "56e1b26c6b43350f7667117e5854e669",
+      "url": "https://legiscan.com/CT/bill/SB00116/2026",
+      "text_url": "https://legiscan.com/CT/text/SB00116/2026",
+      "research_url": "https://legiscan.com/CT/research/SB00116/2026",
+      "last_action_date": "2026-03-12",
+      "last_action": "Filed with Legislative Commissioners' Office",
+      "title": "An Act Concerning The Prevention Of Human Trafficking."
+    },
+    "1": {
+      "relevance": 99,
+      "state": "CT",
+      "bill_number": "HB05114",
+      "bill_id": 2112124,
+      "change_hash": "56f81f28e1f1959bf679ef96cb2ed964",
+      "url": "https://legiscan.com/CT/bill/HB05114/2026",
+      "text_url": "https://legiscan.com/CT/text/HB05114/2026",
+      "research_url": "https://legiscan.com/CT/research/HB05114/2026",
+      "last_action_date": "2026-03-12",
+      "last_action": "Public Hearing 03/16",
+      "title": "An Act Establishing A Refundable Credit Against The Personal Income Tax For A Portion Of Annual Rent Payments Made By A Taxpayer For A Primary Residence In The State."
+    },
+    "2": {
+      "relevance": 90,
+      "state": "CT",
+      "bill_number": "HB05418",
+      "bill_id": 2124530,
+      "change_hash": "ed958724c40042d4c9171475205969e0",
+      "url": "https://legiscan.com/CT/bill/HB05418/2026",
+      "text_url": "https://legiscan.com/CT/text/HB05418/2026",
+      "research_url": "https://legiscan.com/CT/research/HB05418/2026",
+      "last_action_date": "2026-03-12",
+      "last_action": "Filed with Legislative Commissioners' Office",
+      "title": "An Act Concerning The Kirklyn M. Kerr Program At The University Of Connecticut."
+    },
+    "3": {
+      "relevance": 89,
+      "state": "CT",
+      "bill_number": "HB05443",
+      "bill_id": 2127746,
+      "change_hash": "a74f6acedda46738bcef522ba76bf055",
+      "url": "https://legiscan.com/CT/bill/HB05443/2026",
+      "text_url": "https://legiscan.com/CT/text/HB05443/2026",
+      "research_url": "https://legiscan.com/CT/research/HB05443/2026",
+      "last_action_date": "2026-03-05",
+      "last_action": "Public Hearing 03/11",
+      "title": "An Act Concerning The Sales And Use Taxes Rate For And Applicability To Certain Motor Vehicles, Peer-to-peer Car Sharing, Certain Personal Property Used In Burials And Cremations And Electricity For Biotechnology Businesses, Dedicating Funding For The Tourism Fund And Increasing The Exemption Amount For Sales Tax-free Week."
+    }
+  }
+}

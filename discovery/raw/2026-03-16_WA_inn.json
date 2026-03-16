@@ -1,0 +1,53 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 3",
+      "relevancy": "100% - 91%",
+      "count": 3,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zinn:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "WA",
+      "bill_number": "HB1003",
+      "bill_id": 1894519,
+      "change_hash": "5eff8e86548db059d9c04b57efc98f30",
+      "url": "https://legiscan.com/WA/bill/HB1003/2025",
+      "text_url": "https://legiscan.com/WA/text/HB1003/2025",
+      "research_url": "https://legiscan.com/WA/research/HB1003/2025",
+      "last_action_date": "2025-04-11",
+      "last_action": "Effective date 7/27/2025.",
+      "title": "Addressing service of notice by mail in cases involving forcible entry and forcible and unlawful detainer."
+    },
+    "1": {
+      "relevance": 97,
+      "state": "WA",
+      "bill_number": "HB2664",
+      "bill_id": 2092541,
+      "change_hash": "dcb487ad238ffb543614a1039a2c871a",
+      "url": "https://legiscan.com/WA/bill/HB2664/2025",
+      "text_url": "https://legiscan.com/WA/text/HB2664/2025",
+      "research_url": "https://legiscan.com/WA/research/HB2664/2025",
+      "last_action_date": "2026-03-10",
+      "last_action": "Delivered to Governor.",
+      "title": "Modifying requirements for service of unlawful detainer notices and other notices served in the same manner."
+    },
+    "2": {
+      "relevance": 91,
+      "state": "WA",
+      "bill_number": "HB1342",
+      "bill_id": 1921399,
+      "change_hash": "d24b2e61930e21ea0639bf43ef9508ce",
+      "url": "https://legiscan.com/WA/bill/HB1342/2025",
+      "text_url": "https://legiscan.com/WA/text/HB1342/2025",
+      "research_url": "https://legiscan.com/WA/research/HB1342/2025",
+      "last_action_date": "2026-01-12",
+      "last_action": "By resolution, reintroduced and retained in present status.",
+      "title": "Removing the personal delivery requirement for unlawful detainer notices."
+    }
+  }
+}

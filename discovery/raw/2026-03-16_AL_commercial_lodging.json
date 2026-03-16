@@ -1,0 +1,105 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 7",
+      "relevancy": "100% - 45%",
+      "count": 7,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zcommerci:(pos=1) AND Zlodg:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "AL",
+      "bill_number": "HB379",
+      "bill_id": 2106583,
+      "change_hash": "ce9757985378c2b06e4b8db88d8ba51f",
+      "url": "https://legiscan.com/AL/bill/HB379/2026",
+      "text_url": "https://legiscan.com/AL/text/HB379/2026",
+      "research_url": "https://legiscan.com/AL/research/HB379/2026",
+      "last_action_date": "2026-03-03",
+      "last_action": "Pending Senate Finance and Taxation Education",
+      "title": "Entertainment Industry Incentive Act of 2009 amended, create additional incentive program, extend review and evaluation deadline"
+    },
+    "1": {
+      "relevance": 99,
+      "state": "AL",
+      "bill_number": "SB253",
+      "bill_id": 2106490,
+      "change_hash": "927d291886b0ce310d00a3cb8ef8a04b",
+      "url": "https://legiscan.com/AL/bill/SB253/2026",
+      "text_url": "https://legiscan.com/AL/text/SB253/2026",
+      "research_url": "https://legiscan.com/AL/research/SB253/2026",
+      "last_action_date": "2026-02-25",
+      "last_action": "Read for the Second Time and placed on the Calendar",
+      "title": "Entertainment Industry Incentive Act of 2009 amended, create additional incentive program, extend review and evaluation deadline"
+    },
+    "2": {
+      "relevance": 95,
+      "state": "AL",
+      "bill_number": "SB312",
+      "bill_id": 2118390,
+      "change_hash": "a9bc5eb802c3c721107e756a804d1787",
+      "url": "https://legiscan.com/AL/bill/SB312/2026",
+      "text_url": "https://legiscan.com/AL/text/SB312/2026",
+      "research_url": "https://legiscan.com/AL/research/SB312/2026",
+      "last_action_date": "2026-03-13",
+      "last_action": "Enacted",
+      "title": "Marshall County; volunteer fire districts, annexation of new areas, application of fire service fee, enforcement"
+    },
+    "3": {
+      "relevance": 93,
+      "state": "AL",
+      "bill_number": "HB321",
+      "bill_id": 2090685,
+      "change_hash": "c910a330277c327eb2a55f71189764e1",
+      "url": "https://legiscan.com/AL/bill/HB321/2026",
+      "text_url": "https://legiscan.com/AL/text/HB321/2026",
+      "research_url": "https://legiscan.com/AL/research/HB321/2026",
+      "last_action_date": "2026-01-22",
+      "last_action": "Pending House Local Legislation",
+      "title": "Marshall County; volunteer fire districts, annexation of new areas, application of fire service fee, enforcement"
+    },
+    "4": {
+      "relevance": 82,
+      "state": "AL",
+      "bill_number": "SB288",
+      "bill_id": 2113481,
+      "change_hash": "f7168b889c72cfaee0f5b46115c2ed69",
+      "url": "https://legiscan.com/AL/bill/SB288/2026",
+      "text_url": "https://legiscan.com/AL/text/SB288/2026",
+      "research_url": "https://legiscan.com/AL/research/SB288/2026",
+      "last_action_date": "2026-03-11",
+      "last_action": "Read for the Second Time and placed on the Calendar",
+      "title": "Agriculture authorities; directors on board required to appoint own successor, make purchases through national or regional governmental cooperative purchasing program authorized"
+    },
+    "5": {
+      "relevance": 45,
+      "state": "AL",
+      "bill_number": "SB146",
+      "bill_id": 2079748,
+      "change_hash": "31e57411280d87329095171ce2762e70",
+      "url": "https://legiscan.com/AL/bill/SB146/2026",
+      "text_url": "https://legiscan.com/AL/text/SB146/2026",
+      "research_url": "https://legiscan.com/AL/research/SB146/2026",
+      "last_action_date": "2026-03-12",
+      "last_action": "Pending House Ways and Means General Fund",
+      "title": "Appropriations from State General Fund for executive, legislative, and judicial agencies of the State, other functions of government, debt service, and capital outlay for fiscal year ending September 30, 2027"
+    },
+    "6": {
+      "relevance": 45,
+      "state": "AL",
+      "bill_number": "HB218",
+      "bill_id": 2077734,
+      "change_hash": "6f488b2dcfd3682c5137dd56490a8d56",
+      "url": "https://legiscan.com/AL/bill/HB218/2026",
+      "text_url": "https://legiscan.com/AL/text/HB218/2026",
+      "research_url": "https://legiscan.com/AL/research/HB218/2026",
+      "last_action_date": "2026-01-14",
+      "last_action": "Pending House Ways and Means General Fund",
+      "title": "Appropriations from State General Fund for executive, legislative, and judicial agencies of the State, other functions of government, debt service, and capital outlay for fiscal year ending September 30, 2027"
+    }
+  }
+}

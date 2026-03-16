@@ -1,0 +1,79 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 5",
+      "relevancy": "100% - 87%",
+      "count": 5,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zhotlin:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "ID",
+      "bill_number": "H0723",
+      "bill_id": 2118947,
+      "change_hash": "976583d89d70642887e731bf2428b51d",
+      "url": "https://legiscan.com/ID/bill/H0723/2026",
+      "text_url": "https://legiscan.com/ID/text/H0723/2026",
+      "research_url": "https://legiscan.com/ID/research/H0723/2026",
+      "last_action_date": "2026-03-09",
+      "last_action": "Read second time; filed for Third Reading",
+      "title": "Adds to existing law to provide for department oversight for residential care facilities, licensing requirements, facility documentation requirements, and the youth bill of rights."
+    },
+    "1": {
+      "relevance": 92,
+      "state": "ID",
+      "bill_number": "H0860",
+      "bill_id": 2131660,
+      "change_hash": "47c5e4cd4b066a4b5c7ddc58794471a8",
+      "url": "https://legiscan.com/ID/bill/H0860/2026",
+      "text_url": "https://legiscan.com/ID/text/H0860/2026",
+      "research_url": "https://legiscan.com/ID/research/H0860/2026",
+      "last_action_date": "2026-03-13",
+      "last_action": "Read second time; Filed for Third Reading",
+      "title": "Amends existing law to provide for parental rights in medical decisions."
+    },
+    "2": {
+      "relevance": 90,
+      "state": "ID",
+      "bill_number": "HCR033",
+      "bill_id": 2129846,
+      "change_hash": "effb40fe480385113bb4c2df149ff735",
+      "url": "https://legiscan.com/ID/bill/HCR033/2026",
+      "text_url": "https://legiscan.com/ID/text/HCR033/2026",
+      "research_url": "https://legiscan.com/ID/research/HCR033/2026",
+      "last_action_date": "2026-03-11",
+      "last_action": "Introduced, read first time; referred to: State Affairs",
+      "title": "States findings of the Legislature and establishes an interim committee to study the crime of sextortion and to make recommendations to the Legislature."
+    },
+    "3": {
+      "relevance": 90,
+      "state": "ID",
+      "bill_number": "S1297",
+      "bill_id": 2116911,
+      "change_hash": "a63fa88b8825e273ba28f5125d99d5f2",
+      "url": "https://legiscan.com/ID/bill/S1297/2026",
+      "text_url": "https://legiscan.com/ID/text/S1297/2026",
+      "research_url": "https://legiscan.com/ID/research/S1297/2026",
+      "last_action_date": "2026-02-25",
+      "last_action": "Referred to 14th Order for amendment",
+      "title": "Adds to existing law to establish the Conversational AI Safety Act."
+    },
+    "4": {
+      "relevance": 87,
+      "state": "ID",
+      "bill_number": "S1271",
+      "bill_id": 2113203,
+      "change_hash": "32de1029f6e9d59d097b2496b65e5c72",
+      "url": "https://legiscan.com/ID/bill/S1271/2026",
+      "text_url": "https://legiscan.com/ID/text/S1271/2026",
+      "research_url": "https://legiscan.com/ID/research/S1271/2026",
+      "last_action_date": "2026-03-13",
+      "last_action": "U.C. to hold place on third reading calendar until Monday, March 16, 2026",
+      "title": "Adds to existing law to declare certain rats a public health and safety nuisance and to require abatement."
+    }
+  }
+}

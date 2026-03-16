@@ -2,54 +2,59 @@
   "state": "California",
   "state_code": "CA",
   "industry": "commercial lodging",
-  "source_file": "2026-03-15_California_lodging_compliance.md",
+  "source_file": "2026-03-16_California_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": 20,
-  "training_frequency": null,
-  "new_hire_deadline_days": 180,
-  "new_hire_deadline_text": "within six months of their employment",
-  "signage_required": false,
+  "training_frequency": "within six months of employment",
+  "new_hire_deadline_days": null,
+  "new_hire_deadline_text": null,
+  "signage_required": true,
   "provider_approval_required": false,
   "provider_approval_type": null,
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "California Labor Commissioner"
+    "California Department of Justice"
   ],
   "applicable_to": [
     "hotel and motel employers",
-    "employees likely to interact with victims",
-    "new employees in similar roles"
+    "employees who are likely to interact with or come into contact with victims of human trafficking"
   ],
-  "required_topics": [
-    "identification and characteristics of human trafficking",
-    "legal rights and resources available to victims",
-    "prevention strategies and reporting procedures"
-  ],
+  "required_topics": [],
   "reporting_contacts_required": [],
   "signage_details": {
-    "languages_required": [],
+    "languages_required": [
+      "English",
+      "Spanish"
+    ],
     "minimum_size": null,
     "font_size": null,
-    "posting_location": null,
-    "required_content": []
+    "posting_location": "public areas",
+    "required_content": [
+      "human trafficking hotline numbers"
+    ]
   },
-  "recordkeeping_requirements": [
-    "maintain records of the training provided, including dates, types of training, and signatures of participants",
-    "records must be maintained for at least five years after the last date of training"
-  ],
+  "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    "Senate Bill 970 (SB 970)"
+    {
+      "statute_name": "California Human Trafficking Awareness Training Act (SB 970)",
+      "code_sections": null,
+      "public_acts": "2019-35"
+    },
+    {
+      "statute_name": "Public Notification Requirement for Businesses",
+      "code_sections": null,
+      "public_acts": "2018-644"
+    }
   ],
   "source_urls": [
-    "https://www.dol.gov/whd/laws-and-regs/flsa",
-    "https://www.nhtrc.org/"
+    "https://www.doj.ca.gov/human-trafficking-resources/public-notices"
   ],
-  "harbor_alliance_posture": null,
+  "harbor_alliance_posture": "needs-review",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "non-compliance may result in penalties, including fines and potential citations"
+    "failure to comply with training and signage requirements could result in legal penalties"
   ],
   "notes": [],
   "needs_review": []

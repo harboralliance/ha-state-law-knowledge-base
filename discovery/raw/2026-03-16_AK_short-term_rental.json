@@ -1,0 +1,92 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 6",
+      "relevancy": "100% - 87%",
+      "count": 6,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(((short:(pos=1) PHRASE 2 term:(pos=2)) AND Zrental:(pos=3)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "AK",
+      "bill_number": "HB13",
+      "bill_id": 1912464,
+      "change_hash": "879c833ca14b1dc34d9067b9db9a03c7",
+      "url": "https://legiscan.com/AK/bill/HB13/2025",
+      "text_url": "https://legiscan.com/AK/text/HB13/2025",
+      "research_url": "https://legiscan.com/AK/research/HB13/2025",
+      "last_action_date": "2025-05-13",
+      "last_action": "REFERRED TO COMMUNITY & REGIONAL AFFAIRS",
+      "title": "Municipal Property Tax Exemptions"
+    },
+    "1": {
+      "relevance": 91,
+      "state": "AK",
+      "bill_number": "HB184",
+      "bill_id": 2023548,
+      "change_hash": "dfd69584d5d079f06681dfd851a0f720",
+      "url": "https://legiscan.com/AK/bill/HB184/2025",
+      "text_url": "https://legiscan.com/AK/text/HB184/2025",
+      "research_url": "https://legiscan.com/AK/research/HB184/2025",
+      "last_action_date": "2026-03-02",
+      "last_action": "REFERRED TO FINANCE",
+      "title": "Aidea Finance Workforce Housing Develop."
+    },
+    "2": {
+      "relevance": 89,
+      "state": "AK",
+      "bill_number": "HB276",
+      "bill_id": 2092361,
+      "change_hash": "18fa889bd343f7e0e0af0c2e19227365",
+      "url": "https://legiscan.com/AK/bill/HB276/2025",
+      "text_url": "https://legiscan.com/AK/text/HB276/2025",
+      "research_url": "https://legiscan.com/AK/research/HB276/2025",
+      "last_action_date": "2026-01-23",
+      "last_action": "REFERRED TO RESOURCES",
+      "title": "Public Land:sale/lease/commercial Develop"
+    },
+    "3": {
+      "relevance": 89,
+      "state": "AK",
+      "bill_number": "SB224",
+      "bill_id": 2091928,
+      "change_hash": "6a4625525e16af0c2855101255e72cf8",
+      "url": "https://legiscan.com/AK/bill/SB224/2025",
+      "text_url": "https://legiscan.com/AK/text/SB224/2025",
+      "research_url": "https://legiscan.com/AK/research/SB224/2025",
+      "last_action_date": "2026-01-23",
+      "last_action": "REFERRED TO RESOURCES",
+      "title": "Public Land:sale/lease/commercial Develop"
+    },
+    "4": {
+      "relevance": 88,
+      "state": "AK",
+      "bill_number": "SB91",
+      "bill_id": 1963740,
+      "change_hash": "4f149c0fc594a5374c2bd9e3d079aba4",
+      "url": "https://legiscan.com/AK/bill/SB91/2025",
+      "text_url": "https://legiscan.com/AK/text/SB91/2025",
+      "research_url": "https://legiscan.com/AK/research/SB91/2025",
+      "last_action_date": "2025-02-10",
+      "last_action": "REFERRED TO RESOURCES",
+      "title": "Large-scale Clean Energy Projects"
+    },
+    "5": {
+      "relevance": 87,
+      "state": "AK",
+      "bill_number": "SB14",
+      "bill_id": 1912475,
+      "change_hash": "a617e9cbb19dcd3ec36f65aefcb82476",
+      "url": "https://legiscan.com/AK/bill/SB14/2025",
+      "text_url": "https://legiscan.com/AK/text/SB14/2025",
+      "research_url": "https://legiscan.com/AK/research/SB14/2025",
+      "last_action_date": "2025-02-07",
+      "last_action": "REFERRED TO FINANCE",
+      "title": "Aidea Finance Workforce Housing Develop."
+    }
+  }
+}

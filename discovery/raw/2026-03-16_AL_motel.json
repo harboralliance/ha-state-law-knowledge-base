@@ -1,0 +1,131 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 9",
+      "relevancy": "100% - 54%",
+      "count": 9,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zmotel:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "AL",
+      "bill_number": "HB331",
+      "bill_id": 2094774,
+      "change_hash": "5d445c8d2b92067efbe9a39fdcaea103",
+      "url": "https://legiscan.com/AL/bill/HB331/2026",
+      "text_url": "https://legiscan.com/AL/text/HB331/2026",
+      "research_url": "https://legiscan.com/AL/research/HB331/2026",
+      "last_action_date": "2026-03-05",
+      "last_action": "Enacted",
+      "title": "Blount County, lodging tax increased, additional lodging tax levied, collection and distribution provided for"
+    },
+    "1": {
+      "relevance": 94,
+      "state": "AL",
+      "bill_number": "SB333",
+      "bill_id": 2125277,
+      "change_hash": "e1017d4f6b8dac9f67a0709aac1b6a12",
+      "url": "https://legiscan.com/AL/bill/SB333/2026",
+      "text_url": "https://legiscan.com/AL/text/SB333/2026",
+      "research_url": "https://legiscan.com/AL/research/SB333/2026",
+      "last_action_date": "2026-03-10",
+      "last_action": "Pending House Mobile County Legislation",
+      "title": "Class 2 municipalities; industrial development boards, powers amended"
+    },
+    "2": {
+      "relevance": 92,
+      "state": "AL",
+      "bill_number": "HB204",
+      "bill_id": 2073684,
+      "change_hash": "5865b76dab245badc071abdecd50df62",
+      "url": "https://legiscan.com/AL/bill/HB204/2026",
+      "text_url": "https://legiscan.com/AL/text/HB204/2026",
+      "research_url": "https://legiscan.com/AL/research/HB204/2026",
+      "last_action_date": "2026-02-03",
+      "last_action": "Enacted",
+      "title": "Henry County; county lodging tax further provided for"
+    },
+    "3": {
+      "relevance": 89,
+      "state": "AL",
+      "bill_number": "HB510",
+      "bill_id": 2124430,
+      "change_hash": "8ce5baacad11be972e1b89643e98533e",
+      "url": "https://legiscan.com/AL/bill/HB510/2026",
+      "text_url": "https://legiscan.com/AL/text/HB510/2026",
+      "research_url": "https://legiscan.com/AL/research/HB510/2026",
+      "last_action_date": "2026-03-11",
+      "last_action": "Read for the Second Time and placed on the Calendar",
+      "title": "Class 2 municipalities; industrial development boards, powers amended"
+    },
+    "4": {
+      "relevance": 89,
+      "state": "AL",
+      "bill_number": "HB611",
+      "bill_id": 2132443,
+      "change_hash": "48f6259e1cc1ab35d045a2d61355fc1e",
+      "url": "https://legiscan.com/AL/bill/HB611/2026",
+      "text_url": "https://legiscan.com/AL/text/HB611/2026",
+      "research_url": "https://legiscan.com/AL/research/HB611/2026",
+      "last_action_date": "2026-03-11",
+      "last_action": "Pending House Local Legislation",
+      "title": "Winston County, lodging tax authorized, fire protection fee imposed, collection and distribution provided, referendum provided"
+    },
+    "5": {
+      "relevance": 83,
+      "state": "AL",
+      "bill_number": "SB112",
+      "bill_id": 2072637,
+      "change_hash": "0689d606d2e835b231ca80c98ee81d2d",
+      "url": "https://legiscan.com/AL/bill/SB112/2026",
+      "text_url": "https://legiscan.com/AL/text/SB112/2026",
+      "research_url": "https://legiscan.com/AL/research/SB112/2026",
+      "last_action_date": "2026-01-13",
+      "last_action": "Pending Senate Healthcare",
+      "title": "Sunset law; Alabama Massage Therapy Licensing Board continued with modification until October 1, 2027"
+    },
+    "6": {
+      "relevance": 81,
+      "state": "AL",
+      "bill_number": "SB287",
+      "bill_id": 2113577,
+      "change_hash": "29cd16760860777aa53dd389ee964508",
+      "url": "https://legiscan.com/AL/bill/SB287/2026",
+      "text_url": "https://legiscan.com/AL/text/SB287/2026",
+      "research_url": "https://legiscan.com/AL/research/SB287/2026",
+      "last_action_date": "2026-02-19",
+      "last_action": "Read for the Second Time and placed on the Calendar",
+      "title": "Alcoholic beverage importers; to recognize that an importer licensee may import alcoholic beverages from any jurisdiction outside of the State of Alabama"
+    },
+    "7": {
+      "relevance": 76,
+      "state": "AL",
+      "bill_number": "SB136",
+      "bill_id": 2073417,
+      "change_hash": "0e0d1ff151de388daf4557d65661aa98",
+      "url": "https://legiscan.com/AL/bill/SB136/2026",
+      "text_url": "https://legiscan.com/AL/text/SB136/2026",
+      "research_url": "https://legiscan.com/AL/research/SB136/2026",
+      "last_action_date": "2026-03-03",
+      "last_action": "Enacted",
+      "title": "Sunset law; Alabama Massage Therapy Licensing Board continued with modification until October 1, 2027, when renamed Alabama Massage Advisory Council under the regulatory authority of the Alabama Department of Public Health"
+    },
+    "8": {
+      "relevance": 54,
+      "state": "AL",
+      "bill_number": "SB217",
+      "bill_id": 2094921,
+      "change_hash": "fadcf18c7529394056dbd2a7233e141e",
+      "url": "https://legiscan.com/AL/bill/SB217/2026",
+      "text_url": "https://legiscan.com/AL/text/SB217/2026",
+      "research_url": "https://legiscan.com/AL/research/SB217/2026",
+      "last_action_date": "2026-01-27",
+      "last_action": "Pending Senate Tourism",
+      "title": "Mixed spirit beverages, providing for distribution, retail sale, and tax"
+    }
+  }
+}

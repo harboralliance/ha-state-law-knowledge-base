@@ -1,0 +1,92 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 6",
+      "relevancy": "100% - 56%",
+      "count": 6,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zinn:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "IN",
+      "bill_number": "SB0242",
+      "bill_id": 2068635,
+      "change_hash": "72df13910b58ce2ecfcf698e7a2d72f9",
+      "url": "https://legiscan.com/IN/bill/SB0242/2026",
+      "text_url": "https://legiscan.com/IN/text/SB0242/2026",
+      "research_url": "https://legiscan.com/IN/research/SB0242/2026",
+      "last_action_date": "2026-01-28",
+      "last_action": "First reading: referred to Committee on Ways and Means",
+      "title": "Innkeeper's tax."
+    },
+    "1": {
+      "relevance": 97,
+      "state": "IN",
+      "bill_number": "SCR0016",
+      "bill_id": 2112948,
+      "change_hash": "8477fb71ba6545148041acb02710a42a",
+      "url": "https://legiscan.com/IN/bill/SCR0016/2026",
+      "text_url": "https://legiscan.com/IN/text/SCR0016/2026",
+      "research_url": "https://legiscan.com/IN/research/SCR0016/2026",
+      "last_action_date": "2026-02-16",
+      "last_action": "Returned to the Senate",
+      "title": "Memorializing Daniel Combs."
+    },
+    "2": {
+      "relevance": 91,
+      "state": "IN",
+      "bill_number": "HB1117",
+      "bill_id": 2061423,
+      "change_hash": "48e4594b603a18e681b12f66a6da83c9",
+      "url": "https://legiscan.com/IN/bill/HB1117/2026",
+      "text_url": "https://legiscan.com/IN/text/HB1117/2026",
+      "research_url": "https://legiscan.com/IN/research/HB1117/2026",
+      "last_action_date": "2026-01-05",
+      "last_action": "First reading: referred to Committee on Ways and Means",
+      "title": "Uniform municipal innkeeper's tax."
+    },
+    "3": {
+      "relevance": 89,
+      "state": "IN",
+      "bill_number": "SB0218",
+      "bill_id": 2068641,
+      "change_hash": "9e44cb13bcb77ef7d2d0c1dcc861dd71",
+      "url": "https://legiscan.com/IN/bill/SB0218/2026",
+      "text_url": "https://legiscan.com/IN/text/SB0218/2026",
+      "research_url": "https://legiscan.com/IN/research/SB0218/2026",
+      "last_action_date": "2026-01-08",
+      "last_action": "First reading: referred to Committee on Tax and Fiscal Policy",
+      "title": "Circuit breaker credits for homesteads."
+    },
+    "4": {
+      "relevance": 77,
+      "state": "IN",
+      "bill_number": "HB1210",
+      "bill_id": 2065105,
+      "change_hash": "733dade9141de6f3f1b14ca3601221fe",
+      "url": "https://legiscan.com/IN/bill/HB1210/2026",
+      "text_url": "https://legiscan.com/IN/text/HB1210/2026",
+      "research_url": "https://legiscan.com/IN/research/HB1210/2026",
+      "last_action_date": "2026-03-12",
+      "last_action": "Signed by the Governor",
+      "title": "Department of local government finance."
+    },
+    "5": {
+      "relevance": 56,
+      "state": "IN",
+      "bill_number": "HB1088",
+      "bill_id": 2061479,
+      "change_hash": "4c9d6b40ee86debf63c5a29dbe1db41f",
+      "url": "https://legiscan.com/IN/bill/HB1088/2026",
+      "text_url": "https://legiscan.com/IN/text/HB1088/2026",
+      "research_url": "https://legiscan.com/IN/research/HB1088/2026",
+      "last_action_date": "2026-02-24",
+      "last_action": "Signed by the Governor",
+      "title": "Technical corrections."
+    }
+  }
+}
