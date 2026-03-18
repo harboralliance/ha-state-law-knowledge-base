@@ -1,0 +1,105 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 7",
+      "relevancy": "100% - 66%",
+      "count": 7,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zsex:(pos=1) AND Ztraffick:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "VT",
+      "bill_number": "H0190",
+      "bill_id": 1963666,
+      "change_hash": "5eb4b7646b11ad672cc72d292f9f8bed",
+      "url": "https://legiscan.com/VT/bill/H0190/2025",
+      "text_url": "https://legiscan.com/VT/text/H0190/2025",
+      "research_url": "https://legiscan.com/VT/research/H0190/2025",
+      "last_action_date": "2025-02-11",
+      "last_action": "Read first time and referred to the Committee on Judiciary",
+      "title": "An act relating to voluntary engagement in sex work"
+    },
+    "1": {
+      "relevance": 100,
+      "state": "VT",
+      "bill_number": "S0054",
+      "bill_id": 1959941,
+      "change_hash": "196640e9a25a6f38c9490f6f7b9f0eab",
+      "url": "https://legiscan.com/VT/bill/S0054/2025",
+      "text_url": "https://legiscan.com/VT/text/S0054/2025",
+      "research_url": "https://legiscan.com/VT/research/S0054/2025",
+      "last_action_date": "2025-02-25",
+      "last_action": "Senator Hart name as co-sponsor of bill withdrawn",
+      "title": "An act relating to voluntary engagement in sex work"
+    },
+    "2": {
+      "relevance": 88,
+      "state": "VT",
+      "bill_number": "H0411",
+      "bill_id": 1985508,
+      "change_hash": "643552eadb3f8cf4aa5eebe06d39a168",
+      "url": "https://legiscan.com/VT/bill/H0411/2025",
+      "text_url": "https://legiscan.com/VT/text/H0411/2025",
+      "research_url": "https://legiscan.com/VT/research/H0411/2025",
+      "last_action_date": "2025-02-27",
+      "last_action": "Read first time and referred to the Committee on Judiciary",
+      "title": "An act relating to public safety"
+    },
+    "3": {
+      "relevance": 79,
+      "state": "VT",
+      "bill_number": "H0208",
+      "bill_id": 1967494,
+      "change_hash": "555d82d15fa545f14d9ae7f053ad4d12",
+      "url": "https://legiscan.com/VT/bill/H0208/2025",
+      "text_url": "https://legiscan.com/VT/text/H0208/2025",
+      "research_url": "https://legiscan.com/VT/research/H0208/2025",
+      "last_action_date": "2025-02-12",
+      "last_action": "Read first time and referred to the Committee on Commerce and Economic Development",
+      "title": "An act relating to consumer data privacy and online surveillance"
+    },
+    "4": {
+      "relevance": 78,
+      "state": "VT",
+      "bill_number": "S0071",
+      "bill_id": 1973283,
+      "change_hash": "4beac9024aff179b97ce4d45aa83c0c7",
+      "url": "https://legiscan.com/VT/bill/S0071/2025",
+      "text_url": "https://legiscan.com/VT/text/S0071/2025",
+      "research_url": "https://legiscan.com/VT/research/S0071/2025",
+      "last_action_date": "2025-04-01",
+      "last_action": "Read first time and referred to the Committee on Commerce and Economic Development",
+      "title": "An act relating to consumer data privacy and online surveillance"
+    },
+    "5": {
+      "relevance": 66,
+      "state": "VT",
+      "bill_number": "H0721",
+      "bill_id": 2085161,
+      "change_hash": "43a60c349fd1fd0a0a2bb3814ff138d6",
+      "url": "https://legiscan.com/VT/bill/H0721/2025",
+      "text_url": "https://legiscan.com/VT/text/H0721/2025",
+      "research_url": "https://legiscan.com/VT/research/H0721/2025",
+      "last_action_date": "2026-01-20",
+      "last_action": "Read first time and referred to the Committee on Judiciary",
+      "title": "An act relating to juvenile proceedings, criminal procedures, and forensic facilities for criminal justice-involved individuals"
+    },
+    "6": {
+      "relevance": 66,
+      "state": "VT",
+      "bill_number": "S0272",
+      "bill_id": 2083879,
+      "change_hash": "0283f6ab9f7626f9e726e5702354e94d",
+      "url": "https://legiscan.com/VT/bill/S0272/2025",
+      "text_url": "https://legiscan.com/VT/text/S0272/2025",
+      "research_url": "https://legiscan.com/VT/research/S0272/2025",
+      "last_action_date": "2026-01-16",
+      "last_action": "Read 1st time & referred to Committee on Judiciary",
+      "title": "An act relating to juvenile proceedings, criminal procedures, and forensic facilities for criminal justice-involved individuals"
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 6",
+      "relevancy": "100% - 92%",
+      "count": 6,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Ztraffick:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "AK",
+      "bill_number": "HB118",
+      "bill_id": 1984774,
+      "change_hash": "e977d338d580366e20b74d0b45b54507",
+      "url": "https://legiscan.com/AK/bill/HB118/2025",
+      "text_url": "https://legiscan.com/AK/text/HB118/2025",
+      "research_url": "https://legiscan.com/AK/research/HB118/2025",
+      "last_action_date": "2025-04-02",
+      "last_action": "REFERRED TO FINANCE",
+      "title": "Council On Human And Sex Trafficking"
+    },
+    "1": {
+      "relevance": 99,
+      "state": "AK",
+      "bill_number": "HB47",
+      "bill_id": 1928274,
+      "change_hash": "3deafebfd553df1db67bf3cdad288b33",
+      "url": "https://legiscan.com/AK/bill/HB47/2025",
+      "text_url": "https://legiscan.com/AK/text/HB47/2025",
+      "research_url": "https://legiscan.com/AK/research/HB47/2025",
+      "last_action_date": "2026-03-02",
+      "last_action": "CROSS SPONSOR(S): BJORKMAN, TILTON",
+      "title": "Chld Sex Abuse Mat; Gen Images; Soc Media"
+    },
+    "2": {
+      "relevance": 98,
+      "state": "AK",
+      "bill_number": "SB247",
+      "bill_id": 2118967,
+      "change_hash": "4126ad982ae7d6271253d5cdbee6d694",
+      "url": "https://legiscan.com/AK/bill/SB247/2025",
+      "text_url": "https://legiscan.com/AK/text/SB247/2025",
+      "research_url": "https://legiscan.com/AK/research/SB247/2025",
+      "last_action_date": "2026-02-18",
+      "last_action": "REFERRED TO COMMUNITY & REGIONAL AFFAIRS",
+      "title": "Generated Obscene Chld Sex Abuse Material"
+    },
+    "3": {
+      "relevance": 98,
+      "state": "AK",
+      "bill_number": "HB150",
+      "bill_id": 2012386,
+      "change_hash": "e9f94fad0efbe57e97fcc0a4640e5625",
+      "url": "https://legiscan.com/AK/bill/HB150/2025",
+      "text_url": "https://legiscan.com/AK/text/HB150/2025",
+      "research_url": "https://legiscan.com/AK/research/HB150/2025",
+      "last_action_date": "2025-04-07",
+      "last_action": "COSPONSOR(S): SADDLER",
+      "title": "Child Trafficking Screening"
+    },
+    "4": {
+      "relevance": 98,
+      "state": "AK",
+      "bill_number": "HB97",
+      "bill_id": 1967018,
+      "change_hash": "b4d22ec4ba1f1d1d0c5fcf0d4e6d2562",
+      "url": "https://legiscan.com/AK/bill/HB97/2025",
+      "text_url": "https://legiscan.com/AK/text/HB97/2025",
+      "research_url": "https://legiscan.com/AK/research/HB97/2025",
+      "last_action_date": "2025-05-02",
+      "last_action": "REFERRED TO FINANCE",
+      "title": "Org. Retail Theft/fund;mktplace Sales Tax"
+    },
+    "5": {
+      "relevance": 92,
+      "state": "AK",
+      "bill_number": "HB104",
+      "bill_id": 1971397,
+      "change_hash": "41260048e6bd02889328406e4eb8d6a3",
+      "url": "https://legiscan.com/AK/bill/HB104/2025",
+      "text_url": "https://legiscan.com/AK/text/HB104/2025",
+      "research_url": "https://legiscan.com/AK/research/HB104/2025",
+      "last_action_date": "2025-04-23",
+      "last_action": "REFERRED TO FINANCE",
+      "title": "Address Confidentiality Program"
+    }
+  }
+}

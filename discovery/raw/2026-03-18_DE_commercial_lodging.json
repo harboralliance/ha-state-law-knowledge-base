@@ -1,0 +1,40 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 2",
+      "relevancy": "100% - 95%",
+      "count": 2,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zcommerci:(pos=1) AND Zlodg:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "DE",
+      "bill_number": "HB237",
+      "bill_id": 2038676,
+      "change_hash": "17492b1e797e2d0aef5839adea571ee2",
+      "url": "https://legiscan.com/DE/bill/HB237/2025",
+      "text_url": "https://legiscan.com/DE/text/HB237/2025",
+      "research_url": "https://legiscan.com/DE/research/HB237/2025",
+      "last_action_date": "2026-03-11",
+      "last_action": "Not Worked in Committee",
+      "title": "An Act To Amend Title 30 Of The Delaware Code Relating To The Delaware Entertainment Job Act."
+    },
+    "1": {
+      "relevance": 95,
+      "state": "DE",
+      "bill_number": "SB77",
+      "bill_id": 2012178,
+      "change_hash": "68aa8ad6423f28a67a4f87bd969a93bd",
+      "url": "https://legiscan.com/DE/bill/SB77/2025",
+      "text_url": "https://legiscan.com/DE/text/SB77/2025",
+      "research_url": "https://legiscan.com/DE/research/SB77/2025",
+      "last_action_date": "2025-03-20",
+      "last_action": "Introduced and Assigned to Health & Social Services Committee in Senate",
+      "title": "An Act To Amend Title 30 Of The Delaware Code Relating To Electronic Smoking Devices And Vapor Products."
+    }
+  }
+}

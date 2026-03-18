@@ -2,25 +2,27 @@
   "state": "California",
   "state_code": "CA",
   "industry": "commercial lodging",
-  "source_file": "2026-03-16_California_lodging_compliance.md",
+  "source_file": "2026-03-18_California_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": 20,
-  "training_frequency": "within six months of employment",
+  "training_frequency": null,
   "new_hire_deadline_days": null,
-  "new_hire_deadline_text": null,
+  "new_hire_deadline_text": "within six months of employment if they will interact with trafficking victims",
   "signage_required": true,
   "provider_approval_required": false,
   "provider_approval_type": null,
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "California Department of Justice"
+    "California Attorney General's Office",
+    "Department of Justice"
   ],
   "applicable_to": [
-    "hotel and motel employers",
-    "employees who are likely to interact with or come into contact with victims of human trafficking"
+    "hotels and motels"
   ],
-  "required_topics": [],
+  "required_topics": [
+    "human trafficking awareness"
+  ],
   "reporting_contacts_required": [],
   "signage_details": {
     "languages_required": [
@@ -29,32 +31,23 @@
     ],
     "minimum_size": null,
     "font_size": null,
-    "posting_location": "public areas",
+    "posting_location": null,
     "required_content": [
-      "human trafficking hotline numbers"
+      "telephone hotline numbers for human trafficking resources"
     ]
   },
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    {
-      "statute_name": "California Human Trafficking Awareness Training Act (SB 970)",
-      "code_sections": null,
-      "public_acts": "2019-35"
-    },
-    {
-      "statute_name": "Public Notification Requirement for Businesses",
-      "code_sections": null,
-      "public_acts": "2018-644"
-    }
+    "California State Law (SB 970)"
   ],
   "source_urls": [
-    "https://www.doj.ca.gov/human-trafficking-resources/public-notices"
+    "website of the California Department of Justice"
   ],
-  "harbor_alliance_posture": "needs-review",
+  "harbor_alliance_posture": "immediate-entry",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "failure to comply with training and signage requirements could result in legal penalties"
+    "violations may result in fines or other legal consequences"
   ],
   "notes": [],
   "needs_review": []

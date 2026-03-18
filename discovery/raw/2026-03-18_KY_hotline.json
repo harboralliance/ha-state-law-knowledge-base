@@ -1,0 +1,131 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 9",
+      "relevancy": "100% - 63%",
+      "count": 9,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zhotlin:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "KY",
+      "bill_number": "HB611",
+      "bill_id": 2113500,
+      "change_hash": "75d989588c5edded8c008f0697423de5",
+      "url": "https://legiscan.com/KY/bill/HB611/2026",
+      "text_url": "https://legiscan.com/KY/text/HB611/2026",
+      "research_url": "https://legiscan.com/KY/research/HB611/2026",
+      "last_action_date": "2026-03-17",
+      "last_action": "reported favorably, 1st reading, to Consent Calendar",
+      "title": "AN ACT relating to domestic relations."
+    },
+    "1": {
+      "relevance": 94,
+      "state": "KY",
+      "bill_number": "HB160",
+      "bill_id": 2067977,
+      "change_hash": "2c40ab173445a41dd73f26397c3139da",
+      "url": "https://legiscan.com/KY/bill/HB160/2026",
+      "text_url": "https://legiscan.com/KY/text/HB160/2026",
+      "research_url": "https://legiscan.com/KY/research/HB160/2026",
+      "last_action_date": "2026-01-14",
+      "last_action": "to Primary and Secondary Education (H)",
+      "title": "AN ACT relating to public charter schools."
+    },
+    "2": {
+      "relevance": 94,
+      "state": "KY",
+      "bill_number": "HB514",
+      "bill_id": 2102050,
+      "change_hash": "56954ecb0d1a69cd0ecdf068266d01b6",
+      "url": "https://legiscan.com/KY/bill/HB514/2026",
+      "text_url": "https://legiscan.com/KY/text/HB514/2026",
+      "research_url": "https://legiscan.com/KY/research/HB514/2026",
+      "last_action_date": "2026-02-05",
+      "last_action": "to Transportation (H)",
+      "title": "AN ACT relating to bridges."
+    },
+    "3": {
+      "relevance": 90,
+      "state": "KY",
+      "bill_number": "HB329",
+      "bill_id": 2071646,
+      "change_hash": "3e1a98c77320da3bdcfe54b3d067c6d1",
+      "url": "https://legiscan.com/KY/bill/HB329/2026",
+      "text_url": "https://legiscan.com/KY/text/HB329/2026",
+      "research_url": "https://legiscan.com/KY/research/HB329/2026",
+      "last_action_date": "2026-02-09",
+      "last_action": "floor amendment (1) filed",
+      "title": "AN ACT relating to child welfare investigations."
+    },
+    "4": {
+      "relevance": 90,
+      "state": "KY",
+      "bill_number": "HB549",
+      "bill_id": 2106571,
+      "change_hash": "fc2740b38aae89b1de5fe83ee1322409",
+      "url": "https://legiscan.com/KY/bill/HB549/2026",
+      "text_url": "https://legiscan.com/KY/text/HB549/2026",
+      "research_url": "https://legiscan.com/KY/research/HB549/2026",
+      "last_action_date": "2026-02-10",
+      "last_action": "to Health Services (H)",
+      "title": "AN ACT relating to pregnancy resource centers."
+    },
+    "5": {
+      "relevance": 89,
+      "state": "KY",
+      "bill_number": "HB632",
+      "bill_id": 2115942,
+      "change_hash": "224bc57085b53ea65a8785c2f3609821",
+      "url": "https://legiscan.com/KY/bill/HB632/2026",
+      "text_url": "https://legiscan.com/KY/text/HB632/2026",
+      "research_url": "https://legiscan.com/KY/research/HB632/2026",
+      "last_action_date": "2026-02-20",
+      "last_action": "to Small Business & Information Technology (H)",
+      "title": "AN ACT relating to online protections for minors."
+    },
+    "6": {
+      "relevance": 87,
+      "state": "KY",
+      "bill_number": "SB212",
+      "bill_id": 2120516,
+      "change_hash": "47294ee75c0d786916b7d81e7287b391",
+      "url": "https://legiscan.com/KY/bill/SB212/2026",
+      "text_url": "https://legiscan.com/KY/text/SB212/2026",
+      "research_url": "https://legiscan.com/KY/research/SB212/2026",
+      "last_action_date": "2026-02-19",
+      "last_action": "to Committee on Committees (S)",
+      "title": "AN ACT relating to mental health coverage and declaring an emergency."
+    },
+    "7": {
+      "relevance": 85,
+      "state": "KY",
+      "bill_number": "HB690",
+      "bill_id": 2121181,
+      "change_hash": "11081b28554e6ce351f0ebc51d4ab070",
+      "url": "https://legiscan.com/KY/bill/HB690/2026",
+      "text_url": "https://legiscan.com/KY/text/HB690/2026",
+      "research_url": "https://legiscan.com/KY/research/HB690/2026",
+      "last_action_date": "2026-02-23",
+      "last_action": "WITHDRAWN",
+      "title": "AN ACT relating to unborn children."
+    },
+    "8": {
+      "relevance": 63,
+      "state": "KY",
+      "bill_number": "HB2",
+      "bill_id": 2089181,
+      "change_hash": "2b5d68146827264b9e3c7bf47efe363f",
+      "url": "https://legiscan.com/KY/bill/HB2/2026",
+      "text_url": "https://legiscan.com/KY/text/HB2/2026",
+      "research_url": "https://legiscan.com/KY/research/HB2/2026",
+      "last_action_date": "2026-03-13",
+      "last_action": "to Appropriations & Revenue (S)",
+      "title": "AN ACT relating to Medicaid, making an appropriation therefor, and declaring an emergency."
+    }
+  }
+}

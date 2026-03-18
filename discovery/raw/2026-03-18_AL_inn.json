@@ -1,0 +1,79 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 5",
+      "relevancy": "100% - 89%",
+      "count": 5,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zinn:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "AL",
+      "bill_number": "HB331",
+      "bill_id": 2094774,
+      "change_hash": "5d445c8d2b92067efbe9a39fdcaea103",
+      "url": "https://legiscan.com/AL/bill/HB331/2026",
+      "text_url": "https://legiscan.com/AL/text/HB331/2026",
+      "research_url": "https://legiscan.com/AL/research/HB331/2026",
+      "last_action_date": "2026-03-05",
+      "last_action": "Enacted",
+      "title": "Blount County, lodging tax increased, additional lodging tax levied, collection and distribution provided for"
+    },
+    "1": {
+      "relevance": 92,
+      "state": "AL",
+      "bill_number": "HB204",
+      "bill_id": 2073684,
+      "change_hash": "5865b76dab245badc071abdecd50df62",
+      "url": "https://legiscan.com/AL/bill/HB204/2026",
+      "text_url": "https://legiscan.com/AL/text/HB204/2026",
+      "research_url": "https://legiscan.com/AL/research/HB204/2026",
+      "last_action_date": "2026-02-03",
+      "last_action": "Enacted",
+      "title": "Henry County; county lodging tax further provided for"
+    },
+    "2": {
+      "relevance": 89,
+      "state": "AL",
+      "bill_number": "HB634",
+      "bill_id": 2135186,
+      "change_hash": "3629ac2ff70c00243ee845fe1549ea7a",
+      "url": "https://legiscan.com/AL/bill/HB634/2026",
+      "text_url": "https://legiscan.com/AL/text/HB634/2026",
+      "research_url": "https://legiscan.com/AL/research/HB634/2026",
+      "last_action_date": "2026-03-17",
+      "last_action": "Pending House Local Legislation",
+      "title": "Washington County; lodging tax, levied and proceeds distributed"
+    },
+    "3": {
+      "relevance": 89,
+      "state": "AL",
+      "bill_number": "HB632",
+      "bill_id": 2135200,
+      "change_hash": "3c4e3a2e2ef83402ee720bb68f59328f",
+      "url": "https://legiscan.com/AL/bill/HB632/2026",
+      "text_url": "https://legiscan.com/AL/text/HB632/2026",
+      "research_url": "https://legiscan.com/AL/research/HB632/2026",
+      "last_action_date": "2026-03-17",
+      "last_action": "Pending House Local Legislation",
+      "title": "Etowah County, privilege and license tax on lodging, time of continuous supply for tax exemption increased"
+    },
+    "4": {
+      "relevance": 89,
+      "state": "AL",
+      "bill_number": "HB611",
+      "bill_id": 2132443,
+      "change_hash": "bacb50765c8bfeccc11d27eb43cb3d96",
+      "url": "https://legiscan.com/AL/bill/HB611/2026",
+      "text_url": "https://legiscan.com/AL/text/HB611/2026",
+      "research_url": "https://legiscan.com/AL/research/HB611/2026",
+      "last_action_date": "2026-03-17",
+      "last_action": "Read for the Second Time and placed on the Calendar",
+      "title": "Winston County, lodging tax authorized, fire protection fee imposed, collection and distribution provided, referendum provided"
+    }
+  }
+}

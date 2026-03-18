@@ -1,0 +1,105 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 7",
+      "relevancy": "100% - 75%",
+      "count": 7,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zbed:(pos=1) AND Zbreakfast:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "IA",
+      "bill_number": "SF2367",
+      "bill_id": 2118839,
+      "change_hash": "a176b1006b7e58123d1ec3066d4e1c4c",
+      "url": "https://legiscan.com/IA/bill/SF2367/2025",
+      "text_url": "https://legiscan.com/IA/text/SF2367/2025",
+      "research_url": "https://legiscan.com/IA/research/SF2367/2025",
+      "last_action_date": "2026-03-04",
+      "last_action": "Amendment S-5062 filed. S.J. 478.",
+      "title": "A bill for an act relating to health-related matters, including health-related professions, certificates of need, and nutrition, and including applicability provisions.(Formerly SSB 3139.)"
+    },
+    "1": {
+      "relevance": 99,
+      "state": "IA",
+      "bill_number": "SSB3139",
+      "bill_id": 2113309,
+      "change_hash": "c3e80df344269380f97e83c9890be1c0",
+      "url": "https://legiscan.com/IA/bill/SSB3139/2025",
+      "text_url": "https://legiscan.com/IA/text/SSB3139/2025",
+      "research_url": "https://legiscan.com/IA/research/SSB3139/2025",
+      "last_action_date": "2026-02-17",
+      "last_action": "Committee report approving bill, renumbered as SF 2367.",
+      "title": "A bill for an act relating to health-related matters, including health-related professions, certificates of need, and nutrition, and including applicability provisions.(See SF 2367.)"
+    },
+    "2": {
+      "relevance": 95,
+      "state": "IA",
+      "bill_number": "HF2676",
+      "bill_id": 2122543,
+      "change_hash": "4986f8b8361955aa6fb631087584202a",
+      "url": "https://legiscan.com/IA/bill/HF2676/2025",
+      "text_url": "https://legiscan.com/IA/text/HF2676/2025",
+      "research_url": "https://legiscan.com/IA/research/HF2676/2025",
+      "last_action_date": "2026-03-04",
+      "last_action": "Read first time, attached to SF 2367. S.J. 462.",
+      "title": "A bill for an act relating to health-related matters, including health-related professions, nutrition, medication, and education, and including applicability provisions. (Formerly HSB 694.)"
+    },
+    "3": {
+      "relevance": 95,
+      "state": "IA",
+      "bill_number": "SSB3130",
+      "bill_id": 2112919,
+      "change_hash": "1474b3c2f7dcdacfafaff8d2c090d5bb",
+      "url": "https://legiscan.com/IA/bill/SSB3130/2025",
+      "text_url": "https://legiscan.com/IA/text/SSB3130/2025",
+      "research_url": "https://legiscan.com/IA/research/SSB3130/2025",
+      "last_action_date": "2026-02-10",
+      "last_action": "Subcommittee: Warme, Costello, and Trone Garriott.",
+      "title": "A bill for an act relating to health-related matters, including health-related professions, nutrition, medication, and taxes on certain products, and including effective date and applicability provisions."
+    },
+    "4": {
+      "relevance": 95,
+      "state": "IA",
+      "bill_number": "HSB694",
+      "bill_id": 2112219,
+      "change_hash": "c8865ce1d768a161e610525827f8e660",
+      "url": "https://legiscan.com/IA/bill/HSB694/2025",
+      "text_url": "https://legiscan.com/IA/text/HSB694/2025",
+      "research_url": "https://legiscan.com/IA/research/HSB694/2025",
+      "last_action_date": "2026-02-23",
+      "last_action": "Committee report approving bill, renumbered as HF 2676.",
+      "title": "A bill for an act relating to health-related matters, including health-related professions, nutrition, medication, and taxes on certain products, and including effective date and applicability provisions.(See HF 2676.)"
+    },
+    "5": {
+      "relevance": 76,
+      "state": "IA",
+      "bill_number": "SSB3135",
+      "bill_id": 2113221,
+      "change_hash": "db9a622165eb8ba63b0dd735f944f719",
+      "url": "https://legiscan.com/IA/bill/SSB3135/2025",
+      "text_url": "https://legiscan.com/IA/text/SSB3135/2025",
+      "research_url": "https://legiscan.com/IA/research/SSB3135/2025",
+      "last_action_date": "2026-02-19",
+      "last_action": "Committee report approving bill, renumbered as SF 2432.",
+      "title": "A bill for an act transferring the powers and duties of local boards of health and local health departments to county boards of health and district boards of health, and including applicability and effective date provisions.(See SF 2432.)"
+    },
+    "6": {
+      "relevance": 75,
+      "state": "IA",
+      "bill_number": "SF2432",
+      "bill_id": 2122285,
+      "change_hash": "0e828670c17ef7fc6d3e3aed1b25ace0",
+      "url": "https://legiscan.com/IA/bill/SF2432/2025",
+      "text_url": "https://legiscan.com/IA/text/SF2432/2025",
+      "research_url": "https://legiscan.com/IA/research/SF2432/2025",
+      "last_action_date": "2026-03-17",
+      "last_action": "Subcommittee Meeting: 03/18/2026 12:15PM RM 304.",
+      "title": "A bill for an act eliminating a city's ability to create a city board of health or a city health department, and including effective date provisions. (Formerly SSB 3135.)"
+    }
+  }
+}

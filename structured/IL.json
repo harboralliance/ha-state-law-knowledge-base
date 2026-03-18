@@ -2,33 +2,33 @@
   "state": "Illinois",
   "state_code": "IL",
   "industry": "commercial lodging",
-  "source_file": "2026-03-16_Illinois_lodging_compliance.md",
+  "source_file": "2026-03-18_Illinois_lodging_compliance.md",
   "training_required": true,
-  "training_duration_minutes": null,
-  "training_frequency": "every two years",
-  "new_hire_deadline_days": 180,
-  "new_hire_deadline_text": "six months of beginning employment in a relevant role",
+  "training_duration_minutes": 20,
+  "training_frequency": "every 2 years",
+  "new_hire_deadline_days": null,
+  "new_hire_deadline_text": null,
   "signage_required": false,
-  "provider_approval_required": true,
+  "provider_approval_required": false,
   "provider_approval_type": null,
-  "approval_authority": "Department of Human Services",
+  "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "local government units",
-    "law enforcement agencies"
+    "Local government units"
   ],
-  "applicable_to": [
-    "lodging establishments",
-    "restaurants",
-    "truck stops"
-  ],
+  "applicable_to": [],
   "required_topics": [
-    "definitions of human trafficking",
-    "guidance on identifying high-risk individuals",
-    "differences between labor and sex trafficking",
-    "roles in reporting and responding to trafficking incidents"
+    "Definition of human trafficking",
+    "Identifying individuals most at risk",
+    "Difference between labor and sex trafficking in the context of lodging/food/trucking industries",
+    "Employees' roles in reporting and responding to trafficking"
   ],
-  "reporting_contacts_required": [],
+  "reporting_contacts_required": [
+    {
+      "type": "appropriate authorities",
+      "contact_method": "NOTES: Needs clarification from research note"
+    }
+  ],
   "signage_details": {
     "languages_required": [],
     "minimum_size": null,
@@ -39,18 +39,17 @@
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    "Senate Bill 1422"
+    "P.A. 102-324"
   ],
   "source_urls": [],
-  "harbor_alliance_posture": "approval-required",
-  "harbor_alliance_actions": [
-    "implement mandatory training programs",
-    "ensure compliance before the mandatory provisions kick in"
-  ],
+  "harbor_alliance_posture": "needs-review",
+  "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "potential for fines if non-compliance is not corrected within 30 days",
-    "need for approval of training providers"
+    "Employers must ensure compliance with new training requirements by June 1, 2020",
+    "Violations may result in fines up to $1,500 per offense"
   ],
-  "notes": [],
+  "notes": [
+    "Needs clarification from research note on specific details such as exact source URLs and reporting contact methods."
+  ],
   "needs_review": []
 }

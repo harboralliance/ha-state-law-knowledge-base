@@ -1,0 +1,27 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 1",
+      "relevancy": "100% - 100%",
+      "count": 1,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zbed:(pos=1) AND Zbreakfast:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "AK",
+      "bill_number": "HB13",
+      "bill_id": 1912464,
+      "change_hash": "d3d01b681a56d9796327f59a4d18ba7c",
+      "url": "https://legiscan.com/AK/bill/HB13/2025",
+      "text_url": "https://legiscan.com/AK/text/HB13/2025",
+      "research_url": "https://legiscan.com/AK/research/HB13/2025",
+      "last_action_date": "2026-03-18",
+      "last_action": "CRA RPT RECD W/SCS AWAIT TRANSMITTAL NXT",
+      "title": "Municipal Property Tax Exemptions"
+    }
+  }
+}

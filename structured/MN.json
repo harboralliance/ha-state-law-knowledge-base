@@ -2,10 +2,10 @@
   "state": "Minnesota",
   "state_code": "MN",
   "industry": "commercial lodging",
-  "source_file": "2026-03-16_Minnesota_lodging_compliance.md",
+  "source_file": "2026-03-18_Minnesota_lodging_compliance.md",
   "training_required": true,
-  "training_duration_minutes": null,
-  "training_frequency": "annual",
+  "training_duration_minutes": 45,
+  "training_frequency": "yearly",
   "new_hire_deadline_days": 90,
   "new_hire_deadline_text": "within 90 days of hire",
   "signage_required": true,
@@ -14,17 +14,17 @@
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "Minnesota Department of Health"
+    "Minnesota Department of Health (MDH)"
   ],
   "applicable_to": [
     "owners",
     "managers",
-    "on-site employees"
+    "on-site employees",
+    "hotel/motel/short-term rental operators"
   ],
   "required_topics": [
-    "signs of sex trafficking",
-    "recognizing potential victims",
-    "steps to take in response to suspected cases"
+    "sex trafficking prevention",
+    "response procedures"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
@@ -37,29 +37,27 @@
     "minimum_size": null,
     "font_size": null,
     "posting_location": [
-      "back-of-house areas such as housekeeping, restaurant/bar, front desk/lobby, and security"
+      "back-of-house",
+      "housekeeping",
+      "restaurant/bar",
+      "front desk/lobby",
+      "security"
     ],
-    "required_content": []
+    "required_content": [
+      "sex trafficking prevention information"
+    ]
   },
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    {
-      "statute_name": "Minnesota Sex Trafficking Prevention Training Act",
-      "code_section": null,
-      "public_act": null
-    }
+    "Minnesota law"
   ],
   "source_urls": [
-    "https://www.health.state.mn.us/divs/ohp/humantrafficking/training.html"
+    "https://www.health.state.mn.us/divisions/lhd/hsb/publications/training/materials/stp-train-package"
   ],
-  "harbor_alliance_posture": "approval-required",
+  "harbor_alliance_posture": "immediate-entry",
   "harbor_alliance_actions": [],
-  "risks_or_constraints": [
-    "cost associated with compliance, such as printing posters"
-  ],
-  "notes": [
-    "The training can be accessed through the Minnesota Department of Health (MDH) Learning Center."
-  ],
+  "risks_or_constraints": [],
+  "notes": [],
   "needs_review": []
 }

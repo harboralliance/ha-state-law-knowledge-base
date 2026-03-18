@@ -1,0 +1,92 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 6",
+      "relevancy": "100% - 54%",
+      "count": 6,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zbed:(pos=1) AND Zbreakfast:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "KY",
+      "bill_number": "HB913",
+      "bill_id": 2129299,
+      "change_hash": "391dad4921717b2f223872793232d20e",
+      "url": "https://legiscan.com/KY/bill/HB913/2026",
+      "text_url": "https://legiscan.com/KY/text/HB913/2026",
+      "research_url": "https://legiscan.com/KY/research/HB913/2026",
+      "last_action_date": "2026-03-11",
+      "last_action": "to Licensing, Occupations, & Administrative Regulations (H)",
+      "title": "AN ACT relating to cannabis-infused beverages."
+    },
+    "1": {
+      "relevance": 97,
+      "state": "KY",
+      "bill_number": "HB704",
+      "bill_id": 2122669,
+      "change_hash": "997312851e70378f8f4cb1a5b62faff5",
+      "url": "https://legiscan.com/KY/bill/HB704/2026",
+      "text_url": "https://legiscan.com/KY/text/HB704/2026",
+      "research_url": "https://legiscan.com/KY/research/HB704/2026",
+      "last_action_date": "2026-03-03",
+      "last_action": "to Licensing, Occupations, & Administrative Regulations (H)",
+      "title": "AN ACT relating to alcoholic beverages."
+    },
+    "2": {
+      "relevance": 82,
+      "state": "KY",
+      "bill_number": "HB9",
+      "bill_id": 2129392,
+      "change_hash": "c14deca9c2e25ddef5c0da3de7b30fcd",
+      "url": "https://legiscan.com/KY/bill/HB9/2026",
+      "text_url": "https://legiscan.com/KY/text/HB9/2026",
+      "research_url": "https://legiscan.com/KY/research/HB9/2026",
+      "last_action_date": "2026-03-11",
+      "last_action": "to Committee on Committees (S)",
+      "title": "AN ACT relating to regulated substances and declaring an emergency."
+    },
+    "3": {
+      "relevance": 80,
+      "state": "KY",
+      "bill_number": "HB612",
+      "bill_id": 2113513,
+      "change_hash": "f863e92866f3e6e0bd692f8ef1a4758e",
+      "url": "https://legiscan.com/KY/bill/HB612/2026",
+      "text_url": "https://legiscan.com/KY/text/HB612/2026",
+      "research_url": "https://legiscan.com/KY/research/HB612/2026",
+      "last_action_date": "2026-02-18",
+      "last_action": "to Licensing, Occupations, & Administrative Regulations (H)",
+      "title": "AN ACT relating to regulated substances and declaring an emergency."
+    },
+    "4": {
+      "relevance": 77,
+      "state": "KY",
+      "bill_number": "HB896",
+      "bill_id": 2129142,
+      "change_hash": "0a88c0adda38115c06ff7b3a5c9f3fb8",
+      "url": "https://legiscan.com/KY/bill/HB896/2026",
+      "text_url": "https://legiscan.com/KY/text/HB896/2026",
+      "research_url": "https://legiscan.com/KY/research/HB896/2026",
+      "last_action_date": "2026-03-11",
+      "last_action": "to Licensing, Occupations, & Administrative Regulations (H)",
+      "title": "AN ACT relating to hemp products and declaring an emergency."
+    },
+    "5": {
+      "relevance": 54,
+      "state": "KY",
+      "bill_number": "HB895",
+      "bill_id": 2129372,
+      "change_hash": "9f962a0bd99f7b8476d0be553d202bda",
+      "url": "https://legiscan.com/KY/bill/HB895/2026",
+      "text_url": "https://legiscan.com/KY/text/HB895/2026",
+      "research_url": "https://legiscan.com/KY/research/HB895/2026",
+      "last_action_date": "2026-03-11",
+      "last_action": "to Licensing, Occupations, & Administrative Regulations (H)",
+      "title": "AN ACT relating to the regulation of psychoactive substances."
+    }
+  }
+}

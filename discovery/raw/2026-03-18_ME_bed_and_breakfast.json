@@ -1,0 +1,105 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 7",
+      "relevancy": "100% - 29%",
+      "count": 7,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zbed:(pos=1) AND Zbreakfast:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "ME",
+      "bill_number": "LD494",
+      "bill_id": 1960063,
+      "change_hash": "f2eb650fd1dd9a161fe90600954ea834",
+      "url": "https://legiscan.com/ME/bill/LD494/2025",
+      "text_url": "https://legiscan.com/ME/text/LD494/2025",
+      "research_url": "https://legiscan.com/ME/research/LD494/2025",
+      "last_action_date": "2025-06-03",
+      "last_action": "PASSED TO BE ENACTED - Emergency - 2/3 Elected Required, in concurrence.",
+      "title": "An Act to Update and Clarify Certain Provisions of State Liquor and Lottery Laws"
+    },
+    "1": {
+      "relevance": 95,
+      "state": "ME",
+      "bill_number": "LD1959",
+      "bill_id": 2029192,
+      "change_hash": "cdf222cb75894c82cfbc2ad9266fa663",
+      "url": "https://legiscan.com/ME/bill/LD1959/2025",
+      "text_url": "https://legiscan.com/ME/text/LD1959/2025",
+      "research_url": "https://legiscan.com/ME/research/LD1959/2025",
+      "last_action_date": "2026-03-12",
+      "last_action": "Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)",
+      "title": "An Act to Prohibit the Department of Health and Human Services from Reducing General Assistance Reimbursement Maximums for Payment of Costs of Providing Emergency Shelter"
+    },
+    "2": {
+      "relevance": 94,
+      "state": "ME",
+      "bill_number": "LD1928",
+      "bill_id": 2028548,
+      "change_hash": "91e179b5f136917909c077804fbdd14e",
+      "url": "https://legiscan.com/ME/bill/LD1928/2025",
+      "text_url": "https://legiscan.com/ME/text/LD1928/2025",
+      "research_url": "https://legiscan.com/ME/research/LD1928/2025",
+      "last_action_date": "2025-06-13",
+      "last_action": "Placed in Legislative Files (DEAD)",
+      "title": "An Act to Prohibit Lodging Establishments from Providing Single-use Plastic Containers"
+    },
+    "3": {
+      "relevance": 94,
+      "state": "ME",
+      "bill_number": "LD2012",
+      "bill_id": 2056533,
+      "change_hash": "967bf5dfb2bf14f1037a5c8f9de9bc43",
+      "url": "https://legiscan.com/ME/bill/LD2012/2025",
+      "text_url": "https://legiscan.com/ME/text/LD2012/2025",
+      "research_url": "https://legiscan.com/ME/research/LD2012/2025",
+      "last_action_date": "2026-01-14",
+      "last_action": "Voted: OTP-AM",
+      "title": "An Act to Amend the Laws Governing Carbon Monoxide Detectors"
+    },
+    "4": {
+      "relevance": 90,
+      "state": "ME",
+      "bill_number": "LD1737",
+      "bill_id": 2025115,
+      "change_hash": "09e32175242c8650752c49df498217e0",
+      "url": "https://legiscan.com/ME/bill/LD1737/2025",
+      "text_url": "https://legiscan.com/ME/text/LD1737/2025",
+      "research_url": "https://legiscan.com/ME/research/LD1737/2025",
+      "last_action_date": "2026-02-03",
+      "last_action": "Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)",
+      "title": "An Act to Ensure the Future of Maine's Sporting Camp Heritage"
+    },
+    "5": {
+      "relevance": 69,
+      "state": "ME",
+      "bill_number": "LD210",
+      "bill_id": 1918681,
+      "change_hash": "dd2c910f657cacb6304802dcec571942",
+      "url": "https://legiscan.com/ME/bill/LD210/2025",
+      "text_url": "https://legiscan.com/ME/text/LD210/2025",
+      "research_url": "https://legiscan.com/ME/research/LD210/2025",
+      "last_action_date": "2025-06-18",
+      "last_action": "Roll Call Ordered Roll Call Number 635 Yeas 19 - Nays 15 - Excused 1 - Absent 0",
+      "title": "An Act Making Unified Appropriations and Allocations from the General Fund and Other Funds for the Expenditures of State Government and Changing Certain Provisions of the Law Necessary to the Proper Operations of State Government for the Fiscal Years Ending June 30, 2025, June 30, 2026 and June 30, 2027"
+    },
+    "6": {
+      "relevance": 29,
+      "state": "ME",
+      "bill_number": "LD609",
+      "bill_id": 1977804,
+      "change_hash": "7ce76c2d531ea3d27495fac553636d1a",
+      "url": "https://legiscan.com/ME/bill/LD609/2025",
+      "text_url": "https://legiscan.com/ME/text/LD609/2025",
+      "research_url": "https://legiscan.com/ME/research/LD609/2025",
+      "last_action_date": "2025-03-20",
+      "last_action": "Roll Call Ordered Roll Call Number 63 Yeas 20 - Nays 15 - Excused 0 - Absent 0",
+      "title": "An Act Making Certain Appropriations and Allocations and Changing Certain Provisions of Law Necessary to the Proper Operations of State Government"
+    }
+  }
+}

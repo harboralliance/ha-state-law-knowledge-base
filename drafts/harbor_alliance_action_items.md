@@ -1,53 +1,33 @@
 # Harbor Alliance Action Items
 
 ## Texas
-
-**Next Steps:**
-- Ensure all commercial lodging establishments with 10 or more rooms provide annual human trafficking training as per HB 390.
-- Promote availability of approved training videos through local chambers of commerce and hotel associations.
-
-**Immediate Market Entry States:** NONE
-
-**Approval, Outreach, or Special Handling Needed:** NONE
+- **Immediate Market Entry:** Immediate market entry allowed as long as employees complete required human trafficking training annually.
+- **Next Steps:**
+  - Ensure all employees complete annual training by December 31, 2026.
+  - Verify compliance with the Office of the Attorney General's approved training videos.
 
 ## California
-
-**Next Steps:**
-- Implement mandatory human trafficking training for hotel and motel employees by January 1, 2020.
-- Promote the use of resources such as CAST and NHTRC for additional support.
-
-**Immediate Market Entry States:** NONE
-
-**Approval, Outreach, or Special Handling Needed:** NONE
+- **Immediate Market Entry:** Immediate market entry allowed as long as employees receive the required 20-minute classroom or interactive training.
+- **Next Steps:**
+  - Conduct initial training within the first six months of employment for new hires and annually thereafter.
+  - Encourage the use of resources provided by organizations like CAST and NHTRC.
 
 ## Illinois
-
-**Next Steps:**
-- Develop a comprehensive training program in accordance with Act 2026 requirements.
-- Provide training to all relevant staff within six months of employment and every two years thereafter.
-- Monitor compliance through local government units and law enforcement agencies.
-
-**Immediate Market Entry States:** NONE
-
-**Approval, Outreach, or Special Handling Needed:** NONE
+- **Immediate Market Entry:** Immediate market entry allowed as long as employees complete the required human trafficking recognition training within six months of starting in a relevant role and every two years afterward.
+- **Next Steps:**
+  - Ensure all relevant staff complete the initial training by September 30, 2026.
+  - Verify compliance with the Department's model curriculum or third-party programs.
 
 ## Minnesota
-
-**Next Steps:**
-- Ensure all hotel, motel, and short-term rental staff complete the mandatory sex trafficking prevention training within 90 days of hire.
-- Review and update training materials as necessary to align with any changes in legislation.
-
-**Immediate Market Entry States:** NONE
-
-**Approval, Outreach, or Special Handling Needed:** NONE
+- **Immediate Market Entry:** Immediate market entry allowed as long as employees complete the required training within 90 days of hire and annually thereafter.
+- **Next Steps:**
+  - Provide new employees with training within 90 days of hire by May 31, 2026.
+  - Ensure all staff retake the training annually.
 
 ## Connecticut
+- **Immediate Market Entry:** Immediate market entry allowed as long as employees complete the required trainings in human trafficking for their respective industries.
+- **Next Steps:**
+  - Conduct initial training within six months of employment and every year thereafter.
+  - Verify compliance with state-mandated training programs specific to foster care, law enforcement, healthcare providers, and hotel/motel industry.
 
-**Next Steps:**
-- Implement required trainings for foster parents, law enforcement, healthcare providers, and hotel/motel industry staff.
-- Ensure compliance with mandatory data reporting requirements.
-- Collaborate with local authorities to enhance response capabilities.
-
-**Immediate Market Entry States:** NONE
-
-**Approval, Outreach, or Special Handling Needed:** NONE
+These action items ensure that Harbor Alliance members are fully compliant with the requirements in each state, allowing for seamless market entry while upholding the necessary standards.

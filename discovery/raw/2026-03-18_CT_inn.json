@@ -1,0 +1,40 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 2",
+      "relevancy": "100% - 71%",
+      "count": 2,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zinn:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "CT",
+      "bill_number": "SB00116",
+      "bill_id": 2112076,
+      "change_hash": "56e1b26c6b43350f7667117e5854e669",
+      "url": "https://legiscan.com/CT/bill/SB00116/2026",
+      "text_url": "https://legiscan.com/CT/text/SB00116/2026",
+      "research_url": "https://legiscan.com/CT/research/SB00116/2026",
+      "last_action_date": "2026-03-12",
+      "last_action": "Filed with Legislative Commissioners' Office",
+      "title": "An Act Concerning The Prevention Of Human Trafficking."
+    },
+    "1": {
+      "relevance": 71,
+      "state": "CT",
+      "bill_number": "HB05563",
+      "bill_id": 2132494,
+      "change_hash": "d23d6855dd95dbb55eba3f8179a132cb",
+      "url": "https://legiscan.com/CT/bill/HB05563/2026",
+      "text_url": "https://legiscan.com/CT/text/HB05563/2026",
+      "research_url": "https://legiscan.com/CT/research/HB05563/2026",
+      "last_action_date": "2026-03-13",
+      "last_action": "Public Hearing 03/18",
+      "title": "An Act Concerning Various Criminal Law Proposals."
+    }
+  }
+}

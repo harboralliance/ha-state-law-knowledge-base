@@ -1,0 +1,27 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 1",
+      "relevancy": "100% - 100%",
+      "count": 1,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zinn:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "NE",
+      "bill_number": "LB320",
+      "bill_id": 1922589,
+      "change_hash": "e68b834158a430601191277ecb9b287c",
+      "url": "https://legiscan.com/NE/bill/LB320/2025",
+      "text_url": "https://legiscan.com/NE/text/LB320/2025",
+      "research_url": "https://legiscan.com/NE/research/LB320/2025",
+      "last_action_date": "2026-02-25",
+      "last_action": "Approved by Governor on February 24, 2026",
+      "title": "Require hotels and similar public lodging establishments to display posters relating to human trafficking, provide for training regarding recognition of human trafficking for employees of such establishments, and limit liability for human trafficking activity at such establishments"
+    }
+  }
+}

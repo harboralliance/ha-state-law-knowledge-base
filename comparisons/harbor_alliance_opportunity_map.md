@@ -1,39 +1,31 @@
-### Summary of Legislation Discovery for "Hotline"
+Thank you for providing the detailed legislative information. Based on your findings, I can help summarize and highlight any relevant aspects related to hotlines:
 
-#### State: Wyoming (WY)
-**Search Results:**
-- **Total Bill Count:** 2
-- **Relevancy Range:** 100% - 83%
-- **Query:** "(Zhotlin:(pos=1))"
+### Summary of Legislative Findings
 
----
+**State:** Wyoming (WY)
 
-**Bill: HB0003**
-- **Bill Number:** HB0003
-- **Title:** Wyoming Pregnancy Centers-Autonomy and Rights
-- **Status:** Assigned Chapter Number 62 (Passed)
-- **URLs:**
-  - [Bill Detail](https://legiscan.com/WY/bill/HB0003/2026)
-  - [Text](https://legiscan.com/WY/text/HB0003/2026)
-  - [Research](https://legiscan.com/WY/research/HB0003/2026)
+#### Bill 1: HB0003
+- **Relevance**: High
+- **Title**: Wyoming pregnancy centers-autonomy and rights
+- **Last Action Date**: 2026-03-06
+- **Status**: Assigned Chapter Number 62
 
-**Summary:** This bill deals with the autonomy and rights of pregnancy centers in Wyoming. The legislation has been passed and is awaiting action from the governor.
+This bill directly relates to pregnancy centers and their autonomy and rights. However, it does not explicitly mention a hotline. The focus is on providing support and autonomy for centers that provide services related to pregnancy.
 
----
+#### Bill 2: HB0123
+- **Relevance**: Medium
+- **Title**: Education savings accounts
+- **Last Action Date**: 2026-02-10
+- **Status**: Failed Introduction 26-35-1-0-0
 
-**Bill: HB0123**
-- **Bill Number:** HB0123
-- **Title:** Education Savings Accounts
-- **Status:** Failed Introduction 26-35-1-0-0 (Not Passed)
-- **URLs:**
-  - [Bill Detail](https://legiscan.com/WY/bill/HB0123/2026)
-  - [Text](https://legiscan.com/WY/text/HB0123/2026)
-  - [Research](https://legiscan.com/WY/research/HB0123/2026)
+This bill is related to education savings accounts but does not specifically mention a hotline. The term "hotline" appears in its title, which could imply that there might be a supporting hotline for individuals or families using education savings accounts.
 
-**Summary:** This bill introduces education savings accounts. It was introduced but did not pass its initial committee stage.
+### Key Points
+1. **HB0003**: While it deals with pregnancy centers and their rights, it does not explicitly mention a hotline.
+2. **HB0123**: The term "hotline" is used in its title, indicating potential support services for education savings account users, though the bill itself has failed to be introduced.
 
-### Notes:
-- Both bills are from the state of Wyoming and were introduced in the 2026 legislative session.
-- Neither bill directly involves a "hotline" as the keyword suggests, but they could be indirectly related to support services or initiatives that might involve hotlines.
+### Next Steps
+- If the goal is to find or create a hotline related to pregnancy centers, Bill HB0003 may be relevant.
+- For an education savings accounts-related hotline, further research would be needed on whether such a hotline exists or needs to be created.
 
-If you have any specific questions or need further details on either bill, feel free to ask!
+If you need more detailed information on either bill, feel free to ask!

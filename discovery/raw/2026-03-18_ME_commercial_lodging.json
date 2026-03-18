@@ -1,0 +1,66 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 4",
+      "relevancy": "100% - 36%",
+      "count": 4,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zcommerci:(pos=1) AND Zlodg:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "ME",
+      "bill_number": "LD1737",
+      "bill_id": 2025115,
+      "change_hash": "09e32175242c8650752c49df498217e0",
+      "url": "https://legiscan.com/ME/bill/LD1737/2025",
+      "text_url": "https://legiscan.com/ME/text/LD1737/2025",
+      "research_url": "https://legiscan.com/ME/research/LD1737/2025",
+      "last_action_date": "2026-02-03",
+      "last_action": "Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)",
+      "title": "An Act to Ensure the Future of Maine's Sporting Camp Heritage"
+    },
+    "1": {
+      "relevance": 79,
+      "state": "ME",
+      "bill_number": "LD1957",
+      "bill_id": 2029066,
+      "change_hash": "847936c4bebc3089d96a3e6c64ff59ad",
+      "url": "https://legiscan.com/ME/bill/LD1957/2025",
+      "text_url": "https://legiscan.com/ME/text/LD1957/2025",
+      "research_url": "https://legiscan.com/ME/research/LD1957/2025",
+      "last_action_date": "2026-03-11",
+      "last_action": "Voted: Divided Report",
+      "title": "An Act to Promote Film Production in Maine"
+    },
+    "2": {
+      "relevance": 67,
+      "state": "ME",
+      "bill_number": "LD288",
+      "bill_id": 1949029,
+      "change_hash": "1e6ee9f7f78aab2b8ddf36666ec5f2a3",
+      "url": "https://legiscan.com/ME/bill/LD288/2025",
+      "text_url": "https://legiscan.com/ME/text/LD288/2025",
+      "research_url": "https://legiscan.com/ME/research/LD288/2025",
+      "last_action_date": "2025-05-22",
+      "last_action": "PASSED TO BE ENACTED, in concurrence.",
+      "title": "An Act to Make Technical Changes to Maine's Tax Laws"
+    },
+    "3": {
+      "relevance": 36,
+      "state": "ME",
+      "bill_number": "LD609",
+      "bill_id": 1977804,
+      "change_hash": "7ce76c2d531ea3d27495fac553636d1a",
+      "url": "https://legiscan.com/ME/bill/LD609/2025",
+      "text_url": "https://legiscan.com/ME/text/LD609/2025",
+      "research_url": "https://legiscan.com/ME/research/LD609/2025",
+      "last_action_date": "2025-03-20",
+      "last_action": "Roll Call Ordered Roll Call Number 63 Yeas 20 - Nays 15 - Excused 0 - Absent 0",
+      "title": "An Act Making Certain Appropriations and Allocations and Changing Certain Provisions of Law Necessary to the Proper Operations of State Government"
+    }
+  }
+}

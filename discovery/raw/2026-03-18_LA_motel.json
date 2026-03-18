@@ -1,0 +1,79 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 5",
+      "relevancy": "100% - 25%",
+      "count": 5,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zmotel:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "LA",
+      "bill_number": "HB483",
+      "bill_id": 2125399,
+      "change_hash": "728ccb143d101c6271d51423885c069a",
+      "url": "https://legiscan.com/LA/bill/HB483/2026",
+      "text_url": "https://legiscan.com/LA/text/HB483/2026",
+      "research_url": "https://legiscan.com/LA/research/HB483/2026",
+      "last_action_date": "2026-02-27",
+      "last_action": "First appeared in the Interim Calendar on 2/27/2026.",
+      "title": "Provides relative to the Faubourg Marigny Security and Improvement District in Orleans Parish"
+    },
+    "1": {
+      "relevance": 94,
+      "state": "LA",
+      "bill_number": "HB247",
+      "bill_id": 2121122,
+      "change_hash": "cac3e59f0cac5deee07d1ef191c35465",
+      "url": "https://legiscan.com/LA/bill/HB247/2026",
+      "text_url": "https://legiscan.com/LA/text/HB247/2026",
+      "research_url": "https://legiscan.com/LA/research/HB247/2026",
+      "last_action_date": "2026-03-09",
+      "last_action": "Read by title, under the rules, referred to the Committee on Municipal, Parochial and Cultural Affairs.",
+      "title": "Creates the Allen Parish Economic Development District and abolishes the Allen Parish Tourist Commission"
+    },
+    "2": {
+      "relevance": 83,
+      "state": "LA",
+      "bill_number": "SB282",
+      "bill_id": 2126243,
+      "change_hash": "ef3d680125ca01c9e378dfd365018b1a",
+      "url": "https://legiscan.com/LA/bill/SB282/2026",
+      "text_url": "https://legiscan.com/LA/text/SB282/2026",
+      "research_url": "https://legiscan.com/LA/research/SB282/2026",
+      "last_action_date": "2026-03-09",
+      "last_action": "Introduced in the Senate; read by title. Rules suspended. Read second time and referred to the Committee on Local and Municipal Affairs.",
+      "title": "Authorizes the creation of a cooperative economic development district affiliated with Baton Rouge Community College in East Baton Rouge Parish. (gov sig)"
+    },
+    "3": {
+      "relevance": 76,
+      "state": "LA",
+      "bill_number": "HB899",
+      "bill_id": 2127053,
+      "change_hash": "f28b243621861b6db596b9020d45159d",
+      "url": "https://legiscan.com/LA/bill/HB899/2026",
+      "text_url": "https://legiscan.com/LA/text/HB899/2026",
+      "research_url": "https://legiscan.com/LA/research/HB899/2026",
+      "last_action_date": "2026-03-09",
+      "last_action": "Read by title, under the rules, referred to the Committee on Natural Resources and Environment.",
+      "title": "Provides with respect to land reclamation following non-coal mining"
+    },
+    "4": {
+      "relevance": 25,
+      "state": "LA",
+      "bill_number": "HB1",
+      "bill_id": 2121126,
+      "change_hash": "d969774a1960d48d1cc7ca58d43c778b",
+      "url": "https://legiscan.com/LA/bill/HB1/2026",
+      "text_url": "https://legiscan.com/LA/text/HB1/2026",
+      "research_url": "https://legiscan.com/LA/research/HB1/2026",
+      "last_action_date": "2026-03-09",
+      "last_action": "Read by title, under the rules, referred to the Committee on Appropriations.",
+      "title": "Provides for the ordinary operating expenses of state government for Fiscal Year 2026-2027"
+    }
+  }
+}
