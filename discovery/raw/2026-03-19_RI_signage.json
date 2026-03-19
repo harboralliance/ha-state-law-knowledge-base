@@ -1,0 +1,131 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 9",
+      "relevancy": "100% - 86%",
+      "count": 9,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zsignag:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "RI",
+      "bill_number": "S2995",
+      "bill_id": 2129190,
+      "change_hash": "9d346a3fa87b98d0828c5d6a3bd246cf",
+      "url": "https://legiscan.com/RI/bill/S2995/2026",
+      "text_url": "https://legiscan.com/RI/text/S2995/2026",
+      "research_url": "https://legiscan.com/RI/research/S2995/2026",
+      "last_action_date": "2026-03-04",
+      "last_action": "Introduced, referred to Senate Special Legislation and Veterans Affairs",
+      "title": "Updates disability parking space signage and enables municipalities to participate in the parking mobility app program where individuals submit photos on the app of vehicles parked in spaces designated for individuals with disabilities."
+    },
+    "1": {
+      "relevance": 99,
+      "state": "RI",
+      "bill_number": "H7050",
+      "bill_id": 2069599,
+      "change_hash": "f232569e5b2b5a48d3a0611245626c4e",
+      "url": "https://legiscan.com/RI/bill/H7050/2026",
+      "text_url": "https://legiscan.com/RI/text/H7050/2026",
+      "research_url": "https://legiscan.com/RI/research/H7050/2026",
+      "last_action_date": "2026-03-13",
+      "last_action": "Scheduled for consideration (03/19/2026)",
+      "title": "Updates disability parking space signage and enables municipalities to participate in the parking mobility app program where individuals submit photos on the app of vehicles parked in spaces designated for individuals with disabilities."
+    },
+    "2": {
+      "relevance": 93,
+      "state": "RI",
+      "bill_number": "H7667",
+      "bill_id": 2114155,
+      "change_hash": "42a749f558d0cb7d02f95890df28f644",
+      "url": "https://legiscan.com/RI/bill/H7667/2026",
+      "text_url": "https://legiscan.com/RI/text/H7667/2026",
+      "research_url": "https://legiscan.com/RI/research/H7667/2026",
+      "last_action_date": "2026-03-03",
+      "last_action": "Committee recommended measure be held for further study",
+      "title": "Provides specific language for signs to be posted at certain establishments notifying people of contact information to the national human trafficking resource center."
+    },
+    "3": {
+      "relevance": 92,
+      "state": "RI",
+      "bill_number": "H7345",
+      "bill_id": 2097981,
+      "change_hash": "487cbe8fd9182ca62ee43c381bfe05f3",
+      "url": "https://legiscan.com/RI/bill/H7345/2026",
+      "text_url": "https://legiscan.com/RI/text/H7345/2026",
+      "research_url": "https://legiscan.com/RI/research/H7345/2026",
+      "last_action_date": "2026-01-31",
+      "last_action": "Committee postponed at request of sponsor (02/03/2026)",
+      "title": "Establishes the Healthy Kids Act whereby restaurants would be required to offer at least two (2) healthy versions of children's meals, or twenty-five percent (25%) of the children's meals on its menu, whichever is greater."
+    },
+    "4": {
+      "relevance": 92,
+      "state": "RI",
+      "bill_number": "S2113",
+      "bill_id": 2084478,
+      "change_hash": "6d7579449f1af9a528cce663d50e37ce",
+      "url": "https://legiscan.com/RI/bill/S2113/2026",
+      "text_url": "https://legiscan.com/RI/text/S2113/2026",
+      "research_url": "https://legiscan.com/RI/research/S2113/2026",
+      "last_action_date": "2026-02-25",
+      "last_action": "Meeting postponed (02/26/2026)",
+      "title": "Mandates that all restaurants offering children's meals offer at least two (2) children's meals that complies with certain detailed nutritional standards set forth in the act."
+    },
+    "5": {
+      "relevance": 91,
+      "state": "RI",
+      "bill_number": "H7027",
+      "bill_id": 2069709,
+      "change_hash": "eb0bf2b5d7e451c87daa92a6d59f625a",
+      "url": "https://legiscan.com/RI/bill/H7027/2026",
+      "text_url": "https://legiscan.com/RI/text/H7027/2026",
+      "research_url": "https://legiscan.com/RI/research/H7027/2026",
+      "last_action_date": "2026-01-27",
+      "last_action": "Committee recommended measure be held for further study",
+      "title": "Expands the requirement that all high schools and middle schools, whether they are publicly or privately run to maintain on site a functional AED while establishing and implementing a cardiac emergency response plan in these schools."
+    },
+    "6": {
+      "relevance": 91,
+      "state": "RI",
+      "bill_number": "S2079",
+      "bill_id": 2084116,
+      "change_hash": "83ec910c3fa751bbf98459a3f65e0765",
+      "url": "https://legiscan.com/RI/bill/S2079/2026",
+      "text_url": "https://legiscan.com/RI/text/S2079/2026",
+      "research_url": "https://legiscan.com/RI/research/S2079/2026",
+      "last_action_date": "2026-03-11",
+      "last_action": "Committee recommended measure be held for further study",
+      "title": "Expands the requirement that all high schools and middle schools, whether they are publicly or privately run to maintain on site a functional AED while establishing and implementing a cardiac emergency response plan in these schools."
+    },
+    "7": {
+      "relevance": 86,
+      "state": "RI",
+      "bill_number": "S2751",
+      "bill_id": 2126825,
+      "change_hash": "5cc6620ff17c5bbe9e5d82a82c899254",
+      "url": "https://legiscan.com/RI/bill/S2751/2026",
+      "text_url": "https://legiscan.com/RI/text/S2751/2026",
+      "research_url": "https://legiscan.com/RI/research/S2751/2026",
+      "last_action_date": "2026-02-27",
+      "last_action": "Introduced, referred to Senate Special Legislation and Veterans Affairs",
+      "title": "Creates the RI Pedestrian Safety Act allows cities and town to use automated safety monitoring which a civil fine of $50 for violations."
+    },
+    "8": {
+      "relevance": 86,
+      "state": "RI",
+      "bill_number": "H8012",
+      "bill_id": 2126475,
+      "change_hash": "e9c6da6a019c8ca6ed4cceba3dd6080f",
+      "url": "https://legiscan.com/RI/bill/H8012/2026",
+      "text_url": "https://legiscan.com/RI/text/H8012/2026",
+      "research_url": "https://legiscan.com/RI/research/H8012/2026",
+      "last_action_date": "2026-02-27",
+      "last_action": "Introduced, referred to House Municipal Government & Housing",
+      "title": "Creates the RI Pedestrian Safety Act allows cities and town to use automated safety monitoring which a civil fine of $50 for violations."
+    }
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 9",
+      "relevancy": "100% - 33%",
+      "count": 9,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zhotlin:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "OH",
+      "bill_number": "SB194",
+      "bill_id": 2031172,
+      "change_hash": "1f9abbf5e8e6f604ff63a16135a8aee8",
+      "url": "https://legiscan.com/OH/bill/SB194/2025",
+      "text_url": "https://legiscan.com/OH/text/SB194/2025",
+      "research_url": "https://legiscan.com/OH/research/SB194/2025",
+      "last_action_date": "2025-05-14",
+      "last_action": "Referred to committee: Government Oversight and Reform",
+      "title": "Make various changes to public assistance benefits programs"
+    },
+    "1": {
+      "relevance": 100,
+      "state": "OH",
+      "bill_number": "HB524",
+      "bill_id": 2046538,
+      "change_hash": "9791c6bd07f19599c1d5541a22220c06",
+      "url": "https://legiscan.com/OH/bill/HB524/2025",
+      "text_url": "https://legiscan.com/OH/text/HB524/2025",
+      "research_url": "https://legiscan.com/OH/research/HB524/2025",
+      "last_action_date": "2025-10-22",
+      "last_action": "Referred to committee: Technology and Innovation",
+      "title": "Impose penalties for AI models suggesting harming self or another"
+    },
+    "2": {
+      "relevance": 100,
+      "state": "OH",
+      "bill_number": "HB566",
+      "bill_id": 2051489,
+      "change_hash": "dde23653317437348fca6018614c1a6f",
+      "url": "https://legiscan.com/OH/bill/HB566/2025",
+      "text_url": "https://legiscan.com/OH/text/HB566/2025",
+      "research_url": "https://legiscan.com/OH/research/HB566/2025",
+      "last_action_date": "2025-11-05",
+      "last_action": "Referred to committee: Health",
+      "title": "Enact the Break the Silence Act"
+    },
+    "3": {
+      "relevance": 100,
+      "state": "OH",
+      "bill_number": "SB315",
+      "bill_id": 2051663,
+      "change_hash": "0e35219e2a2dc7df51500790f4c41cb8",
+      "url": "https://legiscan.com/OH/bill/SB315/2025",
+      "text_url": "https://legiscan.com/OH/text/SB315/2025",
+      "research_url": "https://legiscan.com/OH/research/SB315/2025",
+      "last_action_date": "2025-11-05",
+      "last_action": "Referred to committee: Finance",
+      "title": "Enact the Enhanced Cybersecurity for SNAP Act"
+    },
+    "4": {
+      "relevance": 100,
+      "state": "OH",
+      "bill_number": "HB614",
+      "bill_id": 2054166,
+      "change_hash": "adf814736d40513a3e9ca2bc5eb8601f",
+      "url": "https://legiscan.com/OH/bill/HB614/2025",
+      "text_url": "https://legiscan.com/OH/text/HB614/2025",
+      "research_url": "https://legiscan.com/OH/research/HB614/2025",
+      "last_action_date": "2026-02-04",
+      "last_action": "Referred to committee: Public Safety",
+      "title": "Enact the Second Chance Safety Act"
+    },
+    "5": {
+      "relevance": 98,
+      "state": "OH",
+      "bill_number": "SB379",
+      "bill_id": 2134204,
+      "change_hash": "633e45d0f4bd1e7c8a638138c0ad0c13",
+      "url": "https://legiscan.com/OH/bill/SB379/2025",
+      "text_url": "https://legiscan.com/OH/text/SB379/2025",
+      "research_url": "https://legiscan.com/OH/research/SB379/2025",
+      "last_action_date": "2026-03-16",
+      "last_action": "Introduced",
+      "title": "Enact Hailey's Law"
+    },
+    "6": {
+      "relevance": 83,
+      "state": "OH",
+      "bill_number": "HB434",
+      "bill_id": 2043073,
+      "change_hash": "5028d1bc91446563f3501ff34493b874",
+      "url": "https://legiscan.com/OH/bill/HB434/2025",
+      "text_url": "https://legiscan.com/OH/text/HB434/2025",
+      "research_url": "https://legiscan.com/OH/research/HB434/2025",
+      "last_action_date": "2025-11-25",
+      "last_action": "Effective Emergency Act; Appropriations effective 11/25/25; Amendments to R.C. 2303.201 effective March 30, 2026",
+      "title": "Exempt military driver's license applicants from driver's ed"
+    },
+    "7": {
+      "relevance": 56,
+      "state": "OH",
+      "bill_number": "HB96",
+      "bill_id": 1966320,
+      "change_hash": "2d9e666a9894139fb859884eaba9add5",
+      "url": "https://legiscan.com/OH/bill/HB96/2025",
+      "text_url": "https://legiscan.com/OH/text/HB96/2025",
+      "research_url": "https://legiscan.com/OH/research/HB96/2025",
+      "last_action_date": "2025-06-30",
+      "last_action": "Effective Operating appropriations effective June 30, 2025. Other provisions generally effective September 30, 2025. Some provisions subject to special effective dates.",
+      "title": "Make state operating appropriations for FY 2026-27"
+    },
+    "8": {
+      "relevance": 33,
+      "state": "OH",
+      "bill_number": "SB145",
+      "bill_id": 2005582,
+      "change_hash": "55906e872e4f003434a356c93966fd18",
+      "url": "https://legiscan.com/OH/bill/SB145/2025",
+      "text_url": "https://legiscan.com/OH/text/SB145/2025",
+      "research_url": "https://legiscan.com/OH/research/SB145/2025",
+      "last_action_date": "2025-03-19",
+      "last_action": "Referred to committee: Housing",
+      "title": "Rename the Department of Development; modify the housing law"
+    }
+  }
+}

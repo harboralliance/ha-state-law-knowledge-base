@@ -1,0 +1,53 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 3",
+      "relevancy": "100% - 85%",
+      "count": 3,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zhotlin:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "ND",
+      "bill_number": "SB2200",
+      "bill_id": 1917725,
+      "change_hash": "a73802bf858d6cb20fc9b483eaf6a75e",
+      "url": "https://legiscan.com/ND/bill/SB2200/2025",
+      "text_url": "https://legiscan.com/ND/text/SB2200/2025",
+      "research_url": "https://legiscan.com/ND/research/SB2200/2025",
+      "last_action_date": "2025-05-02",
+      "last_action": "Filed with Secretary Of State 04/30",
+      "title": "AN ACT to provide an appropriation to the department of health and human services for the 988 crisis hotline program."
+    },
+    "1": {
+      "relevance": 87,
+      "state": "ND",
+      "bill_number": "SB2281",
+      "bill_id": 1930647,
+      "change_hash": "4385268c495ef9550b80f1d5ed326252",
+      "url": "https://legiscan.com/ND/bill/SB2281/2025",
+      "text_url": "https://legiscan.com/ND/text/SB2281/2025",
+      "research_url": "https://legiscan.com/ND/research/SB2281/2025",
+      "last_action_date": "2025-03-12",
+      "last_action": "Second reading, failed to pass, yeas 21 nays 70",
+      "title": "The definition of alternative tobacco products, transfer and allocation of tobacco products tax revenue and tax on cigarettes; to provide a penalty; to provide a continuing appropriation; and to provide an effective date."
+    },
+    "2": {
+      "relevance": 85,
+      "state": "ND",
+      "bill_number": "HB1012",
+      "bill_id": 1899501,
+      "change_hash": "28a82c392d1d4f1396a991f1d3f0eb00",
+      "url": "https://legiscan.com/ND/bill/HB1012/2025",
+      "text_url": "https://legiscan.com/ND/text/HB1012/2025",
+      "research_url": "https://legiscan.com/ND/research/HB1012/2025",
+      "last_action_date": "2025-06-11",
+      "last_action": "Filed with Secretary Of State 05/19",
+      "title": "Leases of department of health and human services property, substance use disorder treatment program, basic care payment rates, state of residence for child care assistance, opioid settlement advisory committee, and children's cabinet; to provide for a transfer; to authorize a line of credit; to provide legislative intent; to provide for a legislative management study; to provide an application; to provide an exemption; to provide for a report; and to provide an effective date."
+    }
+  }
+}

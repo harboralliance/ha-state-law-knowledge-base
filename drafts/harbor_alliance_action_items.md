@@ -1,33 +1,31 @@
 # Harbor Alliance Action Items
 
 ## Texas
-- **Immediate Market Entry:** Immediate market entry allowed as long as employees complete required human trafficking training annually.
-- **Next Steps:**
-  - Ensure all employees complete annual training by December 31, 2026.
-  - Verify compliance with the Office of the Attorney General's approved training videos.
+- **Immediate Market Entry:** NOT ALLOWED
+- **Action Items:**
+  - Review House Bill 390 requirements for human trafficking training.
+  - Ensure compliance with annual training for all employees in commercial lodging establishments with 10 or more rooms and all other lodging establishments.
 
 ## California
-- **Immediate Market Entry:** Immediate market entry allowed as long as employees receive the required 20-minute classroom or interactive training.
-- **Next Steps:**
-  - Conduct initial training within the first six months of employment for new hires and annually thereafter.
-  - Encourage the use of resources provided by organizations like CAST and NHTRC.
+- **Immediate Market Entry:** ALLOWED (Training completed by January 2020)
+- **Action Items:**
+  - Review Senate Bill 970 requirements for human trafficking training.
+  - Ensure ongoing compliance with annual training for employees in hotels and motels interacting with the public.
 
 ## Illinois
-- **Immediate Market Entry:** Immediate market entry allowed as long as employees complete the required human trafficking recognition training within six months of starting in a relevant role and every two years afterward.
-- **Next Steps:**
-  - Ensure all relevant staff complete the initial training by September 30, 2026.
-  - Verify compliance with the Department's model curriculum or third-party programs.
+- **Immediate Market Entry:** NOT ALLOWED
+- **Action Items:**
+  - Review Act 2026 requirements for human trafficking recognition training.
+  - Provide training to all relevant staff within six months of employment and every two years thereafter.
 
 ## Minnesota
-- **Immediate Market Entry:** Immediate market entry allowed as long as employees complete the required training within 90 days of hire and annually thereafter.
-- **Next Steps:**
-  - Provide new employees with training within 90 days of hire by May 31, 2026.
-  - Ensure all staff retake the training annually.
+- **Immediate Market Entry:** NOT ALLOWED
+- **Action Items:**
+  - Review Minnesota Lodging Sex Trafficking Prevention and Response Training requirements.
+  - Ensure completion of the required training for all owners, managers, and on-site employees by June 2023.
 
 ## Connecticut
-- **Immediate Market Entry:** Immediate market entry allowed as long as employees complete the required trainings in human trafficking for their respective industries.
-- **Next Steps:**
-  - Conduct initial training within six months of employment and every year thereafter.
-  - Verify compliance with state-mandated training programs specific to foster care, law enforcement, healthcare providers, and hotel/motel industry.
-
-These action items ensure that Harbor Alliance members are fully compliant with the requirements in each state, allowing for seamless market entry while upholding the necessary standards.
+- **Immediate Market Entry:** ALLOWED (Training completed as part of state law)
+- **Action Items:**
+  - Review Connecticut's human trafficking legislation and reporting requirements.
+  - Ensure mandatory data reporting to state authorities.

@@ -1,0 +1,92 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 6",
+      "relevancy": "100% - 89%",
+      "count": 6,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zlabor:(pos=1) AND Ztraffick:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "RI",
+      "bill_number": "H7667",
+      "bill_id": 2114155,
+      "change_hash": "42a749f558d0cb7d02f95890df28f644",
+      "url": "https://legiscan.com/RI/bill/H7667/2026",
+      "text_url": "https://legiscan.com/RI/text/H7667/2026",
+      "research_url": "https://legiscan.com/RI/research/H7667/2026",
+      "last_action_date": "2026-03-03",
+      "last_action": "Committee recommended measure be held for further study",
+      "title": "Provides specific language for signs to be posted at certain establishments notifying people of contact information to the national human trafficking resource center."
+    },
+    "1": {
+      "relevance": 98,
+      "state": "RI",
+      "bill_number": "S2071",
+      "bill_id": 2082580,
+      "change_hash": "5e2f53e5f3d50a84ee4bb5045d1e6630",
+      "url": "https://legiscan.com/RI/bill/S2071/2026",
+      "text_url": "https://legiscan.com/RI/text/S2071/2026",
+      "research_url": "https://legiscan.com/RI/research/S2071/2026",
+      "last_action_date": "2026-01-15",
+      "last_action": "Senate read and passed",
+      "title": "SENATE RESOLUTION COMMEMORATING JANUARY OF 2026, AS \"RHODE ISLAND SLAVERY AND HUMAN TRAFFICKING PREVENTION MONTH\" IN THE STATE OF RHODE ISLAND"
+    },
+    "2": {
+      "relevance": 97,
+      "state": "RI",
+      "bill_number": "S2100",
+      "bill_id": 2084599,
+      "change_hash": "8be8f45cc406789d5ab3325cf7431eff",
+      "url": "https://legiscan.com/RI/bill/S2100/2026",
+      "text_url": "https://legiscan.com/RI/text/S2100/2026",
+      "research_url": "https://legiscan.com/RI/research/S2100/2026",
+      "last_action_date": "2026-01-16",
+      "last_action": "Introduced, referred to Senate Finance",
+      "title": "Requires that all monies received from the payment of fines under the Uniform Act on Prevention of and Remedies for Human Trafficking be deposited into the into the violent crimes indemnity account within the general fund."
+    },
+    "3": {
+      "relevance": 97,
+      "state": "RI",
+      "bill_number": "H7649",
+      "bill_id": 2114186,
+      "change_hash": "9b664644328a70a57bbea7da4d61d37d",
+      "url": "https://legiscan.com/RI/bill/H7649/2026",
+      "text_url": "https://legiscan.com/RI/text/H7649/2026",
+      "research_url": "https://legiscan.com/RI/research/H7649/2026",
+      "last_action_date": "2026-03-12",
+      "last_action": "Committee recommended measure be held for further study",
+      "title": "Requires that all monies received from the payment of fines under the Uniform Act on Prevention of and Remedies for Human Trafficking be deposited into the into the violent crimes indemnity account within the general fund."
+    },
+    "4": {
+      "relevance": 89,
+      "state": "RI",
+      "bill_number": "S2399",
+      "bill_id": 2102803,
+      "change_hash": "e0c9b565a9e161f17abf7aa0dc9bd32a",
+      "url": "https://legiscan.com/RI/bill/S2399/2026",
+      "text_url": "https://legiscan.com/RI/text/S2399/2026",
+      "research_url": "https://legiscan.com/RI/research/S2399/2026",
+      "last_action_date": "2026-01-30",
+      "last_action": "Introduced, referred to Senate Judiciary",
+      "title": "Decriminalizes certain commercial sexual activity. It would also include human trafficking as a racketeering activity and would allow expungements of certain convictions in \u00a7 11-34.1 after one year."
+    },
+    "5": {
+      "relevance": 89,
+      "state": "RI",
+      "bill_number": "H8057",
+      "bill_id": 2126192,
+      "change_hash": "3c3007d8f7e9c631b51fd0f1ff505748",
+      "url": "https://legiscan.com/RI/bill/H8057/2026",
+      "text_url": "https://legiscan.com/RI/text/H8057/2026",
+      "research_url": "https://legiscan.com/RI/research/H8057/2026",
+      "last_action_date": "2026-02-27",
+      "last_action": "Introduced, referred to House Judiciary",
+      "title": "Decriminalizes certain commercial sexual activity. It would also include human trafficking as a racketeering activity and would allow expungements of certain convictions in \u00a7 11-34.1 after one year."
+    }
+  }
+}

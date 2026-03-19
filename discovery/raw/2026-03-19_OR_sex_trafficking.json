@@ -1,0 +1,92 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 6",
+      "relevancy": "100% - 96%",
+      "count": 6,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zsex:(pos=1) AND Ztraffick:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "OR",
+      "bill_number": "HB4059",
+      "bill_id": 2101365,
+      "change_hash": "021385c398d47700e7c2806a863895e3",
+      "url": "https://legiscan.com/OR/bill/HB4059/2026",
+      "text_url": "https://legiscan.com/OR/text/HB4059/2026",
+      "research_url": "https://legiscan.com/OR/research/HB4059/2026",
+      "last_action_date": "2026-03-06",
+      "last_action": "In committee upon adjournment.",
+      "title": "Relating to child abuse; declaring an emergency."
+    },
+    "1": {
+      "relevance": 99,
+      "state": "OR",
+      "bill_number": "HB4042",
+      "bill_id": 2101239,
+      "change_hash": "9a435acb0e5c668ceffe8458e9954dc0",
+      "url": "https://legiscan.com/OR/bill/HB4042/2026",
+      "text_url": "https://legiscan.com/OR/text/HB4042/2026",
+      "research_url": "https://legiscan.com/OR/research/HB4042/2026",
+      "last_action_date": "2026-03-06",
+      "last_action": "At President's desk upon adjournment.",
+      "title": "Relating to the welfare of young people."
+    },
+    "2": {
+      "relevance": 98,
+      "state": "OR",
+      "bill_number": "SB1534",
+      "bill_id": 2101300,
+      "change_hash": "e3b1d296a4968cf3aa25c04a144a1040",
+      "url": "https://legiscan.com/OR/bill/SB1534/2026",
+      "text_url": "https://legiscan.com/OR/text/SB1534/2026",
+      "research_url": "https://legiscan.com/OR/research/SB1534/2026",
+      "last_action_date": "2026-03-06",
+      "last_action": "In committee upon adjournment.",
+      "title": "Relating to the welfare of young people; declaring an emergency."
+    },
+    "3": {
+      "relevance": 98,
+      "state": "OR",
+      "bill_number": "SB1532",
+      "bill_id": 2101231,
+      "change_hash": "5d49db46b30ca8dd3e942fd003d03355",
+      "url": "https://legiscan.com/OR/bill/SB1532/2026",
+      "text_url": "https://legiscan.com/OR/text/SB1532/2026",
+      "research_url": "https://legiscan.com/OR/research/SB1532/2026",
+      "last_action_date": "2026-03-17",
+      "last_action": "Effective date, March 10, 2026.",
+      "title": "Relating to services for vulnerable persons; and declaring an emergency."
+    },
+    "4": {
+      "relevance": 97,
+      "state": "OR",
+      "bill_number": "HB4157",
+      "bill_id": 2101457,
+      "change_hash": "5f0c60d151c41e023e2ed5efd206b347",
+      "url": "https://legiscan.com/OR/bill/HB4157/2026",
+      "text_url": "https://legiscan.com/OR/text/HB4157/2026",
+      "research_url": "https://legiscan.com/OR/research/HB4157/2026",
+      "last_action_date": "2026-03-05",
+      "last_action": "President signed.",
+      "title": "Relating to hearsay; and prescribing an effective date."
+    },
+    "5": {
+      "relevance": 96,
+      "state": "OR",
+      "bill_number": "SB1547",
+      "bill_id": 2101052,
+      "change_hash": "6b0429bdeea971e4d9f184ad1f971d95",
+      "url": "https://legiscan.com/OR/bill/SB1547/2026",
+      "text_url": "https://legiscan.com/OR/text/SB1547/2026",
+      "research_url": "https://legiscan.com/OR/research/SB1547/2026",
+      "last_action_date": "2026-03-17",
+      "last_action": "Effective date, June 5, 2026.",
+      "title": "Relating to licensed behavioral health and wellness practitioners; and prescribing an effective date."
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 7",
+      "relevancy": "100% - 64%",
+      "count": 7,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zlodg:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "NH",
+      "bill_number": "HB1324",
+      "bill_id": 2054425,
+      "change_hash": "bcaae5a07d249f5e8cf3ea1e731b4d1d",
+      "url": "https://legiscan.com/NH/bill/HB1324/2026",
+      "text_url": "https://legiscan.com/NH/text/HB1324/2026",
+      "research_url": "https://legiscan.com/NH/research/HB1324/2026",
+      "last_action_date": "2026-02-05",
+      "last_action": "Inexpedient to Legislate: Motion Adopted Voice Vote 02/05/2026 House Journal  3",
+      "title": "Exempting the land and buildings of Masonic lodges and associations from property taxation."
+    },
+    "1": {
+      "relevance": 95,
+      "state": "NH",
+      "bill_number": "HB1068",
+      "bill_id": 2052670,
+      "change_hash": "6e5ebeffbfac5bd0d48bec94a200e665",
+      "url": "https://legiscan.com/NH/bill/HB1068/2026",
+      "text_url": "https://legiscan.com/NH/text/HB1068/2026",
+      "research_url": "https://legiscan.com/NH/research/HB1068/2026",
+      "last_action_date": "2026-03-17",
+      "last_action": "Introduced 03/12/2026 and Referred to Ways and Means; Senate Journal 7",
+      "title": "Taxing certain occupants who have established permanent residences under the meals and rooms tax."
+    },
+    "2": {
+      "relevance": 95,
+      "state": "NH",
+      "bill_number": "HB1335",
+      "bill_id": 2054512,
+      "change_hash": "fdef9222ca56c6911a443d720fb2594c",
+      "url": "https://legiscan.com/NH/bill/HB1335/2026",
+      "text_url": "https://legiscan.com/NH/text/HB1335/2026",
+      "research_url": "https://legiscan.com/NH/research/HB1335/2026",
+      "last_action_date": "2026-03-17",
+      "last_action": "Introduced 03/12/2026 and Referred to Health and Human Services; Senate Journal 7",
+      "title": "Requiring health care providers to disclose to patients indirect financial incentives received by the provider."
+    },
+    "3": {
+      "relevance": 89,
+      "state": "NH",
+      "bill_number": "HR43",
+      "bill_id": 2056313,
+      "change_hash": "e48056125cb5ffeadba39e12bc500ad1",
+      "url": "https://legiscan.com/NH/bill/HR43/2026",
+      "text_url": "https://legiscan.com/NH/text/HR43/2026",
+      "research_url": "https://legiscan.com/NH/research/HR43/2026",
+      "last_action_date": "2026-02-05",
+      "last_action": "Inexpedient to Legislate: Motion Adopted Voice Vote 02/05/2026 House Journal  3",
+      "title": "Recognizing the Manchester school district's community partners."
+    },
+    "4": {
+      "relevance": 88,
+      "state": "NH",
+      "bill_number": "SB401",
+      "bill_id": 2053061,
+      "change_hash": "dfc45403de835db10edb26235856c7aa",
+      "url": "https://legiscan.com/NH/bill/SB401/2026",
+      "text_url": "https://legiscan.com/NH/text/SB401/2026",
+      "research_url": "https://legiscan.com/NH/research/SB401/2026",
+      "last_action_date": "2026-03-10",
+      "last_action": "Public Hearing: 03/18/2026 10:00 am GP 231",
+      "title": "Relative to removing an obsolete annual reporting requirement by municipal overseers of public welfare to the department of health and human services and repealing the department of health and human services reporting requirement on 10-year demographic cost projections."
+    },
+    "5": {
+      "relevance": 85,
+      "state": "NH",
+      "bill_number": "HB1207",
+      "bill_id": 2054299,
+      "change_hash": "a77e81594aff796a6205ffe03785ca80",
+      "url": "https://legiscan.com/NH/bill/HB1207/2026",
+      "text_url": "https://legiscan.com/NH/text/HB1207/2026",
+      "research_url": "https://legiscan.com/NH/research/HB1207/2026",
+      "last_action_date": "2026-03-18",
+      "last_action": "Hearing: 03/31/2026, Room 100, State House, 10:15 am; Senate Calendar  11",
+      "title": "Relative to certain laws applicable to state chartered banks, credit unions, trust companies, and other consumer credit entities subject to the authority of the banking department."
+    },
+    "6": {
+      "relevance": 64,
+      "state": "NH",
+      "bill_number": "HB186",
+      "bill_id": 2064507,
+      "change_hash": "6290a3760c020c050c7ded29a1fee71d",
+      "url": "https://legiscan.com/NH/bill/HB186/2026",
+      "text_url": "https://legiscan.com/NH/text/HB186/2026",
+      "research_url": "https://legiscan.com/NH/research/HB186/2026",
+      "last_action_date": "2026-03-05",
+      "last_action": "Pending Motion Inexpedient to Legislate; 03/05/2026; Senate Journal 5",
+      "title": "Relative to the legalization and regulation of cannabis and making appropriations therefor."
+    }
+  }
+}

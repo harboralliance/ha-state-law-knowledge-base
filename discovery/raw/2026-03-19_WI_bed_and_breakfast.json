@@ -1,0 +1,53 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 3",
+      "relevancy": "100% - 51%",
+      "count": 3,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zbed:(pos=1) AND Zbreakfast:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "WI",
+      "bill_number": "AB824",
+      "bill_id": 2066329,
+      "change_hash": "7bc47e21a20eda333983a22b7ae39253",
+      "url": "https://legiscan.com/WI/bill/AB824/2025",
+      "text_url": "https://legiscan.com/WI/text/AB824/2025",
+      "research_url": "https://legiscan.com/WI/research/AB824/2025",
+      "last_action_date": "2026-02-04",
+      "last_action": "Referred to committee on Rules",
+      "title": "Displaying a human trafficking resource center hotline poster. (FE)"
+    },
+    "1": {
+      "relevance": 51,
+      "state": "WI",
+      "bill_number": "SB45",
+      "bill_id": 1974279,
+      "change_hash": "5f077c2437dd07d20b1fd3930b0227eb",
+      "url": "https://legiscan.com/WI/bill/SB45/2025",
+      "text_url": "https://legiscan.com/WI/text/SB45/2025",
+      "research_url": "https://legiscan.com/WI/research/SB45/2025",
+      "last_action_date": "2025-07-17",
+      "last_action": "LRB correction (Senate Amendment 2 to Senate Substitute Amendment 2)",
+      "title": "State finances and appropriations, constituting the executive budget act of the 2025 legislature. (FE)"
+    },
+    "2": {
+      "relevance": 51,
+      "state": "WI",
+      "bill_number": "AB50",
+      "bill_id": 1974122,
+      "change_hash": "e4f9ad3450e2c12d87019034f9fbbebe",
+      "url": "https://legiscan.com/WI/bill/AB50/2025",
+      "text_url": "https://legiscan.com/WI/text/AB50/2025",
+      "research_url": "https://legiscan.com/WI/research/AB50/2025",
+      "last_action_date": "2025-07-02",
+      "last_action": "Laid on the table",
+      "title": "State finances and appropriations, constituting the executive budget act of the 2025 legislature. (FE)"
+    }
+  }
+}

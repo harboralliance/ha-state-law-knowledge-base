@@ -1,0 +1,105 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 7",
+      "relevancy": "100% - 67%",
+      "count": 7,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(((short:(pos=1) PHRASE 2 term:(pos=2)) AND Zrental:(pos=3)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "RI",
+      "bill_number": "H7657",
+      "bill_id": 2114357,
+      "change_hash": "89f59057b8bb044eec98f26595d78629",
+      "url": "https://legiscan.com/RI/bill/H7657/2026",
+      "text_url": "https://legiscan.com/RI/text/H7657/2026",
+      "research_url": "https://legiscan.com/RI/research/H7657/2026",
+      "last_action_date": "2026-02-11",
+      "last_action": "Introduced, referred to House Municipal Government & Housing",
+      "title": "Distinguishes residential and commercial short-term rental properties for tax purposes."
+    },
+    "1": {
+      "relevance": 98,
+      "state": "RI",
+      "bill_number": "H7301",
+      "bill_id": 2092205,
+      "change_hash": "c4bff0cce515a34561d3bc0fddfa000e",
+      "url": "https://legiscan.com/RI/bill/H7301/2026",
+      "text_url": "https://legiscan.com/RI/text/H7301/2026",
+      "research_url": "https://legiscan.com/RI/research/H7301/2026",
+      "last_action_date": "2026-02-11",
+      "last_action": "House read and passed",
+      "title": "HOUSE RESOLUTION REINSTATING THE LIFE OF AND EXTENDING THE REPORTING AND EXPIRATION DATES OF THE SPECIAL LEGISLATIVE COMMISSION TO REVIEW AND PROVIDE RECOMMENDATIONS FOR POLICIES THAT DEAL WITH NUMEROUS ECONOMIC AND SOCIAL SHORT-TERM RENTALS ISSUES (Reinstates the life, extends the reporting date of the Special Leg. Commission to Review/Provide Recommendations for Policies That Deal With Numerous Economic and Social Short-Term Rentals Issues from 9/30/25, to 9/30/26, the commission expires on 1/10/27)"
+    },
+    "2": {
+      "relevance": 97,
+      "state": "RI",
+      "bill_number": "H7003",
+      "bill_id": 2067172,
+      "change_hash": "43bdb18b1ec1c4f2dfff2cf692cce44b",
+      "url": "https://legiscan.com/RI/bill/H7003/2026",
+      "text_url": "https://legiscan.com/RI/text/H7003/2026",
+      "research_url": "https://legiscan.com/RI/research/H7003/2026",
+      "last_action_date": "2026-03-03",
+      "last_action": "Committee recommended measure be held for further study",
+      "title": "Directs the state department of education to establish an anti-hazing policy in student athletics."
+    },
+    "3": {
+      "relevance": 89,
+      "state": "RI",
+      "bill_number": "S2664",
+      "bill_id": 2126702,
+      "change_hash": "75fad2b8dd2b87d25d1e3a01613c2b1a",
+      "url": "https://legiscan.com/RI/bill/S2664/2026",
+      "text_url": "https://legiscan.com/RI/text/S2664/2026",
+      "research_url": "https://legiscan.com/RI/research/S2664/2026",
+      "last_action_date": "2026-02-27",
+      "last_action": "Introduced, referred to Senate Finance",
+      "title": "Removes the requirement that 5% of the hotel tax generated from the South County tourism district be paid to the Greater Providence-Warwick Convention and Visitors Bureau."
+    },
+    "4": {
+      "relevance": 89,
+      "state": "RI",
+      "bill_number": "S2814",
+      "bill_id": 2129007,
+      "change_hash": "a399b599dccf308f2ea1465ec6e4d889",
+      "url": "https://legiscan.com/RI/bill/S2814/2026",
+      "text_url": "https://legiscan.com/RI/text/S2814/2026",
+      "research_url": "https://legiscan.com/RI/research/S2814/2026",
+      "last_action_date": "2026-03-04",
+      "last_action": "Introduced, referred to Senate Finance",
+      "title": "Removes the requirement that 5% of the hotel tax generated from regional tourism districts be paid to the Greater Providence-Warwick Convention and Visitors Bureau, and adds that 5% of the hotel tax to the existing tax paid to the RI commerce corporation."
+    },
+    "5": {
+      "relevance": 89,
+      "state": "RI",
+      "bill_number": "H7467",
+      "bill_id": 2102846,
+      "change_hash": "af19d07504645985eb660576f927eab5",
+      "url": "https://legiscan.com/RI/bill/H7467/2026",
+      "text_url": "https://legiscan.com/RI/text/H7467/2026",
+      "research_url": "https://legiscan.com/RI/research/H7467/2026",
+      "last_action_date": "2026-01-30",
+      "last_action": "Introduced, referred to House Finance",
+      "title": "Removes the requirement that 5% of the hotel tax generated from regional tourism districts be paid to the Greater Providence-Warwick Convention and Visitors Bureau, and adds that 5% of the hotel tax to the existing tax paid to the RI commerce corporation."
+    },
+    "6": {
+      "relevance": 67,
+      "state": "RI",
+      "bill_number": "H7127",
+      "bill_id": 2082648,
+      "change_hash": "d546500b66f2746595dc34e68fad064e",
+      "url": "https://legiscan.com/RI/bill/H7127/2026",
+      "text_url": "https://legiscan.com/RI/text/H7127/2026",
+      "research_url": "https://legiscan.com/RI/research/H7127/2026",
+      "last_action_date": "2026-01-15",
+      "last_action": "Introduced, referred to House Finance",
+      "title": "MAKING APPROPRIATIONS FOR THE SUPPORT OF THE STATE FOR THE FISCAL YEAR ENDING JUNE 30, 2027"
+    }
+  }
+}

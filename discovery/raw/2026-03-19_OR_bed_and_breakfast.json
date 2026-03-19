@@ -1,0 +1,14 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 0",
+      "range": "1 - 0",
+      "relevancy": "0% - 101%",
+      "count": 0,
+      "page_current": 1,
+      "page_total": 0,
+      "query": "((Zbed:(pos=1) AND Zbreakfast:(pos=2)))"
+    }
+  }
+}

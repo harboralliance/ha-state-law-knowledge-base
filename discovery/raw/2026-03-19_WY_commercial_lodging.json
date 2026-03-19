@@ -1,0 +1,40 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 2",
+      "relevancy": "100% - 90%",
+      "count": 2,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zcommerci:(pos=1) AND Zlodg:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "WY",
+      "bill_number": "SF0079",
+      "bill_id": 2110625,
+      "change_hash": "d895e7dea5bd1e3052d1817081f268c4",
+      "url": "https://legiscan.com/WY/bill/SF0079/2026",
+      "text_url": "https://legiscan.com/WY/text/SF0079/2026",
+      "research_url": "https://legiscan.com/WY/research/SF0079/2026",
+      "last_action_date": "2026-02-27",
+      "last_action": "Assigned Chapter Number 19",
+      "title": "Sales and use tax reorganization."
+    },
+    "1": {
+      "relevance": 90,
+      "state": "WY",
+      "bill_number": "HB0132",
+      "bill_id": 2112313,
+      "change_hash": "1151d1ba55209ba23aa5a0a98c5bed79",
+      "url": "https://legiscan.com/WY/bill/HB0132/2026",
+      "text_url": "https://legiscan.com/WY/text/HB0132/2026",
+      "research_url": "https://legiscan.com/WY/research/HB0132/2026",
+      "last_action_date": "2026-02-11",
+      "last_action": "Failed Introduction 29-32-1-0-0",
+      "title": "Nicotine products manufacturer licensing and reporting."
+    }
+  }
+}

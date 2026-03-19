@@ -2,12 +2,12 @@
   "state": "Minnesota",
   "state_code": "MN",
   "industry": "commercial lodging",
-  "source_file": "2026-03-18_Minnesota_lodging_compliance.md",
+  "source_file": "2026-03-19_Minnesota_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": 45,
-  "training_frequency": "yearly",
+  "training_frequency": "annually",
   "new_hire_deadline_days": 90,
-  "new_hire_deadline_text": "within 90 days of hire",
+  "new_hire_deadline_text": null,
   "signage_required": true,
   "provider_approval_required": false,
   "provider_approval_type": null,
@@ -17,22 +17,22 @@
     "Minnesota Department of Health (MDH)"
   ],
   "applicable_to": [
-    "owners",
-    "managers",
-    "on-site employees",
-    "hotel/motel/short-term rental operators"
+    "hotel owners",
+    "motel managers",
+    "short-term rental owners",
+    "on-site employees"
   ],
   "required_topics": [
-    "sex trafficking prevention",
-    "response procedures"
+    "identifying signs of sex trafficking",
+    "what to do if such incidents are suspected or reported"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
     "languages_required": [
       "English",
       "Spanish",
-      "Somali",
-      "Hmong"
+      "Hmong",
+      "Somali"
     ],
     "minimum_size": null,
     "font_size": null,
@@ -41,23 +41,31 @@
       "housekeeping",
       "restaurant/bar",
       "front desk/lobby",
-      "security"
+      "security areas"
     ],
     "required_content": [
-      "sex trafficking prevention information"
+      "training compliance poster"
     ]
   },
-  "recordkeeping_requirements": [],
+  "recordkeeping_requirements": [
+    "maintain a roster of employees who have completed the training with dates"
+  ],
   "certificate_requirements": [],
   "law_references": [
-    "Minnesota law"
+    "Minnesota Statutes \u00a7609.538 - Training for sex trafficking prevention"
   ],
   "source_urls": [
-    "https://www.health.state.mn.us/divisions/lhd/hsb/publications/training/materials/stp-train-package"
+    "https://www.health.state.mn.us/divs/health/safeharbor/training.html",
+    "https://mn.gov/mdh/lc/"
   ],
-  "harbor_alliance_posture": "immediate-entry",
+  "harbor_alliance_posture": null,
   "harbor_alliance_actions": [],
-  "risks_or_constraints": [],
-  "notes": [],
+  "risks_or_constraints": [
+    "costs associated with printing posters",
+    "exemptions for certain employees"
+  ],
+  "notes": [
+    "Training materials will be available in additional languages starting late fall 2023/early 2024 if needed."
+  ],
   "needs_review": []
 }

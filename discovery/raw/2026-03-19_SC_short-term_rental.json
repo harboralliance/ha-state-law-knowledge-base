@@ -1,0 +1,118 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 8",
+      "relevancy": "100% - 61%",
+      "count": 8,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(((short:(pos=1) PHRASE 2 term:(pos=2)) AND Zrental:(pos=3)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "SC",
+      "bill_number": "S0442",
+      "bill_id": 1999985,
+      "change_hash": "06df650aeaff21a465358e7bd3e65c4b",
+      "url": "https://legiscan.com/SC/bill/S0442/2025",
+      "text_url": "https://legiscan.com/SC/text/S0442/2025",
+      "research_url": "https://legiscan.com/SC/research/S0442/2025",
+      "last_action_date": "2025-03-19",
+      "last_action": "Scrivener's error corrected",
+      "title": "Short Term Rentals"
+    },
+    "1": {
+      "relevance": 98,
+      "state": "SC",
+      "bill_number": "H3861",
+      "bill_id": 1948639,
+      "change_hash": "380aa555023d0b485a095162c569f51f",
+      "url": "https://legiscan.com/SC/bill/H3861/2025",
+      "text_url": "https://legiscan.com/SC/text/H3861/2025",
+      "research_url": "https://legiscan.com/SC/research/H3861/2025",
+      "last_action_date": "2025-01-30",
+      "last_action": "Referred to Committee on Medical, Military, Public and Municipal Affairs",
+      "title": "Short-term rentals"
+    },
+    "2": {
+      "relevance": 84,
+      "state": "SC",
+      "bill_number": "S0825",
+      "bill_id": 2080676,
+      "change_hash": "54b9907cf5eaf06f8fcafa1494570e70",
+      "url": "https://legiscan.com/SC/bill/S0825/2025",
+      "text_url": "https://legiscan.com/SC/text/S0825/2025",
+      "research_url": "https://legiscan.com/SC/research/S0825/2025",
+      "last_action_date": "2026-01-21",
+      "last_action": "Scrivener's error corrected",
+      "title": "Family Protection Act"
+    },
+    "3": {
+      "relevance": 84,
+      "state": "SC",
+      "bill_number": "H4186",
+      "bill_id": 2011581,
+      "change_hash": "622a0cecee0b254bf9535c1b0f7fe1a2",
+      "url": "https://legiscan.com/SC/bill/H4186/2025",
+      "text_url": "https://legiscan.com/SC/text/H4186/2025",
+      "research_url": "https://legiscan.com/SC/research/H4186/2025",
+      "last_action_date": "2025-03-20",
+      "last_action": "Referred to Committee on Medical, Military, Public and Municipal Affairs",
+      "title": "Barbers and cosmetologists"
+    },
+    "4": {
+      "relevance": 79,
+      "state": "SC",
+      "bill_number": "H5071",
+      "bill_id": 2101776,
+      "change_hash": "b7c9886767b44c129e711b107a1c2cb5",
+      "url": "https://legiscan.com/SC/bill/H5071/2025",
+      "text_url": "https://legiscan.com/SC/text/H5071/2025",
+      "research_url": "https://legiscan.com/SC/research/H5071/2025",
+      "last_action_date": "2026-02-10",
+      "last_action": "Member(s) request name added as sponsor: Chapman",
+      "title": "Department of Transportation"
+    },
+    "5": {
+      "relevance": 76,
+      "state": "SC",
+      "bill_number": "H4752",
+      "bill_id": 2059827,
+      "change_hash": "b082a9c2e18e78d47f59c1e6d7bab686",
+      "url": "https://legiscan.com/SC/bill/H4752/2025",
+      "text_url": "https://legiscan.com/SC/text/H4752/2025",
+      "research_url": "https://legiscan.com/SC/research/H4752/2025",
+      "last_action_date": "2026-02-25",
+      "last_action": "Referred to Committee on Labor, Commerce and Industry",
+      "title": "Barbers"
+    },
+    "6": {
+      "relevance": 75,
+      "state": "SC",
+      "bill_number": "S0831",
+      "bill_id": 2086627,
+      "change_hash": "87b5e3afdd47d95d5aacebecdba18e86",
+      "url": "https://legiscan.com/SC/bill/S0831/2025",
+      "text_url": "https://legiscan.com/SC/text/S0831/2025",
+      "research_url": "https://legiscan.com/SC/research/S0831/2025",
+      "last_action_date": "2026-03-11",
+      "last_action": "Read second time",
+      "title": "SCDOT Modernization"
+    },
+    "7": {
+      "relevance": 61,
+      "state": "SC",
+      "bill_number": "S0307",
+      "bill_id": 1954312,
+      "change_hash": "ae5b124c405c6a4dcb886591d0f1b115",
+      "url": "https://legiscan.com/SC/bill/S0307/2025",
+      "text_url": "https://legiscan.com/SC/text/S0307/2025",
+      "research_url": "https://legiscan.com/SC/research/S0307/2025",
+      "last_action_date": "2025-05-16",
+      "last_action": "Act No. 20",
+      "title": "Peer-to-peer Car Sharing"
+    }
+  }
+}

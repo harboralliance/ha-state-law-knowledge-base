@@ -1,0 +1,27 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 1",
+      "relevancy": "100% - 100%",
+      "count": 1,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(((short:(pos=1) PHRASE 2 term:(pos=2)) AND Zrental:(pos=3)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "WY",
+      "bill_number": "HB0055",
+      "bill_id": 2088569,
+      "change_hash": "76864763f7349c623c3f4d5b81e3cc36",
+      "url": "https://legiscan.com/WY/bill/HB0055/2026",
+      "text_url": "https://legiscan.com/WY/text/HB0055/2026",
+      "research_url": "https://legiscan.com/WY/research/HB0055/2026",
+      "last_action_date": "2026-02-13",
+      "last_action": "Did not Consider for Introduction",
+      "title": "Wyoming homestead opportunity program."
+    }
+  }
+}

@@ -1,33 +1,32 @@
 {
   "state": "Illinois",
   "state_code": "IL",
-  "industry": "commercial lodging",
-  "source_file": "2026-03-18_Illinois_lodging_compliance.md",
+  "industry": "commercial lodging, restaurants, truck stops",
+  "source_file": "2026-03-19_Illinois_lodging_compliance.md",
   "training_required": true,
-  "training_duration_minutes": 20,
-  "training_frequency": "every 2 years",
-  "new_hire_deadline_days": null,
-  "new_hire_deadline_text": null,
+  "training_duration_minutes": null,
+  "training_frequency": "every two years",
+  "new_hire_deadline_days": 180,
+  "new_hire_deadline_text": "six months of starting the job",
   "signage_required": false,
-  "provider_approval_required": false,
-  "provider_approval_type": null,
-  "approval_authority": null,
+  "provider_approval_required": true,
+  "provider_approval_type": "third-party approved program",
+  "approval_authority": "Department of Human Services",
   "approval_contact": null,
   "enforcing_agencies": [
-    "Local government units"
+    "unit of local government or law enforcement agency"
   ],
-  "applicable_to": [],
+  "applicable_to": [
+    "lodging establishment, restaurant, truck stop"
+  ],
   "required_topics": [
-    "Definition of human trafficking",
-    "Identifying individuals most at risk",
-    "Difference between labor and sex trafficking in the context of lodging/food/trucking industries",
-    "Employees' roles in reporting and responding to trafficking"
+    "Definition of human trafficking and commercial exploitation of children",
+    "Identification of individuals most at risk for human trafficking",
+    "Differences in human trafficking related to lodging, restaurants, and truck stops (for labor vs. sex)",
+    "Roles of employees in reporting and responding to human trafficking"
   ],
   "reporting_contacts_required": [
-    {
-      "type": "appropriate authorities",
-      "contact_method": "NOTES: Needs clarification from research note"
-    }
+    "Employees need to know how to report human trafficking"
   ],
   "signage_details": {
     "languages_required": [],
@@ -39,17 +38,16 @@
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    "P.A. 102-324"
+    "Human Trafficking Prevention Act"
   ],
   "source_urls": [],
-  "harbor_alliance_posture": "needs-review",
-  "harbor_alliance_actions": [],
+  "harbor_alliance_posture": "approval-required",
+  "harbor_alliance_actions": [
+    "Ensure compliance with the training requirements by providing or arranging for third-party approved programs"
+  ],
   "risks_or_constraints": [
-    "Employers must ensure compliance with new training requirements by June 1, 2020",
-    "Violations may result in fines up to $1,500 per offense"
+    "Potential for fines if non-compliance is discovered and not corrected within 30 days"
   ],
-  "notes": [
-    "Needs clarification from research note on specific details such as exact source URLs and reporting contact methods."
-  ],
+  "notes": [],
   "needs_review": []
 }
