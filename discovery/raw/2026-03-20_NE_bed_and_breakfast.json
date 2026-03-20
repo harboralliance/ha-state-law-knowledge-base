@@ -1,0 +1,40 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 2",
+      "relevancy": "100% - 57%",
+      "count": 2,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zbed:(pos=1) AND Zbreakfast:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "NE",
+      "bill_number": "LB520",
+      "bill_id": 1931292,
+      "change_hash": "69b6517e95c96bf51fae87372998b8e7",
+      "url": "https://legiscan.com/NE/bill/LB520/2025",
+      "text_url": "https://legiscan.com/NE/text/LB520/2025",
+      "research_url": "https://legiscan.com/NE/research/LB520/2025",
+      "last_action_date": "2026-01-07",
+      "last_action": "Title printed. Carryover bill",
+      "title": "Provide requirements for bed and breakfast establishments regarding food, beverages, and fire safety"
+    },
+    "1": {
+      "relevance": 57,
+      "state": "NE",
+      "bill_number": "LB261",
+      "bill_id": 1919832,
+      "change_hash": "d6822fdc36cb2ba8b0345481d162ca66",
+      "url": "https://legiscan.com/NE/bill/LB261/2025",
+      "text_url": "https://legiscan.com/NE/text/LB261/2025",
+      "research_url": "https://legiscan.com/NE/research/LB261/2025",
+      "last_action_date": "2025-06-06",
+      "last_action": "Provisions/portions of LB627 amended into LB261 by AM832",
+      "title": "Appropriate funds for the expenses of Nebraska State Government for the biennium ending June 30, 2027, and appropriate Federal Funds allocated to the State of Nebraska pursuant to the federal American Rescue Plan Act of 2021"
+    }
+  }
+}

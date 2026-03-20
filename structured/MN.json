@@ -2,7 +2,7 @@
   "state": "Minnesota",
   "state_code": "MN",
   "industry": "commercial lodging",
-  "source_file": "2026-03-19_Minnesota_lodging_compliance.md",
+  "source_file": "2026-03-20_Minnesota_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": 45,
   "training_frequency": "annually",
@@ -14,58 +14,50 @@
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "Minnesota Department of Health (MDH)"
+    "Minnesota Department of Health"
   ],
   "applicable_to": [
-    "hotel owners",
-    "motel managers",
-    "short-term rental owners",
-    "on-site employees"
+    "hotel",
+    "motel",
+    "short-term rental"
   ],
-  "required_topics": [
-    "identifying signs of sex trafficking",
-    "what to do if such incidents are suspected or reported"
-  ],
+  "required_topics": [],
   "reporting_contacts_required": [],
   "signage_details": {
     "languages_required": [
       "English",
       "Spanish",
-      "Hmong",
-      "Somali"
+      "Somali",
+      "Hmong"
     ],
     "minimum_size": null,
     "font_size": null,
     "posting_location": [
-      "back-of-house",
-      "housekeeping",
-      "restaurant/bar",
-      "front desk/lobby",
-      "security areas"
+      "Back of House poster must be displayed in a location all staff will see it"
     ],
     "required_content": [
-      "training compliance poster"
+      "NEEDS REVIEW"
     ]
   },
-  "recordkeeping_requirements": [
-    "maintain a roster of employees who have completed the training with dates"
-  ],
+  "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    "Minnesota Statutes \u00a7609.538 - Training for sex trafficking prevention"
+    {
+      "statute_name": "Minnesota Statutes",
+      "code_section": "179.23"
+    }
   ],
   "source_urls": [
-    "https://www.health.state.mn.us/divs/health/safeharbor/training.html",
-    "https://mn.gov/mdh/lc/"
+    "https://www.health.state.mn.us/divs/sdh/training/sextrafficking/index.html"
   ],
-  "harbor_alliance_posture": null,
+  "harbor_alliance_posture": "immediate-entry",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "costs associated with printing posters",
-    "exemptions for certain employees"
+    "NEEDS REVIEW"
   ],
   "notes": [
-    "Training materials will be available in additional languages starting late fall 2023/early 2024 if needed."
+    "Exceptions include employees under 16 unless they clean rooms and those working exclusively in restaurants or providing catering services with no direct contact with guests.",
+    "Owners, operators, and managers are not exempt from the training requirements even if their employees do not have direct contact with guests."
   ],
   "needs_review": []
 }

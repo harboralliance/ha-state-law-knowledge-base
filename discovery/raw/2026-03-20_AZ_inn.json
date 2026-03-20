@@ -1,0 +1,40 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 2",
+      "relevancy": "100% - 63%",
+      "count": 2,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zinn:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "AZ",
+      "bill_number": "HB2394",
+      "bill_id": 2079880,
+      "change_hash": "ed10858418165c9e5568ab0141002b55",
+      "url": "https://legiscan.com/AZ/bill/HB2394/2026",
+      "text_url": "https://legiscan.com/AZ/text/HB2394/2026",
+      "research_url": "https://legiscan.com/AZ/research/HB2394/2026",
+      "last_action_date": "2026-01-26",
+      "last_action": "House read second time",
+      "title": "Property tax; residential property"
+    },
+    "1": {
+      "relevance": 63,
+      "state": "AZ",
+      "bill_number": "SB1084",
+      "bill_id": 2064965,
+      "change_hash": "35f73d03b4bfe5593ae8afb18328a4b1",
+      "url": "https://legiscan.com/AZ/bill/SB1084/2026",
+      "text_url": "https://legiscan.com/AZ/text/SB1084/2026",
+      "research_url": "https://legiscan.com/AZ/research/SB1084/2026",
+      "last_action_date": "2026-01-14",
+      "last_action": "Senate read second time",
+      "title": "Online home sharing; repeal"
+    }
+  }
+}

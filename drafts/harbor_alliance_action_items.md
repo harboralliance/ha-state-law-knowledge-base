@@ -1,31 +1,51 @@
 # Harbor Alliance Action Items
 
 ## Texas
-- **Immediate Market Entry:** NOT ALLOWED
-- **Action Items:**
-  - Review House Bill 390 requirements for human trafficking training.
-  - Ensure compliance with annual training for all employees in commercial lodging establishments with 10 or more rooms and all other lodging establishments.
+
+**Next Steps:**
+- Review and implement annual human trafficking training for all employees in commercial lodging establishments with 10 or more rooms.
+- Ensure that all lodging establishments, regardless of size, provide the required anti-trafficking signage.
+
+**States Allowing Immediate Market Entry:** NEEDS REVIEW
+
+**States Requiring Approval, Outreach, or Special Handling:** NEEDS REVIEW
 
 ## California
-- **Immediate Market Entry:** ALLOWED (Training completed by January 2020)
-- **Action Items:**
-  - Review Senate Bill 970 requirements for human trafficking training.
-  - Ensure ongoing compliance with annual training for employees in hotels and motels interacting with the public.
+
+**Next Steps:**
+- Provide annual human trafficking training to employees in commercial lodging establishments and hotels and motels.
+- Ensure compliance with the mandatory training requirement by January 1, 2023.
+
+**States Allowing Immediate Market Entry:** NEEDS REVIEW
+
+**States Requiring Approval, Outreach, or Special Handling:** NEEDS REVIEW
 
 ## Illinois
-- **Immediate Market Entry:** NOT ALLOWED
-- **Action Items:**
-  - Review Act 2026 requirements for human trafficking recognition training.
-  - Provide training to all relevant staff within six months of employment and every two years thereafter.
+
+**Next Steps:**
+- Implement annual human trafficking recognition training for employees in lodging establishments, restaurants, and truck stops.
+- Ensure compliance with the mandatory training requirement by June 1, 2023.
+
+**States Allowing Immediate Market Entry:** NEEDS REVIEW
+
+**States Requiring Approval, Outreach, or Special Handling:** NEEDS REVIEW
 
 ## Minnesota
-- **Immediate Market Entry:** NOT ALLOWED
-- **Action Items:**
-  - Review Minnesota Lodging Sex Trafficking Prevention and Response Training requirements.
-  - Ensure completion of the required training for all owners, managers, and on-site employees by June 2023.
+
+**Next Steps:**
+- Provide annual human trafficking prevention training to all owners, managers, and on-site employees in hotels, motels, and short-term rentals.
+- Ensure compliance with the mandatory training requirement by January 1, 2023.
+
+**States Allowing Immediate Market Entry:** NEEDS REVIEW
+
+**States Requiring Approval, Outreach, or Special Handling:** NEEDS REVIEW
 
 ## Connecticut
-- **Immediate Market Entry:** ALLOWED (Training completed as part of state law)
-- **Action Items:**
-  - Review Connecticut's human trafficking legislation and reporting requirements.
-  - Ensure mandatory data reporting to state authorities.
+
+**Next Steps:**
+- Implement annual human trafficking training for all employees in hotels and motels.
+- Ensure compliance with the mandatory reporting requirement by July 1, 2023.
+
+**States Allowing Immediate Market Entry:** NEEDS REVIEW
+
+**States Requiring Approval, Outreach, or Special Handling:** NEEDS REVIEW

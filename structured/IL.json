@@ -1,33 +1,32 @@
 {
   "state": "Illinois",
   "state_code": "IL",
-  "industry": "commercial lodging, restaurants, truck stops",
-  "source_file": "2026-03-19_Illinois_lodging_compliance.md",
+  "industry": "commercial lodging",
+  "source_file": "2026-03-20_Illinois_lodging_compliance.md",
   "training_required": true,
-  "training_duration_minutes": null,
-  "training_frequency": "every two years",
-  "new_hire_deadline_days": 180,
-  "new_hire_deadline_text": "six months of starting the job",
+  "training_duration_minutes": 20,
+  "training_frequency": "every 2 years",
+  "new_hire_deadline_days": null,
+  "new_hire_deadline_text": null,
   "signage_required": false,
-  "provider_approval_required": true,
-  "provider_approval_type": "third-party approved program",
-  "approval_authority": "Department of Human Services",
+  "provider_approval_required": false,
+  "provider_approval_type": null,
+  "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "unit of local government or law enforcement agency"
+    "Department of Human Services",
+    "local government"
   ],
   "applicable_to": [
-    "lodging establishment, restaurant, truck stop"
+    "employers in lodging establishments"
   ],
   "required_topics": [
-    "Definition of human trafficking and commercial exploitation of children",
-    "Identification of individuals most at risk for human trafficking",
-    "Differences in human trafficking related to lodging, restaurants, and truck stops (for labor vs. sex)",
-    "Roles of employees in reporting and responding to human trafficking"
+    "definition of human trafficking and commercial exploitation of children",
+    "guidance on identifying individuals most at risk for human trafficking",
+    "difference between human trafficking for labor and sex as it relates to lodging establishments, restaurants, or truck stops",
+    "role of lodging establishment employees in reporting and responding to instances of human trafficking"
   ],
-  "reporting_contacts_required": [
-    "Employees need to know how to report human trafficking"
-  ],
+  "reporting_contacts_required": [],
   "signage_details": {
     "languages_required": [],
     "minimum_size": null,
@@ -38,15 +37,14 @@
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    "Human Trafficking Prevention Act"
+    "Human Trafficking Recognition Training for Employers in Illinois"
   ],
   "source_urls": [],
   "harbor_alliance_posture": "approval-required",
-  "harbor_alliance_actions": [
-    "Ensure compliance with the training requirements by providing or arranging for third-party approved programs"
-  ],
+  "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "Potential for fines if non-compliance is discovered and not corrected within 30 days"
+    "noncompliance with training requirements can result in fines up to $1,500 per offense",
+    "State's Attorney can bring a civil action against non-compliant employers"
   ],
   "notes": [],
   "needs_review": []

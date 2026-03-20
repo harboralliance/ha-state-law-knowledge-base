@@ -2,24 +2,23 @@
   "state": "Texas",
   "state_code": "TX",
   "industry": "commercial lodging",
-  "source_file": "2026-03-19_Texas_lodging_compliance.md",
+  "source_file": "2026-03-20_Texas_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
   "training_frequency": "annual",
-  "new_hire_deadline_days": 90,
+  "new_hire_deadline_days": null,
   "new_hire_deadline_text": null,
-  "signage_required": true,
+  "signage_required": false,
   "provider_approval_required": true,
-  "provider_approval_type": "Office of the Attorney General (OAG)",
-  "approval_authority": "Texas Legislature",
+  "provider_approval_type": "OAG approved training programs",
+  "approval_authority": "Office of the Attorney General (OAG)",
   "approval_contact": null,
   "enforcing_agencies": [
-    "Office of the Attorney General (OAG)"
+    "Texas Department of Licensing and Regulation"
   ],
   "applicable_to": [
     {
-      "type": "lodging establishments",
-      "size": "with 10 or more rooms"
+      "room_count_min": 10
     }
   ],
   "required_topics": [
@@ -34,25 +33,29 @@
     "minimum_size": null,
     "font_size": null,
     "posting_location": null,
-    "required_content": [
-      "human trafficking training"
-    ]
+    "required_content": []
   },
   "recordkeeping_requirements": [
     {
-      "type": "certificate of completion",
-      "retention_period": "not specified"
+      "type": "employee training records",
+      "retention_period": null
     }
   ],
   "certificate_requirements": [],
   "law_references": [
-    "House Bill 390 (87th Regular Session)"
+    "House Bill 390"
   ],
-  "source_urls": [],
+  "source_urls": [
+    "https://www.legislature.state.tx.us/tlod/index.cfm?search=HB+390",
+    "https://www.atg.texas.gov/human-trafficking-training"
+  ],
   "harbor_alliance_posture": "approval-required",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "state-controlled training requirement"
+    {
+      "risk": "non-compliance with human trafficking training requirements",
+      "constraint": "potential legal penalties and reputational damage"
+    }
   ],
   "notes": [],
   "needs_review": []

@@ -1,0 +1,79 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 5",
+      "relevancy": "100% - 31%",
+      "count": 5,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zsignag:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "NM",
+      "bill_number": "HB216",
+      "bill_id": 2102214,
+      "change_hash": "f6e7c3c72df1d97224cec286dd3086c8",
+      "url": "https://legiscan.com/NM/bill/HB216/2026",
+      "text_url": "https://legiscan.com/NM/text/HB216/2026",
+      "research_url": "https://legiscan.com/NM/research/HB216/2026",
+      "last_action_date": "2026-01-29",
+      "last_action": "Not Printed",
+      "title": "Off-highway Motor Vehicle Act Changes"
+    },
+    "1": {
+      "relevance": 98,
+      "state": "NM",
+      "bill_number": "HB276",
+      "bill_id": 2104061,
+      "change_hash": "af5306a9882bda5362d53bb1954027e8",
+      "url": "https://legiscan.com/NM/bill/HB276/2026",
+      "text_url": "https://legiscan.com/NM/text/HB276/2026",
+      "research_url": "https://legiscan.com/NM/research/HB276/2026",
+      "last_action_date": "2026-02-05",
+      "last_action": "HAAWC: Reported by committee with Do Pass recommendation",
+      "title": "Nm Winemaking Industry"
+    },
+    "2": {
+      "relevance": 92,
+      "state": "NM",
+      "bill_number": "SB240",
+      "bill_id": 2106758,
+      "change_hash": "9b18f960b448648a02a241da6d9591a9",
+      "url": "https://legiscan.com/NM/bill/SB240/2026",
+      "text_url": "https://legiscan.com/NM/text/SB240/2026",
+      "research_url": "https://legiscan.com/NM/research/SB240/2026",
+      "last_action_date": "2026-03-11",
+      "last_action": "Signed by Governor - Chapter 71 - Mar. 11",
+      "title": "Capital Outlay Projects"
+    },
+    "3": {
+      "relevance": 71,
+      "state": "NM",
+      "bill_number": "HB332",
+      "bill_id": 2108273,
+      "change_hash": "415cd108a0cd62cd584a28318f6ea7c7",
+      "url": "https://legiscan.com/NM/bill/HB332/2026",
+      "text_url": "https://legiscan.com/NM/text/HB332/2026",
+      "research_url": "https://legiscan.com/NM/research/HB332/2026",
+      "last_action_date": "2026-03-11",
+      "last_action": "Signed by Governor - Chapter 68 - Mar. 11",
+      "title": "Capital Outlay Reauthorizations"
+    },
+    "4": {
+      "relevance": 31,
+      "state": "NM",
+      "bill_number": "SB60",
+      "bill_id": 2089176,
+      "change_hash": "f5d3a1e6d90db7d3dda6ed62dce664a1",
+      "url": "https://legiscan.com/NM/bill/SB60/2026",
+      "text_url": "https://legiscan.com/NM/text/SB60/2026",
+      "research_url": "https://legiscan.com/NM/research/SB60/2026",
+      "last_action_date": "2026-01-22",
+      "last_action": "SCC: Reported by committee to fall within the purview of a 30 day session",
+      "title": "Tax Changes"
+    }
+  }
+}

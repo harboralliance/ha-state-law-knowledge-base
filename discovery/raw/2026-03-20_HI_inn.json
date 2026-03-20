@@ -1,0 +1,105 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 7",
+      "relevancy": "100% - 83%",
+      "count": 7,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zinn:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "HI",
+      "bill_number": "SB1035",
+      "bill_id": 2063693,
+      "change_hash": "e4b0abab76ccda5f8d12be91680dbc8a",
+      "url": "https://legiscan.com/HI/bill/SB1035/2026",
+      "text_url": "https://legiscan.com/HI/text/SB1035/2026",
+      "research_url": "https://legiscan.com/HI/research/SB1035/2026",
+      "last_action_date": "2025-12-08",
+      "last_action": "Carried over to 2026 Regular Session.",
+      "title": "Relating To Consumer Protection."
+    },
+    "1": {
+      "relevance": 99,
+      "state": "HI",
+      "bill_number": "SB2031",
+      "bill_id": 2084763,
+      "change_hash": "8e9d6709c5160c07ecd97decbc67398d",
+      "url": "https://legiscan.com/HI/bill/SB2031/2026",
+      "text_url": "https://legiscan.com/HI/text/SB2031/2026",
+      "research_url": "https://legiscan.com/HI/research/SB2031/2026",
+      "last_action_date": "2026-03-12",
+      "last_action": "Referred to CPC, referral sheet 17",
+      "title": "Relating To Consumer Protection."
+    },
+    "2": {
+      "relevance": 96,
+      "state": "HI",
+      "bill_number": "SB3018",
+      "bill_id": 2093229,
+      "change_hash": "8fe942784a2da51cc50126caf0463be7",
+      "url": "https://legiscan.com/HI/bill/SB3018/2026",
+      "text_url": "https://legiscan.com/HI/text/SB3018/2026",
+      "research_url": "https://legiscan.com/HI/research/SB3018/2026",
+      "last_action_date": "2026-01-30",
+      "last_action": "Referred to EDT, CPN/JDC.",
+      "title": "Relating To Consumer Protection."
+    },
+    "3": {
+      "relevance": 95,
+      "state": "HI",
+      "bill_number": "SB1496",
+      "bill_id": 2063100,
+      "change_hash": "4b9563c870c4ede4c53146d40d9b4935",
+      "url": "https://legiscan.com/HI/bill/SB1496/2026",
+      "text_url": "https://legiscan.com/HI/text/SB1496/2026",
+      "research_url": "https://legiscan.com/HI/research/SB1496/2026",
+      "last_action_date": "2025-12-08",
+      "last_action": "Carried over to 2026 Regular Session.",
+      "title": "Relating To Civil Rights."
+    },
+    "4": {
+      "relevance": 90,
+      "state": "HI",
+      "bill_number": "SB149",
+      "bill_id": 2064198,
+      "change_hash": "60a1290dd83551a4963028230ef474f1",
+      "url": "https://legiscan.com/HI/bill/SB149/2026",
+      "text_url": "https://legiscan.com/HI/text/SB149/2026",
+      "research_url": "https://legiscan.com/HI/research/SB149/2026",
+      "last_action_date": "2025-12-08",
+      "last_action": "Carried over to 2026 Regular Session.",
+      "title": "Relating To Accessibility."
+    },
+    "5": {
+      "relevance": 88,
+      "state": "HI",
+      "bill_number": "SB2482",
+      "bill_id": 2089597,
+      "change_hash": "a04083e67527c9f132c03a8fc039e747",
+      "url": "https://legiscan.com/HI/bill/SB2482/2026",
+      "text_url": "https://legiscan.com/HI/text/SB2482/2026",
+      "research_url": "https://legiscan.com/HI/research/SB2482/2026",
+      "last_action_date": "2026-01-28",
+      "last_action": "Referred to PSM/CPN, JDC/WAM.",
+      "title": "Relating To Public Safety."
+    },
+    "6": {
+      "relevance": 83,
+      "state": "HI",
+      "bill_number": "HB1590",
+      "bill_id": 2085384,
+      "change_hash": "388c5b41df4d41d80accccaba611d5a8",
+      "url": "https://legiscan.com/HI/bill/HB1590/2026",
+      "text_url": "https://legiscan.com/HI/text/HB1590/2026",
+      "research_url": "https://legiscan.com/HI/research/HB1590/2026",
+      "last_action_date": "2026-03-19",
+      "last_action": "The committee(s) on EDT/EIG/CPN has scheduled a public hearing on 03-25-26 9:30AM; Conference Room 229 &amp; Videoconference.",
+      "title": "Relating To Vacation Rentals."
+    }
+  }
+}

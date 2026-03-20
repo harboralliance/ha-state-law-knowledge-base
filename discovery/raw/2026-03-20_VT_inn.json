@@ -1,0 +1,79 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 5",
+      "relevancy": "100% - 73%",
+      "count": 5,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zinn:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "VT",
+      "bill_number": "HCR181",
+      "bill_id": 2101424,
+      "change_hash": "d7660fd1d95f51133faa3dc92feceb25",
+      "url": "https://legiscan.com/VT/bill/HCR181/2025",
+      "text_url": "https://legiscan.com/VT/text/HCR181/2025",
+      "research_url": "https://legiscan.com/VT/research/HCR181/2025",
+      "last_action_date": "2026-02-11",
+      "last_action": "Ceremonial Reading",
+      "title": "House concurrent resolution congratulating the winners of the 2025 Spirit of the ADA Award"
+    },
+    "1": {
+      "relevance": 100,
+      "state": "VT",
+      "bill_number": "HCR209",
+      "bill_id": 2119938,
+      "change_hash": "a12299ab45e5476bb8381ebb20ec5e92",
+      "url": "https://legiscan.com/VT/bill/HCR209/2025",
+      "text_url": "https://legiscan.com/VT/text/HCR209/2025",
+      "research_url": "https://legiscan.com/VT/research/HCR209/2025",
+      "last_action_date": "2026-02-20",
+      "last_action": "Adopted pursuant to Joint Rule 16b",
+      "title": "House concurrent resolution in memory of former West Windsor Town Moderator Matthew T. Birmingham III"
+    },
+    "2": {
+      "relevance": 92,
+      "state": "VT",
+      "bill_number": "H0401",
+      "bill_id": 1983910,
+      "change_hash": "0aed036998cfb64530c05e46206bd247",
+      "url": "https://legiscan.com/VT/bill/H0401/2025",
+      "text_url": "https://legiscan.com/VT/text/H0401/2025",
+      "research_url": "https://legiscan.com/VT/research/H0401/2025",
+      "last_action_date": "2025-06-03",
+      "last_action": "House message: Governor approved bill on June 2, 2025",
+      "title": "An act relating to exemptions for food manufacturing establishments"
+    },
+    "3": {
+      "relevance": 84,
+      "state": "VT",
+      "bill_number": "S0217",
+      "bill_id": 2067425,
+      "change_hash": "15a0f59969669559a163ecc939b6f72d",
+      "url": "https://legiscan.com/VT/bill/S0217/2025",
+      "text_url": "https://legiscan.com/VT/text/S0217/2025",
+      "research_url": "https://legiscan.com/VT/research/S0217/2025",
+      "last_action_date": "2026-01-07",
+      "last_action": "Read 1st time & referred to Committee on Natural Resources and Energy",
+      "title": "An act relating to establishing an extended producer responsibility program for the collection of discarded mattresses"
+    },
+    "4": {
+      "relevance": 73,
+      "state": "VT",
+      "bill_number": "S0323",
+      "bill_id": 2101806,
+      "change_hash": "0e053ae150c589293b38dfaa151b811b",
+      "url": "https://legiscan.com/VT/bill/S0323/2025",
+      "text_url": "https://legiscan.com/VT/text/S0323/2025",
+      "research_url": "https://legiscan.com/VT/research/S0323/2025",
+      "last_action_date": "2026-03-20",
+      "last_action": "Favorable report with recommendation of amendment by Committee on Finance",
+      "title": "An act relating to miscellaneous agricultural subjects"
+    }
+  }
+}

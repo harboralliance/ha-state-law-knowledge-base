@@ -1,0 +1,105 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 7",
+      "relevancy": "100% - 68%",
+      "count": 7,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zsignag:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "DE",
+      "bill_number": "HB48",
+      "bill_id": 1993418,
+      "change_hash": "581b588f994f44ffb3b84d3aa8f27d8f",
+      "url": "https://legiscan.com/DE/bill/HB48/2025",
+      "text_url": "https://legiscan.com/DE/text/HB48/2025",
+      "research_url": "https://legiscan.com/DE/research/HB48/2025",
+      "last_action_date": "2025-09-25",
+      "last_action": "Signed by Governor",
+      "title": "An Act To Amend Titles 9, 21, And 22 Of The Delaware Code Relating To Accessible Parking Spaces."
+    },
+    "1": {
+      "relevance": 93,
+      "state": "DE",
+      "bill_number": "HB123",
+      "bill_id": 2024834,
+      "change_hash": "ab6a98cb7e4e4d9b69c43473d44a3d9f",
+      "url": "https://legiscan.com/DE/bill/HB123/2025",
+      "text_url": "https://legiscan.com/DE/text/HB123/2025",
+      "research_url": "https://legiscan.com/DE/research/HB123/2025",
+      "last_action_date": "2025-08-20",
+      "last_action": "Signed by Governor",
+      "title": "An Act To Amend Title 11 Of The Delaware Code Relating To Discharge Of A Firearm."
+    },
+    "2": {
+      "relevance": 88,
+      "state": "DE",
+      "bill_number": "SCR115",
+      "bill_id": 2037994,
+      "change_hash": "b6d9071c6a7036e0e8b02294a680ab61",
+      "url": "https://legiscan.com/DE/bill/SCR115/2025",
+      "text_url": "https://legiscan.com/DE/text/SCR115/2025",
+      "research_url": "https://legiscan.com/DE/research/SCR115/2025",
+      "last_action_date": "2025-06-26",
+      "last_action": "Passed in House by Voice Vote",
+      "title": "Designating July 26, 2025, As Americans With Disabilities Act Day In The State Of Delaware."
+    },
+    "3": {
+      "relevance": 87,
+      "state": "DE",
+      "bill_number": "HB98",
+      "bill_id": 2029389,
+      "change_hash": "6ce42e5f938c572798109c5fe399d196",
+      "url": "https://legiscan.com/DE/bill/HB98/2025",
+      "text_url": "https://legiscan.com/DE/text/HB98/2025",
+      "research_url": "https://legiscan.com/DE/research/HB98/2025",
+      "last_action_date": "2025-06-17",
+      "last_action": "Stricken in House",
+      "title": "An Act To Amend Title 4 And Title 16 Of The Delaware Code Relating To Alcohol And Marijuana."
+    },
+    "4": {
+      "relevance": 84,
+      "state": "DE",
+      "bill_number": "SB50",
+      "bill_id": 1938101,
+      "change_hash": "eecf78464fd3c456bb0338533e4c2835",
+      "url": "https://legiscan.com/DE/bill/SB50/2025",
+      "text_url": "https://legiscan.com/DE/text/SB50/2025",
+      "research_url": "https://legiscan.com/DE/research/SB50/2025",
+      "last_action_date": "2025-02-14",
+      "last_action": "Signed by Governor",
+      "title": "An Act To Amend The Laws Of Delaware Relating To The Bond And Capital Improvements Act Of The State Of Delaware And Certain Of Their Authorities For The Fiscal Year Ending June 30, 2025."
+    },
+    "5": {
+      "relevance": 72,
+      "state": "DE",
+      "bill_number": "SB30",
+      "bill_id": 1920201,
+      "change_hash": "2ddc7b4fea085f91526c369abddadb78",
+      "url": "https://legiscan.com/DE/bill/SB30/2025",
+      "text_url": "https://legiscan.com/DE/text/SB30/2025",
+      "research_url": "https://legiscan.com/DE/research/SB30/2025",
+      "last_action_date": "2025-01-15",
+      "last_action": "Introduced and Assigned to Capital Improvement Committee in Senate",
+      "title": "A Bond And Capital Improvements Act Of The State Of Delaware And Certain Of Its Authorities For The Fiscal Year Ending June 30, 2026; Authorizing The Issuance Of General Obligation Bonds Of The State; Appropriating Funds From The Transportation Trust Fund; Authorizing The Issuance Of Revenue Bonds Of The Delaware Transportation Authority; Appropriating Special Funds Of The Delaware Transportation Authority; Appropriating General Funds Of The State; Reprogramming Certain Funds Of The State; Specifying Certain Procedures, Conditions And Limitations For The Expenditure Of Such Funds; And Amending Certain Statutory Provisions."
+    },
+    "6": {
+      "relevance": 68,
+      "state": "DE",
+      "bill_number": "SB200",
+      "bill_id": 2038198,
+      "change_hash": "1ac64d74188d0106c03ad54ff571d4e0",
+      "url": "https://legiscan.com/DE/bill/SB200/2025",
+      "text_url": "https://legiscan.com/DE/text/SB200/2025",
+      "research_url": "https://legiscan.com/DE/research/SB200/2025",
+      "last_action_date": "2025-07-01",
+      "last_action": "Signed by Governor",
+      "title": "A Bond And Capital Improvements Act Of The State Of Delaware And Certain Of Its Authorities For The Fiscal Year Ending June 30, 2026; Authorizing The Issuance Of General Obligation Bonds Of The State; Appropriating Funds From The Transportation Trust Fund; Authorizing The Issuance Of Revenue Bonds Of The Delaware Transportation Authority; Appropriating Special Funds Of The Delaware Transportation Authority; Appropriating General Funds Of The State; Reprogramming Certain Funds Of The State; Specifying Certain Procedures, Conditions And Limitations For The Expenditure Of Such Funds; And Amending Certain Statutory Provisions."
+    }
+  }
+}

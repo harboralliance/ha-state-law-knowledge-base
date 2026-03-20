@@ -1,0 +1,118 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 8",
+      "relevancy": "100% - 68%",
+      "count": 8,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zsignag:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "VT",
+      "bill_number": "H0144",
+      "bill_id": 1954274,
+      "change_hash": "c005372aff7fe0a17e9569549b71fb71",
+      "url": "https://legiscan.com/VT/bill/H0144/2025",
+      "text_url": "https://legiscan.com/VT/text/H0144/2025",
+      "research_url": "https://legiscan.com/VT/research/H0144/2025",
+      "last_action_date": "2025-02-05",
+      "last_action": "Read first time and referred to the Committee on Human Services",
+      "title": "An act relating to enhancing food allergen awareness in food service establishments"
+    },
+    "1": {
+      "relevance": 91,
+      "state": "VT",
+      "bill_number": "H0231",
+      "bill_id": 1971049,
+      "change_hash": "3c535f75a1d2ae618b33d6927cb50254",
+      "url": "https://legiscan.com/VT/bill/H0231/2025",
+      "text_url": "https://legiscan.com/VT/text/H0231/2025",
+      "research_url": "https://legiscan.com/VT/research/H0231/2025",
+      "last_action_date": "2025-06-09",
+      "last_action": "House message: Governor approved bill on June 5, 2025",
+      "title": "An act relating to technical corrections to fish and wildlife statutes"
+    },
+    "2": {
+      "relevance": 88,
+      "state": "VT",
+      "bill_number": "H0230",
+      "bill_id": 1971435,
+      "change_hash": "6587b1873f776bba3ef1ca5b865d140e",
+      "url": "https://legiscan.com/VT/bill/H0230/2025",
+      "text_url": "https://legiscan.com/VT/text/H0230/2025",
+      "research_url": "https://legiscan.com/VT/research/H0230/2025",
+      "last_action_date": "2026-01-06",
+      "last_action": "Referred to Committee on Natural Resources and Energy per Temporary Senate Rule 44A",
+      "title": "An act relating to the management of fish and wildlife"
+    },
+    "3": {
+      "relevance": 88,
+      "state": "VT",
+      "bill_number": "H0941",
+      "bill_id": 2134112,
+      "change_hash": "11937c474f77616ce1dfc9617662bdfb",
+      "url": "https://legiscan.com/VT/bill/H0941/2025",
+      "text_url": "https://legiscan.com/VT/text/H0941/2025",
+      "research_url": "https://legiscan.com/VT/research/H0941/2025",
+      "last_action_date": "2026-03-19",
+      "last_action": "Rep. Durfee of Shaftsbury moved to postpone action until March 24, 2026, which was agreed to",
+      "title": "An act relating to municipal regulation of agriculture"
+    },
+    "4": {
+      "relevance": 86,
+      "state": "VT",
+      "bill_number": "H0944",
+      "bill_id": 2135787,
+      "change_hash": "b7bb1215e2769d8a46a8aa070dca964d",
+      "url": "https://legiscan.com/VT/bill/H0944/2025",
+      "text_url": "https://legiscan.com/VT/text/H0944/2025",
+      "research_url": "https://legiscan.com/VT/research/H0944/2025",
+      "last_action_date": "2026-03-18",
+      "last_action": "Referred to Committee on Ways and Means per Rule 35(a)",
+      "title": "An act relating to the fiscal year 2027 Transportation Program and miscellaneous changes to laws related to transportation"
+    },
+    "5": {
+      "relevance": 85,
+      "state": "VT",
+      "bill_number": "H0834",
+      "bill_id": 2101694,
+      "change_hash": "467ad9bf531b5bb3586d1ee9c28936f4",
+      "url": "https://legiscan.com/VT/bill/H0834/2025",
+      "text_url": "https://legiscan.com/VT/text/H0834/2025",
+      "research_url": "https://legiscan.com/VT/research/H0834/2025",
+      "last_action_date": "2026-01-29",
+      "last_action": "Read first time and referred to the Committee on Transportation",
+      "title": "An act relating to traffic calming measures for village centers and pedestrian and bicycle safety"
+    },
+    "6": {
+      "relevance": 85,
+      "state": "VT",
+      "bill_number": "H0166",
+      "bill_id": 1959869,
+      "change_hash": "e2f1380900d9cc9020d2b993c406486f",
+      "url": "https://legiscan.com/VT/bill/H0166/2025",
+      "text_url": "https://legiscan.com/VT/text/H0166/2025",
+      "research_url": "https://legiscan.com/VT/research/H0166/2025",
+      "last_action_date": "2025-02-07",
+      "last_action": "Read first time and referred to the Committee on Environment",
+      "title": "An act relating to establishing requirements for hunting with dogs"
+    },
+    "7": {
+      "relevance": 68,
+      "state": "VT",
+      "bill_number": "H0488",
+      "bill_id": 2010803,
+      "change_hash": "044145004c0224e91e61d982e001d678",
+      "url": "https://legiscan.com/VT/bill/H0488/2025",
+      "text_url": "https://legiscan.com/VT/text/H0488/2025",
+      "research_url": "https://legiscan.com/VT/research/H0488/2025",
+      "last_action_date": "2025-06-03",
+      "last_action": "House message: Governor approved bill on June 2, 2025",
+      "title": "An act relating to the fiscal year 2026 Transportation Program and miscellaneous changes to laws related to transportation"
+    }
+  }
+}

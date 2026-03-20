@@ -2,7 +2,7 @@
   "state": "Connecticut",
   "state_code": "CT",
   "industry": "commercial lodging",
-  "source_file": "2026-03-19_Connecticut_lodging_compliance.md",
+  "source_file": "2026-03-20_Connecticut_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
   "training_frequency": "annually",
@@ -14,51 +14,57 @@
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "DCF",
-    "State attorneys",
-    "Local law enforcement"
+    "Department of Children and Families (DCF)",
+    "Department of Public Health (DPH)",
+    "Office of Victim Services (OVS)"
   ],
   "applicable_to": [
-    "Hotels, motels, inns, similar lodging; DCF staff; foster parents; service providers; schools; law enforcement; hospital and medical staff; hospitality industry; other professionals"
+    "foster parents",
+    "service providers",
+    "schools",
+    "law enforcement",
+    "hospital and medical staff",
+    "hotel and motel workers"
   ],
   "required_topics": [
-    "human trafficking",
-    "trafficking training",
-    "victim services",
-    "multidisciplinary teams"
+    "human trafficking awareness",
+    "trafficking training for employees"
   ],
-  "reporting_contacts_required": [],
+  "reporting_contacts_required": [
+    "state attorneys",
+    "local law enforcement"
+  ],
   "signage_details": {
     "languages_required": [],
     "minimum_size": null,
     "font_size": null,
-    "posting_location": "all employees annually",
+    "posting_location": [
+      "entrances",
+      "websites"
+    ],
     "required_content": [
-      "trafficking training and awareness campaigns"
+      "trafficking training information",
+      "awareness campaigns"
     ]
   },
   "recordkeeping_requirements": [
-    "guest transactions and receipts for at least 6 months"
+    "documenting and reporting on trafficking cases and interventions"
   ],
   "certificate_requirements": [],
   "law_references": [
-    "2017 Public Act 17-32",
-    "2016 Public Act 16-71",
-    "2015 Public Act 15-195",
-    "2014 Public Act 14-186",
-    "2013 Public Act 13-166",
-    "2012 Public Act 12-141",
-    "2011 Public Act 11-180",
-    "2010 Public Act 10-115"
+    "Public Act 17-32",
+    "Public Act 16-71",
+    "Public Act 15-195"
   ],
   "source_urls": [
     "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/trainings-for-providers",
     "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/human-and-sex-trafficking-legislation"
   ],
-  "harbor_alliance_posture": null,
+  "harbor_alliance_posture": "approval-required",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "state-controlled training requirement"
+    "mandatory annual trafficking training for relevant sectors",
+    "signage and awareness campaigns required annually"
   ],
   "notes": [],
   "needs_review": []

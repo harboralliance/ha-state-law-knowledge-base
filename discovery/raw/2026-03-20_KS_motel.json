@@ -1,0 +1,131 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 9",
+      "relevancy": "100% - 81%",
+      "count": 9,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zmotel:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "KS",
+      "bill_number": "HB2481",
+      "bill_id": 2086920,
+      "change_hash": "2281c9602086fb8cb07f212bca2571c0",
+      "url": "https://legiscan.com/KS/bill/HB2481/2025",
+      "text_url": "https://legiscan.com/KS/text/HB2481/2025",
+      "research_url": "https://legiscan.com/KS/research/HB2481/2025",
+      "last_action_date": "2026-03-19",
+      "last_action": "Senate Emergency Final Action - Passed as amended; Yea: 33 Nay: 7",
+      "title": "Removing the two-bedroom requirement to qualify as hotel, motel or tourist court requiring collection of tax from all such qualifying rentals."
+    },
+    "1": {
+      "relevance": 97,
+      "state": "KS",
+      "bill_number": "HB2252",
+      "bill_id": 1954276,
+      "change_hash": "2c8b4e03064b9b7bdcc4ec818e0a3411",
+      "url": "https://legiscan.com/KS/bill/HB2252/2025",
+      "text_url": "https://legiscan.com/KS/text/HB2252/2025",
+      "research_url": "https://legiscan.com/KS/research/HB2252/2025",
+      "last_action_date": "2025-02-04",
+      "last_action": "House Referred to Committee on Health and Human Services",
+      "title": "Amending the Kansas indoor clear air act to prohibit smoking on the gaming floor of a lottery gaming facility or racetrack gaming facility and amending the definition of smoking to include the use of an electronic cigarette and smoking marijuana."
+    },
+    "2": {
+      "relevance": 97,
+      "state": "KS",
+      "bill_number": "SB176",
+      "bill_id": 1955179,
+      "change_hash": "14cd42ee03fa8fcb6a9669850095341e",
+      "url": "https://legiscan.com/KS/bill/SB176/2025",
+      "text_url": "https://legiscan.com/KS/text/SB176/2025",
+      "research_url": "https://legiscan.com/KS/research/SB176/2025",
+      "last_action_date": "2026-02-02",
+      "last_action": "Senate Hearing: Monday, February 2, 2026, 10:30 AM Room 144-S - CANCELED",
+      "title": "Amending the Kansas indoor clear air act to prohibit smoking on the gaming floor of a lottery gaming facility or racetrack gaming facility and amending the definition of smoking to include the use of an electronic cigarette and smoking marijuana."
+    },
+    "3": {
+      "relevance": 96,
+      "state": "KS",
+      "bill_number": "HB2211",
+      "bill_id": 1951991,
+      "change_hash": "a9a2dcef08e0a1381f4e5c551fc95f1a",
+      "url": "https://legiscan.com/KS/bill/HB2211/2025",
+      "text_url": "https://legiscan.com/KS/text/HB2211/2025",
+      "research_url": "https://legiscan.com/KS/research/HB2211/2025",
+      "last_action_date": "2025-02-26",
+      "last_action": "House Hearing: Wednesday, February 26, 2025, 3:30 PM Room 346-S",
+      "title": "Providing funding for STAR bond districts to replace lost food sales tax revenue."
+    },
+    "4": {
+      "relevance": 96,
+      "state": "KS",
+      "bill_number": "HB2292",
+      "bill_id": 1956706,
+      "change_hash": "f130883c50f95a34c2825ae0f6e55bbf",
+      "url": "https://legiscan.com/KS/bill/HB2292/2025",
+      "text_url": "https://legiscan.com/KS/text/HB2292/2025",
+      "research_url": "https://legiscan.com/KS/research/HB2292/2025",
+      "last_action_date": "2025-02-05",
+      "last_action": "House Referred to Committee on Commerce, Labor and Economic Development",
+      "title": "Providing for food sales tax revenue replacement for STAR bond districts established prior to December 31, 2022, establishing the STAR bonds food sales tax revenue replacement fund, providing for transfers from the state general fund to such revenue replacement fund and transfers from such revenue replacement fund in the amount of food sales tax revenues lost to the applicable cities or counties and extending the sunset date of the STAR bonds financing act to July 1, 2031."
+    },
+    "5": {
+      "relevance": 96,
+      "state": "KS",
+      "bill_number": "HB2138",
+      "bill_id": 1944486,
+      "change_hash": "188f11222b9b804b16f1e63066b98001",
+      "url": "https://legiscan.com/KS/bill/HB2138/2025",
+      "text_url": "https://legiscan.com/KS/text/HB2138/2025",
+      "research_url": "https://legiscan.com/KS/research/HB2138/2025",
+      "last_action_date": "2025-01-28",
+      "last_action": "House Referred to Committee on Education",
+      "title": "Authorizing school districts to levy an annual tax levy of up to two mills for the purposes of school building safety, security and compliance with the Americans with disabilities act and including such levy in the capital outlay state aid determination for such school districts."
+    },
+    "6": {
+      "relevance": 95,
+      "state": "KS",
+      "bill_number": "SB197",
+      "bill_id": 1957916,
+      "change_hash": "b2816ff86afbceff721c2730eba8607d",
+      "url": "https://legiscan.com/KS/bill/SB197/2025",
+      "text_url": "https://legiscan.com/KS/text/SB197/2025",
+      "research_url": "https://legiscan.com/KS/research/SB197/2025",
+      "last_action_date": "2026-03-03",
+      "last_action": "House Motion to accede adopted; Representative Tarwater, Representative Ward and Representative Sawyer Clayton appointed as conferees",
+      "title": "House Substitute for Substitute for SB 197 by Committee on Commerce, Labor and Economic Development - Furthering economic development by providing for authorization of a port authority by the unified government of Wyandotte County and Kansas City, Kansas, authorizing redevelopment of mall facilities as STAR bond projects, allowing vertical construction for certain STAR bond projects, facilitating such projects in less-populated counties in the Wichita and Kansas City metropolitan statistical areas, setting visitor origin requirements for such projects and providing for enforcement of such requirements, expanding transparency of such projects, authorizing the Kansas development finance authority to issue bonds for such projects, making certain other changes and extending the expiration date of the STAR bonds financing act."
+    },
+    "7": {
+      "relevance": 85,
+      "state": "KS",
+      "bill_number": "HB2376",
+      "bill_id": 1965340,
+      "change_hash": "baeb567a50dd20e7231bba93950249c1",
+      "url": "https://legiscan.com/KS/bill/HB2376/2025",
+      "text_url": "https://legiscan.com/KS/text/HB2376/2025",
+      "research_url": "https://legiscan.com/KS/research/HB2376/2025",
+      "last_action_date": "2025-03-03",
+      "last_action": "House Committee Report recommending bill be passed as amended by Committee on Federal and State Affairs",
+      "title": "Transferring the licensure of on-premise cereal malt beverage retailers and off-premise cereal malt beverage retailers from cities and counties to the alcoholic beverage control division of the department of revenue; allowing continued local licensure by cities or counties."
+    },
+    "8": {
+      "relevance": 81,
+      "state": "KS",
+      "bill_number": "SB56",
+      "bill_id": 1935667,
+      "change_hash": "c1f42971986684664503cc2cbc5a9cc4",
+      "url": "https://legiscan.com/KS/bill/SB56/2025",
+      "text_url": "https://legiscan.com/KS/text/SB56/2025",
+      "research_url": "https://legiscan.com/KS/research/SB56/2025",
+      "last_action_date": "2025-01-23",
+      "last_action": "Senate Referred to Committee on Federal and State Affairs",
+      "title": "Authorizing home delivery of alcoholic liquor and cereal malt beverage by licensed retailers, drinking establishments and third-party delivery services."
+    }
+  }
+}

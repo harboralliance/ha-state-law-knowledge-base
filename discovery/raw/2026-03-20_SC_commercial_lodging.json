@@ -1,0 +1,118 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 8",
+      "relevancy": "100% - 60%",
+      "count": 8,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zcommerci:(pos=1) AND Zlodg:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "SC",
+      "bill_number": "S0442",
+      "bill_id": 1999985,
+      "change_hash": "06df650aeaff21a465358e7bd3e65c4b",
+      "url": "https://legiscan.com/SC/bill/S0442/2025",
+      "text_url": "https://legiscan.com/SC/text/S0442/2025",
+      "research_url": "https://legiscan.com/SC/research/S0442/2025",
+      "last_action_date": "2025-03-19",
+      "last_action": "Scrivener's error corrected",
+      "title": "Short Term Rentals"
+    },
+    "1": {
+      "relevance": 94,
+      "state": "SC",
+      "bill_number": "H3876",
+      "bill_id": 1948382,
+      "change_hash": "f4966174dcab14ed558d4bbfb68ef453",
+      "url": "https://legiscan.com/SC/bill/H3876/2025",
+      "text_url": "https://legiscan.com/SC/text/H3876/2025",
+      "research_url": "https://legiscan.com/SC/research/H3876/2025",
+      "last_action_date": "2026-01-21",
+      "last_action": "Referred to Committee on Finance",
+      "title": "Accommodations"
+    },
+    "2": {
+      "relevance": 93,
+      "state": "SC",
+      "bill_number": "S0632",
+      "bill_id": 2027945,
+      "change_hash": "a40ed862cba4cbcb57957bbb25dbc43f",
+      "url": "https://legiscan.com/SC/bill/S0632/2025",
+      "text_url": "https://legiscan.com/SC/text/S0632/2025",
+      "research_url": "https://legiscan.com/SC/research/S0632/2025",
+      "last_action_date": "2025-05-01",
+      "last_action": "Referred to Committee on Judiciary",
+      "title": "Ethics - Local Government Lobbying"
+    },
+    "3": {
+      "relevance": 77,
+      "state": "SC",
+      "bill_number": "H5362",
+      "bill_id": 2132287,
+      "change_hash": "5823cee923bca96cc50ba050bf7aa5ae",
+      "url": "https://legiscan.com/SC/bill/H5362/2025",
+      "text_url": "https://legiscan.com/SC/text/H5362/2025",
+      "research_url": "https://legiscan.com/SC/research/H5362/2025",
+      "last_action_date": "2026-03-11",
+      "last_action": "Referred to Committee on Ways and Means",
+      "title": "Department of Transportation Commission dissolved"
+    },
+    "4": {
+      "relevance": 73,
+      "state": "SC",
+      "bill_number": "H3924",
+      "bill_id": 1959298,
+      "change_hash": "9a3fed30c6c14a520387288d235e85c4",
+      "url": "https://legiscan.com/SC/bill/H3924/2025",
+      "text_url": "https://legiscan.com/SC/text/H3924/2025",
+      "research_url": "https://legiscan.com/SC/research/H3924/2025",
+      "last_action_date": "2026-03-19",
+      "last_action": "Roll call Ayes-35 Nays-4",
+      "title": "Hemp-derived ingestible"
+    },
+    "5": {
+      "relevance": 68,
+      "state": "SC",
+      "bill_number": "H5071",
+      "bill_id": 2101776,
+      "change_hash": "b7c9886767b44c129e711b107a1c2cb5",
+      "url": "https://legiscan.com/SC/bill/H5071/2025",
+      "text_url": "https://legiscan.com/SC/text/H5071/2025",
+      "research_url": "https://legiscan.com/SC/research/H5071/2025",
+      "last_action_date": "2026-02-10",
+      "last_action": "Member(s) request name added as sponsor: Chapman",
+      "title": "Department of Transportation"
+    },
+    "6": {
+      "relevance": 63,
+      "state": "SC",
+      "bill_number": "H4189",
+      "bill_id": 2011524,
+      "change_hash": "69e263685a3f6cb0153e32359f4f75fb",
+      "url": "https://legiscan.com/SC/bill/H4189/2025",
+      "text_url": "https://legiscan.com/SC/text/H4189/2025",
+      "research_url": "https://legiscan.com/SC/research/H4189/2025",
+      "last_action_date": "2026-01-21",
+      "last_action": "Referred to Committee on Medical Affairs",
+      "title": "DHEC Restructuring"
+    },
+    "7": {
+      "relevance": 60,
+      "state": "SC",
+      "bill_number": "H3843",
+      "bill_id": 1948399,
+      "change_hash": "0955f3b454d99261d8ed370910b040f4",
+      "url": "https://legiscan.com/SC/bill/H3843/2025",
+      "text_url": "https://legiscan.com/SC/text/H3843/2025",
+      "research_url": "https://legiscan.com/SC/research/H3843/2025",
+      "last_action_date": "2025-02-25",
+      "last_action": "Referred to Committee on Finance",
+      "title": "Budget Proviso Codification Act"
+    }
+  }
+}
