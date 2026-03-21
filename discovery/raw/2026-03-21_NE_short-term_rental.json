@@ -1,0 +1,131 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 9",
+      "relevancy": "100% - 64%",
+      "count": 9,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(((short:(pos=1) PHRASE 2 term:(pos=2)) AND Zrental:(pos=3)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "NE",
+      "bill_number": "LB740",
+      "bill_id": 2067030,
+      "change_hash": "9178dffa06da1a66e3127014fb841afd",
+      "url": "https://legiscan.com/NE/bill/LB740/2025",
+      "text_url": "https://legiscan.com/NE/text/LB740/2025",
+      "research_url": "https://legiscan.com/NE/research/LB740/2025",
+      "last_action_date": "2026-02-10",
+      "last_action": "Notice of hearing for February 20, 2026",
+      "title": "Adopt the Housing First Supportive Services Act and require the Department of Health and Human Services to seek federal approval for coverage under the Medical Assistance Act"
+    },
+    "1": {
+      "relevance": 96,
+      "state": "NE",
+      "bill_number": "LB331",
+      "bill_id": 1922831,
+      "change_hash": "9089a543bd762f1ac692fb1fb47c0337",
+      "url": "https://legiscan.com/NE/bill/LB331/2025",
+      "text_url": "https://legiscan.com/NE/text/LB331/2025",
+      "research_url": "https://legiscan.com/NE/research/LB331/2025",
+      "last_action_date": "2025-02-13",
+      "last_action": "Bill withdrawn",
+      "title": "Adopt the Nebraska EPIC Option Consumption Tax Act and terminate tax provisions"
+    },
+    "2": {
+      "relevance": 94,
+      "state": "NE",
+      "bill_number": "LB261",
+      "bill_id": 1919832,
+      "change_hash": "d6822fdc36cb2ba8b0345481d162ca66",
+      "url": "https://legiscan.com/NE/bill/LB261/2025",
+      "text_url": "https://legiscan.com/NE/text/LB261/2025",
+      "research_url": "https://legiscan.com/NE/research/LB261/2025",
+      "last_action_date": "2025-06-06",
+      "last_action": "Provisions/portions of LB627 amended into LB261 by AM832",
+      "title": "Appropriate funds for the expenses of Nebraska State Government for the biennium ending June 30, 2027, and appropriate Federal Funds allocated to the State of Nebraska pursuant to the federal American Rescue Plan Act of 2021"
+    },
+    "3": {
+      "relevance": 94,
+      "state": "NE",
+      "bill_number": "LB474",
+      "bill_id": 1931529,
+      "change_hash": "fd271780e38735ce713757218e8dfbf2",
+      "url": "https://legiscan.com/NE/bill/LB474/2025",
+      "text_url": "https://legiscan.com/NE/text/LB474/2025",
+      "research_url": "https://legiscan.com/NE/research/LB474/2025",
+      "last_action_date": "2025-06-06",
+      "last_action": "Provisions/portions of LB473 amended into LB474 by AM669",
+      "title": "Change and eliminate provisions relating to installment sales and installment loans and the Nebraska Money Transmitters Act, rename the Nebraska Installment Sales Act, transfer provisions of and eliminate the Nebraska Installment Loan Act, and change provisions of the Medicaid Access and Quality Act"
+    },
+    "4": {
+      "relevance": 89,
+      "state": "NE",
+      "bill_number": "LB458",
+      "bill_id": 1931029,
+      "change_hash": "10b21fd8666ae0dca86d040f89c03c52",
+      "url": "https://legiscan.com/NE/bill/LB458/2025",
+      "text_url": "https://legiscan.com/NE/text/LB458/2025",
+      "research_url": "https://legiscan.com/NE/research/LB458/2025",
+      "last_action_date": "2026-01-07",
+      "last_action": "Title printed. Carryover bill",
+      "title": "Change provisions relating to tax sale certificates, real property sold for delinquent taxes, certain tax-related foreclosure actions, and land banks and adopt the Permitting Approval Timeliness Act and the By-Right Housing Development Act"
+    },
+    "5": {
+      "relevance": 89,
+      "state": "NE",
+      "bill_number": "LB1130",
+      "bill_id": 2086327,
+      "change_hash": "659619e9df69e3ab447984b1fbc8f38f",
+      "url": "https://legiscan.com/NE/bill/LB1130/2025",
+      "text_url": "https://legiscan.com/NE/text/LB1130/2025",
+      "research_url": "https://legiscan.com/NE/research/LB1130/2025",
+      "last_action_date": "2026-01-27",
+      "last_action": "Notice of hearing for February 03, 2026",
+      "title": "Adopt the Community Improvement District Act"
+    },
+    "6": {
+      "relevance": 83,
+      "state": "NE",
+      "bill_number": "LB264",
+      "bill_id": 1919656,
+      "change_hash": "7bf02fc3db0fdd07bcad779d76583a4c",
+      "url": "https://legiscan.com/NE/bill/LB264/2025",
+      "text_url": "https://legiscan.com/NE/text/LB264/2025",
+      "research_url": "https://legiscan.com/NE/research/LB264/2025",
+      "last_action_date": "2025-06-06",
+      "last_action": "Provisions/portions of LB451 amended into LB264 by AM835",
+      "title": "Provide, change, and eliminate transfers from the Cash Reserve Fund and various other funds and change, terminate, and eliminate various statutory programs"
+    },
+    "7": {
+      "relevance": 66,
+      "state": "NE",
+      "bill_number": "LB1072",
+      "bill_id": 2082182,
+      "change_hash": "fef6662054c063fe8ec09ee2db7d319a",
+      "url": "https://legiscan.com/NE/bill/LB1072/2025",
+      "text_url": "https://legiscan.com/NE/text/LB1072/2025",
+      "research_url": "https://legiscan.com/NE/research/LB1072/2025",
+      "last_action_date": "2026-03-19",
+      "last_action": "Raybould AM2825 to AM2649 filed",
+      "title": "Provide for and change transfers from the Cash Reserve Fund and provide, change, and eliminate provisions relating to fees, funds, fund transfers, agency powers and duties, and various statutory programs"
+    },
+    "8": {
+      "relevance": 64,
+      "state": "NE",
+      "bill_number": "LB317",
+      "bill_id": 1922968,
+      "change_hash": "b4ba21795b02dee8d55d9ca8a9ec8dd6",
+      "url": "https://legiscan.com/NE/bill/LB317/2025",
+      "text_url": "https://legiscan.com/NE/text/LB317/2025",
+      "research_url": "https://legiscan.com/NE/research/LB317/2025",
+      "last_action_date": "2025-05-06",
+      "last_action": "Approved by Governor on May 6, 2025",
+      "title": "Merge the Department of Natural Resources with the Department of Environment and Energy and change the name to the Department of Water, Energy, and Environment, create the position of Chief Water Officer, and provide, change, and eliminate powers and duties relating to water, conservation, state game refuges, and low-level radioactive waste disposal"
+    }
+  }
+}

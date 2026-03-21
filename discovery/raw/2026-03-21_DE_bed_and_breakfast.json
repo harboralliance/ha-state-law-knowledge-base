@@ -1,0 +1,27 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 1",
+      "relevancy": "100% - 100%",
+      "count": 1,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zbed:(pos=1) AND Zbreakfast:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "DE",
+      "bill_number": "HB225",
+      "bill_id": 2037575,
+      "change_hash": "d2b3aae68dfd6065793bfa297f94cfb8",
+      "url": "https://legiscan.com/DE/bill/HB225/2025",
+      "text_url": "https://legiscan.com/DE/text/HB225/2025",
+      "research_url": "https://legiscan.com/DE/research/HB225/2025",
+      "last_action_date": "2025-07-01",
+      "last_action": "Signed by Governor",
+      "title": "An Act Making Appropriations For The Expense Of The State Government For The Fiscal Year Ending June 30, 2026; Specifying Certain Procedures, Conditions And Limitations For The Expenditure Of Such Funds; And Amending Certain Pertinent Statutory Provisions."
+    }
+  }
+}

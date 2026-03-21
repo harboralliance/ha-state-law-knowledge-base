@@ -1,0 +1,27 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 1",
+      "relevancy": "100% - 100%",
+      "count": 1,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zbed:(pos=1) AND Zbreakfast:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "TX",
+      "bill_number": "HR381",
+      "bill_id": 1983282,
+      "change_hash": "98dd923272649ffa02f6ba3572511222",
+      "url": "https://legiscan.com/TX/bill/HR381/2025",
+      "text_url": "https://legiscan.com/TX/text/HR381/2025",
+      "research_url": "https://legiscan.com/TX/research/HR381/2025",
+      "last_action_date": "2025-03-14",
+      "last_action": "Reported enrolled",
+      "title": "Recognizing February 26, 2025, as Washington County Day at the State Capitol."
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 7",
+      "relevancy": "100% - 93%",
+      "count": 7,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zmotel:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "WI",
+      "bill_number": "AB238",
+      "bill_id": 2028312,
+      "change_hash": "a1f82833a06f1c371b67db5011d9b2b3",
+      "url": "https://legiscan.com/WI/bill/AB238/2025",
+      "text_url": "https://legiscan.com/WI/text/AB238/2025",
+      "research_url": "https://legiscan.com/WI/research/AB238/2025",
+      "last_action_date": "2026-01-23",
+      "last_action": "Report correctly enrolled on 1-22-2026",
+      "title": "Prohibiting hotels, inns, and motels from discriminating against dog handlers who are accompanied by search and rescue dogs."
+    },
+    "1": {
+      "relevance": 99,
+      "state": "WI",
+      "bill_number": "SB239",
+      "bill_id": 2029907,
+      "change_hash": "c93aa21ec65f5674d5c59be8ffad20c8",
+      "url": "https://legiscan.com/WI/bill/SB239/2025",
+      "text_url": "https://legiscan.com/WI/text/SB239/2025",
+      "research_url": "https://legiscan.com/WI/research/SB239/2025",
+      "last_action_date": "2026-01-13",
+      "last_action": "Available for scheduling",
+      "title": "Prohibiting hotels, inns, and motels from discriminating against dog handlers who are accompanied by search and rescue dogs."
+    },
+    "2": {
+      "relevance": 99,
+      "state": "WI",
+      "bill_number": "AB1009",
+      "bill_id": 2110851,
+      "change_hash": "a17ae9bda3717aee570886d9893f275c",
+      "url": "https://legiscan.com/WI/bill/AB1009/2025",
+      "text_url": "https://legiscan.com/WI/text/AB1009/2025",
+      "research_url": "https://legiscan.com/WI/research/AB1009/2025",
+      "last_action_date": "2026-02-06",
+      "last_action": "Read first time and referred to Committee on Tourism",
+      "title": "Tourism promotion improvement districts. (FE)"
+    },
+    "3": {
+      "relevance": 99,
+      "state": "WI",
+      "bill_number": "SB998",
+      "bill_id": 2115560,
+      "change_hash": "b21f3900de43f1b378331b42403a0f0c",
+      "url": "https://legiscan.com/WI/bill/SB998/2025",
+      "text_url": "https://legiscan.com/WI/text/SB998/2025",
+      "research_url": "https://legiscan.com/WI/research/SB998/2025",
+      "last_action_date": "2026-03-10",
+      "last_action": "Public hearing held",
+      "title": "Tourism promotion improvement districts. (FE)"
+    },
+    "4": {
+      "relevance": 93,
+      "state": "WI",
+      "bill_number": "AB824",
+      "bill_id": 2066329,
+      "change_hash": "5d30069f22a7470b9f4ddaf6e1b79190",
+      "url": "https://legiscan.com/WI/bill/AB824/2025",
+      "text_url": "https://legiscan.com/WI/text/AB824/2025",
+      "research_url": "https://legiscan.com/WI/research/AB824/2025",
+      "last_action_date": "2026-03-20",
+      "last_action": "Representative J. Jacobson added as a coauthor",
+      "title": "Displaying a human trafficking resource center hotline poster. (FE)"
+    },
+    "5": {
+      "relevance": 93,
+      "state": "WI",
+      "bill_number": "SB614",
+      "bill_id": 2051751,
+      "change_hash": "47ed858a6bb768a8bd02901babdb3f23",
+      "url": "https://legiscan.com/WI/bill/SB614/2025",
+      "text_url": "https://legiscan.com/WI/text/SB614/2025",
+      "research_url": "https://legiscan.com/WI/research/SB614/2025",
+      "last_action_date": "2026-02-12",
+      "last_action": "Available for scheduling",
+      "title": "Pay for performance grant requirements. (FE)"
+    },
+    "6": {
+      "relevance": 93,
+      "state": "WI",
+      "bill_number": "AB625",
+      "bill_id": 2051934,
+      "change_hash": "28ae3b18a37940a801310dc3ff6c35bb",
+      "url": "https://legiscan.com/WI/bill/AB625/2025",
+      "text_url": "https://legiscan.com/WI/text/AB625/2025",
+      "research_url": "https://legiscan.com/WI/research/AB625/2025",
+      "last_action_date": "2026-02-17",
+      "last_action": "Fiscal estimate received",
+      "title": "Pay for performance grant requirements. (FE)"
+    }
+  }
+}

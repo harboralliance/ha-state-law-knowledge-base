@@ -2,69 +2,73 @@
   "state": "Connecticut",
   "state_code": "CT",
   "industry": "commercial lodging",
-  "source_file": "2026-03-20_Connecticut_lodging_compliance.md",
+  "source_file": "2026-03-21_Connecticut_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
   "training_frequency": "annually",
   "new_hire_deadline_days": null,
   "new_hire_deadline_text": null,
-  "signage_required": true,
+  "signage_required": false,
   "provider_approval_required": false,
   "provider_approval_type": null,
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "Department of Children and Families (DCF)",
-    "Department of Public Health (DPH)",
-    "Office of Victim Services (OVS)"
+    "DCF",
+    "State Attorney's Office",
+    "Local Law Enforcement"
   ],
   "applicable_to": [
+    "hotels",
+    "motels",
+    "lodging businesses",
+    "Child Protective Services staff",
     "foster parents",
-    "service providers",
     "schools",
     "law enforcement",
-    "hospital and medical staff",
-    "hotel and motel workers"
+    "emergency medical services"
   ],
   "required_topics": [
-    "human trafficking awareness",
-    "trafficking training for employees"
+    "Child Protective Services staff",
+    "Foster parents",
+    "Schools",
+    "Law enforcement (POST Certified)",
+    "Emergency medical services",
+    "Hotels, motels, and lodging businesses"
   ],
   "reporting_contacts_required": [
-    "state attorneys",
-    "local law enforcement"
+    "State attorneys",
+    "Local law enforcement"
   ],
   "signage_details": {
     "languages_required": [],
     "minimum_size": null,
     "font_size": null,
-    "posting_location": [
-      "entrances",
-      "websites"
-    ],
-    "required_content": [
-      "trafficking training information",
-      "awareness campaigns"
-    ]
+    "posting_location": null,
+    "required_content": []
   },
   "recordkeeping_requirements": [
-    "documenting and reporting on trafficking cases and interventions"
+    {
+      "records_to_keep": [
+        "guest transactions and receipts"
+      ],
+      "duration": "at least 6 months"
+    }
   ],
   "certificate_requirements": [],
   "law_references": [
-    "Public Act 17-32",
-    "Public Act 16-71",
-    "Public Act 15-195"
+    "Human and Sex Trafficking Legislation",
+    "DCF Knowledge Base Articles on Supports for Children and Families"
   ],
   "source_urls": [
     "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/trainings-for-providers",
     "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/human-and-sex-trafficking-legislation"
   ],
-  "harbor_alliance_posture": "approval-required",
+  "harbor_alliance_posture": null,
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "mandatory annual trafficking training for relevant sectors",
-    "signage and awareness campaigns required annually"
+    "State-controlled training requirement",
+    "Annual basic training for all Child Protective Services staff and specific trainings for other professionals"
   ],
   "notes": [],
   "needs_review": []

@@ -1,0 +1,27 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 1",
+      "relevancy": "100% - 100%",
+      "count": 1,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zlabor:(pos=1) AND Ztraffick:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "NH",
+      "bill_number": "HB1469",
+      "bill_id": 2056751,
+      "change_hash": "5ce215335de5e00a03bcc41eeac7f412",
+      "url": "https://legiscan.com/NH/bill/HB1469/2026",
+      "text_url": "https://legiscan.com/NH/text/HB1469/2026",
+      "research_url": "https://legiscan.com/NH/research/HB1469/2026",
+      "last_action_date": "2026-03-18",
+      "last_action": "Minority Committee Report: Inexpedient to Legislate",
+      "title": "Relative to the licensing requirements for massage therapy establishments."
+    }
+  }
+}

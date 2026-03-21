@@ -2,29 +2,40 @@
   "state": "Texas",
   "state_code": "TX",
   "industry": "commercial lodging",
-  "source_file": "2026-03-20_Texas_lodging_compliance.md",
+  "source_file": "2026-03-21_Texas_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
   "training_frequency": "annual",
-  "new_hire_deadline_days": null,
-  "new_hire_deadline_text": null,
-  "signage_required": false,
+  "new_hire_deadline_days": 90,
+  "new_hire_deadline_text": "New employees must complete the training within 90 days of hire.",
+  "signage_required": true,
   "provider_approval_required": true,
-  "provider_approval_type": "OAG approved training programs",
-  "approval_authority": "Office of the Attorney General (OAG)",
+  "provider_approval_type": "Office of the Attorney General",
+  "approval_authority": "Texas Legislature (House Bill 390)",
   "approval_contact": null,
   "enforcing_agencies": [
-    "Texas Department of Licensing and Regulation"
+    "Texas Office of the Attorney General",
+    "Local law enforcement agencies"
   ],
   "applicable_to": [
     {
-      "room_count_min": 10
+      "lodging_type": "commercial lodging establishments",
+      "minimum_rooms": 10
+    },
+    {
+      "lodging_type": "all lodging establishments in Texas",
+      "minimum_rooms": null
     }
   ],
   "required_topics": [
-    "human trafficking"
+    "Identification of red flags",
+    "Role in reporting",
+    "Employee protections"
   ],
-  "reporting_contacts_required": [],
+  "reporting_contacts_required": [
+    "National Human Trafficking Hotline",
+    "local law enforcement"
+  ],
   "signage_details": {
     "languages_required": [
       "English",
@@ -33,30 +44,35 @@
     "minimum_size": null,
     "font_size": null,
     "posting_location": null,
-    "required_content": []
+    "required_content": [
+      "Human trafficking awareness and reporting requirements"
+    ]
   },
   "recordkeeping_requirements": [
+    "Records of completed training certificates"
+  ],
+  "certificate_requirements": [
     {
-      "type": "employee training records",
-      "retention_period": null
+      "type": "Certificate of completion",
+      "issued_by": "Approved training providers",
+      "content": [
+        "Date taken",
+        "Course title"
+      ],
+      "retention_required": true
     }
   ],
-  "certificate_requirements": [],
   "law_references": [
-    "House Bill 390"
+    "House Bill 390 (87th Regular Session)"
   ],
-  "source_urls": [
-    "https://www.legislature.state.tx.us/tlod/index.cfm?search=HB+390",
-    "https://www.atg.texas.gov/human-trafficking-training"
-  ],
+  "source_urls": [],
   "harbor_alliance_posture": "approval-required",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    {
-      "risk": "non-compliance with human trafficking training requirements",
-      "constraint": "potential legal penalties and reputational damage"
-    }
+    "Potential for disciplinary action if employees report suspected human trafficking without proper training"
   ],
-  "notes": [],
+  "notes": [
+    "Employers are encouraged to provide and document these trainings to ensure compliance with state laws."
+  ],
   "needs_review": []
 }

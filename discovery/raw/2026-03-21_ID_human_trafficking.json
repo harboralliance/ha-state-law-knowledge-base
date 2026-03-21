@@ -1,0 +1,105 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 7",
+      "relevancy": "100% - 59%",
+      "count": 7,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zhuman:(pos=1) AND Ztraffick:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "ID",
+      "bill_number": "H0518",
+      "bill_id": 2091627,
+      "change_hash": "187d16f6b211793615d8e55c2a03f927",
+      "url": "https://legiscan.com/ID/bill/H0518/2026",
+      "text_url": "https://legiscan.com/ID/text/H0518/2026",
+      "research_url": "https://legiscan.com/ID/research/H0518/2026",
+      "last_action_date": "2026-03-12",
+      "last_action": "Reported Signed by Governor on March 11, 2026 Session Law Chapter 15 Effective: 03/11/2026",
+      "title": "Amends existing law to provide that the Attorney General shall have certain authority."
+    },
+    "1": {
+      "relevance": 92,
+      "state": "ID",
+      "bill_number": "H0757",
+      "bill_id": 2123084,
+      "change_hash": "9d6c004e4dd1b06ee107f4e61e952037",
+      "url": "https://legiscan.com/ID/bill/H0757/2026",
+      "text_url": "https://legiscan.com/ID/text/H0757/2026",
+      "research_url": "https://legiscan.com/ID/research/H0757/2026",
+      "last_action_date": "2026-02-25",
+      "last_action": "Reported Printed and Referred to Health & Welfare",
+      "title": "Amends and adds to existing law to establish provisions regarding medical neglect for children and vulnerable adults."
+    },
+    "2": {
+      "relevance": 88,
+      "state": "ID",
+      "bill_number": "H0683",
+      "bill_id": 2117634,
+      "change_hash": "1de2d174310bfa695438d1fd5d99eabd",
+      "url": "https://legiscan.com/ID/bill/H0683/2026",
+      "text_url": "https://legiscan.com/ID/text/H0683/2026",
+      "research_url": "https://legiscan.com/ID/research/H0683/2026",
+      "last_action_date": "2026-03-20",
+      "last_action": "Read second time; filed for Third Reading",
+      "title": "Amends existing law to revise provisions regarding where a sex offender resides."
+    },
+    "3": {
+      "relevance": 82,
+      "state": "ID",
+      "bill_number": "H0691",
+      "bill_id": 2117722,
+      "change_hash": "19e8b75d5d2c161d2c62b5219f90d1e9",
+      "url": "https://legiscan.com/ID/bill/H0691/2026",
+      "text_url": "https://legiscan.com/ID/text/H0691/2026",
+      "research_url": "https://legiscan.com/ID/research/H0691/2026",
+      "last_action_date": "2026-02-17",
+      "last_action": "Reported Printed and Referred to Judiciary, Rules & Administration",
+      "title": "Amends existing law to revise the definition of \"neglected.\""
+    },
+    "4": {
+      "relevance": 77,
+      "state": "ID",
+      "bill_number": "S1257",
+      "bill_id": 2107411,
+      "change_hash": "3fe4dce9bf435cefd2495bb16fc11733",
+      "url": "https://legiscan.com/ID/bill/S1257/2026",
+      "text_url": "https://legiscan.com/ID/text/S1257/2026",
+      "research_url": "https://legiscan.com/ID/research/S1257/2026",
+      "last_action_date": "2026-03-19",
+      "last_action": "Reported signed by the Speaker & ordered delivered to Governor",
+      "title": "Amends existing law to establish provisions regarding visitation and termination of parental rights."
+    },
+    "5": {
+      "relevance": 71,
+      "state": "ID",
+      "bill_number": "S1240",
+      "bill_id": 2101821,
+      "change_hash": "ba869420342c06186a8a2eae716f97b7",
+      "url": "https://legiscan.com/ID/bill/S1240/2026",
+      "text_url": "https://legiscan.com/ID/text/S1240/2026",
+      "research_url": "https://legiscan.com/ID/research/S1240/2026",
+      "last_action_date": "2026-03-16",
+      "last_action": "Reported signed by the Speaker & ordered delivered to Governor",
+      "title": "Amends, repeals, and adds to existing law to establish the Uniform Guardianship, Conservatorship, and Other Protective Arrangements Act."
+    },
+    "6": {
+      "relevance": 59,
+      "state": "ID",
+      "bill_number": "H0809",
+      "bill_id": 2127782,
+      "change_hash": "327af362cbee54fa8c851ce731bdbb72",
+      "url": "https://legiscan.com/ID/bill/H0809/2026",
+      "text_url": "https://legiscan.com/ID/text/H0809/2026",
+      "research_url": "https://legiscan.com/ID/research/H0809/2026",
+      "last_action_date": "2026-03-03",
+      "last_action": "Reported Printed and Referred to Health & Welfare",
+      "title": "Amends and adds to existing law to provide for a school of origin and school of origin hearing."
+    }
+  }
+}

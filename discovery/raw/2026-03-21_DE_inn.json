@@ -1,0 +1,27 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 1",
+      "relevancy": "100% - 100%",
+      "count": 1,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zinn:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "DE",
+      "bill_number": "SCR120",
+      "bill_id": 2038315,
+      "change_hash": "20cd5a288c20c622f55ca4014c7e6b80",
+      "url": "https://legiscan.com/DE/bill/SCR120/2025",
+      "text_url": "https://legiscan.com/DE/text/SCR120/2025",
+      "research_url": "https://legiscan.com/DE/research/SCR120/2025",
+      "last_action_date": "2025-06-26",
+      "last_action": "Passed In House by Voice Vote",
+      "title": "Designating June 28, 2025, As Stonewall Uprising Remembrance Day In The State Of Delaware."
+    }
+  }
+}
