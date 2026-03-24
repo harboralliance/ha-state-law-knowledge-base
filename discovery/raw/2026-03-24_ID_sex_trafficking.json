@@ -1,0 +1,40 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 2",
+      "relevancy": "100% - 73%",
+      "count": 2,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zsex:(pos=1) AND Ztraffick:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "ID",
+      "bill_number": "H0683",
+      "bill_id": 2117634,
+      "change_hash": "1de2d174310bfa695438d1fd5d99eabd",
+      "url": "https://legiscan.com/ID/bill/H0683/2026",
+      "text_url": "https://legiscan.com/ID/text/H0683/2026",
+      "research_url": "https://legiscan.com/ID/research/H0683/2026",
+      "last_action_date": "2026-03-20",
+      "last_action": "Read second time; filed for Third Reading",
+      "title": "Amends existing law to revise provisions regarding where a sex offender resides."
+    },
+    "1": {
+      "relevance": 73,
+      "state": "ID",
+      "bill_number": "S1240",
+      "bill_id": 2101821,
+      "change_hash": "ae65e2358e1e881a6a1db6597a4c9c17",
+      "url": "https://legiscan.com/ID/bill/S1240/2026",
+      "text_url": "https://legiscan.com/ID/text/S1240/2026",
+      "research_url": "https://legiscan.com/ID/research/S1240/2026",
+      "last_action_date": "2026-03-20",
+      "last_action": "Session Law Chapter 79 Effective: 01/01/2027",
+      "title": "Amends, repeals, and adds to existing law to establish the Uniform Guardianship, Conservatorship, and Other Protective Arrangements Act."
+    }
+  }
+}

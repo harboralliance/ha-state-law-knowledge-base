@@ -1,0 +1,53 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 3",
+      "relevancy": "100% - 91%",
+      "count": 3,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zhuman:(pos=1) AND Ztraffick:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "SD",
+      "bill_number": "HB1300",
+      "bill_id": 2107268,
+      "change_hash": "3c0b2965318a328e1f6d9918477e30d1",
+      "url": "https://legiscan.com/SD/bill/HB1300/2026",
+      "text_url": "https://legiscan.com/SD/text/HB1300/2026",
+      "research_url": "https://legiscan.com/SD/research/HB1300/2026",
+      "last_action_date": "2026-03-10",
+      "last_action": "Delivered to the Governor on March 10, 2026 H.J. 546",
+      "title": "Except victims of human trafficking or domestic abuse from certain clemency notice requirements."
+    },
+    "1": {
+      "relevance": 92,
+      "state": "SD",
+      "bill_number": "SB44",
+      "bill_id": 2066364,
+      "change_hash": "8c0e81846ef1d5dba3e0b33d71392b6c",
+      "url": "https://legiscan.com/SD/bill/SB44/2026",
+      "text_url": "https://legiscan.com/SD/text/SB44/2026",
+      "research_url": "https://legiscan.com/SD/research/SB44/2026",
+      "last_action_date": "2026-03-30",
+      "last_action": "Signed by the Governor on March 30, 2026",
+      "title": "Establish investigative subpoena authority to gather business records in certain investigations."
+    },
+    "2": {
+      "relevance": 91,
+      "state": "SD",
+      "bill_number": "SCR604",
+      "bill_id": 2091526,
+      "change_hash": "70039dcdba6f3233d15fb6c2f2622075",
+      "url": "https://legiscan.com/SD/bill/SCR604/2026",
+      "text_url": "https://legiscan.com/SD/text/SCR604/2026",
+      "research_url": "https://legiscan.com/SD/research/SCR604/2026",
+      "last_action_date": "2026-01-29",
+      "last_action": "House of Representatives Concurred in Resolution, Passed, YEAS 42, NAYS 23. H.J. 175",
+      "title": "Urging the people of the state of South Dakota to seek the Lord Most High for His healing presence and mercy upon South Dakota."
+    }
+  }
+}

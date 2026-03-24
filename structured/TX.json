@@ -2,77 +2,63 @@
   "state": "Texas",
   "state_code": "TX",
   "industry": "commercial lodging",
-  "source_file": "2026-03-21_Texas_lodging_compliance.md",
+  "source_file": "2026-03-24_Texas_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
   "training_frequency": "annual",
-  "new_hire_deadline_days": 90,
-  "new_hire_deadline_text": "New employees must complete the training within 90 days of hire.",
-  "signage_required": true,
+  "new_hire_deadline_days": null,
+  "new_hire_deadline_text": null,
+  "signage_required": false,
   "provider_approval_required": true,
-  "provider_approval_type": "Office of the Attorney General",
-  "approval_authority": "Texas Legislature (House Bill 390)",
-  "approval_contact": null,
+  "provider_approval_type": "OAG approved",
+  "approval_authority": "Office of the Attorney General (OAG)",
+  "approval_contact": "[email\u00a0protected]",
   "enforcing_agencies": [
-    "Texas Office of the Attorney General",
-    "Local law enforcement agencies"
+    "Texas Department of Licensing and Regulation"
   ],
   "applicable_to": [
-    {
-      "lodging_type": "commercial lodging establishments",
-      "minimum_rooms": 10
-    },
-    {
-      "lodging_type": "all lodging establishments in Texas",
-      "minimum_rooms": null
-    }
+    "commercial lodging establishments with 10 or more rooms",
+    "all commercial lodging establishments regardless of size"
   ],
   "required_topics": [
-    "Identification of red flags",
-    "Role in reporting",
-    "Employee protections"
+    "How human trafficking takes place in the hospitality industry",
+    "Commercial lodging's role in addressing sex trafficking",
+    "Identification of hotel contract workers vulnerable to labor trafficking",
+    "The role of staff in reporting and responding to human trafficking, including guidance on how to respond to any victims asking for assistance",
+    "Contact information for appropriate entities to report human trafficking",
+    "Information on the required human trafficking signage"
   ],
-  "reporting_contacts_required": [
-    "National Human Trafficking Hotline",
-    "local law enforcement"
-  ],
+  "reporting_contacts_required": [],
   "signage_details": {
-    "languages_required": [
-      "English",
-      "Spanish"
-    ],
+    "languages_required": null,
     "minimum_size": null,
     "font_size": null,
     "posting_location": null,
-    "required_content": [
-      "Human trafficking awareness and reporting requirements"
-    ]
+    "required_content": []
   },
   "recordkeeping_requirements": [
-    "Records of completed training certificates"
+    "Certificate of Completion"
   ],
   "certificate_requirements": [
-    {
-      "type": "Certificate of completion",
-      "issued_by": "Approved training providers",
-      "content": [
-        "Date taken",
-        "Course title"
-      ],
-      "retention_required": true
-    }
+    "date and title of the course",
+    "signature of the employee",
+    "OAG approval"
   ],
   "law_references": [
     "House Bill 390 (87th Regular Session)"
   ],
   "source_urls": [],
   "harbor_alliance_posture": "approval-required",
-  "harbor_alliance_actions": [],
+  "harbor_alliance_actions": [
+    "Ensure all employees complete annual OAG approved training",
+    "Maintain records of completed trainings and certificates"
+  ],
   "risks_or_constraints": [
-    "Potential for disciplinary action if employees report suspected human trafficking without proper training"
+    "Compliance with state law requirements"
   ],
   "notes": [
-    "Employers are encouraged to provide and document these trainings to ensure compliance with state laws."
+    "Encouraged but not mandatory for establishments with less than 10 rooms",
+    "Multiple training providers are approved, including free options"
   ],
   "needs_review": []
 }

@@ -1,0 +1,105 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 7",
+      "relevancy": "100% - 73%",
+      "count": 7,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(((short:(pos=1) PHRASE 2 term:(pos=2)) AND Zrental:(pos=3)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "WI",
+      "bill_number": "AB449",
+      "bill_id": 2045039,
+      "change_hash": "6735b6781d84607315570b2685e54721",
+      "url": "https://legiscan.com/WI/bill/AB449/2025",
+      "text_url": "https://legiscan.com/WI/text/AB449/2025",
+      "research_url": "https://legiscan.com/WI/research/AB449/2025",
+      "last_action_date": "2026-03-23",
+      "last_action": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "title": "Local regulation of accessory dwelling units. (FE)"
+    },
+    "1": {
+      "relevance": 99,
+      "state": "WI",
+      "bill_number": "SB473",
+      "bill_id": 2045623,
+      "change_hash": "a69936a6dcb9993cc33d934cb72cdde5",
+      "url": "https://legiscan.com/WI/bill/SB473/2025",
+      "text_url": "https://legiscan.com/WI/text/SB473/2025",
+      "research_url": "https://legiscan.com/WI/research/SB473/2025",
+      "last_action_date": "2026-03-19",
+      "last_action": "Representative Emerson added as a cosponsor",
+      "title": "Local regulation of accessory dwelling units. (FE)"
+    },
+    "2": {
+      "relevance": 99,
+      "state": "WI",
+      "bill_number": "SB1080",
+      "bill_id": 2126154,
+      "change_hash": "7e4768b1e51c177bf22a87f7f0459eab",
+      "url": "https://legiscan.com/WI/bill/SB1080/2025",
+      "text_url": "https://legiscan.com/WI/text/SB1080/2025",
+      "research_url": "https://legiscan.com/WI/research/SB1080/2025",
+      "last_action_date": "2026-03-19",
+      "last_action": "Representative Subeck added as a cosponsor",
+      "title": "Local regulation of the short-term rental of residential dwellings."
+    },
+    "3": {
+      "relevance": 99,
+      "state": "WI",
+      "bill_number": "AB1050",
+      "bill_id": 2125373,
+      "change_hash": "a4fc9031885955068b69668b87405507",
+      "url": "https://legiscan.com/WI/bill/AB1050/2025",
+      "text_url": "https://legiscan.com/WI/text/AB1050/2025",
+      "research_url": "https://legiscan.com/WI/research/AB1050/2025",
+      "last_action_date": "2026-03-23",
+      "last_action": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "title": "Local regulation of the short-term rental of residential dwellings."
+    },
+    "4": {
+      "relevance": 90,
+      "state": "WI",
+      "bill_number": "AB824",
+      "bill_id": 2066329,
+      "change_hash": "c7c3afdb0892fa5d26e94a49bf0ce57c",
+      "url": "https://legiscan.com/WI/bill/AB824/2025",
+      "text_url": "https://legiscan.com/WI/text/AB824/2025",
+      "research_url": "https://legiscan.com/WI/research/AB824/2025",
+      "last_action_date": "2026-03-23",
+      "last_action": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "title": "Displaying a human trafficking resource center hotline poster. (FE)"
+    },
+    "5": {
+      "relevance": 74,
+      "state": "WI",
+      "bill_number": "AB50",
+      "bill_id": 1974122,
+      "change_hash": "aa34a0e409e023f6d825969bee1fe9fc",
+      "url": "https://legiscan.com/WI/bill/AB50/2025",
+      "text_url": "https://legiscan.com/WI/text/AB50/2025",
+      "research_url": "https://legiscan.com/WI/research/AB50/2025",
+      "last_action_date": "2026-03-23",
+      "last_action": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "title": "State finances and appropriations, constituting the executive budget act of the 2025 legislature. (FE)"
+    },
+    "6": {
+      "relevance": 73,
+      "state": "WI",
+      "bill_number": "SB45",
+      "bill_id": 1974279,
+      "change_hash": "5f077c2437dd07d20b1fd3930b0227eb",
+      "url": "https://legiscan.com/WI/bill/SB45/2025",
+      "text_url": "https://legiscan.com/WI/text/SB45/2025",
+      "research_url": "https://legiscan.com/WI/research/SB45/2025",
+      "last_action_date": "2025-07-17",
+      "last_action": "LRB correction (Senate Amendment 2 to Senate Substitute Amendment 2)",
+      "title": "State finances and appropriations, constituting the executive budget act of the 2025 legislature. (FE)"
+    }
+  }
+}

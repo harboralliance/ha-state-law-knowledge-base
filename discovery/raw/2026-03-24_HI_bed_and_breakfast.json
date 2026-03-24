@@ -1,0 +1,118 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 8",
+      "relevancy": "100% - 36%",
+      "count": 8,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zbed:(pos=1) AND Zbreakfast:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "HI",
+      "bill_number": "HB1948",
+      "bill_id": 2092934,
+      "change_hash": "1de5425e627dcb934871fe52f35f5fa2",
+      "url": "https://legiscan.com/HI/bill/HB1948/2026",
+      "text_url": "https://legiscan.com/HI/text/HB1948/2026",
+      "research_url": "https://legiscan.com/HI/research/HB1948/2026",
+      "last_action_date": "2026-03-12",
+      "last_action": "Referred to EDT/AEN, CPN/JDC.",
+      "title": "Relating To Single-use Plastics."
+    },
+    "1": {
+      "relevance": 99,
+      "state": "HI",
+      "bill_number": "HB348",
+      "bill_id": 2062100,
+      "change_hash": "5583b2eaf7dcf0f1ef214691c470a6ac",
+      "url": "https://legiscan.com/HI/bill/HB348/2026",
+      "text_url": "https://legiscan.com/HI/text/HB348/2026",
+      "research_url": "https://legiscan.com/HI/research/HB348/2026",
+      "last_action_date": "2026-03-20",
+      "last_action": "Received notice of all Senate conferees being discharged (Sen. Com. No. 409).",
+      "title": "Relating To Single-use Plastics."
+    },
+    "2": {
+      "relevance": 93,
+      "state": "HI",
+      "bill_number": "SB670",
+      "bill_id": 2061940,
+      "change_hash": "6ca09c472327c6bc47422e6307cdfee0",
+      "url": "https://legiscan.com/HI/bill/SB670/2026",
+      "text_url": "https://legiscan.com/HI/text/SB670/2026",
+      "research_url": "https://legiscan.com/HI/research/SB670/2026",
+      "last_action_date": "2025-12-08",
+      "last_action": "Carried over to 2026 Regular Session.",
+      "title": "Relating To Single-use Plastics."
+    },
+    "3": {
+      "relevance": 93,
+      "state": "HI",
+      "bill_number": "SB3275",
+      "bill_id": 2100425,
+      "change_hash": "c71b72883423369776ebb259798acfba",
+      "url": "https://legiscan.com/HI/bill/SB3275/2026",
+      "text_url": "https://legiscan.com/HI/text/SB3275/2026",
+      "research_url": "https://legiscan.com/HI/research/SB3275/2026",
+      "last_action_date": "2026-02-20",
+      "last_action": "Report adopted; Passed Second Reading, as amended (SD 1) and referred to WAM/JDC.",
+      "title": "Relating To Cannabis."
+    },
+    "4": {
+      "relevance": 38,
+      "state": "HI",
+      "bill_number": "SB1613",
+      "bill_id": 2061844,
+      "change_hash": "8b9d054459c3fd3c57fd1c663338d218",
+      "url": "https://legiscan.com/HI/bill/SB1613/2026",
+      "text_url": "https://legiscan.com/HI/text/SB1613/2026",
+      "research_url": "https://legiscan.com/HI/research/SB1613/2026",
+      "last_action_date": "2025-12-08",
+      "last_action": "Carried over to 2026 Regular Session.",
+      "title": "Relating To Cannabis."
+    },
+    "5": {
+      "relevance": 38,
+      "state": "HI",
+      "bill_number": "HB1246",
+      "bill_id": 2063045,
+      "change_hash": "199076712e95cbbf1b0ee7c4a4909199",
+      "url": "https://legiscan.com/HI/bill/HB1246/2026",
+      "text_url": "https://legiscan.com/HI/text/HB1246/2026",
+      "research_url": "https://legiscan.com/HI/research/HB1246/2026",
+      "last_action_date": "2025-12-08",
+      "last_action": "Carried over to 2026 Regular Session.",
+      "title": "Relating To Cannabis."
+    },
+    "6": {
+      "relevance": 36,
+      "state": "HI",
+      "bill_number": "HB1625",
+      "bill_id": 2087406,
+      "change_hash": "c30e3a41a52dd4832ac72aa5eaff3a29",
+      "url": "https://legiscan.com/HI/bill/HB1625/2026",
+      "text_url": "https://legiscan.com/HI/text/HB1625/2026",
+      "research_url": "https://legiscan.com/HI/research/HB1625/2026",
+      "last_action_date": "2026-01-26",
+      "last_action": "Referred to JHA/AGR, CPC, FIN, referral sheet 1",
+      "title": "Relating To Cannabis."
+    },
+    "7": {
+      "relevance": 36,
+      "state": "HI",
+      "bill_number": "SB2421",
+      "bill_id": 2087482,
+      "change_hash": "0cb41394593717fdbd949607a34bf9cd",
+      "url": "https://legiscan.com/HI/bill/SB2421/2026",
+      "text_url": "https://legiscan.com/HI/text/SB2421/2026",
+      "research_url": "https://legiscan.com/HI/research/SB2421/2026",
+      "last_action_date": "2026-02-18",
+      "last_action": "The committee on CPN deferred the measure.",
+      "title": "Relating To Cannabis."
+    }
+  }
+}

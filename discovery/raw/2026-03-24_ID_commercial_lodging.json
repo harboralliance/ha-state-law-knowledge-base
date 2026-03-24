@@ -1,0 +1,66 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 4",
+      "relevancy": "100% - 60%",
+      "count": 4,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zcommerci:(pos=1) AND Zlodg:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "ID",
+      "bill_number": "S1258",
+      "bill_id": 2109474,
+      "change_hash": "e0970c297720da8d891818711dc513d0",
+      "url": "https://legiscan.com/ID/bill/S1258/2026",
+      "text_url": "https://legiscan.com/ID/text/S1258/2026",
+      "research_url": "https://legiscan.com/ID/research/S1258/2026",
+      "last_action_date": "2026-03-23",
+      "last_action": "to Senate",
+      "title": "Amends existing law to authorize liquor licensure for a distillery in certain instances."
+    },
+    "1": {
+      "relevance": 93,
+      "state": "ID",
+      "bill_number": "H0579",
+      "bill_id": 2107808,
+      "change_hash": "089563a231b2d3b0276ea49e74408f5d",
+      "url": "https://legiscan.com/ID/bill/H0579/2026",
+      "text_url": "https://legiscan.com/ID/text/H0579/2026",
+      "research_url": "https://legiscan.com/ID/research/H0579/2026",
+      "last_action_date": "2026-02-13",
+      "last_action": "Introduced, read first time; referred to: Judiciary & Rules",
+      "title": "Amends existing law to revise a provision regarding justifiable homicide."
+    },
+    "2": {
+      "relevance": 71,
+      "state": "ID",
+      "bill_number": "H0884",
+      "bill_id": 2132882,
+      "change_hash": "4bcda5191f161dd9bbe65ea84825f8f9",
+      "url": "https://legiscan.com/ID/bill/H0884/2026",
+      "text_url": "https://legiscan.com/ID/text/H0884/2026",
+      "research_url": "https://legiscan.com/ID/research/H0884/2026",
+      "last_action_date": "2026-03-12",
+      "last_action": "Reported Printed and Referred to Revenue & Taxation",
+      "title": "Amends and adds to existing law to establish certain permitting requirements regarding the sale of certain nicotine products, to revise provisions regarding the regulation of certain nicotine products, and to impose a tax on certain nicotine and related products."
+    },
+    "3": {
+      "relevance": 60,
+      "state": "ID",
+      "bill_number": "S1328",
+      "bill_id": 2118983,
+      "change_hash": "3eb9b416a780260a710644402173fe71",
+      "url": "https://legiscan.com/ID/bill/S1328/2026",
+      "text_url": "https://legiscan.com/ID/text/S1328/2026",
+      "research_url": "https://legiscan.com/ID/research/S1328/2026",
+      "last_action_date": "2026-03-09",
+      "last_action": "Read First Time, Referred to Resources & Conservation",
+      "title": "Amends existing law regarding counsel for the Department of Lands."
+    }
+  }
+}

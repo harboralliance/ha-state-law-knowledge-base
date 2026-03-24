@@ -1,0 +1,40 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 2",
+      "relevancy": "100% - 91%",
+      "count": 2,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zbed:(pos=1) AND Zbreakfast:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "LA",
+      "bill_number": "HB483",
+      "bill_id": 2125399,
+      "change_hash": "728ccb143d101c6271d51423885c069a",
+      "url": "https://legiscan.com/LA/bill/HB483/2026",
+      "text_url": "https://legiscan.com/LA/text/HB483/2026",
+      "research_url": "https://legiscan.com/LA/research/HB483/2026",
+      "last_action_date": "2026-02-27",
+      "last_action": "First appeared in the Interim Calendar on 2/27/2026.",
+      "title": "Provides relative to the Faubourg Marigny Security and Improvement District in Orleans Parish"
+    },
+    "1": {
+      "relevance": 91,
+      "state": "LA",
+      "bill_number": "SB282",
+      "bill_id": 2126243,
+      "change_hash": "ef3d680125ca01c9e378dfd365018b1a",
+      "url": "https://legiscan.com/LA/bill/SB282/2026",
+      "text_url": "https://legiscan.com/LA/text/SB282/2026",
+      "research_url": "https://legiscan.com/LA/research/SB282/2026",
+      "last_action_date": "2026-03-09",
+      "last_action": "Introduced in the Senate; read by title. Rules suspended. Read second time and referred to the Committee on Local and Municipal Affairs.",
+      "title": "Authorizes the creation of a cooperative economic development district affiliated with Baton Rouge Community College in East Baton Rouge Parish. (gov sig)"
+    }
+  }
+}

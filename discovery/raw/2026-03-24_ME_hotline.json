@@ -1,0 +1,105 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 7",
+      "relevancy": "100% - 93%",
+      "count": 7,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zhotlin:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "ME",
+      "bill_number": "LD1963",
+      "bill_id": 2030177,
+      "change_hash": "ef6d474cf4b79ca1b369f7e57252ee59",
+      "url": "https://legiscan.com/ME/bill/LD1963/2025",
+      "text_url": "https://legiscan.com/ME/text/LD1963/2025",
+      "research_url": "https://legiscan.com/ME/research/LD1963/2025",
+      "last_action_date": "2025-06-18",
+      "last_action": "Placed in the Legislative Files. (DEAD)",
+      "title": "An Act to Protect and Compensate Public Utility Whistleblowers"
+    },
+    "1": {
+      "relevance": 98,
+      "state": "ME",
+      "bill_number": "LD1216",
+      "bill_id": 2010769,
+      "change_hash": "6b61599de197d3480f77d1eb85c0a24e",
+      "url": "https://legiscan.com/ME/bill/LD1216/2025",
+      "text_url": "https://legiscan.com/ME/text/LD1216/2025",
+      "research_url": "https://legiscan.com/ME/research/LD1216/2025",
+      "last_action_date": "2026-03-18",
+      "last_action": "Reported Out: OTP-AM",
+      "title": "An Act to Improve Behavioral Health Crisis Services and Suicide Prevention Services"
+    },
+    "2": {
+      "relevance": 98,
+      "state": "ME",
+      "bill_number": "LD1996",
+      "bill_id": 2056563,
+      "change_hash": "b03133915c1d7910f6416b0f2adf1b45",
+      "url": "https://legiscan.com/ME/bill/LD1996/2025",
+      "text_url": "https://legiscan.com/ME/text/LD1996/2025",
+      "research_url": "https://legiscan.com/ME/research/LD1996/2025",
+      "last_action_date": "2026-03-19",
+      "last_action": "In concurrence. ORDERED SENT FORTHWITH.",
+      "title": "An Act to Clarify Responsibilities of the State in the Laws Governing General Assistance"
+    },
+    "3": {
+      "relevance": 98,
+      "state": "ME",
+      "bill_number": "HP1474",
+      "bill_id": 2104790,
+      "change_hash": "5d4b236c33b3d174aae534cd170d558c",
+      "url": "https://legiscan.com/ME/bill/HP1474/2025",
+      "text_url": "https://legiscan.com/ME/text/HP1474/2025",
+      "research_url": "https://legiscan.com/ME/research/HP1474/2025",
+      "last_action_date": "2026-02-12",
+      "last_action": "READ and ADOPTED, in concurrence.",
+      "title": "JOINT RESOLUTION RECOGNIZING JANUARY 2026 AS STALKING AWARENESS MONTH"
+    },
+    "4": {
+      "relevance": 97,
+      "state": "ME",
+      "bill_number": "LD1379",
+      "bill_id": 2017024,
+      "change_hash": "a651791fb0377985c719bcf1f670a192",
+      "url": "https://legiscan.com/ME/bill/LD1379/2025",
+      "text_url": "https://legiscan.com/ME/text/LD1379/2025",
+      "research_url": "https://legiscan.com/ME/research/LD1379/2025",
+      "last_action_date": "2025-06-13",
+      "last_action": "Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)",
+      "title": "An Act to Require Public Health Warnings to Be Posted and Provided by Firearm Dealers and Gunsmiths"
+    },
+    "5": {
+      "relevance": 97,
+      "state": "ME",
+      "bill_number": "LD1929",
+      "bill_id": 2028469,
+      "change_hash": "c3047c595fa433eb2de291c43e2caf22",
+      "url": "https://legiscan.com/ME/bill/LD1929/2025",
+      "text_url": "https://legiscan.com/ME/text/LD1929/2025",
+      "research_url": "https://legiscan.com/ME/research/LD1929/2025",
+      "last_action_date": "2025-05-21",
+      "last_action": "Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)",
+      "title": "An Act to Improve Public Utility Service by Addressing Seasonal Property Hazards"
+    },
+    "6": {
+      "relevance": 93,
+      "state": "ME",
+      "bill_number": "LD1120",
+      "bill_id": 2009299,
+      "change_hash": "c8e4dc67429960a0fab47e41fe93aa61",
+      "url": "https://legiscan.com/ME/bill/LD1120/2025",
+      "text_url": "https://legiscan.com/ME/text/LD1120/2025",
+      "research_url": "https://legiscan.com/ME/research/LD1120/2025",
+      "last_action_date": "2025-06-13",
+      "last_action": "Placed in Legislative Files (DEAD)",
+      "title": "An Act to Promote the Secure Storage of Firearms"
+    }
+  }
+}

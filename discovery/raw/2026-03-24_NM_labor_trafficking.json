@@ -1,0 +1,92 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 6",
+      "relevancy": "100% - 52%",
+      "count": 6,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zlabor:(pos=1) AND Ztraffick:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "NM",
+      "bill_number": "SB32",
+      "bill_id": 2089143,
+      "change_hash": "572d448b89236ff7b60004df126a23b0",
+      "url": "https://legiscan.com/NM/bill/SB32/2026",
+      "text_url": "https://legiscan.com/NM/text/SB32/2026",
+      "research_url": "https://legiscan.com/NM/research/SB32/2026",
+      "last_action_date": "2026-02-02",
+      "last_action": "SHPAC: Reported by committee with Do Pass recommendation",
+      "title": "Prosecution Of Human Trafficking"
+    },
+    "1": {
+      "relevance": 96,
+      "state": "NM",
+      "bill_number": "HB147",
+      "bill_id": 2091318,
+      "change_hash": "88e48c71f873ea586fc471ca790a4adc",
+      "url": "https://legiscan.com/NM/bill/HB147/2026",
+      "text_url": "https://legiscan.com/NM/text/HB147/2026",
+      "research_url": "https://legiscan.com/NM/research/HB147/2026",
+      "last_action_date": "2026-01-22",
+      "last_action": "Not Printed",
+      "title": "Posting Of Notices Of Human Trafficking"
+    },
+    "2": {
+      "relevance": 94,
+      "state": "NM",
+      "bill_number": "HM9",
+      "bill_id": 2087585,
+      "change_hash": "5dcbb15e8fcf11bcbd8cd9f4307a8b0c",
+      "url": "https://legiscan.com/NM/bill/HM9/2026",
+      "text_url": "https://legiscan.com/NM/text/HM9/2026",
+      "research_url": "https://legiscan.com/NM/research/HM9/2026",
+      "last_action_date": "2026-02-10",
+      "last_action": "Signed by one or both houses (for legislation not requiring Governor's signature)",
+      "title": "Mexico-new Mexico Advocacy Day"
+    },
+    "3": {
+      "relevance": 93,
+      "state": "NM",
+      "bill_number": "SB221",
+      "bill_id": 2106799,
+      "change_hash": "fae4555a17f135b3db387256b40e0991",
+      "url": "https://legiscan.com/NM/bill/SB221/2026",
+      "text_url": "https://legiscan.com/NM/text/SB221/2026",
+      "research_url": "https://legiscan.com/NM/research/SB221/2026",
+      "last_action_date": "2026-02-04",
+      "last_action": "SCC: Reported by committee to fall within the purview of a 30 day session",
+      "title": "Crime Of Misappropriation Of Oil & Gas Equip."
+    },
+    "4": {
+      "relevance": 86,
+      "state": "NM",
+      "bill_number": "SB31",
+      "bill_id": 2089390,
+      "change_hash": "432e18946fbc34a7840f9ac85cc6ff56",
+      "url": "https://legiscan.com/NM/bill/SB31/2026",
+      "text_url": "https://legiscan.com/NM/text/SB31/2026",
+      "research_url": "https://legiscan.com/NM/research/SB31/2026",
+      "last_action_date": "2026-01-21",
+      "last_action": "Sent to SCC - Referrals: SCC/SHPAC/SJC",
+      "title": "U Visa Certification Act"
+    },
+    "5": {
+      "relevance": 52,
+      "state": "NM",
+      "bill_number": "HB2",
+      "bill_id": 2087541,
+      "change_hash": "dd8e213ecf3a9513179a810a9d2e3362",
+      "url": "https://legiscan.com/NM/bill/HB2/2026",
+      "text_url": "https://legiscan.com/NM/text/HB2/2026",
+      "research_url": "https://legiscan.com/NM/research/HB2/2026",
+      "last_action_date": "2026-03-11",
+      "last_action": "Signed by Governor - Chapter 67 - Mar. 11",
+      "title": "General Appropriation Act Of 2026"
+    }
+  }
+}

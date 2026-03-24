@@ -1,25 +1,46 @@
 # Texas Application Readiness
 
-## Summary of Requirements for Harbor Alliance to Prepare for Texas OAG Application Submission
+## Human Trafficking Training Requirements
 
-### Training Requirement
-Texas requires human trafficking training for workers in commercial lodging establishments with 10 or more rooms, and all lodging establishments in the state regardless of size. The training must cover topics related to identifying and responding to human trafficking.
+The Office of the Attorney General (OAG) in Texas requires human trafficking training for employees in commercial lodging establishments with 10 or more rooms. All lodging establishments in the state are required to provide annual training regardless of size.
 
-#### Materials Needed:
-- Access to approved Harbor Alliance training videos.
-- Online or in-person training sessions facilitated by an authorized organization.
+### Materials Needed:
+- Harbor Alliance approved training videos.
+- Online or in-person training sessions facilitated by qualified trainers.
 
-#### Standards to Meet:
-- Completion of at least 20 minutes of interactive training covering signs of trafficking, reporting procedures, and anti-trafficking signage requirements.
-- Training must be provided annually for all employees at lodging establishments with 10 or more rooms.
-- All lodging establishments in the state must receive initial training regardless of size.
+### Standards to Meet:
+- Training must cover identifying and responding to human trafficking, including recognizing signs of trafficking, reporting suspected incidents, and understanding anti-trafficking signage requirements.
+- Employees must complete the annual training within one year of their hire date for new employees and annually thereafter.
 
-### Review Risks/Gaps
-- Ensure that the Harbor Alliance has access to approved training videos and can arrange for online or in-person sessions.
-- Verify that training is completed by all relevant employees within the specified timeframe (annual for larger establishments).
-- Check if anti-trafficking signage requirements are being met.
+### Likely Review Risks/Gaps:
+1. **Training Coverage**:
+   - Ensure that all required topics are covered in the training videos and sessions.
+   
+2. **Employee Retention**:
+   - Verify that all relevant employees have completed the initial training within one year of their hire date.
+   
+3. **Annual Training Compliance**:
+   - Confirm that all employees complete annual training each subsequent year.
+   
+4. **Anti-Trafficking Signage**:
+   - Ensure that appropriate anti-trafficking signage is posted in locations where employees will see it.
 
-### Additional Resources
-- **Texas Office of the Attorney General**: Provides information on human trafficking regulations and approved training materials.
-- **Harbor Alliance Training Videos**: Accessible through their official platform or authorized partners.
-- **Employee Training Scheduling Tool**: Helps in coordinating and scheduling training sessions for all relevant employees.
+5. **Employee Engagement**:
+   - Monitor employee participation and comprehension during the training sessions to ensure effective learning.
+
+6. **Documentation**:
+   - Maintain records of completed training sessions, including attendance sheets, completion certificates, and any additional documentation required by the OAG.
+
+7. **Ongoing Compliance Monitoring**:
+   - Regularly review and update training materials to ensure they remain current and comprehensive.
+   
+8. **Risk Management**:
+   - Identify potential risks associated with human trafficking within the lodging establishment and develop strategies to mitigate these risks.
+   
+9. **Legal Compliance**:
+   - Stay updated on any changes or updates to Texas legislation related to human trafficking requirements.
+   
+10. **Compliance Audits**:
+    - Conduct periodic internal audits to verify compliance with OAG standards and address any gaps or deficiencies.
+
+By addressing these key areas, Harbor Alliance can ensure readiness for the Texas OAG application submission while meeting all necessary standards and mitigating potential risks.

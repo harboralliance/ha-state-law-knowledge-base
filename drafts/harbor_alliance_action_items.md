@@ -1,29 +1,28 @@
 # Harbor Alliance Action Items
 
 ## Texas
-- **Next Steps:** Ensure that all employees at lodging establishments with 10 or more rooms complete the required annual human trafficking training by accessing the Office of the Attorney General-approved training videos. Conduct a review of current compliance status with HB 390.
-- **Immediate Market Entry:** NOT APPLICABLE
-- **Approval/Outreach/Special Handling:** No specific approval required, but ensure that all training is completed as soon as possible.
+- **Next Steps**: Ensure all commercial lodging establishments with 10 or more rooms provide annual human trafficking training for employees. Offer outreach to smaller establishments that have not yet completed the required training.
+- **Immediate Market Entry**: Not applicable.
+- **Approval/Outreach/Special Handling**: Immediate approval for compliance with House Bill 390 is recommended.
 
 ## California
-- **Next Steps:** Provide annual human trafficking training to hotel and motel employees who are likely to interact with victims of human trafficking. Ensure training completion by the effective date of January 1, 2020.
-- **Immediate Market Entry:** NOT APPLICABLE
-- **Approval/Outreach/Special Handling:** No specific approval required, but ensure that all training is completed as soon as possible.
+- **Next Steps**: Mandate human trafficking awareness training for hotel and motel employees by January 1, 2020. Provide resources such as the CAST and NHTRC hotlines for additional support.
+- **Immediate Market Entry**: Not applicable.
+- **Approval/Outreach/Special Handling**: Immediate approval for compliance with Senate Bill 970 is recommended.
 
 ## Illinois
-- **Next Steps:** Provide annual human trafficking recognition training to all employees in lodging establishments, restaurants, and truck stops. Ensure compliance by June 1, 2020.
-- **Immediate Market Entry:** NOT APPLICABLE
-- **Approval/Outreach/Special Handling:** No specific approval required, but ensure that all training is completed as soon as possible.
+- **Next Steps**: Provide training to employees within six months of starting employment in relevant roles and every two years thereafter. Ensure the training includes a model curriculum from the Department of Human Services.
+- **Immediate Market Entry**: Not applicable.
+- **Approval/Outreach/Special Handling**: Immediate approval for compliance with Act 2026 is recommended.
 
 ## Minnesota
-- **Next Steps:** Provide annual human trafficking prevention and response training to hotel, motel, and short-term rental staff. Ensure completion within 90 days of hire for new employees and annually thereafter.
-- **Immediate Market Entry:** NOT APPLICABLE
-- **Approval/Outreach/Special Handling:** No specific approval required, but ensure that all training is completed as soon as possible.
+- **Next Steps**: Provide hotel, motel, and short-term rental staff with mandatory human trafficking prevention training. Ensure all required staff complete the training annually and retake every two years.
+- **Immediate Market Entry**: Not applicable.
+- **Approval/Outreach/Special Handling**: Immediate approval for compliance with the Minnesota law is recommended.
 
 ## Connecticut
-- **Next Steps:** Provide annual human trafficking training to hotel and motel employees. Ensure compliance with the mandatory data reporting requirements.
-- **Immediate Market Entry:** NOT APPLICABLE
-- **Approval/Outreach/Special Handling:** No specific approval required, but ensure that all training is completed as soon as possible.
+- **Next Steps**: Provide annual human trafficking training to all employees in hotels, motels, and short-term rentals. Ensure training includes components such as identifying signs of human trafficking and appropriate responses.
+- **Immediate Market Entry**: Not applicable.
+- **Approval/Outreach/Special Handling**: Immediate approval for compliance with Connecticut's legislation is recommended.
 
-## NEEDS REVIEW
-- Other states not explicitly mentioned in the provided files or requiring further clarification.
+NEEDS REVIEW: Additional states may require specific actions not covered in the provided files. Further research is needed to identify unique requirements and next steps for these states.

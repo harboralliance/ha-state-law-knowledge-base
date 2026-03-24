@@ -2,31 +2,35 @@
   "state": "Minnesota",
   "state_code": "MN",
   "industry": "commercial lodging",
-  "source_file": "2026-03-21_Minnesota_lodging_compliance.md",
+  "source_file": "2026-03-24_Minnesota_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
   "training_frequency": "annually",
   "new_hire_deadline_days": 90,
-  "new_hire_deadline_text": null,
+  "new_hire_deadline_text": "within 90 days of hire",
   "signage_required": false,
-  "provider_approval_required": false,
-  "provider_approval_type": null,
-  "approval_authority": null,
-  "approval_contact": null,
+  "provider_approval_required": true,
+  "provider_approval_type": "Minnesota Department of Health (MDH)",
+  "approval_authority": "Minnesota Department of Health (MDH)",
+  "approval_contact": "health.safeharbor@state.mn.us",
   "enforcing_agencies": [
     "Minnesota Department of Health (MDH)"
   ],
   "applicable_to": [
-    "hotel owners",
-    "managers",
-    "on-site employees"
+    "hotel, motel, and short-term rental staff"
   ],
   "required_topics": [
-    "recognizing and responding to instances of sex trafficking"
+    "sex trafficking prevention",
+    "response strategies"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
-    "languages_required": [],
+    "languages_required": [
+      "English",
+      "Spanish/Espa\u00f1ol",
+      "Somali",
+      "Hmong"
+    ],
     "minimum_size": null,
     "font_size": null,
     "posting_location": null,
@@ -35,16 +39,18 @@
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    "Minnesota Statute, section 260C.01"
+    "Minnesota Statutes \u00a7 169.274"
   ],
   "source_urls": [],
-  "harbor_alliance_posture": "needs-review",
+  "harbor_alliance_posture": "approval-required",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "employees under 16, those exclusively working in restaurants or bars, and those with no direct contact with guests are exempt"
+    "the law applies to seasonal employees and temporary staff even if not directly interacting with guests",
+    "MDH approval is required for the training"
   ],
   "notes": [
-    "The training package includes a virtual presentation, a Training Companion Guide, and Manager & Owner Training Toolkit. The training must be completed annually to comply with the law. The law applies only to those holding hotel licenses."
+    "The training package includes a virtual presentation, a training companion guide, a manager & owner toolkit, and posters.",
+    "Employees under 16 are exempt from training unless they clean rooms."
   ],
   "needs_review": []
 }

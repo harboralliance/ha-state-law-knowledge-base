@@ -1,0 +1,118 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 8",
+      "relevancy": "100% - 64%",
+      "count": 8,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zcommerci:(pos=1) AND Zlodg:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "AK",
+      "bill_number": "HB184",
+      "bill_id": 2023548,
+      "change_hash": "dfd69584d5d079f06681dfd851a0f720",
+      "url": "https://legiscan.com/AK/bill/HB184/2025",
+      "text_url": "https://legiscan.com/AK/text/HB184/2025",
+      "research_url": "https://legiscan.com/AK/research/HB184/2025",
+      "last_action_date": "2026-03-02",
+      "last_action": "REFERRED TO FINANCE",
+      "title": "Aidea Finance Workforce Housing Develop."
+    },
+    "1": {
+      "relevance": 96,
+      "state": "AK",
+      "bill_number": "SB14",
+      "bill_id": 1912475,
+      "change_hash": "a617e9cbb19dcd3ec36f65aefcb82476",
+      "url": "https://legiscan.com/AK/bill/SB14/2025",
+      "text_url": "https://legiscan.com/AK/text/SB14/2025",
+      "research_url": "https://legiscan.com/AK/research/SB14/2025",
+      "last_action_date": "2025-02-07",
+      "last_action": "REFERRED TO FINANCE",
+      "title": "Aidea Finance Workforce Housing Develop."
+    },
+    "2": {
+      "relevance": 93,
+      "state": "AK",
+      "bill_number": "HB113",
+      "bill_id": 1981709,
+      "change_hash": "5b1ba49bbb22c3bf79288216683ecbea",
+      "url": "https://legiscan.com/AK/bill/HB113/2025",
+      "text_url": "https://legiscan.com/AK/text/HB113/2025",
+      "research_url": "https://legiscan.com/AK/research/HB113/2025",
+      "last_action_date": "2025-03-10",
+      "last_action": "REFERRED TO FINANCE",
+      "title": "Tax Exemption: Small Business"
+    },
+    "3": {
+      "relevance": 86,
+      "state": "AK",
+      "bill_number": "HB302",
+      "bill_id": 2114507,
+      "change_hash": "f50bb0abe1e55f167f88510f22fba1d5",
+      "url": "https://legiscan.com/AK/bill/HB302/2025",
+      "text_url": "https://legiscan.com/AK/text/HB302/2025",
+      "research_url": "https://legiscan.com/AK/research/HB302/2025",
+      "last_action_date": "2026-03-20",
+      "last_action": "TRA REPLACES FIN REFERRAL",
+      "title": "Travel Insurance"
+    },
+    "4": {
+      "relevance": 86,
+      "state": "AK",
+      "bill_number": "SB244",
+      "bill_id": 2117550,
+      "change_hash": "5e7f11a792fbc5e0a77af372d7a32746",
+      "url": "https://legiscan.com/AK/bill/SB244/2025",
+      "text_url": "https://legiscan.com/AK/text/SB244/2025",
+      "research_url": "https://legiscan.com/AK/research/SB244/2025",
+      "last_action_date": "2026-02-16",
+      "last_action": "REFERRED TO LABOR & COMMERCE",
+      "title": "Travel Insurance"
+    },
+    "5": {
+      "relevance": 84,
+      "state": "AK",
+      "bill_number": "HB101",
+      "bill_id": 1967440,
+      "change_hash": "b42fc647698db242b29339be784f2140",
+      "url": "https://legiscan.com/AK/bill/HB101/2025",
+      "text_url": "https://legiscan.com/AK/text/HB101/2025",
+      "research_url": "https://legiscan.com/AK/research/HB101/2025",
+      "last_action_date": "2026-03-04",
+      "last_action": "CRONK",
+      "title": "Crimes Against Minors; Age Consent To 18"
+    },
+    "6": {
+      "relevance": 73,
+      "state": "AK",
+      "bill_number": "HB284",
+      "bill_id": 2099478,
+      "change_hash": "1bba7853b03640e0da272fdf9c3cc405",
+      "url": "https://legiscan.com/AK/bill/HB284/2025",
+      "text_url": "https://legiscan.com/AK/text/HB284/2025",
+      "research_url": "https://legiscan.com/AK/research/HB284/2025",
+      "last_action_date": "2026-01-28",
+      "last_action": "REFERRED TO FINANCE",
+      "title": "Tax Compact; Sales Tax; Oil & Gas Tax"
+    },
+    "7": {
+      "relevance": 64,
+      "state": "AK",
+      "bill_number": "SB227",
+      "bill_id": 2093544,
+      "change_hash": "253fe5353ae77c7f92929e14788ff2a3",
+      "url": "https://legiscan.com/AK/bill/SB227/2025",
+      "text_url": "https://legiscan.com/AK/text/SB227/2025",
+      "research_url": "https://legiscan.com/AK/research/SB227/2025",
+      "last_action_date": "2026-02-19",
+      "last_action": "REFERRED TO FINANCE",
+      "title": "Tax Compact; Sales Tax; Oil & Gas Tax"
+    }
+  }
+}
