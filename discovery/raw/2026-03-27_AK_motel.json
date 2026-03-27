@@ -1,0 +1,66 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 4",
+      "relevancy": "100% - 90%",
+      "count": 4,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zmotel:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "AK",
+      "bill_number": "HB13",
+      "bill_id": 1912464,
+      "change_hash": "a57eb12732c17f755aa86d78fbeba571",
+      "url": "https://legiscan.com/AK/bill/HB13/2025",
+      "text_url": "https://legiscan.com/AK/text/HB13/2025",
+      "research_url": "https://legiscan.com/AK/research/HB13/2025",
+      "last_action_date": "2026-03-18",
+      "last_action": "REFERRED TO STATE AFFAIRS",
+      "title": "Municipal Property Tax Exemptions"
+    },
+    "1": {
+      "relevance": 95,
+      "state": "AK",
+      "bill_number": "SB15",
+      "bill_id": 1912436,
+      "change_hash": "f3d7ac629a7557b0f5406216e79f706f",
+      "url": "https://legiscan.com/AK/bill/SB15/2025",
+      "text_url": "https://legiscan.com/AK/text/SB15/2025",
+      "research_url": "https://legiscan.com/AK/research/SB15/2025",
+      "last_action_date": "2025-04-28",
+      "last_action": "EFFECTIVE DATE(S) OF LAW SEE CHAPTER",
+      "title": "Alcohol: Sale, Warning Signs"
+    },
+    "2": {
+      "relevance": 90,
+      "state": "AK",
+      "bill_number": "HB310",
+      "bill_id": 2117438,
+      "change_hash": "e00866cbb15ded403169a3d6542b8854",
+      "url": "https://legiscan.com/AK/bill/HB310/2025",
+      "text_url": "https://legiscan.com/AK/text/HB310/2025",
+      "research_url": "https://legiscan.com/AK/research/HB310/2025",
+      "last_action_date": "2026-02-16",
+      "last_action": "REFERRED TO LABOR & COMMERCE",
+      "title": "Room Rent Tax"
+    },
+    "3": {
+      "relevance": 90,
+      "state": "AK",
+      "bill_number": "HB68",
+      "bill_id": 1939960,
+      "change_hash": "5b1863df225af366e716d5793f5f5540",
+      "url": "https://legiscan.com/AK/bill/HB68/2025",
+      "text_url": "https://legiscan.com/AK/text/HB68/2025",
+      "research_url": "https://legiscan.com/AK/research/HB68/2025",
+      "last_action_date": "2025-01-31",
+      "last_action": "REFERRED TO HEALTH & SOCIAL SERVICES",
+      "title": "Alcohol: Sale, Warning Signs"
+    }
+  }
+}

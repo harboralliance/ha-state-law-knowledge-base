@@ -1,0 +1,79 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 5",
+      "relevancy": "100% - 89%",
+      "count": 5,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zbed:(pos=1) AND Zbreakfast:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "MI",
+      "bill_number": "HB4042",
+      "bill_id": 1948644,
+      "change_hash": "5171c91a0b4a519887f90b7cb99c24ef",
+      "url": "https://legiscan.com/MI/bill/HB4042/2025",
+      "text_url": "https://legiscan.com/MI/text/HB4042/2025",
+      "research_url": "https://legiscan.com/MI/research/HB4042/2025",
+      "last_action_date": "2025-11-13",
+      "last_action": "Placed On Order Of Third Reading",
+      "title": "Food: service establishments; exemption for certain outdoor event spaces; provide for. Amends sec. 1107 of 2000 PA 92 (MCL 289.1107)."
+    },
+    "1": {
+      "relevance": 99,
+      "state": "MI",
+      "bill_number": "HB4122",
+      "bill_id": 1983249,
+      "change_hash": "935e0725f36eeaf6e57fb010ee31f1c0",
+      "url": "https://legiscan.com/MI/bill/HB4122/2025",
+      "text_url": "https://legiscan.com/MI/text/HB4122/2025",
+      "research_url": "https://legiscan.com/MI/research/HB4122/2025",
+      "last_action_date": "2025-12-31",
+      "last_action": "Assigned Pa 51'25",
+      "title": "Food: cottage food operation; certain requirements for cottage food operations and cottage food products; modify. Amends secs. 1105, 1111 & 4102 of 2000 PA 92 (MCL 289.1105 et seq.)."
+    },
+    "2": {
+      "relevance": 96,
+      "state": "MI",
+      "bill_number": "HB5219",
+      "bill_id": 2051657,
+      "change_hash": "d8bf8f74bc09662cfa05fb6bbeea67a4",
+      "url": "https://legiscan.com/MI/bill/HB5219/2025",
+      "text_url": "https://legiscan.com/MI/text/HB5219/2025",
+      "research_url": "https://legiscan.com/MI/research/HB5219/2025",
+      "last_action_date": "2026-02-26",
+      "last_action": "Referred To Second Reading",
+      "title": "Food: milk; sale of raw milk and raw milk products under the food law; allow. Amends secs. 1107, 1109 & 6140 of 2000 PA 92 (MCL 289.1107 et seq.) & adds secs. 4102a & 4102b. TIE BAR WITH: HB 5217'25, HB 5218'25"
+    },
+    "3": {
+      "relevance": 95,
+      "state": "MI",
+      "bill_number": "SB0200",
+      "bill_id": 2011561,
+      "change_hash": "d068486e8b5e6cc862262d0ed992e4f0",
+      "url": "https://legiscan.com/MI/bill/SB0200/2025",
+      "text_url": "https://legiscan.com/MI/text/SB0200/2025",
+      "research_url": "https://legiscan.com/MI/research/SB0200/2025",
+      "last_action_date": "2025-12-02",
+      "last_action": "Referred To Committee Of The Whole",
+      "title": "Food: service establishments; outdoor seating at restaurants; allow dogs to be present. Amends secs. 1105, 3113 & 6101 of 2000 PA 92 (MCL 289.1105 et seq.)."
+    },
+    "4": {
+      "relevance": 89,
+      "state": "MI",
+      "bill_number": "HB4205",
+      "bill_id": 1999798,
+      "change_hash": "14e761ea487d151e4f886c255a32bc8f",
+      "url": "https://legiscan.com/MI/bill/HB4205/2025",
+      "text_url": "https://legiscan.com/MI/text/HB4205/2025",
+      "research_url": "https://legiscan.com/MI/research/HB4205/2025",
+      "last_action_date": "2025-09-18",
+      "last_action": "Referred To Second Reading",
+      "title": "Liquor: licenses; definition of qualified premises; provide for. Amends sec. 1111 of 2000 PA 92 (MCL 289.1111). TIE BAR WITH: HB 4204'25"
+    }
+  }
+}

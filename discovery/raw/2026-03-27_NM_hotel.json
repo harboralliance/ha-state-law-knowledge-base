@@ -1,0 +1,92 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 6",
+      "relevancy": "100% - 28%",
+      "count": 6,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zhotel:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "NM",
+      "bill_number": "HB147",
+      "bill_id": 2091318,
+      "change_hash": "88e48c71f873ea586fc471ca790a4adc",
+      "url": "https://legiscan.com/NM/bill/HB147/2026",
+      "text_url": "https://legiscan.com/NM/text/HB147/2026",
+      "research_url": "https://legiscan.com/NM/research/HB147/2026",
+      "last_action_date": "2026-01-22",
+      "last_action": "Not Printed",
+      "title": "Posting Of Notices Of Human Trafficking"
+    },
+    "1": {
+      "relevance": 90,
+      "state": "NM",
+      "bill_number": "SB149",
+      "bill_id": 2093821,
+      "change_hash": "18ac8b90cfa166cfdad2214feb18fab2",
+      "url": "https://legiscan.com/NM/bill/SB149/2026",
+      "text_url": "https://legiscan.com/NM/text/SB149/2026",
+      "research_url": "https://legiscan.com/NM/research/SB149/2026",
+      "last_action_date": "2026-02-11",
+      "last_action": "Action Postponed Indefinitely",
+      "title": "Property Tax Code Definitions"
+    },
+    "2": {
+      "relevance": 82,
+      "state": "NM",
+      "bill_number": "HB319",
+      "bill_id": 2108177,
+      "change_hash": "c3d96bfed4e534c766635049695ddc04",
+      "url": "https://legiscan.com/NM/bill/HB319/2026",
+      "text_url": "https://legiscan.com/NM/text/HB319/2026",
+      "research_url": "https://legiscan.com/NM/research/HB319/2026",
+      "last_action_date": "2026-02-04",
+      "last_action": "Action Postponed Indefinitely",
+      "title": "Solid Waste Surcharge"
+    },
+    "3": {
+      "relevance": 69,
+      "state": "NM",
+      "bill_number": "HB222",
+      "bill_id": 2102167,
+      "change_hash": "a50a6a4650997e55013c9c5b1bcd13a3",
+      "url": "https://legiscan.com/NM/bill/HB222/2026",
+      "text_url": "https://legiscan.com/NM/text/HB222/2026",
+      "research_url": "https://legiscan.com/NM/research/HB222/2026",
+      "last_action_date": "2026-01-29",
+      "last_action": "Action Postponed Indefinitely",
+      "title": "Voter Identification Requirements"
+    },
+    "4": {
+      "relevance": 28,
+      "state": "NM",
+      "bill_number": "SB60",
+      "bill_id": 2089176,
+      "change_hash": "5556c1683179c0a171485e83a7916e3e",
+      "url": "https://legiscan.com/NM/bill/SB60/2026",
+      "text_url": "https://legiscan.com/NM/text/SB60/2026",
+      "research_url": "https://legiscan.com/NM/research/SB60/2026",
+      "last_action_date": "2026-01-22",
+      "last_action": "Action Postponed Indefinitely",
+      "title": "Tax Changes"
+    },
+    "5": {
+      "relevance": 28,
+      "state": "NM",
+      "bill_number": "SB240",
+      "bill_id": 2106758,
+      "change_hash": "9b18f960b448648a02a241da6d9591a9",
+      "url": "https://legiscan.com/NM/bill/SB240/2026",
+      "text_url": "https://legiscan.com/NM/text/SB240/2026",
+      "research_url": "https://legiscan.com/NM/research/SB240/2026",
+      "last_action_date": "2026-03-11",
+      "last_action": "Signed by Governor - Chapter 71 - Mar. 11",
+      "title": "Capital Outlay Projects"
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 8",
+      "relevancy": "100% - 66%",
+      "count": 8,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zhotel:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "NH",
+      "bill_number": "HB1068",
+      "bill_id": 2052670,
+      "change_hash": "6e5ebeffbfac5bd0d48bec94a200e665",
+      "url": "https://legiscan.com/NH/bill/HB1068/2026",
+      "text_url": "https://legiscan.com/NH/text/HB1068/2026",
+      "research_url": "https://legiscan.com/NH/research/HB1068/2026",
+      "last_action_date": "2026-03-17",
+      "last_action": "Introduced 03/12/2026 and Referred to Ways and Means; Senate Journal 7",
+      "title": "Taxing certain occupants who have established permanent residences under the meals and rooms tax."
+    },
+    "1": {
+      "relevance": 91,
+      "state": "NH",
+      "bill_number": "HB396",
+      "bill_id": 2064564,
+      "change_hash": "c4ca55eb64e597b658ceec9b36c8d76d",
+      "url": "https://legiscan.com/NH/bill/HB396/2026",
+      "text_url": "https://legiscan.com/NH/text/HB396/2026",
+      "research_url": "https://legiscan.com/NH/research/HB396/2026",
+      "last_action_date": "2026-02-05",
+      "last_action": "Hearing: 02/10/2026, Room 100, State House, 10:30 am; Senate Calendar  5",
+      "title": "Relative to the processing of beef cows, swine, sheep, and goats at facilities not certified by the United States Department of Agriculture."
+    },
+    "2": {
+      "relevance": 91,
+      "state": "NH",
+      "bill_number": "HB1450",
+      "bill_id": 2056400,
+      "change_hash": "2cfbfd01fe04757aec613145b5054254",
+      "url": "https://legiscan.com/NH/bill/HB1450/2026",
+      "text_url": "https://legiscan.com/NH/text/HB1450/2026",
+      "research_url": "https://legiscan.com/NH/research/HB1450/2026",
+      "last_action_date": "2026-03-11",
+      "last_action": "Refer for Interim Study: Motion Adopted Voice Vote 03/11/2026 House Journal  7",
+      "title": "Relative to the designation and control of shared facilities in rental properties."
+    },
+    "3": {
+      "relevance": 90,
+      "state": "NH",
+      "bill_number": "SB634",
+      "bill_id": 2053974,
+      "change_hash": "510856710f681fe3494c455b66a6fbcc",
+      "url": "https://legiscan.com/NH/bill/SB634/2026",
+      "text_url": "https://legiscan.com/NH/text/SB634/2026",
+      "research_url": "https://legiscan.com/NH/research/SB634/2026",
+      "last_action_date": "2026-01-29",
+      "last_action": "Inexpedient to Legislate, Regular Calendar 15Y-9N, Motion Adopted === BILL KILLED ===; 01/29/2026; Senate Journal 2",
+      "title": "Enabling municipalities to adopt a municipal occupancy fee."
+    },
+    "4": {
+      "relevance": 89,
+      "state": "NH",
+      "bill_number": "SB573",
+      "bill_id": 2053973,
+      "change_hash": "a40a53c74fe8a4828fa46fc286748273",
+      "url": "https://legiscan.com/NH/bill/SB573/2026",
+      "text_url": "https://legiscan.com/NH/text/SB573/2026",
+      "research_url": "https://legiscan.com/NH/research/SB573/2026",
+      "last_action_date": "2026-03-24",
+      "last_action": "Public Hearing: 04/01/2026 10:30 am GP 229",
+      "title": "Establishing certification standards for facility comfort dogs."
+    },
+    "5": {
+      "relevance": 87,
+      "state": "NH",
+      "bill_number": "HB1090",
+      "bill_id": 2054189,
+      "change_hash": "bd6ffec0903d1c0019b322a28ad89765",
+      "url": "https://legiscan.com/NH/bill/HB1090/2026",
+      "text_url": "https://legiscan.com/NH/text/HB1090/2026",
+      "research_url": "https://legiscan.com/NH/research/HB1090/2026",
+      "last_action_date": "2026-02-25",
+      "last_action": "Introduced 02/19/2026 and Referred to Ways and Means; Senate Journal 5",
+      "title": "Relative to meals and rooms taxes."
+    },
+    "6": {
+      "relevance": 77,
+      "state": "NH",
+      "bill_number": "HB728",
+      "bill_id": 2064477,
+      "change_hash": "7fb01ced333f8f7f419015ce31663731",
+      "url": "https://legiscan.com/NH/bill/HB728/2026",
+      "text_url": "https://legiscan.com/NH/text/HB728/2026",
+      "research_url": "https://legiscan.com/NH/research/HB728/2026",
+      "last_action_date": "2026-01-07",
+      "last_action": "Inexpedient to Legislate: Motion Adopted Voice Vote 01/07/2026 House Journal  1",
+      "title": "Authorizing video lottery terminals at charity gaming facilities and repealing historic horse racing licensing."
+    },
+    "7": {
+      "relevance": 66,
+      "state": "NH",
+      "bill_number": "HB186",
+      "bill_id": 2064507,
+      "change_hash": "6290a3760c020c050c7ded29a1fee71d",
+      "url": "https://legiscan.com/NH/bill/HB186/2026",
+      "text_url": "https://legiscan.com/NH/text/HB186/2026",
+      "research_url": "https://legiscan.com/NH/research/HB186/2026",
+      "last_action_date": "2026-03-05",
+      "last_action": "Pending Motion Inexpedient to Legislate; 03/05/2026; Senate Journal 5",
+      "title": "Relative to the legalization and regulation of cannabis and making appropriations therefor."
+    }
+  }
+}

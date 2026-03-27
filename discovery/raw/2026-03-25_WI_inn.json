@@ -1,0 +1,66 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 4",
+      "relevancy": "100% - 87%",
+      "count": 4,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zinn:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "WI",
+      "bill_number": "AB238",
+      "bill_id": 2028312,
+      "change_hash": "a1f82833a06f1c371b67db5011d9b2b3",
+      "url": "https://legiscan.com/WI/bill/AB238/2025",
+      "text_url": "https://legiscan.com/WI/text/AB238/2025",
+      "research_url": "https://legiscan.com/WI/research/AB238/2025",
+      "last_action_date": "2026-01-23",
+      "last_action": "Report correctly enrolled on 1-22-2026",
+      "title": "Prohibiting hotels, inns, and motels from discriminating against dog handlers who are accompanied by search and rescue dogs."
+    },
+    "1": {
+      "relevance": 99,
+      "state": "WI",
+      "bill_number": "SB239",
+      "bill_id": 2029907,
+      "change_hash": "c93aa21ec65f5674d5c59be8ffad20c8",
+      "url": "https://legiscan.com/WI/bill/SB239/2025",
+      "text_url": "https://legiscan.com/WI/text/SB239/2025",
+      "research_url": "https://legiscan.com/WI/research/SB239/2025",
+      "last_action_date": "2026-01-13",
+      "last_action": "Available for scheduling",
+      "title": "Prohibiting hotels, inns, and motels from discriminating against dog handlers who are accompanied by search and rescue dogs."
+    },
+    "2": {
+      "relevance": 87,
+      "state": "WI",
+      "bill_number": "SJR114",
+      "bill_id": 2058754,
+      "change_hash": "182dcf29cae1963920eb09f4d6982f97",
+      "url": "https://legiscan.com/WI/bill/SJR114/2025",
+      "text_url": "https://legiscan.com/WI/text/SJR114/2025",
+      "research_url": "https://legiscan.com/WI/research/SJR114/2025",
+      "last_action_date": "2025-12-12",
+      "last_action": "Available for scheduling",
+      "title": "Recognizing December 25 as the celebration of the birth of Our Lord Jesus Christ."
+    },
+    "3": {
+      "relevance": 87,
+      "state": "WI",
+      "bill_number": "AJR122",
+      "bill_id": 2064700,
+      "change_hash": "33d302588e3a442b66a390e8a98dbb97",
+      "url": "https://legiscan.com/WI/bill/AJR122/2025",
+      "text_url": "https://legiscan.com/WI/text/AJR122/2025",
+      "research_url": "https://legiscan.com/WI/research/AJR122/2025",
+      "last_action_date": "2026-03-23",
+      "last_action": "Failed to adopt pursuant to Senate Joint Resolution 1",
+      "title": "Recognizing December 25 as the celebration of the birth of Our Lord Jesus Christ."
+    }
+  }
+}

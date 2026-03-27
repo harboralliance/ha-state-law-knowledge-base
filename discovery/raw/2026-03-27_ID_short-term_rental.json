@@ -1,0 +1,53 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 3",
+      "relevancy": "100% - 94%",
+      "count": 3,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(((short:(pos=1) PHRASE 2 term:(pos=2)) AND Zrental:(pos=3)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "ID",
+      "bill_number": "H0583",
+      "bill_id": 2107536,
+      "change_hash": "b6dd846c39d6ec8fff985f21c5f22e34",
+      "url": "https://legiscan.com/ID/bill/H0583/2026",
+      "text_url": "https://legiscan.com/ID/text/H0583/2026",
+      "research_url": "https://legiscan.com/ID/research/H0583/2026",
+      "last_action_date": "2026-03-17",
+      "last_action": "Reported Signed by Governor on March 16, 2026 Session Law Chapter 22 Effective: 07/01/2026",
+      "title": "Amends existing law to revise provisions regarding limitations on the regulation of and limiting the tax duties of short-term rentals."
+    },
+    "1": {
+      "relevance": 99,
+      "state": "ID",
+      "bill_number": "S1263",
+      "bill_id": 2110987,
+      "change_hash": "8ee9db472c3ce0a716ea02bb3a4cd041",
+      "url": "https://legiscan.com/ID/bill/S1263/2026",
+      "text_url": "https://legiscan.com/ID/text/S1263/2026",
+      "research_url": "https://legiscan.com/ID/research/S1263/2026",
+      "last_action_date": "2026-02-09",
+      "last_action": "Reported Printed; referred to Commerce & Human Resources",
+      "title": "Amends existing law to revise provisions regarding limitations on the regulation of short-term rentals."
+    },
+    "2": {
+      "relevance": 94,
+      "state": "ID",
+      "bill_number": "H0886",
+      "bill_id": 2132935,
+      "change_hash": "c2d4e814e7bf68b4569576c4d1865b8e",
+      "url": "https://legiscan.com/ID/bill/H0886/2026",
+      "text_url": "https://legiscan.com/ID/text/H0886/2026",
+      "research_url": "https://legiscan.com/ID/research/H0886/2026",
+      "last_action_date": "2026-03-12",
+      "last_action": "Reported Printed and Referred to Revenue & Taxation",
+      "title": "Amends, repeals, and adds to existing law to establish a state property tax and to provide certain exemptions to such tax."
+    }
+  }
+}

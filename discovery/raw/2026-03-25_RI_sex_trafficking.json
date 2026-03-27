@@ -1,0 +1,79 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 5",
+      "relevancy": "100% - 84%",
+      "count": 5,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zsex:(pos=1) AND Ztraffick:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "RI",
+      "bill_number": "S2145",
+      "bill_id": 2084232,
+      "change_hash": "a80e0cb661f105b22d2c0f846965ac26",
+      "url": "https://legiscan.com/RI/bill/S2145/2026",
+      "text_url": "https://legiscan.com/RI/text/S2145/2026",
+      "research_url": "https://legiscan.com/RI/research/S2145/2026",
+      "last_action_date": "2026-03-24",
+      "last_action": "Scheduled for hearing and/or consideration (03/26/2026)",
+      "title": "Establishes the commercial sex buyer\u2019s accountability program which consists of an instructional program on prostitution and human trafficking schemes."
+    },
+    "1": {
+      "relevance": 99,
+      "state": "RI",
+      "bill_number": "H7201",
+      "bill_id": 2088350,
+      "change_hash": "f71079a9770f455b879a75530fdcc28a",
+      "url": "https://legiscan.com/RI/bill/H7201/2026",
+      "text_url": "https://legiscan.com/RI/text/H7201/2026",
+      "research_url": "https://legiscan.com/RI/research/H7201/2026",
+      "last_action_date": "2026-01-21",
+      "last_action": "Introduced, referred to House Judiciary",
+      "title": "Establishes the commercial sex buyer\u2019s accountability program which consists of an instructional program on prostitution and human trafficking schemes."
+    },
+    "2": {
+      "relevance": 96,
+      "state": "RI",
+      "bill_number": "S2399",
+      "bill_id": 2102803,
+      "change_hash": "e0c9b565a9e161f17abf7aa0dc9bd32a",
+      "url": "https://legiscan.com/RI/bill/S2399/2026",
+      "text_url": "https://legiscan.com/RI/text/S2399/2026",
+      "research_url": "https://legiscan.com/RI/research/S2399/2026",
+      "last_action_date": "2026-01-30",
+      "last_action": "Introduced, referred to Senate Judiciary",
+      "title": "Decriminalizes certain commercial sexual activity. It would also include human trafficking as a racketeering activity and would allow expungements of certain convictions in \u00a7 11-34.1 after one year."
+    },
+    "3": {
+      "relevance": 96,
+      "state": "RI",
+      "bill_number": "H8057",
+      "bill_id": 2126192,
+      "change_hash": "3c3007d8f7e9c631b51fd0f1ff505748",
+      "url": "https://legiscan.com/RI/bill/H8057/2026",
+      "text_url": "https://legiscan.com/RI/text/H8057/2026",
+      "research_url": "https://legiscan.com/RI/research/H8057/2026",
+      "last_action_date": "2026-02-27",
+      "last_action": "Introduced, referred to House Judiciary",
+      "title": "Decriminalizes certain commercial sexual activity. It would also include human trafficking as a racketeering activity and would allow expungements of certain convictions in \u00a7 11-34.1 after one year."
+    },
+    "4": {
+      "relevance": 84,
+      "state": "RI",
+      "bill_number": "S2591",
+      "bill_id": 2116886,
+      "change_hash": "74bb0ff1efad99ecebc02f8701646bb6",
+      "url": "https://legiscan.com/RI/bill/S2591/2026",
+      "text_url": "https://legiscan.com/RI/text/S2591/2026",
+      "research_url": "https://legiscan.com/RI/research/S2591/2026",
+      "last_action_date": "2026-02-13",
+      "last_action": "Introduced, referred to Senate Judiciary",
+      "title": "Limits how landlords use criminal history in rental decisions by delaying background checks until after a conditional offer has been made, restricting which records may be considered, banning discriminatory ads, and providing enforcement and penalties."
+    }
+  }
+}

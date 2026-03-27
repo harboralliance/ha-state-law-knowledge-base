@@ -1,0 +1,79 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 5",
+      "relevancy": "100% - 87%",
+      "count": 5,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zhotlin:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "ID",
+      "bill_number": "H0723",
+      "bill_id": 2118947,
+      "change_hash": "16c450e2bb25148554f5e688caa38d69",
+      "url": "https://legiscan.com/ID/bill/H0723/2026",
+      "text_url": "https://legiscan.com/ID/text/H0723/2026",
+      "research_url": "https://legiscan.com/ID/research/H0723/2026",
+      "last_action_date": "2026-03-26",
+      "last_action": "Reported Signed by Governor on March 26, 2026 Session Law Chapter Effective:",
+      "title": "Adds to existing law to provide for department oversight for residential care facilities, licensing requirements, facility documentation requirements, and the youth bill of rights."
+    },
+    "1": {
+      "relevance": 94,
+      "state": "ID",
+      "bill_number": "S1297",
+      "bill_id": 2116911,
+      "change_hash": "ef2e443ecfb57cf8a9304d31cb495bf2",
+      "url": "https://legiscan.com/ID/bill/S1297/2026",
+      "text_url": "https://legiscan.com/ID/text/S1297/2026",
+      "research_url": "https://legiscan.com/ID/research/S1297/2026",
+      "last_action_date": "2026-03-26",
+      "last_action": "to Senate",
+      "title": "Adds to existing law to establish the Conversational AI Safety Act."
+    },
+    "2": {
+      "relevance": 94,
+      "state": "ID",
+      "bill_number": "H0860",
+      "bill_id": 2131660,
+      "change_hash": "189a21e0391f539405c85ebdaceaadfb",
+      "url": "https://legiscan.com/ID/bill/H0860/2026",
+      "text_url": "https://legiscan.com/ID/text/H0860/2026",
+      "research_url": "https://legiscan.com/ID/research/H0860/2026",
+      "last_action_date": "2026-03-26",
+      "last_action": "to enrol",
+      "title": "Amends existing law to provide for parental rights in medical decisions."
+    },
+    "3": {
+      "relevance": 90,
+      "state": "ID",
+      "bill_number": "HCR033",
+      "bill_id": 2129846,
+      "change_hash": "ea3595942a9ef876583dc216c59b8e4c",
+      "url": "https://legiscan.com/ID/bill/HCR033/2026",
+      "text_url": "https://legiscan.com/ID/text/HCR033/2026",
+      "research_url": "https://legiscan.com/ID/research/HCR033/2026",
+      "last_action_date": "2026-03-26",
+      "last_action": "Reported Enrolled; Signed by Speaker; Transmitted to Senate",
+      "title": "States findings of the Legislature and establishes an interim committee to study the crime of sextortion and to make recommendations to the Legislature."
+    },
+    "4": {
+      "relevance": 87,
+      "state": "ID",
+      "bill_number": "S1271",
+      "bill_id": 2113203,
+      "change_hash": "e0c6aa9d42188e2d1ce4bae6eb64e6e2",
+      "url": "https://legiscan.com/ID/bill/S1271/2026",
+      "text_url": "https://legiscan.com/ID/text/S1271/2026",
+      "research_url": "https://legiscan.com/ID/research/S1271/2026",
+      "last_action_date": "2026-03-17",
+      "last_action": "Returned from House Failed; to Secretary of Senate",
+      "title": "Adds to existing law to declare certain rats a public health and safety nuisance and to require abatement."
+    }
+  }
+}

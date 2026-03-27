@@ -1,0 +1,40 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 2",
+      "relevancy": "100% - 99%",
+      "count": 2,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zinn:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "MD",
+      "bill_number": "SB802",
+      "bill_id": 2112776,
+      "change_hash": "d7a4652a9c429a7561f444b88bbbe91f",
+      "url": "https://legiscan.com/MD/bill/SB802/2026",
+      "text_url": "https://legiscan.com/MD/text/SB802/2026",
+      "research_url": "https://legiscan.com/MD/research/SB802/2026",
+      "last_action_date": "2026-03-06",
+      "last_action": "Referred Government, Labor, and Elections",
+      "title": "Garrett County - Alcoholic Beverages Act of 2026"
+    },
+    "1": {
+      "relevance": 99,
+      "state": "MD",
+      "bill_number": "HB1203",
+      "bill_id": 2113971,
+      "change_hash": "cbdee48b6ae4d7a6744eb50f47f66b83",
+      "url": "https://legiscan.com/MD/bill/HB1203/2026",
+      "text_url": "https://legiscan.com/MD/text/HB1203/2026",
+      "research_url": "https://legiscan.com/MD/research/HB1203/2026",
+      "last_action_date": "2026-03-23",
+      "last_action": "Referred Finance",
+      "title": "Garrett County - Alcoholic Beverages Act of 2026"
+    }
+  }
+}

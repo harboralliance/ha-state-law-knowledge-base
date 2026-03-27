@@ -1,0 +1,53 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 3",
+      "relevancy": "100% - 51%",
+      "count": 3,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(((short:(pos=1) PHRASE 2 term:(pos=2)) AND Zrental:(pos=3)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "NM",
+      "bill_number": "HM62",
+      "bill_id": 2116073,
+      "change_hash": "18dedc1d27f0b8acecc90311353a14f2",
+      "url": "https://legiscan.com/NM/bill/HM62/2026",
+      "text_url": "https://legiscan.com/NM/text/HM62/2026",
+      "research_url": "https://legiscan.com/NM/research/HM62/2026",
+      "last_action_date": "2026-02-12",
+      "last_action": "Sent to HTRC - Referrals: HTRC",
+      "title": "Study Tax, Rentals, Infrastructure & Funding"
+    },
+    "1": {
+      "relevance": 55,
+      "state": "NM",
+      "bill_number": "SB60",
+      "bill_id": 2089176,
+      "change_hash": "5556c1683179c0a171485e83a7916e3e",
+      "url": "https://legiscan.com/NM/bill/SB60/2026",
+      "text_url": "https://legiscan.com/NM/text/SB60/2026",
+      "research_url": "https://legiscan.com/NM/research/SB60/2026",
+      "last_action_date": "2026-01-22",
+      "last_action": "Action Postponed Indefinitely",
+      "title": "Tax Changes"
+    },
+    "2": {
+      "relevance": 51,
+      "state": "NM",
+      "bill_number": "HB2",
+      "bill_id": 2087541,
+      "change_hash": "dd8e213ecf3a9513179a810a9d2e3362",
+      "url": "https://legiscan.com/NM/bill/HB2/2026",
+      "text_url": "https://legiscan.com/NM/text/HB2/2026",
+      "research_url": "https://legiscan.com/NM/research/HB2/2026",
+      "last_action_date": "2026-03-11",
+      "last_action": "Signed by Governor - Chapter 67 - Mar. 11",
+      "title": "General Appropriation Act Of 2026"
+    }
+  }
+}

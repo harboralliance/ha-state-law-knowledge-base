@@ -1,0 +1,131 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 9",
+      "relevancy": "100% - 60%",
+      "count": 9,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zlabor:(pos=1) AND Ztraffick:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "AZ",
+      "bill_number": "HB4070",
+      "bill_id": 2112050,
+      "change_hash": "0b246ba7e11499cd78797bf59163a021",
+      "url": "https://legiscan.com/AZ/bill/HB4070/2026",
+      "text_url": "https://legiscan.com/AZ/text/HB4070/2026",
+      "research_url": "https://legiscan.com/AZ/research/HB4070/2026",
+      "last_action_date": "2026-03-16",
+      "last_action": "Senate read second time",
+      "title": "Nonprofits; facilitation; trafficking offenses; penalties"
+    },
+    "1": {
+      "relevance": 97,
+      "state": "AZ",
+      "bill_number": "SB1093",
+      "bill_id": 2065927,
+      "change_hash": "ff2a2146b8ccb2e2cf8ad32648a64dea",
+      "url": "https://legiscan.com/AZ/bill/SB1093/2026",
+      "text_url": "https://legiscan.com/AZ/text/SB1093/2026",
+      "research_url": "https://legiscan.com/AZ/research/SB1093/2026",
+      "last_action_date": "2026-03-10",
+      "last_action": "House minority caucus: Do pass",
+      "title": "Riot; planning; participation; racketeering"
+    },
+    "2": {
+      "relevance": 96,
+      "state": "AZ",
+      "bill_number": "HB2136",
+      "bill_id": 2066264,
+      "change_hash": "c08653482b016264a507cef2804be5f0",
+      "url": "https://legiscan.com/AZ/bill/HB2136/2026",
+      "text_url": "https://legiscan.com/AZ/text/HB2136/2026",
+      "research_url": "https://legiscan.com/AZ/research/HB2136/2026",
+      "last_action_date": "2026-03-17",
+      "last_action": "Senate read second time",
+      "title": "Civil terrorism; disorderly conduct; subversion"
+    },
+    "3": {
+      "relevance": 95,
+      "state": "AZ",
+      "bill_number": "HB2974",
+      "bill_id": 2101730,
+      "change_hash": "487410e8cd7f1db87ac8cd0a3fd2b547",
+      "url": "https://legiscan.com/AZ/bill/HB2974/2026",
+      "text_url": "https://legiscan.com/AZ/text/HB2974/2026",
+      "research_url": "https://legiscan.com/AZ/research/HB2974/2026",
+      "last_action_date": "2026-02-10",
+      "last_action": "House read second time",
+      "title": "Biologic weapons prohibition; crime"
+    },
+    "4": {
+      "relevance": 92,
+      "state": "AZ",
+      "bill_number": "SB1173",
+      "bill_id": 2078494,
+      "change_hash": "d88bbe5f16fc24184dba74c655fc51b9",
+      "url": "https://legiscan.com/AZ/bill/SB1173/2026",
+      "text_url": "https://legiscan.com/AZ/text/SB1173/2026",
+      "research_url": "https://legiscan.com/AZ/research/SB1173/2026",
+      "last_action_date": "2026-03-24",
+      "last_action": "House read second time",
+      "title": "Behavioral health facilities; fingerprinting"
+    },
+    "5": {
+      "relevance": 91,
+      "state": "AZ",
+      "bill_number": "HB2422",
+      "bill_id": 2079943,
+      "change_hash": "e14888f35dd75267fd2040546c295c31",
+      "url": "https://legiscan.com/AZ/bill/HB2422/2026",
+      "text_url": "https://legiscan.com/AZ/text/HB2422/2026",
+      "research_url": "https://legiscan.com/AZ/research/HB2422/2026",
+      "last_action_date": "2026-01-21",
+      "last_action": "House read second time",
+      "title": "Weapons; permit; firearms safety training"
+    },
+    "6": {
+      "relevance": 66,
+      "state": "AZ",
+      "bill_number": "SB1030",
+      "bill_id": 2059273,
+      "change_hash": "2f2965ce0a978d10fe8c3d98389e080a",
+      "url": "https://legiscan.com/AZ/bill/SB1030/2026",
+      "text_url": "https://legiscan.com/AZ/text/SB1030/2026",
+      "research_url": "https://legiscan.com/AZ/research/SB1030/2026",
+      "last_action_date": "2025-12-16",
+      "last_action": "Prefile",
+      "title": "Noncitizen; alien; terminology"
+    },
+    "7": {
+      "relevance": 66,
+      "state": "AZ",
+      "bill_number": "HB2474",
+      "bill_id": 2081185,
+      "change_hash": "7f4fd35afe2e55b2eb85e46e92ae5889",
+      "url": "https://legiscan.com/AZ/bill/HB2474/2026",
+      "text_url": "https://legiscan.com/AZ/text/HB2474/2026",
+      "research_url": "https://legiscan.com/AZ/research/HB2474/2026",
+      "last_action_date": "2026-01-21",
+      "last_action": "House read second time",
+      "title": "Noncitizen; alien; terminology."
+    },
+    "8": {
+      "relevance": 60,
+      "state": "AZ",
+      "bill_number": "SB1813",
+      "bill_id": 2104238,
+      "change_hash": "d716804a0aac2194da03e8ca59497d11",
+      "url": "https://legiscan.com/AZ/bill/SB1813/2026",
+      "text_url": "https://legiscan.com/AZ/text/SB1813/2026",
+      "research_url": "https://legiscan.com/AZ/research/SB1813/2026",
+      "last_action_date": "2026-03-16",
+      "last_action": "House HHS Committee action: Do Pass, voting: (9-2-1-0-0-0)",
+      "title": "State hospital; bed availability"
+    }
+  }
+}

@@ -2,51 +2,61 @@
   "state": "California",
   "state_code": "CA",
   "industry": "commercial lodging",
-  "source_file": "2026-03-24_California_lodging_compliance.md",
+  "source_file": "2026-03-27_California_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": 20,
   "training_frequency": null,
   "new_hire_deadline_days": 180,
-  "new_hire_deadline_text": "within six months of employment for roles that may involve interacting with victims of human trafficking",
-  "signage_required": false,
+  "new_hire_deadline_text": null,
+  "signage_required": true,
   "provider_approval_required": false,
   "provider_approval_type": null,
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "California Department of Labor Standards Enforcement (DLSE)"
+    "California Attorney General's Office"
   ],
   "applicable_to": [
-    "hotel and motel employers",
-    "employees who are likely to interact or come into contact with victims of human trafficking"
+    "hotel and motel employers"
   ],
-  "required_topics": [],
+  "required_topics": [
+    "human trafficking awareness"
+  ],
   "reporting_contacts_required": [],
   "signage_details": {
-    "languages_required": [],
+    "languages_required": [
+      "English",
+      "Spanish",
+      "Third language (if applicable)"
+    ],
     "minimum_size": null,
     "font_size": null,
     "posting_location": null,
     "required_content": [
-      "a notice informing the public about human trafficking resources and hotlines"
+      "hotline numbers for human trafficking"
     ]
   },
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    "Senate Bill (SB) 970"
+    {
+      "statute_name": "SB 970",
+      "code_section": "",
+      "public_act": ""
+    }
   ],
   "source_urls": [
-    "NEEDS REVIEW"
+    "external site",
+    "SOURCE 2",
+    "Model Notice for Human Trafficking | State of California"
   ],
-  "harbor_alliance_posture": "approval-required",
-  "harbor_alliance_actions": [
-    "Seek additional resources from the California Attorney General\u2019s Office for compliance guidance and training options."
-  ],
+  "harbor_alliance_posture": null,
+  "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "Potential legal actions against employers who fail to comply with the training requirements.",
-    "Non-compliance could lead to penalties or fines."
+    "penalties under California law for non-compliance"
   ],
-  "notes": [],
+  "notes": [
+    "Training must be completed within six months of employment for new hires, or before January 1, 2020, for existing employees."
+  ],
   "needs_review": []
 }

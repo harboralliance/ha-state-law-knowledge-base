@@ -1,0 +1,40 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 2",
+      "relevancy": "100% - 92%",
+      "count": 2,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zsignag:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "AK",
+      "bill_number": "SB9",
+      "bill_id": 1912501,
+      "change_hash": "35be7eefbd43446500bd83f8d215f939",
+      "url": "https://legiscan.com/AK/bill/SB9/2025",
+      "text_url": "https://legiscan.com/AK/text/SB9/2025",
+      "research_url": "https://legiscan.com/AK/research/SB9/2025",
+      "last_action_date": "2025-05-14",
+      "last_action": "COSPONSOR(S): GRAY-JACKSON",
+      "title": "Surrender Of Infants; Inf. Safety Device"
+    },
+    "1": {
+      "relevance": 92,
+      "state": "AK",
+      "bill_number": "HB64",
+      "bill_id": 1940616,
+      "change_hash": "b08aa3ae88c3a4f56d161e09153bba88",
+      "url": "https://legiscan.com/AK/bill/HB64/2025",
+      "text_url": "https://legiscan.com/AK/text/HB64/2025",
+      "research_url": "https://legiscan.com/AK/research/HB64/2025",
+      "last_action_date": "2026-02-04",
+      "last_action": "COSPONSOR(S): ALLARD",
+      "title": "Surrender Of Infants; Inf. Safety Device"
+    }
+  }
+}

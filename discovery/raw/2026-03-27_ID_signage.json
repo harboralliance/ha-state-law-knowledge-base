@@ -1,0 +1,92 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 6",
+      "relevancy": "100% - 63%",
+      "count": 6,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zsignag:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "ID",
+      "bill_number": "H0817",
+      "bill_id": 2128098,
+      "change_hash": "27822c73780c3a370b16520a57a5f620",
+      "url": "https://legiscan.com/ID/bill/H0817/2026",
+      "text_url": "https://legiscan.com/ID/text/H0817/2026",
+      "research_url": "https://legiscan.com/ID/research/H0817/2026",
+      "last_action_date": "2026-03-26",
+      "last_action": "Returned from Senate Passed; to JRA for Enrolling",
+      "title": "Amends existing law to revise provisions regarding the sale of cigars."
+    },
+    "1": {
+      "relevance": 97,
+      "state": "ID",
+      "bill_number": "S1348",
+      "bill_id": 2127548,
+      "change_hash": "52dd08a942ac5e7360bac6306360b712",
+      "url": "https://legiscan.com/ID/bill/S1348/2026",
+      "text_url": "https://legiscan.com/ID/text/S1348/2026",
+      "research_url": "https://legiscan.com/ID/research/S1348/2026",
+      "last_action_date": "2026-03-26",
+      "last_action": "Reported enrolled; signed by President; to House for signature of Speaker",
+      "title": "Amends and adds to existing law to establish provisions for the opening of the shotgun sporting complex adjacent to Farragut State Park."
+    },
+    "2": {
+      "relevance": 93,
+      "state": "ID",
+      "bill_number": "H0928",
+      "bill_id": 2135709,
+      "change_hash": "52f0f83181809ce824efccae08c2171d",
+      "url": "https://legiscan.com/ID/bill/H0928/2026",
+      "text_url": "https://legiscan.com/ID/text/H0928/2026",
+      "research_url": "https://legiscan.com/ID/research/H0928/2026",
+      "last_action_date": "2026-03-26",
+      "last_action": "Read first time as amended in the Senate; Filed for Second Reading",
+      "title": "Adds to existing law to establish the Merit-Based Health Care Act."
+    },
+    "3": {
+      "relevance": 93,
+      "state": "ID",
+      "bill_number": "H0583",
+      "bill_id": 2107536,
+      "change_hash": "b6dd846c39d6ec8fff985f21c5f22e34",
+      "url": "https://legiscan.com/ID/bill/H0583/2026",
+      "text_url": "https://legiscan.com/ID/text/H0583/2026",
+      "research_url": "https://legiscan.com/ID/research/H0583/2026",
+      "last_action_date": "2026-03-17",
+      "last_action": "Reported Signed by Governor on March 16, 2026 Session Law Chapter 22 Effective: 07/01/2026",
+      "title": "Amends existing law to revise provisions regarding limitations on the regulation of and limiting the tax duties of short-term rentals."
+    },
+    "4": {
+      "relevance": 93,
+      "state": "ID",
+      "bill_number": "H0828",
+      "bill_id": 2129657,
+      "change_hash": "b520a78f3b33852de28d6be0f63b7652",
+      "url": "https://legiscan.com/ID/bill/H0828/2026",
+      "text_url": "https://legiscan.com/ID/text/H0828/2026",
+      "research_url": "https://legiscan.com/ID/research/H0828/2026",
+      "last_action_date": "2026-03-20",
+      "last_action": "Take bill off General Orders; referred to Business",
+      "title": "Adds to existing law to establish the Merit-Based Health Care Act."
+    },
+    "5": {
+      "relevance": 63,
+      "state": "ID",
+      "bill_number": "H0884",
+      "bill_id": 2132882,
+      "change_hash": "4bcda5191f161dd9bbe65ea84825f8f9",
+      "url": "https://legiscan.com/ID/bill/H0884/2026",
+      "text_url": "https://legiscan.com/ID/text/H0884/2026",
+      "research_url": "https://legiscan.com/ID/research/H0884/2026",
+      "last_action_date": "2026-03-12",
+      "last_action": "Reported Printed and Referred to Revenue & Taxation",
+      "title": "Amends and adds to existing law to establish certain permitting requirements regarding the sale of certain nicotine products, to revise provisions regarding the regulation of certain nicotine products, and to impose a tax on certain nicotine and related products."
+    }
+  }
+}

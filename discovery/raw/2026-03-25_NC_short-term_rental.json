@@ -1,0 +1,118 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 8",
+      "relevancy": "100% - 69%",
+      "count": 8,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(((short:(pos=1) PHRASE 2 term:(pos=2)) AND Zrental:(pos=3)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "NC",
+      "bill_number": "S291",
+      "bill_id": 2006510,
+      "change_hash": "168f7b1f17e09e1a2b2c9b12790a4f3f",
+      "url": "https://legiscan.com/NC/bill/S291/2025",
+      "text_url": "https://legiscan.com/NC/text/S291/2025",
+      "research_url": "https://legiscan.com/NC/research/S291/2025",
+      "last_action_date": "2025-03-17",
+      "last_action": "Ref To Com On Rules and Operations of the Senate",
+      "title": "Regulation of Short-Term Rentals"
+    },
+    "1": {
+      "relevance": 99,
+      "state": "NC",
+      "bill_number": "H554",
+      "bill_id": 2015560,
+      "change_hash": "354bb7ec77b2f4137fb53531965d7755",
+      "url": "https://legiscan.com/NC/bill/H554/2025",
+      "text_url": "https://legiscan.com/NC/text/H554/2025",
+      "research_url": "https://legiscan.com/NC/research/H554/2025",
+      "last_action_date": "2025-03-31",
+      "last_action": "Ref to the Com on Finance, if favorable, Rules, Calendar, and Operations of the House",
+      "title": "Rev Laws Tech Chngs/BBA Chngs/P2P Tax Parity"
+    },
+    "2": {
+      "relevance": 99,
+      "state": "NC",
+      "bill_number": "S595",
+      "bill_id": 2014041,
+      "change_hash": "efa91c3f8b4ad61b728b5aa850ab16dc",
+      "url": "https://legiscan.com/NC/bill/S595/2025",
+      "text_url": "https://legiscan.com/NC/text/S595/2025",
+      "research_url": "https://legiscan.com/NC/research/S595/2025",
+      "last_action_date": "2025-07-03",
+      "last_action": "Conf Com Appointed",
+      "title": "Various Revenue Laws Changes"
+    },
+    "3": {
+      "relevance": 99,
+      "state": "NC",
+      "bill_number": "S736",
+      "bill_id": 2014232,
+      "change_hash": "c82cd64ce57459a1c49b1ba42aaf69f6",
+      "url": "https://legiscan.com/NC/bill/S736/2025",
+      "text_url": "https://legiscan.com/NC/text/S736/2025",
+      "research_url": "https://legiscan.com/NC/research/S736/2025",
+      "last_action_date": "2025-03-26",
+      "last_action": "Ref To Com On Rules and Operations of the Senate",
+      "title": "Foundation Act: Building NC&#x27;s Housing Future"
+    },
+    "4": {
+      "relevance": 94,
+      "state": "NC",
+      "bill_number": "H955",
+      "bill_id": 2022909,
+      "change_hash": "12b9cb72cb389cd18a4decc7414bebd7",
+      "url": "https://legiscan.com/NC/bill/H955/2025",
+      "text_url": "https://legiscan.com/NC/text/H955/2025",
+      "research_url": "https://legiscan.com/NC/research/H955/2025",
+      "last_action_date": "2025-04-14",
+      "last_action": "Ref To Com On Rules, Calendar, and Operations of the House",
+      "title": "NC Junk Fee Prevention Act"
+    },
+    "5": {
+      "relevance": 73,
+      "state": "NC",
+      "bill_number": "H40",
+      "bill_id": 1951781,
+      "change_hash": "e79bc7aa670df52a7cc2ccbf281aa9e3",
+      "url": "https://legiscan.com/NC/bill/H40/2025",
+      "text_url": "https://legiscan.com/NC/text/H40/2025",
+      "research_url": "https://legiscan.com/NC/research/H40/2025",
+      "last_action_date": "2025-06-26",
+      "last_action": "Ch. SL 2025-25",
+      "title": "Various GSC Recommendations"
+    },
+    "6": {
+      "relevance": 71,
+      "state": "NC",
+      "bill_number": "S257",
+      "bill_id": 1996111,
+      "change_hash": "219a098b526db1dc9a5e0159d29a621b",
+      "url": "https://legiscan.com/NC/bill/S257/2025",
+      "text_url": "https://legiscan.com/NC/text/S257/2025",
+      "research_url": "https://legiscan.com/NC/research/S257/2025",
+      "last_action_date": "2025-06-05",
+      "last_action": "Conf Com Appointed",
+      "title": "2025 Appropriations Act"
+    },
+    "7": {
+      "relevance": 69,
+      "state": "NC",
+      "bill_number": "S440",
+      "bill_id": 2012916,
+      "change_hash": "f135d79b33bdeaed6c2c68a064ebf69c",
+      "url": "https://legiscan.com/NC/bill/S440/2025",
+      "text_url": "https://legiscan.com/NC/text/S440/2025",
+      "research_url": "https://legiscan.com/NC/research/S440/2025",
+      "last_action_date": "2025-03-25",
+      "last_action": "Re-ref Com On Appropriations/Base Budget",
+      "title": "2025 Governor&#x27;s Budget"
+    }
+  }
+}

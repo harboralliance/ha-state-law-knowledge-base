@@ -1,0 +1,79 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 5",
+      "relevancy": "100% - 94%",
+      "count": 5,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zbed:(pos=1) AND Zbreakfast:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "OK",
+      "bill_number": "HB1076",
+      "bill_id": 2049132,
+      "change_hash": "adf339e5927e07bcb5522b6752dfa571",
+      "url": "https://legiscan.com/OK/bill/HB1076/2026",
+      "text_url": "https://legiscan.com/OK/text/HB1076/2026",
+      "research_url": "https://legiscan.com/OK/research/HB1076/2026",
+      "last_action_date": "2025-05-05",
+      "last_action": "Approved by Governor 05/05/2025",
+      "title": "Public health and safety; creating the Food Truck Freedom Act; State Commissioner of Health; rules; local authorities; administrative hearing; penalties; appeals process; definitions; terms; food establishment license; mobile food vendors; locations; effective date."
+    },
+    "1": {
+      "relevance": 98,
+      "state": "OK",
+      "bill_number": "HB2201",
+      "bill_id": 2049969,
+      "change_hash": "d8b98e29944a011ce686898bc5f3c6cc",
+      "url": "https://legiscan.com/OK/bill/HB2201/2026",
+      "text_url": "https://legiscan.com/OK/text/HB2201/2026",
+      "research_url": "https://legiscan.com/OK/research/HB2201/2026",
+      "last_action_date": "2025-02-04",
+      "last_action": "Second Reading referred to Rules",
+      "title": "Genetically engineered food; food establishment license and reasonable standards and rules for sanitation; notification; definition; effective date."
+    },
+    "2": {
+      "relevance": 95,
+      "state": "OK",
+      "bill_number": "SB595",
+      "bill_id": 2050758,
+      "change_hash": "00830757a3167ece61e3add05899c1ce",
+      "url": "https://legiscan.com/OK/bill/SB595/2026",
+      "text_url": "https://legiscan.com/OK/text/SB595/2026",
+      "research_url": "https://legiscan.com/OK/research/SB595/2026",
+      "last_action_date": "2025-04-28",
+      "last_action": "Approved by Governor 04/28/2025",
+      "title": "Jail standards; creating the Oklahoma Jail Standards Act. Emergency."
+    },
+    "3": {
+      "relevance": 94,
+      "state": "OK",
+      "bill_number": "SB1761",
+      "bill_id": 2079789,
+      "change_hash": "f034ddb00af6e75c1ff867df434c26de",
+      "url": "https://legiscan.com/OK/bill/SB1761/2026",
+      "text_url": "https://legiscan.com/OK/text/SB1761/2026",
+      "research_url": "https://legiscan.com/OK/research/SB1761/2026",
+      "last_action_date": "2026-02-03",
+      "last_action": "Second Reading referred to Rules",
+      "title": "Oklahoma Uniform Building Code; removing limitation on duration of certain authorized overnight stays; prohibiting entities from enforcing codes. Effective date."
+    },
+    "4": {
+      "relevance": 94,
+      "state": "OK",
+      "bill_number": "SB1823",
+      "bill_id": 2080826,
+      "change_hash": "e3a21ad960e0c24e407a370f23c7953f",
+      "url": "https://legiscan.com/OK/bill/SB1823/2026",
+      "text_url": "https://legiscan.com/OK/text/SB1823/2026",
+      "research_url": "https://legiscan.com/OK/research/SB1823/2026",
+      "last_action_date": "2026-02-03",
+      "last_action": "Second Reading referred to Economic Development, Workforce and Tourism Committee then to Revenue and Taxation Committee",
+      "title": "Lodging tax; defining term. Effective date."
+    }
+  }
+}

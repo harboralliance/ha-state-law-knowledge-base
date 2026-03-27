@@ -1,0 +1,40 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 2",
+      "relevancy": "100% - 91%",
+      "count": 2,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zcommerci:(pos=1) AND Zlodg:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "MD",
+      "bill_number": "SB283",
+      "bill_id": 2089626,
+      "change_hash": "fe9a4aac40e4c7f5c3dc3a3c6774ec0e",
+      "url": "https://legiscan.com/MD/bill/SB283/2026",
+      "text_url": "https://legiscan.com/MD/text/SB283/2026",
+      "research_url": "https://legiscan.com/MD/research/SB283/2026",
+      "last_action_date": "2026-03-25",
+      "last_action": "Referred Appropriations",
+      "title": "Creation of a State Debt \u2013 Maryland Consolidated Capital Bond Loan of 2026, and the Maryland Consolidated Capital Bond Loans of 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, and 2025"
+    },
+    "1": {
+      "relevance": 91,
+      "state": "MD",
+      "bill_number": "HB983",
+      "bill_id": 2110195,
+      "change_hash": "07ab18faf73f134365f514a80f51b54f",
+      "url": "https://legiscan.com/MD/bill/HB983/2026",
+      "text_url": "https://legiscan.com/MD/text/HB983/2026",
+      "research_url": "https://legiscan.com/MD/research/HB983/2026",
+      "last_action_date": "2026-03-13",
+      "last_action": "Withdrawn by Sponsor",
+      "title": "State Tax Credits, Modifications, and Exemptions - Alterations and Repeal"
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 6",
+      "relevancy": "100% - 44%",
+      "count": 6,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zbed:(pos=1) AND Zbreakfast:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "MN",
+      "bill_number": "HF4004",
+      "bill_id": 2129933,
+      "change_hash": "25405a5c0d79533f91410bb0a39d78a7",
+      "url": "https://legiscan.com/MN/bill/HF4004/2025",
+      "text_url": "https://legiscan.com/MN/text/HF4004/2025",
+      "research_url": "https://legiscan.com/MN/research/HF4004/2025",
+      "last_action_date": "2026-03-23",
+      "last_action": "Second reading",
+      "title": "Explore Minnesota councils membership modified."
+    },
+    "1": {
+      "relevance": 95,
+      "state": "MN",
+      "bill_number": "SF3663",
+      "bill_id": 2119190,
+      "change_hash": "6ac706b168a3465d5c0df6a0180c061c",
+      "url": "https://legiscan.com/MN/bill/SF3663/2025",
+      "text_url": "https://legiscan.com/MN/text/SF3663/2025",
+      "research_url": "https://legiscan.com/MN/research/SF3663/2025",
+      "last_action_date": "2026-02-19",
+      "last_action": "Referred to Jobs and Economic Development",
+      "title": "Explore Minnesota councils membership modifications"
+    },
+    "2": {
+      "relevance": 90,
+      "state": "MN",
+      "bill_number": "SF198",
+      "bill_id": 1920911,
+      "change_hash": "4eb9d32157e30413f5b1c79a13d74ee1",
+      "url": "https://legiscan.com/MN/bill/SF198/2025",
+      "text_url": "https://legiscan.com/MN/text/SF198/2025",
+      "research_url": "https://legiscan.com/MN/research/SF198/2025",
+      "last_action_date": "2025-01-16",
+      "last_action": "Referred to Commerce and Consumer Protection",
+      "title": "Limited malt liquor and food retailer definition and off-sale limited malt liquor licenses issuance authorization"
+    },
+    "3": {
+      "relevance": 90,
+      "state": "MN",
+      "bill_number": "HF2202",
+      "bill_id": 2004867,
+      "change_hash": "c3c83d6a8aeccf4ea2d5ec129d479fc2",
+      "url": "https://legiscan.com/MN/bill/HF2202/2025",
+      "text_url": "https://legiscan.com/MN/text/HF2202/2025",
+      "research_url": "https://legiscan.com/MN/research/HF2202/2025",
+      "last_action_date": "2025-03-12",
+      "last_action": "Introduction and first reading, referred to Commerce Finance and Policy",
+      "title": "Limited malt liquor and food retailer defined, off-sale limited malt liquor license issuance authorized, and conforming changes made."
+    },
+    "4": {
+      "relevance": 46,
+      "state": "MN",
+      "bill_number": "HF2435",
+      "bill_id": 2009016,
+      "change_hash": "a53e258eb7b01d8056890079b14378f8",
+      "url": "https://legiscan.com/MN/bill/HF2435/2025",
+      "text_url": "https://legiscan.com/MN/text/HF2435/2025",
+      "research_url": "https://legiscan.com/MN/research/HF2435/2025",
+      "last_action_date": "2025-05-16",
+      "last_action": "Senate conferees Wiklund; Mann; Utke",
+      "title": "Health and human services finance bill."
+    },
+    "5": {
+      "relevance": 44,
+      "state": "MN",
+      "bill_number": "SF2669",
+      "bill_id": 2007612,
+      "change_hash": "1c76b363a1872cadc76ddd5394cab077",
+      "url": "https://legiscan.com/MN/bill/SF2669/2025",
+      "text_url": "https://legiscan.com/MN/text/SF2669/2025",
+      "research_url": "https://legiscan.com/MN/research/SF2669/2025",
+      "last_action_date": "2025-05-13",
+      "last_action": "Rule 45-amend, subst. General Orders HF2435, SF indefinitely postponed",
+      "title": "Omnibus Health and Human Services policy and appropriations"
+    }
+  }
+}

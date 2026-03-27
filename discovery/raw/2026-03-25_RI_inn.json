@@ -1,0 +1,79 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 5",
+      "relevancy": "100% - 81%",
+      "count": 5,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zinn:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "RI",
+      "bill_number": "H8038",
+      "bill_id": 2126073,
+      "change_hash": "58d3a821dd2989002648a20b6a9d2d97",
+      "url": "https://legiscan.com/RI/bill/H8038/2026",
+      "text_url": "https://legiscan.com/RI/text/H8038/2026",
+      "research_url": "https://legiscan.com/RI/research/H8038/2026",
+      "last_action_date": "2026-03-17",
+      "last_action": "Committee recommended measure be held for further study",
+      "title": "Authorizes East Providence to issue licenses to any business seeking to engage in the business of operating a hotel, motel, inn, or boardinghouse and that business first obtains approval from chief of police, building inspector and the mayor."
+    },
+    "1": {
+      "relevance": 99,
+      "state": "RI",
+      "bill_number": "S2685",
+      "bill_id": 2126912,
+      "change_hash": "246111202681fb55b668845c10f20bee",
+      "url": "https://legiscan.com/RI/bill/S2685/2026",
+      "text_url": "https://legiscan.com/RI/text/S2685/2026",
+      "research_url": "https://legiscan.com/RI/research/S2685/2026",
+      "last_action_date": "2026-02-27",
+      "last_action": "Introduced, referred to Senate Health and Human Services",
+      "title": "Provides coverage and increases individual and group insurance rates of reimbursement for ambulance services."
+    },
+    "2": {
+      "relevance": 99,
+      "state": "RI",
+      "bill_number": "H7485",
+      "bill_id": 2107655,
+      "change_hash": "a2987ed19a4b4c825d2ae55c3d855efd",
+      "url": "https://legiscan.com/RI/bill/H7485/2026",
+      "text_url": "https://legiscan.com/RI/text/H7485/2026",
+      "research_url": "https://legiscan.com/RI/research/H7485/2026",
+      "last_action_date": "2026-03-12",
+      "last_action": "Committee recommended measure be held for further study",
+      "title": "Provides coverage and increases individual and group insurance rates of reimbursement for ambulance services."
+    },
+    "3": {
+      "relevance": 85,
+      "state": "RI",
+      "bill_number": "H7657",
+      "bill_id": 2114357,
+      "change_hash": "89f59057b8bb044eec98f26595d78629",
+      "url": "https://legiscan.com/RI/bill/H7657/2026",
+      "text_url": "https://legiscan.com/RI/text/H7657/2026",
+      "research_url": "https://legiscan.com/RI/research/H7657/2026",
+      "last_action_date": "2026-02-11",
+      "last_action": "Introduced, referred to House Municipal Government & Housing",
+      "title": "Distinguishes residential and commercial short-term rental properties for tax purposes."
+    },
+    "4": {
+      "relevance": 81,
+      "state": "RI",
+      "bill_number": "H7170",
+      "bill_id": 2087252,
+      "change_hash": "af83c20490330e94798aac3a294b3104",
+      "url": "https://legiscan.com/RI/bill/H7170/2026",
+      "text_url": "https://legiscan.com/RI/text/H7170/2026",
+      "research_url": "https://legiscan.com/RI/research/H7170/2026",
+      "last_action_date": "2026-01-20",
+      "last_action": "House read and passed",
+      "title": "HOUSE RESOLUTION EXTENDING CONGRATULATIONS"
+    }
+  }
+}

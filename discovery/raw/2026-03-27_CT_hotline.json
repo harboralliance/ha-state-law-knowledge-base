@@ -1,0 +1,66 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 4",
+      "relevancy": "100% - 60%",
+      "count": 4,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zhotlin:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "CT",
+      "bill_number": "HB05477",
+      "bill_id": 2129266,
+      "change_hash": "c87e389e54a9b476c6d2c015c079e721",
+      "url": "https://legiscan.com/CT/bill/HB05477/2026",
+      "text_url": "https://legiscan.com/CT/text/HB05477/2026",
+      "research_url": "https://legiscan.com/CT/research/HB05477/2026",
+      "last_action_date": "2026-03-17",
+      "last_action": "Filed with Legislative Commissioners' Office",
+      "title": "An Act Concerning The Well-being Of Employees Of The Department Of Correction And Persons Who Are Incarcerated In Correctional Institutions."
+    },
+    "1": {
+      "relevance": 83,
+      "state": "CT",
+      "bill_number": "SB00086",
+      "bill_id": 2107947,
+      "change_hash": "ca3f5a16d02d4fd8f0914761e7a13fe0",
+      "url": "https://legiscan.com/CT/bill/SB00086/2026",
+      "text_url": "https://legiscan.com/CT/text/SB00086/2026",
+      "research_url": "https://legiscan.com/CT/research/SB00086/2026",
+      "last_action_date": "2026-03-17",
+      "last_action": "Filed with Legislative Commissioners' Office",
+      "title": "An Act Addressing Innovations In And The Responsible Use Of Artificial Intelligence."
+    },
+    "2": {
+      "relevance": 72,
+      "state": "CT",
+      "bill_number": "HB05474",
+      "bill_id": 2129390,
+      "change_hash": "176beaf83beea635c73f7cd02cb88439",
+      "url": "https://legiscan.com/CT/bill/HB05474/2026",
+      "text_url": "https://legiscan.com/CT/text/HB05474/2026",
+      "research_url": "https://legiscan.com/CT/research/HB05474/2026",
+      "last_action_date": "2026-03-26",
+      "last_action": "Referred to Office of Legislative Research and Office of Fiscal Analysis 03/31/26 5:00 PM",
+      "title": "An Act Concerning Oversight Of Medical Care For Persons Who Are Incarcerated At The Department Of Correction."
+    },
+    "3": {
+      "relevance": 60,
+      "state": "CT",
+      "bill_number": "HB05567",
+      "bill_id": 2132537,
+      "change_hash": "5f40465db05aebcdf59f676c91b29561",
+      "url": "https://legiscan.com/CT/bill/HB05567/2026",
+      "text_url": "https://legiscan.com/CT/text/HB05567/2026",
+      "research_url": "https://legiscan.com/CT/research/HB05567/2026",
+      "last_action_date": "2026-03-25",
+      "last_action": "Filed with Legislative Commissioners' Office",
+      "title": "An Act Concerning Health Care In The Department Of Correction Facilities."
+    }
+  }
+}

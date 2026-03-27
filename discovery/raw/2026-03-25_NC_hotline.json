@@ -1,0 +1,79 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 5",
+      "relevancy": "100% - 70%",
+      "count": 5,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zhotlin:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "NC",
+      "bill_number": "S348",
+      "bill_id": 2010938,
+      "change_hash": "34ce6dfbb88fcf190b19a3ca534ba4e1",
+      "url": "https://legiscan.com/NC/bill/S348/2025",
+      "text_url": "https://legiscan.com/NC/text/S348/2025",
+      "research_url": "https://legiscan.com/NC/research/S348/2025",
+      "last_action_date": "2025-03-20",
+      "last_action": "Ref To Com On Rules and Operations of the Senate",
+      "title": "Home Comfort Act"
+    },
+    "1": {
+      "relevance": 98,
+      "state": "NC",
+      "bill_number": "S379",
+      "bill_id": 2011850,
+      "change_hash": "71e198b55cf73f27994d1da821b79db5",
+      "url": "https://legiscan.com/NC/bill/S379/2025",
+      "text_url": "https://legiscan.com/NC/text/S379/2025",
+      "research_url": "https://legiscan.com/NC/research/S379/2025",
+      "last_action_date": "2025-03-24",
+      "last_action": "Ref To Com On Rules and Operations of the Senate",
+      "title": "Senior Care Assurance Act"
+    },
+    "2": {
+      "relevance": 92,
+      "state": "NC",
+      "bill_number": "H813",
+      "bill_id": 2021040,
+      "change_hash": "b553f1d63a132ab72a114c6206480f6b",
+      "url": "https://legiscan.com/NC/bill/H813/2025",
+      "text_url": "https://legiscan.com/NC/text/H813/2025",
+      "research_url": "https://legiscan.com/NC/research/H813/2025",
+      "last_action_date": "2025-04-08",
+      "last_action": "Ref to the Com on Appropriations, if favorable, Finance, if favorable, Rules, Calendar, and Operations of the House",
+      "title": "Enhanced Reg. of Registered Res. Facilities"
+    },
+    "3": {
+      "relevance": 85,
+      "state": "NC",
+      "bill_number": "S421",
+      "bill_id": 2012938,
+      "change_hash": "e92f0c545c8a8459e5ac691eef6a75b1",
+      "url": "https://legiscan.com/NC/bill/S421/2025",
+      "text_url": "https://legiscan.com/NC/text/S421/2025",
+      "research_url": "https://legiscan.com/NC/research/S421/2025",
+      "last_action_date": "2025-03-25",
+      "last_action": "Ref To Com On Rules and Operations of the Senate",
+      "title": "Prison Reform Omnibus"
+    },
+    "4": {
+      "relevance": 70,
+      "state": "NC",
+      "bill_number": "H420",
+      "bill_id": 2008888,
+      "change_hash": "daff15213c9164eb17b192c90081bd02",
+      "url": "https://legiscan.com/NC/bill/H420/2025",
+      "text_url": "https://legiscan.com/NC/text/H420/2025",
+      "research_url": "https://legiscan.com/NC/research/H420/2025",
+      "last_action_date": "2025-03-18",
+      "last_action": "Ref To Com On Rules, Calendar, and Operations of the House",
+      "title": "Sound Basic Education for Every Child"
+    }
+  }
+}

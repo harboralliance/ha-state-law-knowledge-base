@@ -1,0 +1,92 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 6",
+      "relevancy": "100% - 72%",
+      "count": 6,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zlabor:(pos=1) AND Ztraffick:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "WV",
+      "bill_number": "HB4433",
+      "bill_id": 2083789,
+      "change_hash": "9c4ab57eee32631b6119943d4628a0d3",
+      "url": "https://legiscan.com/WV/bill/HB4433/2026",
+      "text_url": "https://legiscan.com/WV/text/HB4433/2026",
+      "research_url": "https://legiscan.com/WV/research/HB4433/2026",
+      "last_action_date": "2026-03-14",
+      "last_action": "Approved by Governor 3/14/2026 - Senate Journal",
+      "title": "Prohibiting Human Smuggling and Trafficking"
+    },
+    "1": {
+      "relevance": 99,
+      "state": "WV",
+      "bill_number": "SB763",
+      "bill_id": 2108843,
+      "change_hash": "ab8cbfcb81b7c927f22bd8ff727418b4",
+      "url": "https://legiscan.com/WV/bill/SB763/2026",
+      "text_url": "https://legiscan.com/WV/text/SB763/2026",
+      "research_url": "https://legiscan.com/WV/research/SB763/2026",
+      "last_action_date": "2026-02-23",
+      "last_action": "To House Health and Human Resources",
+      "title": "Requiring children to be screened for sex trafficking upon entering foster care"
+    },
+    "2": {
+      "relevance": 99,
+      "state": "WV",
+      "bill_number": "SB679",
+      "bill_id": 2102548,
+      "change_hash": "a96c877f70135178ffec6534d8794a7b",
+      "url": "https://legiscan.com/WV/bill/SB679/2026",
+      "text_url": "https://legiscan.com/WV/text/SB679/2026",
+      "research_url": "https://legiscan.com/WV/research/SB679/2026",
+      "last_action_date": "2026-01-30",
+      "last_action": "To Judiciary",
+      "title": "Increasing protection for minors when victims of human trafficking"
+    },
+    "3": {
+      "relevance": 98,
+      "state": "WV",
+      "bill_number": "SR12",
+      "bill_id": 2089751,
+      "change_hash": "af9c4a67de499b3eaec885366a47ea8f",
+      "url": "https://legiscan.com/WV/bill/SR12/2026",
+      "text_url": "https://legiscan.com/WV/text/SR12/2026",
+      "research_url": "https://legiscan.com/WV/research/SR12/2026",
+      "last_action_date": "2026-01-23",
+      "last_action": "Completed legislative action",
+      "title": "Recognizing January as Human Trafficking Awareness month"
+    },
+    "4": {
+      "relevance": 95,
+      "state": "WV",
+      "bill_number": "SB922",
+      "bill_id": 2114061,
+      "change_hash": "df6964d3127783386fd8786ce42b8086",
+      "url": "https://legiscan.com/WV/bill/SB922/2026",
+      "text_url": "https://legiscan.com/WV/text/SB922/2026",
+      "research_url": "https://legiscan.com/WV/research/SB922/2026",
+      "last_action_date": "2026-02-11",
+      "last_action": "To Health and Human Resources",
+      "title": "Requiring public lodging establishments to provide human trafficking awareness training for employees"
+    },
+    "5": {
+      "relevance": 72,
+      "state": "WV",
+      "bill_number": "SB510",
+      "bill_id": 2086476,
+      "change_hash": "9deede245cfff5f358c0afe7ca737eef",
+      "url": "https://legiscan.com/WV/bill/SB510/2026",
+      "text_url": "https://legiscan.com/WV/text/SB510/2026",
+      "research_url": "https://legiscan.com/WV/research/SB510/2026",
+      "last_action_date": "2026-01-20",
+      "last_action": "To Workforce",
+      "title": "Using criminal records as disqualification from practicing particular professions"
+    }
+  }
+}

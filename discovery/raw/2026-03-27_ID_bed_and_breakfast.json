@@ -1,0 +1,27 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 1",
+      "relevancy": "100% - 100%",
+      "count": 1,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zbed:(pos=1) AND Zbreakfast:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "ID",
+      "bill_number": "S1283",
+      "bill_id": 2116918,
+      "change_hash": "2381f0bc5fd4f040906945391fde8fe8",
+      "url": "https://legiscan.com/ID/bill/S1283/2026",
+      "text_url": "https://legiscan.com/ID/text/S1283/2026",
+      "research_url": "https://legiscan.com/ID/research/S1283/2026",
+      "last_action_date": "2026-03-20",
+      "last_action": "Session Law Chapter 91 Effective: 03/20/2026",
+      "title": "Amends and adds to existing law to provide for the Idaho Direct to Consumer Commerce Act."
+    }
+  }
+}

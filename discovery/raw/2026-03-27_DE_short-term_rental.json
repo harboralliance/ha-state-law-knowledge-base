@@ -1,0 +1,27 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 1",
+      "relevancy": "100% - 100%",
+      "count": 1,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(((short:(pos=1) PHRASE 2 term:(pos=2)) AND Zrental:(pos=3)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "DE",
+      "bill_number": "HB296",
+      "bill_id": 2130025,
+      "change_hash": "c671507591d0eac6ad09623a967e65e1",
+      "url": "https://legiscan.com/DE/bill/HB296/2025",
+      "text_url": "https://legiscan.com/DE/text/HB296/2025",
+      "research_url": "https://legiscan.com/DE/research/HB296/2025",
+      "last_action_date": "2026-03-19",
+      "last_action": "Assigned to Elections & Government Affairs Committee in Senate",
+      "title": "An Act To Amend Title 6 And Title 30 Of The Delaware Code Relating To The Administrative Responsibilities Of The Department Of Finance."
+    }
+  }
+}

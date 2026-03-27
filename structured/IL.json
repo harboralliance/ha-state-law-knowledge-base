@@ -2,26 +2,31 @@
   "state": "Illinois",
   "state_code": "IL",
   "industry": "commercial lodging",
-  "source_file": "2026-03-24_Illinois_lodging_compliance.md",
+  "source_file": "2026-03-27_Illinois_lodging_compliance.md",
   "training_required": true,
-  "training_duration_minutes": null,
-  "training_frequency": "annually",
+  "training_duration_minutes": 20,
+  "training_frequency": "every 2 years",
   "new_hire_deadline_days": null,
   "new_hire_deadline_text": null,
   "signage_required": false,
-  "provider_approval_required": false,
-  "provider_approval_type": null,
-  "approval_authority": null,
+  "provider_approval_required": true,
+  "provider_approval_type": "third-party programs",
+  "approval_authority": "Department of Human Services",
   "approval_contact": null,
   "enforcing_agencies": [
-    "local government agencies"
+    "local governments",
+    "law enforcement agencies"
   ],
-  "applicable_to": [],
+  "applicable_to": [
+    "lodging establishments",
+    "restaurants",
+    "truck stops"
+  ],
   "required_topics": [
-    "definitions of human trafficking",
-    "identifying at-risk individuals",
-    "distinguishing labor vs sex trafficking relevant to these industries",
-    "guidance on reporting and responding to incidents"
+    "human trafficking and commercial exploitation of children",
+    "identifying individuals at risk for human trafficking",
+    "differentiating between labor and sex-based trafficking in the context of lodging establishments, restaurants, and truck stops",
+    "employees' roles in reporting and responding to incidents of human trafficking"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
@@ -34,16 +39,16 @@
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    "Section 20 of the amended Illinois General Assembly Bill 101"
+    "Illinois Statutes, Title 110, Chapter 5"
   ],
-  "source_urls": [],
-  "harbor_alliance_posture": "needs-review",
+  "source_urls": [
+    "http://www.ilga.gov/legislation/ilcs/docs/Illinois+Statutes,+Title+110,+Chapter+5.htm"
+  ],
+  "harbor_alliance_posture": "approval-required",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "non-compliance with new requirements can result in enforcement by local government agencies or civil actions"
+    "Need for approval of training providers"
   ],
-  "notes": [
-    "The law is enforceable as part of state law rather than just a regulation or guideline."
-  ],
+  "notes": [],
   "needs_review": []
 }

@@ -1,0 +1,27 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 1",
+      "relevancy": "100% - 100%",
+      "count": 1,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zcommerci:(pos=1) AND Zlodg:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "MD",
+      "bill_number": "HB983",
+      "bill_id": 2110195,
+      "change_hash": "07ab18faf73f134365f514a80f51b54f",
+      "url": "https://legiscan.com/MD/bill/HB983/2026",
+      "text_url": "https://legiscan.com/MD/text/HB983/2026",
+      "research_url": "https://legiscan.com/MD/research/HB983/2026",
+      "last_action_date": "2026-03-13",
+      "last_action": "Withdrawn by Sponsor",
+      "title": "State Tax Credits, Modifications, and Exemptions - Alterations and Repeal"
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 7",
+      "relevancy": "100% - 93%",
+      "count": 7,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zmotel:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "WI",
+      "bill_number": "AB238",
+      "bill_id": 2028312,
+      "change_hash": "a1f82833a06f1c371b67db5011d9b2b3",
+      "url": "https://legiscan.com/WI/bill/AB238/2025",
+      "text_url": "https://legiscan.com/WI/text/AB238/2025",
+      "research_url": "https://legiscan.com/WI/research/AB238/2025",
+      "last_action_date": "2026-01-23",
+      "last_action": "Report correctly enrolled on 1-22-2026",
+      "title": "Prohibiting hotels, inns, and motels from discriminating against dog handlers who are accompanied by search and rescue dogs."
+    },
+    "1": {
+      "relevance": 99,
+      "state": "WI",
+      "bill_number": "SB239",
+      "bill_id": 2029907,
+      "change_hash": "90cb33cc6b9202e2e99b94988e57b5b0",
+      "url": "https://legiscan.com/WI/bill/SB239/2025",
+      "text_url": "https://legiscan.com/WI/text/SB239/2025",
+      "research_url": "https://legiscan.com/WI/research/SB239/2025",
+      "last_action_date": "2026-03-23",
+      "last_action": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "title": "Prohibiting hotels, inns, and motels from discriminating against dog handlers who are accompanied by search and rescue dogs."
+    },
+    "2": {
+      "relevance": 99,
+      "state": "WI",
+      "bill_number": "AB1009",
+      "bill_id": 2110851,
+      "change_hash": "ac35bfb8dd4b7af635ae2ee5f949d3d5",
+      "url": "https://legiscan.com/WI/bill/AB1009/2025",
+      "text_url": "https://legiscan.com/WI/text/AB1009/2025",
+      "research_url": "https://legiscan.com/WI/research/AB1009/2025",
+      "last_action_date": "2026-03-23",
+      "last_action": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "title": "Tourism promotion improvement districts. (FE)"
+    },
+    "3": {
+      "relevance": 99,
+      "state": "WI",
+      "bill_number": "SB998",
+      "bill_id": 2115560,
+      "change_hash": "9cdfdc86c1e235c8eabfe5d25a7ed619",
+      "url": "https://legiscan.com/WI/bill/SB998/2025",
+      "text_url": "https://legiscan.com/WI/text/SB998/2025",
+      "research_url": "https://legiscan.com/WI/research/SB998/2025",
+      "last_action_date": "2026-03-23",
+      "last_action": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "title": "Tourism promotion improvement districts. (FE)"
+    },
+    "4": {
+      "relevance": 93,
+      "state": "WI",
+      "bill_number": "AB824",
+      "bill_id": 2066329,
+      "change_hash": "c7c3afdb0892fa5d26e94a49bf0ce57c",
+      "url": "https://legiscan.com/WI/bill/AB824/2025",
+      "text_url": "https://legiscan.com/WI/text/AB824/2025",
+      "research_url": "https://legiscan.com/WI/research/AB824/2025",
+      "last_action_date": "2026-03-23",
+      "last_action": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "title": "Displaying a human trafficking resource center hotline poster. (FE)"
+    },
+    "5": {
+      "relevance": 93,
+      "state": "WI",
+      "bill_number": "SB614",
+      "bill_id": 2051751,
+      "change_hash": "5d7775cbb5c8b61d3b76e86ec371f7dc",
+      "url": "https://legiscan.com/WI/bill/SB614/2025",
+      "text_url": "https://legiscan.com/WI/text/SB614/2025",
+      "research_url": "https://legiscan.com/WI/research/SB614/2025",
+      "last_action_date": "2026-03-23",
+      "last_action": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "title": "Pay for performance grant requirements. (FE)"
+    },
+    "6": {
+      "relevance": 93,
+      "state": "WI",
+      "bill_number": "AB625",
+      "bill_id": 2051934,
+      "change_hash": "810502ce7fe80a59fb509449dc3a1ea7",
+      "url": "https://legiscan.com/WI/bill/AB625/2025",
+      "text_url": "https://legiscan.com/WI/text/AB625/2025",
+      "research_url": "https://legiscan.com/WI/research/AB625/2025",
+      "last_action_date": "2026-03-23",
+      "last_action": "Failed to concur in pursuant to Senate Joint Resolution 1",
+      "title": "Pay for performance grant requirements. (FE)"
+    }
+  }
+}

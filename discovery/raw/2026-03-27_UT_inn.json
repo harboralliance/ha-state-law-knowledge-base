@@ -1,0 +1,53 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 3",
+      "relevancy": "100% - 62%",
+      "count": 3,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zinn:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "UT",
+      "bill_number": "HB0470",
+      "bill_id": 2106408,
+      "change_hash": "a16960ef2f2d5fdf6a346dc82a472630",
+      "url": "https://legiscan.com/UT/bill/HB0470/2026",
+      "text_url": "https://legiscan.com/UT/text/HB0470/2026",
+      "research_url": "https://legiscan.com/UT/research/HB0470/2026",
+      "last_action_date": "2026-03-06",
+      "last_action": "House/ filed in House file for bills not passed",
+      "title": "Building Inspection Amendments"
+    },
+    "1": {
+      "relevance": 94,
+      "state": "UT",
+      "bill_number": "HB0002",
+      "bill_id": 2127361,
+      "change_hash": "5a28506eed86d566eab548caceda1bd9",
+      "url": "https://legiscan.com/UT/bill/HB0002/2026",
+      "text_url": "https://legiscan.com/UT/text/HB0002/2026",
+      "research_url": "https://legiscan.com/UT/research/HB0002/2026",
+      "last_action_date": "2026-03-16",
+      "last_action": "House/ to Governor in Executive Branch - Governor",
+      "title": "New Fiscal Year Supplemental Appropriations"
+    },
+    "2": {
+      "relevance": 62,
+      "state": "UT",
+      "bill_number": "HB0301",
+      "bill_id": 2087948,
+      "change_hash": "69957d208f72539e99ab3ca34fdaa01c",
+      "url": "https://legiscan.com/UT/bill/HB0301/2026",
+      "text_url": "https://legiscan.com/UT/text/HB0301/2026",
+      "research_url": "https://legiscan.com/UT/research/HB0301/2026",
+      "last_action_date": "2026-03-24",
+      "last_action": "Governor Signed in Lieutenant Governor's office for filing",
+      "title": "Drug Recodification"
+    }
+  }
+}

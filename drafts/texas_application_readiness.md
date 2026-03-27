@@ -1,46 +1,47 @@
 # Texas Application Readiness
 
-## Human Trafficking Training Requirements
+## Overview
+The Office of the Attorney General (OAG) in Texas has established requirements for human trafficking training for workers in commercial lodging establishments. This document outlines what the Harbor Alliance must prepare for Texas OAG application submission, including materials needed, standards to meet, and likely review risks/gaps.
 
-The Office of the Attorney General (OAG) in Texas requires human trafficking training for employees in commercial lodging establishments with 10 or more rooms. All lodging establishments in the state are required to provide annual training regardless of size.
+## Materials Needed
 
-### Materials Needed:
-- Harbor Alliance approved training videos.
-- Online or in-person training sessions facilitated by qualified trainers.
-
-### Standards to Meet:
-- Training must cover identifying and responding to human trafficking, including recognizing signs of trafficking, reporting suspected incidents, and understanding anti-trafficking signage requirements.
-- Employees must complete the annual training within one year of their hire date for new employees and annually thereafter.
-
-### Likely Review Risks/Gaps:
-1. **Training Coverage**:
-   - Ensure that all required topics are covered in the training videos and sessions.
+1. **Human Trafficking Training Video**: Employers are responsible for ensuring that their employees complete the required annual training. The Office of the Attorney General has approved several training videos that can be accessed online or in-person at certain organizations.
    
-2. **Employee Retention**:
-   - Verify that all relevant employees have completed the initial training within one year of their hire date.
-   
-3. **Annual Training Compliance**:
-   - Confirm that all employees complete annual training each subsequent year.
-   
-4. **Anti-Trafficking Signage**:
-   - Ensure that appropriate anti-trafficking signage is posted in locations where employees will see it.
+2. **Employee Rosters**: A detailed list of all employees at commercial lodging establishments with 10 or more rooms, and to employees at all lodging establishments in Texas regardless of size.
 
-5. **Employee Engagement**:
-   - Monitor employee participation and comprehension during the training sessions to ensure effective learning.
+3. **Training Completion Records**: Documentation verifying that each employee has completed the required annual training within the specified timeframe.
 
-6. **Documentation**:
-   - Maintain records of completed training sessions, including attendance sheets, completion certificates, and any additional documentation required by the OAG.
+4. **Anti-Trafficking Signage**: Employers must post anti-trafficking signage in a location where it will be visible to all employees.
 
-7. **Ongoing Compliance Monitoring**:
-   - Regularly review and update training materials to ensure they remain current and comprehensive.
-   
-8. **Risk Management**:
-   - Identify potential risks associated with human trafficking within the lodging establishment and develop strategies to mitigate these risks.
-   
-9. **Legal Compliance**:
-   - Stay updated on any changes or updates to Texas legislation related to human trafficking requirements.
-   
-10. **Compliance Audits**:
-    - Conduct periodic internal audits to verify compliance with OAG standards and address any gaps or deficiencies.
+## Standards to Meet
 
-By addressing these key areas, Harbor Alliance can ensure readiness for the Texas OAG application submission while meeting all necessary standards and mitigating potential risks.
+1. **Annual Training Requirement**:
+   - All employees of commercial lodging establishments with 10 or more rooms are required to complete the annual training.
+   - Employees at all lodging establishments in Texas regardless of size must also complete the training.
+
+2. **Training Content**:
+   - The training must cover topics related to identifying and responding to human trafficking, including recognizing signs of trafficking, reporting suspected incidents, and understanding the requirements for posting anti-trafficking signage.
+
+3. **Posting Anti-Trafficking Signage**:
+   - Employers must ensure that anti-trafficking signage is prominently displayed in a location where it will be visible to all employees.
+
+## Likely Review Risks/Gaps
+
+1. **Training Compliance**:
+   - Ensure that the training provided meets the requirements set by the Office of the Attorney General.
+   - Verify that all required training videos are accessed and completed by each employee.
+
+2. **Signage Placement**:
+   - Confirm that anti-trafficking signage is prominently displayed in a visible location for all employees.
+
+3. **Employee Records**:
+   - Maintain accurate records of employee rosters and training completion dates to ensure compliance with the annual training requirement.
+
+4. **Resource Availability**:
+   - Ensure that the necessary resources (e.g., training videos, signage) are available and accessible to employees.
+   - If in-person training is preferred, arrange for trainers or organizations offering in-person sessions.
+
+5. **Documentation**:
+   - Keep all documentation related to employee training and signage compliance for potential review by the Office of the Attorney General.
+
+By focusing on these materials, standards, and risks/gaps, the Harbor Alliance can ensure readiness for the Texas OAG application submission while meeting the requirements set by the state's anti-human trafficking legislation.

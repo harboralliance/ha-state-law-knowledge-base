@@ -1,0 +1,118 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 8",
+      "relevancy": "100% - 81%",
+      "count": 8,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zcommerci:(pos=1) AND Zlodg:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "LA",
+      "bill_number": "HB928",
+      "bill_id": 2127287,
+      "change_hash": "fbf171f47cc9f68fe9e88d7f8a953bc5",
+      "url": "https://legiscan.com/LA/bill/HB928/2026",
+      "text_url": "https://legiscan.com/LA/text/HB928/2026",
+      "research_url": "https://legiscan.com/LA/research/HB928/2026",
+      "last_action_date": "2026-03-09",
+      "last_action": "Read by title, under the rules, referred to the Committee on Commerce.",
+      "title": "Provides relative to commercial building codes"
+    },
+    "1": {
+      "relevance": 94,
+      "state": "LA",
+      "bill_number": "SB399",
+      "bill_id": 2127121,
+      "change_hash": "4b3d5c070f27b37fee31b54c468f7414",
+      "url": "https://legiscan.com/LA/bill/SB399/2026",
+      "text_url": "https://legiscan.com/LA/text/SB399/2026",
+      "research_url": "https://legiscan.com/LA/research/SB399/2026",
+      "last_action_date": "2026-03-25",
+      "last_action": "Reported with amendments.",
+      "title": "Creates the Louisiana Higher Education Research Security Council. (1/1/27) (OR INCREASE GF EX See Note)"
+    },
+    "2": {
+      "relevance": 94,
+      "state": "LA",
+      "bill_number": "HB211",
+      "bill_id": 2119877,
+      "change_hash": "e8f9833ebc78d876b7b01686f0e08cc9",
+      "url": "https://legiscan.com/LA/bill/HB211/2026",
+      "text_url": "https://legiscan.com/LA/text/HB211/2026",
+      "research_url": "https://legiscan.com/LA/research/HB211/2026",
+      "last_action_date": "2026-03-09",
+      "last_action": "Read by title, under the rules, referred to the Committee on Judiciary.",
+      "title": "Provides relative to the creation, administration, and eligibility requirements of the Homelessness Court program"
+    },
+    "3": {
+      "relevance": 92,
+      "state": "LA",
+      "bill_number": "HB784",
+      "bill_id": 2126438,
+      "change_hash": "7deb805e943f3f8a76af69bb14e230df",
+      "url": "https://legiscan.com/LA/bill/HB784/2026",
+      "text_url": "https://legiscan.com/LA/text/HB784/2026",
+      "research_url": "https://legiscan.com/LA/research/HB784/2026",
+      "last_action_date": "2026-03-25",
+      "last_action": "Received in the Senate. Rules suspended. Read first time by title and placed on the Calendar for a second reading.",
+      "title": "Provides relative to sex offender registration and notification requirements"
+    },
+    "4": {
+      "relevance": 88,
+      "state": "LA",
+      "bill_number": "HB969",
+      "bill_id": 2133612,
+      "change_hash": "347116097e6ae2edb4aa7c0a3ac7e7f9",
+      "url": "https://legiscan.com/LA/bill/HB969/2026",
+      "text_url": "https://legiscan.com/LA/text/HB969/2026",
+      "research_url": "https://legiscan.com/LA/research/HB969/2026",
+      "last_action_date": "2026-03-17",
+      "last_action": "Read by title, under the rules, referred to the Committee on Administration of Criminal Justice.",
+      "title": "Provides relative to compensation for victims of criminal offenses"
+    },
+    "5": {
+      "relevance": 87,
+      "state": "LA",
+      "bill_number": "HB899",
+      "bill_id": 2127053,
+      "change_hash": "633f682e13de27595c6959a6346affcb",
+      "url": "https://legiscan.com/LA/bill/HB899/2026",
+      "text_url": "https://legiscan.com/LA/text/HB899/2026",
+      "research_url": "https://legiscan.com/LA/research/HB899/2026",
+      "last_action_date": "2026-03-09",
+      "last_action": "Read by title, under the rules, referred to the Committee on Natural Resources and Environment.",
+      "title": "Provides with respect to land reclamation following non-coal mining (OR INCREASE GF EX See Note)"
+    },
+    "6": {
+      "relevance": 87,
+      "state": "LA",
+      "bill_number": "SB408",
+      "bill_id": 2135154,
+      "change_hash": "9ebd7ae26b185b1411a40d7759b20fd8",
+      "url": "https://legiscan.com/LA/bill/SB408/2026",
+      "text_url": "https://legiscan.com/LA/text/SB408/2026",
+      "research_url": "https://legiscan.com/LA/research/SB408/2026",
+      "last_action_date": "2026-03-18",
+      "last_action": "Read second time by title and referred to the Committee on Labor and Industrial Relations.",
+      "title": "Provides relative to the workers' compensation reimbursement schedule. (gov sig)"
+    },
+    "7": {
+      "relevance": 81,
+      "state": "LA",
+      "bill_number": "HB142",
+      "bill_id": 2116668,
+      "change_hash": "d623344357f7177786eead26a9e7209b",
+      "url": "https://legiscan.com/LA/bill/HB142/2026",
+      "text_url": "https://legiscan.com/LA/text/HB142/2026",
+      "research_url": "https://legiscan.com/LA/research/HB142/2026",
+      "last_action_date": "2026-03-26",
+      "last_action": "Read third time by title, amended, roll called on final passage, yeas 91, nays 0. Finally passed, title adopted, ordered to the Senate.",
+      "title": "Provides for the continuous revision of the Code of Civil Procedure"
+    }
+  }
+}

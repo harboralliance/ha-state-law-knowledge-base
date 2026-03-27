@@ -1,0 +1,118 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 8",
+      "relevancy": "100% - 69%",
+      "count": 8,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zlabor:(pos=1) AND Ztraffick:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "SC",
+      "bill_number": "H4784",
+      "bill_id": 2059817,
+      "change_hash": "a0d43a3157bbe90b457f9c07d0504033",
+      "url": "https://legiscan.com/SC/bill/H4784/2025",
+      "text_url": "https://legiscan.com/SC/text/H4784/2025",
+      "research_url": "https://legiscan.com/SC/research/H4784/2025",
+      "last_action_date": "2026-01-13",
+      "last_action": "Referred to Committee on Labor, Commerce and Industry",
+      "title": "Omnibus Insurance Fraud and Reporting Immunity Act revisions"
+    },
+    "1": {
+      "relevance": 97,
+      "state": "SC",
+      "bill_number": "S0021",
+      "bill_id": 1896063,
+      "change_hash": "1d34e6c700a8108f30ce6a1c70b78919",
+      "url": "https://legiscan.com/SC/bill/S0021/2025",
+      "text_url": "https://legiscan.com/SC/text/S0021/2025",
+      "research_url": "https://legiscan.com/SC/research/S0021/2025",
+      "last_action_date": "2025-01-14",
+      "last_action": "Referred to Committee on Judiciary",
+      "title": "Juvenile Life Without Parole"
+    },
+    "2": {
+      "relevance": 96,
+      "state": "SC",
+      "bill_number": "S0052",
+      "bill_id": 1896073,
+      "change_hash": "0ccf52a2f1a07ef260293e4473980e1b",
+      "url": "https://legiscan.com/SC/bill/S0052/2025",
+      "text_url": "https://legiscan.com/SC/text/S0052/2025",
+      "research_url": "https://legiscan.com/SC/research/S0052/2025",
+      "last_action_date": "2026-02-10",
+      "last_action": "Referred to Committee on Judiciary",
+      "title": "Driving under the influence"
+    },
+    "3": {
+      "relevance": 94,
+      "state": "SC",
+      "bill_number": "H4466",
+      "bill_id": 2027552,
+      "change_hash": "ef9f2845c58637d920d148f9f6743d27",
+      "url": "https://legiscan.com/SC/bill/H4466/2025",
+      "text_url": "https://legiscan.com/SC/text/H4466/2025",
+      "research_url": "https://legiscan.com/SC/research/H4466/2025",
+      "last_action_date": "2025-04-30",
+      "last_action": "Referred to Committee on Labor, Commerce and Industry",
+      "title": "Financial services and insurance, antidiscrimination"
+    },
+    "4": {
+      "relevance": 94,
+      "state": "SC",
+      "bill_number": "H4817",
+      "bill_id": 2059873,
+      "change_hash": "a31881ebe0f9309d1c81f228fbf66439",
+      "url": "https://legiscan.com/SC/bill/H4817/2025",
+      "text_url": "https://legiscan.com/SC/text/H4817/2025",
+      "research_url": "https://legiscan.com/SC/research/H4817/2025",
+      "last_action_date": "2026-03-24",
+      "last_action": "Requests for debate-Rep(s). Hiott, Brewer, Pace, Lawson, Caskey, Long, Martin, Edgerton, Taylor, Oremus, Hixon, Magnuson, Kirby, Cobb-Hunter, Anderson, Gilliard, Rivers",
+      "title": "Insurance Rate Reduction and Policy Holder Protection Act"
+    },
+    "5": {
+      "relevance": 87,
+      "state": "SC",
+      "bill_number": "H3567",
+      "bill_id": 1896571,
+      "change_hash": "33600e86024ef4c253a4bf7f673584ba",
+      "url": "https://legiscan.com/SC/bill/H3567/2025",
+      "text_url": "https://legiscan.com/SC/text/H3567/2025",
+      "research_url": "https://legiscan.com/SC/research/H3567/2025",
+      "last_action_date": "2025-01-14",
+      "last_action": "Referred to Committee on Labor, Commerce and Industry",
+      "title": "Safety software"
+    },
+    "6": {
+      "relevance": 75,
+      "state": "SC",
+      "bill_number": "H5210",
+      "bill_id": 2119079,
+      "change_hash": "684a27c95c324eb3b930d4073414949e",
+      "url": "https://legiscan.com/SC/bill/H5210/2025",
+      "text_url": "https://legiscan.com/SC/text/H5210/2025",
+      "research_url": "https://legiscan.com/SC/research/H5210/2025",
+      "last_action_date": "2026-02-18",
+      "last_action": "Referred to Committee on Labor, Commerce and Industry",
+      "title": "Interstate Massage Compact"
+    },
+    "7": {
+      "relevance": 69,
+      "state": "SC",
+      "bill_number": "H3431",
+      "bill_id": 1895182,
+      "change_hash": "40319026e9c2ceb7558f57af121ffeb0",
+      "url": "https://legiscan.com/SC/bill/H3431/2025",
+      "text_url": "https://legiscan.com/SC/text/H3431/2025",
+      "research_url": "https://legiscan.com/SC/research/H3431/2025",
+      "last_action_date": "2026-02-06",
+      "last_action": "Act No. 96",
+      "title": "South Carolina Social Media Regulation Act"
+    }
+  }
+}

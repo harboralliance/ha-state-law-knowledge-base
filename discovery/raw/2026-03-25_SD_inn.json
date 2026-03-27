@@ -1,0 +1,27 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 1",
+      "relevancy": "100% - 100%",
+      "count": 1,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zinn:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "SD",
+      "bill_number": "SC829",
+      "bill_id": 2128925,
+      "change_hash": "97e36c3ba372616843937522e580078d",
+      "url": "https://legiscan.com/SD/bill/SC829/2026",
+      "text_url": "https://legiscan.com/SD/text/SC829/2026",
+      "research_url": "https://legiscan.com/SD/research/SC829/2026",
+      "last_action_date": "2026-03-04",
+      "last_action": " S.J. 471",
+      "title": "Recognizing ten years of the Wall Economic Development Corporation."
+    }
+  }
+}

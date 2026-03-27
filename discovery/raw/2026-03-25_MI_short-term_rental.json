@@ -1,0 +1,105 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 7",
+      "relevancy": "100% - 57%",
+      "count": 7,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(((short:(pos=1) PHRASE 2 term:(pos=2)) AND Zrental:(pos=3)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "MI",
+      "bill_number": "SB0649",
+      "bill_id": 2051218,
+      "change_hash": "41e6111be9f3f6e6ce506c01260827b6",
+      "url": "https://legiscan.com/MI/bill/SB0649/2025",
+      "text_url": "https://legiscan.com/MI/text/SB0649/2025",
+      "research_url": "https://legiscan.com/MI/research/SB0649/2025",
+      "last_action_date": "2025-10-30",
+      "last_action": "Referred To Committee On Government Operations",
+      "title": "Economic development: other; state convention facility development act; amend to reflect elimination of the Michigan strategic fund. Amends sec. 10 of 1985 PA 106 (MCL 207.630). TIE BAR WITH: SB 0631'25"
+    },
+    "1": {
+      "relevance": 99,
+      "state": "MI",
+      "bill_number": "HB5099",
+      "bill_id": 2047038,
+      "change_hash": "0ab8aec712c23631ec112e4e47120834",
+      "url": "https://legiscan.com/MI/bill/HB5099/2025",
+      "text_url": "https://legiscan.com/MI/text/HB5099/2025",
+      "research_url": "https://legiscan.com/MI/research/HB5099/2025",
+      "last_action_date": "2025-10-22",
+      "last_action": "Bill Electronically Reproduced 10/21/2025",
+      "title": "Taxation: convention tourism assessments; distribution of money in the convention facility development fund; modify. Amends secs. 10 & 20 of 1985 PA 106 (MCL 207.630 & 207.640)."
+    },
+    "2": {
+      "relevance": 84,
+      "state": "MI",
+      "bill_number": "SB0179",
+      "bill_id": 2009903,
+      "change_hash": "1deb72a2a8cbc22c2598f3423af612a1",
+      "url": "https://legiscan.com/MI/bill/SB0179/2025",
+      "text_url": "https://legiscan.com/MI/text/SB0179/2025",
+      "research_url": "https://legiscan.com/MI/research/SB0179/2025",
+      "last_action_date": "2025-05-13",
+      "last_action": "Referred To Committee On Appropriations",
+      "title": "Appropriations: department of labor and economic opportunity; appropriations for fiscal year 2025-2026; provide for. Creates appropriation act."
+    },
+    "3": {
+      "relevance": 78,
+      "state": "MI",
+      "bill_number": "SB0175",
+      "bill_id": 2009805,
+      "change_hash": "5311433ccf8476f2a58224d375c3dbd6",
+      "url": "https://legiscan.com/MI/bill/SB0175/2025",
+      "text_url": "https://legiscan.com/MI/text/SB0175/2025",
+      "research_url": "https://legiscan.com/MI/research/SB0175/2025",
+      "last_action_date": "2025-05-13",
+      "last_action": "Referred To Committee On Appropriations",
+      "title": "Appropriations: department of military and veterans affairs; appropriations for fiscal year 2025-2026; provide for. Creates appropriation act."
+    },
+    "4": {
+      "relevance": 71,
+      "state": "MI",
+      "bill_number": "HB4161",
+      "bill_id": 1985943,
+      "change_hash": "2ab825f48ca4fd9c092d7e71d70f7567",
+      "url": "https://legiscan.com/MI/bill/HB4161/2025",
+      "text_url": "https://legiscan.com/MI/text/HB4161/2025",
+      "research_url": "https://legiscan.com/MI/research/HB4161/2025",
+      "last_action_date": "2025-10-01",
+      "last_action": "Assigned Pa 14'25 With Immediate Effect",
+      "title": "Appropriations: omnibus; appropriations for multiple departments and branches for October 1 to 8, 2025; provide for. Creates appropriation act."
+    },
+    "5": {
+      "relevance": 65,
+      "state": "MI",
+      "bill_number": "SB0176",
+      "bill_id": 2009813,
+      "change_hash": "8bbef6d06307377b163b93872165a49c",
+      "url": "https://legiscan.com/MI/bill/SB0176/2025",
+      "text_url": "https://legiscan.com/MI/text/SB0176/2025",
+      "research_url": "https://legiscan.com/MI/research/SB0176/2025",
+      "last_action_date": "2025-05-14",
+      "last_action": "Referred To Committee On Appropriations",
+      "title": "Appropriations: department of state police; appropriations for fiscal year 2025-2026; provide for. Creates appropriation act."
+    },
+    "6": {
+      "relevance": 57,
+      "state": "MI",
+      "bill_number": "HB4706",
+      "bill_id": 2038856,
+      "change_hash": "301c9ea7c5b6141dbb962521d025e01a",
+      "url": "https://legiscan.com/MI/bill/HB4706/2025",
+      "text_url": "https://legiscan.com/MI/text/HB4706/2025",
+      "research_url": "https://legiscan.com/MI/research/HB4706/2025",
+      "last_action_date": "2025-10-08",
+      "last_action": "Assigned Pa 22'25 With Immediate Effect",
+      "title": "Appropriations: omnibus; appropriations for multiple departments and branches for the fiscal year 2025-2026 and supplemental appropriations for fiscal year 2024-2025; provide for. Creates appropriation act."
+    }
+  }
+}

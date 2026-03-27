@@ -1,0 +1,27 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 1",
+      "relevancy": "100% - 100%",
+      "count": 1,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zinn:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "MI",
+      "bill_number": "SB0481",
+      "bill_id": 2039710,
+      "change_hash": "68277f089e4dd150a1d718674a111a56",
+      "url": "https://legiscan.com/MI/bill/SB0481/2025",
+      "text_url": "https://legiscan.com/MI/text/SB0481/2025",
+      "research_url": "https://legiscan.com/MI/research/SB0481/2025",
+      "last_action_date": "2025-07-17",
+      "last_action": "Referred To Committee On Housing And Human Services",
+      "title": "Housing: public accommodations; information with human trafficking hotline; require hotels and motels to post. Amends secs. 2 & 3 of 2016 PA 62 (MCL 752.1032 & 752.1033)."
+    }
+  }
+}

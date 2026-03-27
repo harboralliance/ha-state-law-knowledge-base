@@ -1,0 +1,92 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 6",
+      "relevancy": "100% - 54%",
+      "count": 6,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zinn:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "NC",
+      "bill_number": "S291",
+      "bill_id": 2006510,
+      "change_hash": "168f7b1f17e09e1a2b2c9b12790a4f3f",
+      "url": "https://legiscan.com/NC/bill/S291/2025",
+      "text_url": "https://legiscan.com/NC/text/S291/2025",
+      "research_url": "https://legiscan.com/NC/research/S291/2025",
+      "last_action_date": "2025-03-17",
+      "last_action": "Ref To Com On Rules and Operations of the Senate",
+      "title": "Regulation of Short-Term Rentals"
+    },
+    "1": {
+      "relevance": 97,
+      "state": "NC",
+      "bill_number": "H332",
+      "bill_id": 1993811,
+      "change_hash": "952c6a624ff06b7d7e13dda9b316e2f7",
+      "url": "https://legiscan.com/NC/bill/H332/2025",
+      "text_url": "https://legiscan.com/NC/text/H332/2025",
+      "research_url": "https://legiscan.com/NC/research/H332/2025",
+      "last_action_date": "2025-06-11",
+      "last_action": "Ref To Com On Rules and Operations of the Senate",
+      "title": "Nash/Rocky Mount District Occupancy Tax"
+    },
+    "2": {
+      "relevance": 89,
+      "state": "NC",
+      "bill_number": "H169",
+      "bill_id": 1979004,
+      "change_hash": "44c629a9c1f9e552c0a6141e6a1a2d44",
+      "url": "https://legiscan.com/NC/bill/H169/2025",
+      "text_url": "https://legiscan.com/NC/text/H169/2025",
+      "research_url": "https://legiscan.com/NC/research/H169/2025",
+      "last_action_date": "2025-06-11",
+      "last_action": "Ref To Com On Rules and Operations of the Senate",
+      "title": "Haywood County Occupancy Tax Mods"
+    },
+    "3": {
+      "relevance": 88,
+      "state": "NC",
+      "bill_number": "S79",
+      "bill_id": 1965382,
+      "change_hash": "313d5d07b5ec3d86621a377197cd92f5",
+      "url": "https://legiscan.com/NC/bill/S79/2025",
+      "text_url": "https://legiscan.com/NC/text/S79/2025",
+      "research_url": "https://legiscan.com/NC/research/S79/2025",
+      "last_action_date": "2025-06-24",
+      "last_action": "Re-ref Com On State and Local Government",
+      "title": "Boiling Springs Charter Revisions"
+    },
+    "4": {
+      "relevance": 84,
+      "state": "NC",
+      "bill_number": "H183",
+      "bill_id": 1980987,
+      "change_hash": "f5a6f2da986ad59d68423e3af3e08dff",
+      "url": "https://legiscan.com/NC/bill/H183/2025",
+      "text_url": "https://legiscan.com/NC/text/H183/2025",
+      "research_url": "https://legiscan.com/NC/research/H183/2025",
+      "last_action_date": "2025-06-26",
+      "last_action": "Ch. SL 2025-15",
+      "title": "Various Local Provisions II"
+    },
+    "5": {
+      "relevance": 54,
+      "state": "NC",
+      "bill_number": "H926",
+      "bill_id": 2022552,
+      "change_hash": "e39f49235641469c741c0303877efb73",
+      "url": "https://legiscan.com/NC/bill/H926/2025",
+      "text_url": "https://legiscan.com/NC/text/H926/2025",
+      "research_url": "https://legiscan.com/NC/research/H926/2025",
+      "last_action_date": "2025-10-06",
+      "last_action": "Ch. SL 2025-94",
+      "title": "Regulatory Reform Act of 2025"
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 8",
+      "relevancy": "100% - 84%",
+      "count": 8,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(((short:(pos=1) PHRASE 2 term:(pos=2)) AND Zrental:(pos=3)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "CO",
+      "bill_number": "HB1036",
+      "bill_id": 2080025,
+      "change_hash": "6687551e8e7524902af3f9ac2d3362b7",
+      "url": "https://legiscan.com/CO/bill/HB1036/2026",
+      "text_url": "https://legiscan.com/CO/text/HB1036/2026",
+      "research_url": "https://legiscan.com/CO/research/HB1036/2026",
+      "last_action_date": "2026-02-09",
+      "last_action": "House Committee on Finance Postpone Indefinitely",
+      "title": "Local Taxes on Vacant Residential Property"
+    },
+    "1": {
+      "relevance": 98,
+      "state": "CO",
+      "bill_number": "HB1001",
+      "bill_id": 2079678,
+      "change_hash": "313ad6134281d7ae700974fa12f1929a",
+      "url": "https://legiscan.com/CO/bill/HB1001/2026",
+      "text_url": "https://legiscan.com/CO/text/HB1001/2026",
+      "research_url": "https://legiscan.com/CO/research/HB1001/2026",
+      "last_action_date": "2026-03-24",
+      "last_action": "Sent to the Governor",
+      "title": "Housing Developments on Qualifying Properties"
+    },
+    "2": {
+      "relevance": 97,
+      "state": "CO",
+      "bill_number": "HB1154",
+      "bill_id": 2111369,
+      "change_hash": "6b557c464cf2a00723fc1eaa02acff30",
+      "url": "https://legiscan.com/CO/bill/HB1154/2026",
+      "text_url": "https://legiscan.com/CO/text/HB1154/2026",
+      "research_url": "https://legiscan.com/CO/research/HB1154/2026",
+      "last_action_date": "2026-03-12",
+      "last_action": "Governor Signed",
+      "title": "Department of Governor, Lt. Governor, and Office of State Planning &amp; Budgeting Supplemental"
+    },
+    "3": {
+      "relevance": 97,
+      "state": "CO",
+      "bill_number": "HB1161",
+      "bill_id": 2111410,
+      "change_hash": "ace75fca1e4ccc9b795a36e00911b2dc",
+      "url": "https://legiscan.com/CO/bill/HB1161/2026",
+      "text_url": "https://legiscan.com/CO/text/HB1161/2026",
+      "research_url": "https://legiscan.com/CO/research/HB1161/2026",
+      "last_action_date": "2026-03-12",
+      "last_action": "Governor Signed",
+      "title": "Department of Local Affairs Supplemental"
+    },
+    "4": {
+      "relevance": 95,
+      "state": "CO",
+      "bill_number": "HB1308",
+      "bill_id": 2127755,
+      "change_hash": "d7c8390ed758800a67d7d5f44fe69d5b",
+      "url": "https://legiscan.com/CO/bill/HB1308/2026",
+      "text_url": "https://legiscan.com/CO/text/HB1308/2026",
+      "research_url": "https://legiscan.com/CO/research/HB1308/2026",
+      "last_action_date": "2026-03-23",
+      "last_action": "House Second Reading Passed with Amendments - Committee, Floor",
+      "title": "Lot Splitting Approval by Subject Jurisdictions"
+    },
+    "5": {
+      "relevance": 95,
+      "state": "CO",
+      "bill_number": "HB1164",
+      "bill_id": 2111261,
+      "change_hash": "7b8ce18a892594d474d827961f93879f",
+      "url": "https://legiscan.com/CO/bill/HB1164/2026",
+      "text_url": "https://legiscan.com/CO/text/HB1164/2026",
+      "research_url": "https://legiscan.com/CO/research/HB1164/2026",
+      "last_action_date": "2026-03-12",
+      "last_action": "Governor Signed",
+      "title": "Department of Personnel Supplemental"
+    },
+    "6": {
+      "relevance": 88,
+      "state": "CO",
+      "bill_number": "HB1119",
+      "bill_id": 2108122,
+      "change_hash": "8183c8eb5a2875c27d863badc97edd58",
+      "url": "https://legiscan.com/CO/bill/HB1119/2026",
+      "text_url": "https://legiscan.com/CO/text/HB1119/2026",
+      "research_url": "https://legiscan.com/CO/research/HB1119/2026",
+      "last_action_date": "2026-02-04",
+      "last_action": "Introduced In House - Assigned to Finance",
+      "title": "Authority for Different Mill Levy Rates"
+    },
+    "7": {
+      "relevance": 84,
+      "state": "CO",
+      "bill_number": "HB1157",
+      "bill_id": 2111318,
+      "change_hash": "87809bac1caaa77050886561cf096d6b",
+      "url": "https://legiscan.com/CO/bill/HB1157/2026",
+      "text_url": "https://legiscan.com/CO/text/HB1157/2026",
+      "research_url": "https://legiscan.com/CO/research/HB1157/2026",
+      "last_action_date": "2026-03-12",
+      "last_action": "Governor Signed",
+      "title": "Department of Human Services Supplemental"
+    }
+  }
+}
