@@ -1,0 +1,40 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 2",
+      "relevancy": "100% - 95%",
+      "count": 2,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zlabor:(pos=1) AND Ztraffick:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "AK",
+      "bill_number": "HB118",
+      "bill_id": 1984774,
+      "change_hash": "e977d338d580366e20b74d0b45b54507",
+      "url": "https://legiscan.com/AK/bill/HB118/2025",
+      "text_url": "https://legiscan.com/AK/text/HB118/2025",
+      "research_url": "https://legiscan.com/AK/research/HB118/2025",
+      "last_action_date": "2025-04-02",
+      "last_action": "REFERRED TO FINANCE",
+      "title": "Council On Human And Sex Trafficking"
+    },
+    "1": {
+      "relevance": 95,
+      "state": "AK",
+      "bill_number": "HB97",
+      "bill_id": 1967018,
+      "change_hash": "b4d22ec4ba1f1d1d0c5fcf0d4e6d2562",
+      "url": "https://legiscan.com/AK/bill/HB97/2025",
+      "text_url": "https://legiscan.com/AK/text/HB97/2025",
+      "research_url": "https://legiscan.com/AK/research/HB97/2025",
+      "last_action_date": "2025-05-02",
+      "last_action": "REFERRED TO FINANCE",
+      "title": "Org. Retail Theft/fund;mktplace Sales Tax"
+    }
+  }
+}

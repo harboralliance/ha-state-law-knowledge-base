@@ -2,50 +2,55 @@
   "state": "Connecticut",
   "state_code": "CT",
   "industry": "commercial lodging",
-  "source_file": "2026-03-27_Connecticut_lodging_compliance.md",
+  "source_file": "2026-03-30_Connecticut_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
   "training_frequency": "annual",
-  "new_hire_deadline_days": 180,
-  "new_hire_deadline_text": "within six months of hire",
-  "signage_required": false,
+  "new_hire_deadline_days": null,
+  "new_hire_deadline_text": null,
+  "signage_required": true,
   "provider_approval_required": false,
   "provider_approval_type": null,
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "Department of Children and Families (DCF)",
-    "state attorneys",
-    "local law enforcement"
+    "Connecticut Department of Children and Families (DCF)",
+    "Office of Victim Services"
   ],
   "applicable_to": [
-    "DCF staff",
-    "foster parents",
-    "service providers",
-    "schools",
-    "law enforcement",
-    "hospital and medical staff",
-    "hospitals",
-    "motels",
-    "emergency medical services"
+    "hotels, motels, inns, and similar lodging"
   ],
-  "required_topics": [],
+  "required_topics": [
+    "human trafficking",
+    "trafficking training and awareness campaigns"
+  ],
   "reporting_contacts_required": [
-    "state attorneys",
-    "local law enforcement"
+    "Connecticut Department of Children and Families (DCF)"
   ],
   "signage_details": {
-    "languages_required": [],
+    "languages_required": null,
     "minimum_size": null,
     "font_size": null,
     "posting_location": null,
-    "required_content": []
+    "required_content": [
+      "trafficking training and awareness campaigns"
+    ]
   },
-  "recordkeeping_requirements": [],
+  "recordkeeping_requirements": [
+    "guest transactions and receipts for at least 6 months"
+  ],
   "certificate_requirements": [],
   "law_references": [
-    "Human and Sex Trafficking Legislation",
-    "Public Act 16-71"
+    {
+      "statute_name": "Public Act 17-32",
+      "code_section": null,
+      "public_act_url": "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/human-and-sex-trafficking-legislation"
+    },
+    {
+      "statute_name": "Public Act 15-195",
+      "code_section": null,
+      "public_act_url": "NEEDS REVIEW"
+    }
   ],
   "source_urls": [
     "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/trainings-for-providers",
@@ -54,9 +59,12 @@
   "harbor_alliance_posture": null,
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "need for consistent enforcement",
-    "potential for improvement in public awareness"
+    "state-controlled training requirement",
+    "data reporting requirement"
   ],
   "notes": [],
-  "needs_review": []
+  "needs_review": [
+    "Public Act 15-195 URL",
+    "Harbor Alliance posture and actions"
+  ]
 }

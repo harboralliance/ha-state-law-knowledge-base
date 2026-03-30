@@ -1,0 +1,27 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 1",
+      "relevancy": "100% - 100%",
+      "count": 1,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zsex:(pos=1) AND Ztraffick:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "NH",
+      "bill_number": "HR47",
+      "bill_id": 2056225,
+      "change_hash": "6c52fbe10e8b0f598aaaef8bfca05705",
+      "url": "https://legiscan.com/NH/bill/HR47/2026",
+      "text_url": "https://legiscan.com/NH/text/HR47/2026",
+      "research_url": "https://legiscan.com/NH/research/HR47/2026",
+      "last_action_date": "2026-02-05",
+      "last_action": "Inexpedient to Legislate: Motion Adopted Voice Vote 02/05/2026 House Journal  3",
+      "title": "Urging the release of all federal documents relating to Jeffrey Epstein."
+    }
+  }
+}

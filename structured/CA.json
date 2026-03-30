@@ -2,13 +2,13 @@
   "state": "California",
   "state_code": "CA",
   "industry": "commercial lodging",
-  "source_file": "2026-03-27_California_lodging_compliance.md",
+  "source_file": "2026-03-30_California_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": 20,
   "training_frequency": null,
   "new_hire_deadline_days": 180,
-  "new_hire_deadline_text": null,
-  "signage_required": true,
+  "new_hire_deadline_text": "within six months of employment",
+  "signage_required": false,
   "provider_approval_required": false,
   "provider_approval_type": null,
   "approval_authority": null,
@@ -17,46 +17,41 @@
     "California Attorney General's Office"
   ],
   "applicable_to": [
-    "hotel and motel employers"
+    "employees likely to interact with victims of human trafficking"
   ],
-  "required_topics": [
-    "human trafficking awareness"
+  "required_topics": [],
+  "reporting_contacts_required": [
+    "National Human Trafficking Resource Center (1-888-373-7888)"
   ],
-  "reporting_contacts_required": [],
   "signage_details": {
     "languages_required": [
       "English",
-      "Spanish",
-      "Third language (if applicable)"
+      "Spanish"
     ],
     "minimum_size": null,
     "font_size": null,
     "posting_location": null,
-    "required_content": [
-      "hotline numbers for human trafficking"
-    ]
+    "required_content": []
   },
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    {
-      "statute_name": "SB 970",
-      "code_section": "",
-      "public_act": ""
-    }
+    "SB 970",
+    "Human Trafficking FAQs (California Coalition to Abolish Slavery and Trafficking)",
+    "Model Notice for Posting (Office of the Attorney General)"
   ],
   "source_urls": [
-    "external site",
-    "SOURCE 2",
-    "Model Notice for Human Trafficking | State of California"
+    "NEEDS REVIEW"
   ],
-  "harbor_alliance_posture": null,
+  "harbor_alliance_posture": "needs-review",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "penalties under California law for non-compliance"
+    "Non-compliance with training requirements can result in legal action.",
+    "Posting requirements may vary based on county-specific federal Voting Rights Act provisions."
   ],
   "notes": [
-    "Training must be completed within six months of employment for new hires, or before January 1, 2020, for existing employees."
+    "Training must be completed by January 1, 2020.",
+    "New employees require training within six months of employment."
   ],
   "needs_review": []
 }

@@ -1,0 +1,9 @@
+The legislation in question, Act 101-18, requires lodging establishments, restaurants, and truck stops in Illinois to provide their employees with training in human trafficking recognition and reporting. The training must be completed within six months of the employee's start date for that role and every two years thereafter if they are still employed by the employer.
+
+The definition of human trafficking includes deprivation or violation of personal liberty of another with the intent to obtain forced labor or services, procure or sell an individual for commercial sex, or exploit an individual in obscene matter. It also provides guidance on how to identify individuals who may be at risk for human trafficking and outlines the differences between labor and sexual exploitation in the context of lodging establishments, restaurants, and truck stops.
+
+The Department of Human Services is tasked with developing a curriculum for an approved human trafficking training recognition program which shall be used by lodging establishments, restaurants, or truck stops that do not administer their own human trafficking recognition program. This curriculum should cover all the essential elements as outlined in Section 95/15(a). The Department may consult the United States Department of Justice for this purpose.
+
+The legislation also includes penalties for non-compliance with this Act. A unit of local government regulating an employer or a law enforcement agency with jurisdiction over an employer can monitor and enforce compliance with this Act. If a violation is discovered, the entity shall provide reasonable notice to the employer that if it does not cure the violation within 30 days after notice, the employer will be subject to a civil penalty of up to $1,500 for each offense.
+
+The bill also includes an effective date provision stating that this Act takes effect on January 1, 2026.

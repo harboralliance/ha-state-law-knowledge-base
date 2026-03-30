@@ -1,0 +1,131 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 9",
+      "relevancy": "100% - 84%",
+      "count": 9,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zsignag:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "CO",
+      "bill_number": "HB1130",
+      "bill_id": 2108430,
+      "change_hash": "ebfc0d474514c3d0614d54b08f386417",
+      "url": "https://legiscan.com/CO/bill/HB1130/2026",
+      "text_url": "https://legiscan.com/CO/text/HB1130/2026",
+      "research_url": "https://legiscan.com/CO/research/HB1130/2026",
+      "last_action_date": "2026-03-20",
+      "last_action": "House Third Reading Re-referred to House Committee of the Whole - No Amendments",
+      "title": "Public Restroom Baby Diaper Changing Station"
+    },
+    "1": {
+      "relevance": 99,
+      "state": "CO",
+      "bill_number": "SB035",
+      "bill_id": 2094053,
+      "change_hash": "6b6bc445ca4782e7917e5ff14ead853d",
+      "url": "https://legiscan.com/CO/bill/SB035/2026",
+      "text_url": "https://legiscan.com/CO/text/SB035/2026",
+      "research_url": "https://legiscan.com/CO/research/SB035/2026",
+      "last_action_date": "2026-03-13",
+      "last_action": "Senate Committee on Appropriations Refer Amended to Senate Committee of the Whole",
+      "title": "Increase of Traffic Violation Penalties"
+    },
+    "2": {
+      "relevance": 99,
+      "state": "CO",
+      "bill_number": "HJR1018",
+      "bill_id": 2123335,
+      "change_hash": "15f0cfe0c130c89bed9dc0811af31ba0",
+      "url": "https://legiscan.com/CO/bill/HJR1018/2026",
+      "text_url": "https://legiscan.com/CO/text/HJR1018/2026",
+      "research_url": "https://legiscan.com/CO/research/HJR1018/2026",
+      "last_action_date": "2026-03-03",
+      "last_action": "Signed by the President of the Senate",
+      "title": "Plains-to-Pines Scenic Corridor"
+    },
+    "3": {
+      "relevance": 98,
+      "state": "CO",
+      "bill_number": "HB1269",
+      "bill_id": 2120988,
+      "change_hash": "3e8e2c040fed3b00311b9ce49943830a",
+      "url": "https://legiscan.com/CO/bill/HB1269/2026",
+      "text_url": "https://legiscan.com/CO/text/HB1269/2026",
+      "research_url": "https://legiscan.com/CO/research/HB1269/2026",
+      "last_action_date": "2026-03-25",
+      "last_action": "House Third Reading Passed - No Amendments",
+      "title": "Transit Access"
+    },
+    "4": {
+      "relevance": 96,
+      "state": "CO",
+      "bill_number": "SB003",
+      "bill_id": 2079717,
+      "change_hash": "0ae01762835ff6de94aa700f67b290a1",
+      "url": "https://legiscan.com/CO/bill/SB003/2026",
+      "text_url": "https://legiscan.com/CO/text/SB003/2026",
+      "research_url": "https://legiscan.com/CO/research/SB003/2026",
+      "last_action_date": "2026-02-25",
+      "last_action": "Senate Committee on Transportation & Energy Refer Amended to Appropriations",
+      "title": "End-of-Life Management of Electric Vehicle Batteries"
+    },
+    "5": {
+      "relevance": 96,
+      "state": "CO",
+      "bill_number": "SB128",
+      "bill_id": 2124399,
+      "change_hash": "329d2cee69488681220f3b94b9387be1",
+      "url": "https://legiscan.com/CO/bill/SB128/2026",
+      "text_url": "https://legiscan.com/CO/text/SB128/2026",
+      "research_url": "https://legiscan.com/CO/research/SB128/2026",
+      "last_action_date": "2026-03-25",
+      "last_action": "Introduced In House - Assigned to Finance",
+      "title": "Sales &amp; Use Tax Destination Management Company"
+    },
+    "6": {
+      "relevance": 87,
+      "state": "CO",
+      "bill_number": "HB1132",
+      "bill_id": 2108185,
+      "change_hash": "66778c7fe049d764dc395c509f37bd8a",
+      "url": "https://legiscan.com/CO/bill/HB1132/2026",
+      "text_url": "https://legiscan.com/CO/text/HB1132/2026",
+      "research_url": "https://legiscan.com/CO/research/HB1132/2026",
+      "last_action_date": "2026-03-26",
+      "last_action": "House Committee on Finance Refer Amended to Appropriations",
+      "title": "Practices to Support Pollinators"
+    },
+    "7": {
+      "relevance": 85,
+      "state": "CO",
+      "bill_number": "HB1065",
+      "bill_id": 2089045,
+      "change_hash": "1fb3f873476634f087a0d686b4096c69",
+      "url": "https://legiscan.com/CO/bill/HB1065/2026",
+      "text_url": "https://legiscan.com/CO/text/HB1065/2026",
+      "research_url": "https://legiscan.com/CO/research/HB1065/2026",
+      "last_action_date": "2026-02-23",
+      "last_action": "House Committee on Finance Refer Amended to Appropriations",
+      "title": "Transit and Housing Investment Zones"
+    },
+    "8": {
+      "relevance": 84,
+      "state": "CO",
+      "bill_number": "SB141",
+      "bill_id": 2134185,
+      "change_hash": "9d75e74552b9c1f362bfd9a5d8758502",
+      "url": "https://legiscan.com/CO/bill/SB141/2026",
+      "text_url": "https://legiscan.com/CO/text/SB141/2026",
+      "research_url": "https://legiscan.com/CO/research/SB141/2026",
+      "last_action_date": "2026-03-25",
+      "last_action": "Senate Committee on Transportation & Energy Refer Amended to Finance",
+      "title": "Wildlife Collision Prevention"
+    }
+  }
+}

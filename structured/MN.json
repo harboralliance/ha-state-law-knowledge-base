@@ -2,30 +2,28 @@
   "state": "Minnesota",
   "state_code": "MN",
   "industry": "commercial lodging",
-  "source_file": "2026-03-27_Minnesota_lodging_compliance.md",
+  "source_file": "2026-03-30_Minnesota_lodging_compliance.md",
   "training_required": true,
-  "training_duration_minutes": 45,
+  "training_duration_minutes": null,
   "training_frequency": "annually",
   "new_hire_deadline_days": 90,
-  "new_hire_deadline_text": null,
+  "new_hire_deadline_text": "within 90 days of hire",
   "signage_required": true,
   "provider_approval_required": false,
   "provider_approval_type": null,
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "Minnesota Department of Health (MDH)"
+    "Minnesota Department of Health"
   ],
   "applicable_to": [
-    "owners",
-    "managers",
-    "on-site employees"
+    "hotel, motel, and short-term rental staff",
+    "owners, managers, and on-site employees"
   ],
   "required_topics": [
-    "signs and indicators of sex trafficking",
-    "how to respond if they suspect or identify a victim",
-    "legal obligations and resources for reporting suspicious activities",
-    "importance of ongoing awareness campaigns for all employees"
+    "identifying indicators of sex trafficking",
+    "understanding the legal requirements",
+    "knowing how to respond if trafficking is suspected or observed"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
@@ -37,27 +35,30 @@
     ],
     "minimum_size": null,
     "font_size": null,
-    "posting_location": "in a location where all staff can see it",
+    "posting_location": "back-of-house",
     "required_content": [
-      "back of house poster set"
+      "training information",
+      "contact details for questions or assistance"
     ]
   },
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    "Minnesota Statute \u00a7 260C.01"
+    "Minnesota Statutes \u00a7609.51"
   ],
   "source_urls": [
-    "https://www.health.state.mn.us/divs/ehltd/trafficking/prevention/training/index.html"
+    "https://www.health.state.mn.us/divs/food-safety/lodging-travel/hotel-motel-lodging"
   ],
-  "harbor_alliance_posture": "immediate-entry",
+  "harbor_alliance_posture": "needs-review",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    {
-      "risk": "Non-compliance with the training requirements could lead to legal consequences and negative publicity.",
-      "constraint": "Training must be completed within a specific time frame and annually, which may require additional resources for hotels."
-    }
+    "exceptions for certain employees",
+    "additional costs for printing posters"
   ],
-  "notes": [],
+  "notes": [
+    "The training is available in multiple languages.",
+    "MDH provides the training through their Learning Center.",
+    "Employees can access the training in their preferred language."
+  ],
   "needs_review": []
 }

@@ -1,0 +1,79 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 5",
+      "relevancy": "100% - 95%",
+      "count": 5,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zhotlin:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "OR",
+      "bill_number": "HB4070",
+      "bill_id": 2101624,
+      "change_hash": "f4e5fa3702d9f87c3f66751e04ef15cd",
+      "url": "https://legiscan.com/OR/bill/HB4070/2026",
+      "text_url": "https://legiscan.com/OR/text/HB4070/2026",
+      "research_url": "https://legiscan.com/OR/research/HB4070/2026",
+      "last_action_date": "2026-03-06",
+      "last_action": "President signed.",
+      "title": "Relating to health care; and prescribing an effective date."
+    },
+    "1": {
+      "relevance": 98,
+      "state": "OR",
+      "bill_number": "SB1546",
+      "bill_id": 2101544,
+      "change_hash": "bab386f4c5a3e934e4a8f738b0cac874",
+      "url": "https://legiscan.com/OR/bill/SB1546/2026",
+      "text_url": "https://legiscan.com/OR/text/SB1546/2026",
+      "research_url": "https://legiscan.com/OR/research/SB1546/2026",
+      "last_action_date": "2026-03-06",
+      "last_action": "Speaker signed.",
+      "title": "Relating to artificial intelligence companions."
+    },
+    "2": {
+      "relevance": 96,
+      "state": "OR",
+      "bill_number": "HB4057",
+      "bill_id": 2101117,
+      "change_hash": "fed63e29dd907d32513b01ba96fef757",
+      "url": "https://legiscan.com/OR/bill/HB4057/2026",
+      "text_url": "https://legiscan.com/OR/text/HB4057/2026",
+      "research_url": "https://legiscan.com/OR/research/HB4057/2026",
+      "last_action_date": "2026-03-05",
+      "last_action": "President signed.",
+      "title": "Relating to the development of children; and declaring an emergency."
+    },
+    "3": {
+      "relevance": 95,
+      "state": "OR",
+      "bill_number": "HB4059",
+      "bill_id": 2101365,
+      "change_hash": "021385c398d47700e7c2806a863895e3",
+      "url": "https://legiscan.com/OR/bill/HB4059/2026",
+      "text_url": "https://legiscan.com/OR/text/HB4059/2026",
+      "research_url": "https://legiscan.com/OR/research/HB4059/2026",
+      "last_action_date": "2026-03-06",
+      "last_action": "In committee upon adjournment.",
+      "title": "Relating to child abuse; declaring an emergency."
+    },
+    "4": {
+      "relevance": 95,
+      "state": "OR",
+      "bill_number": "SB1533",
+      "bill_id": 2101070,
+      "change_hash": "c9b0641e10803a413d20db0d2eed1c03",
+      "url": "https://legiscan.com/OR/bill/SB1533/2026",
+      "text_url": "https://legiscan.com/OR/text/SB1533/2026",
+      "research_url": "https://legiscan.com/OR/research/SB1533/2026",
+      "last_action_date": "2026-03-05",
+      "last_action": "Speaker signed.",
+      "title": "Relating to the rights of children in care; and declaring an emergency."
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 4",
+      "relevancy": "100% - 92%",
+      "count": 4,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zhotel:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "CO",
+      "bill_number": "SB109",
+      "bill_id": 2114516,
+      "change_hash": "9c2f562076acd89627b340ba0ac655fc",
+      "url": "https://legiscan.com/CO/bill/SB109/2026",
+      "text_url": "https://legiscan.com/CO/text/SB109/2026",
+      "research_url": "https://legiscan.com/CO/research/SB109/2026",
+      "last_action_date": "2026-03-11",
+      "last_action": "Introduced In House - Assigned to Transportation, Housing & Local Government",
+      "title": "Building Code Accessibility"
+    },
+    "1": {
+      "relevance": 98,
+      "state": "CO",
+      "bill_number": "HB1194",
+      "bill_id": 2114465,
+      "change_hash": "b34227209cb15f6718b4c97da3e937bb",
+      "url": "https://legiscan.com/CO/bill/HB1194/2026",
+      "text_url": "https://legiscan.com/CO/text/HB1194/2026",
+      "research_url": "https://legiscan.com/CO/research/HB1194/2026",
+      "last_action_date": "2026-03-19",
+      "last_action": "Introduced In Senate - Assigned to Health & Human Services",
+      "title": "Sunset Combative Sports Office &amp; Commission"
+    },
+    "2": {
+      "relevance": 96,
+      "state": "CO",
+      "bill_number": "SB146",
+      "bill_id": 2137505,
+      "change_hash": "588aa523eed4e506d369f6aa35a09f18",
+      "url": "https://legiscan.com/CO/bill/SB146/2026",
+      "text_url": "https://legiscan.com/CO/text/SB146/2026",
+      "research_url": "https://legiscan.com/CO/research/SB146/2026",
+      "last_action_date": "2026-03-24",
+      "last_action": "Introduced In Senate - Assigned to Health & Human Services",
+      "title": "Restrict Single-Use Food Serviceware Distribution"
+    },
+    "3": {
+      "relevance": 92,
+      "state": "CO",
+      "bill_number": "HB1257",
+      "bill_id": 2119895,
+      "change_hash": "af28d03547dc4639560195e961d34a25",
+      "url": "https://legiscan.com/CO/bill/HB1257/2026",
+      "text_url": "https://legiscan.com/CO/text/HB1257/2026",
+      "research_url": "https://legiscan.com/CO/research/HB1257/2026",
+      "last_action_date": "2026-03-25",
+      "last_action": "Senate Committee on Local Government & Housing Refer Amended - Consent Calendar to Senate Committee of the Whole",
+      "title": "Local Regulation of Massage Facilities"
+    }
+  }
+}

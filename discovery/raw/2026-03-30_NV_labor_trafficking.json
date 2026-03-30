@@ -1,0 +1,105 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 7",
+      "relevancy": "100% - 76%",
+      "count": 7,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zlabor:(pos=1) AND Ztraffick:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "NV",
+      "bill_number": "AB250",
+      "bill_id": 1972912,
+      "change_hash": "d2df79904e9677ea9fd74b0b82504497",
+      "url": "https://legiscan.com/NV/bill/AB250/2025",
+      "text_url": "https://legiscan.com/NV/text/AB250/2025",
+      "research_url": "https://legiscan.com/NV/research/AB250/2025",
+      "last_action_date": "2025-06-03",
+      "last_action": "Chapter 240.",
+      "title": "Revises provisions relating to certain debt. (BDR 52-599)"
+    },
+    "1": {
+      "relevance": 97,
+      "state": "NV",
+      "bill_number": "SB155",
+      "bill_id": 1951387,
+      "change_hash": "cfd1c2b88ee2e90bd326229b037b85d9",
+      "url": "https://legiscan.com/NV/bill/SB155/2025",
+      "text_url": "https://legiscan.com/NV/text/SB155/2025",
+      "research_url": "https://legiscan.com/NV/research/SB155/2025",
+      "last_action_date": "2025-06-02",
+      "last_action": "Vetoed by the Governor. Returned to Senate with Governor's veto message.",
+      "title": "Revises provisions governing peace officers. (BDR 23-326)"
+    },
+    "2": {
+      "relevance": 95,
+      "state": "NV",
+      "bill_number": "SB457",
+      "bill_id": 2021134,
+      "change_hash": "e2e098b4c6684bd8459bb8fc31f0fc55",
+      "url": "https://legiscan.com/NV/bill/SB457/2025",
+      "text_url": "https://legiscan.com/NV/text/SB457/2025",
+      "research_url": "https://legiscan.com/NV/research/SB457/2025",
+      "last_action_date": "2025-06-04",
+      "last_action": "From printer. To reengrossment. Reengrossed. Second reprint.",
+      "title": "Revises provisions relating to public safety. (BDR 15-1038)"
+    },
+    "3": {
+      "relevance": 93,
+      "state": "NV",
+      "bill_number": "AB592",
+      "bill_id": 2032532,
+      "change_hash": "cedbe718c9509331ffe6c644627b64d0",
+      "url": "https://legiscan.com/NV/bill/AB592/2025",
+      "text_url": "https://legiscan.com/NV/text/AB592/2025",
+      "research_url": "https://legiscan.com/NV/research/AB592/2025",
+      "last_action_date": "2025-05-28",
+      "last_action": "Chapter 59. (Effective July 1, 2025)",
+      "title": "Revises provisions relating to the compensation of state employees. (BDR S-1229)"
+    },
+    "4": {
+      "relevance": 89,
+      "state": "NV",
+      "bill_number": "SB466",
+      "bill_id": 2031571,
+      "change_hash": "60fa22e5eacea57f04cd037eead6d29b",
+      "url": "https://legiscan.com/NV/bill/SB466/2025",
+      "text_url": "https://legiscan.com/NV/text/SB466/2025",
+      "research_url": "https://legiscan.com/NV/research/SB466/2025",
+      "last_action_date": "2025-06-11",
+      "last_action": "Chapter 512. (Effective July 1, 2025)",
+      "title": "Revises provisions governing the authority of the State Department of Agriculture relating to food and water. (BDR 51-1121)"
+    },
+    "5": {
+      "relevance": 87,
+      "state": "NV",
+      "bill_number": "SB494",
+      "bill_id": 2031595,
+      "change_hash": "29c9f33cc32e7fa074576811730cf6cd",
+      "url": "https://legiscan.com/NV/bill/SB494/2025",
+      "text_url": "https://legiscan.com/NV/text/SB494/2025",
+      "research_url": "https://legiscan.com/NV/research/SB494/2025",
+      "last_action_date": "2025-06-11",
+      "last_action": "Chapter 514.",
+      "title": "Makes revisions relating to health and human services. (BDR 18-1116)"
+    },
+    "6": {
+      "relevance": 76,
+      "state": "NV",
+      "bill_number": "SB78",
+      "bill_id": 1892686,
+      "change_hash": "487dff4fe074622448be6537183cca1b",
+      "url": "https://legiscan.com/NV/bill/SB78/2025",
+      "text_url": "https://legiscan.com/NV/text/SB78/2025",
+      "research_url": "https://legiscan.com/NV/research/SB78/2025",
+      "last_action_date": "2025-06-03",
+      "last_action": "(No further action taken.)",
+      "title": "Revises provisions relating to boards, commissions, councils and similar bodies. (BDR 18-301)"
+    }
+  }
+}

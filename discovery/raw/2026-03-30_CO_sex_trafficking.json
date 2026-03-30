@@ -1,0 +1,66 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 4",
+      "relevancy": "100% - 96%",
+      "count": 4,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zsex:(pos=1) AND Ztraffick:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "CO",
+      "bill_number": "SB097",
+      "bill_id": 2114865,
+      "change_hash": "4c797ae9c418a5690f59d4bbb1273417",
+      "url": "https://legiscan.com/CO/bill/SB097/2026",
+      "text_url": "https://legiscan.com/CO/text/SB097/2026",
+      "research_url": "https://legiscan.com/CO/research/SB097/2026",
+      "last_action_date": "2026-03-11",
+      "last_action": "Senate Committee on Judiciary Postpone Indefinitely",
+      "title": "Decriminalize Adult Commercial Sexual Activity"
+    },
+    "1": {
+      "relevance": 99,
+      "state": "CO",
+      "bill_number": "SB075",
+      "bill_id": 2100595,
+      "change_hash": "6616ab6a36ca2a421bd368d762ee3a90",
+      "url": "https://legiscan.com/CO/bill/SB075/2026",
+      "text_url": "https://legiscan.com/CO/text/SB075/2026",
+      "research_url": "https://legiscan.com/CO/research/SB075/2026",
+      "last_action_date": "2026-03-09",
+      "last_action": "Senate Committee on Judiciary Refer Amended to Appropriations",
+      "title": "Trafficking &amp; Commercial Sexual Activity Offenses"
+    },
+    "2": {
+      "relevance": 98,
+      "state": "CO",
+      "bill_number": "HB1257",
+      "bill_id": 2119895,
+      "change_hash": "af28d03547dc4639560195e961d34a25",
+      "url": "https://legiscan.com/CO/bill/HB1257/2026",
+      "text_url": "https://legiscan.com/CO/text/HB1257/2026",
+      "research_url": "https://legiscan.com/CO/research/HB1257/2026",
+      "last_action_date": "2026-03-25",
+      "last_action": "Senate Committee on Local Government & Housing Refer Amended - Consent Calendar to Senate Committee of the Whole",
+      "title": "Local Regulation of Massage Facilities"
+    },
+    "3": {
+      "relevance": 96,
+      "state": "CO",
+      "bill_number": "SB015",
+      "bill_id": 2079671,
+      "change_hash": "130451aa445aba7b6e7fbba8b0a2bc2b",
+      "url": "https://legiscan.com/CO/bill/SB015/2026",
+      "text_url": "https://legiscan.com/CO/text/SB015/2026",
+      "research_url": "https://legiscan.com/CO/research/SB015/2026",
+      "last_action_date": "2026-02-11",
+      "last_action": "Senate Committee on Judiciary Refer Amended to Appropriations",
+      "title": "Commercial Sexual Activity with a Child Offenses"
+    }
+  }
+}

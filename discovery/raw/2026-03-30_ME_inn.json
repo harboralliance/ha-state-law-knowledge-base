@@ -1,0 +1,79 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 5",
+      "relevancy": "100% - 90%",
+      "count": 5,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zinn:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "ME",
+      "bill_number": "LD2100",
+      "bill_id": 2065479,
+      "change_hash": "254ccfdfe0294f11ab1c8a5ece0820b8",
+      "url": "https://legiscan.com/ME/bill/LD2100/2025",
+      "text_url": "https://legiscan.com/ME/text/LD2100/2025",
+      "research_url": "https://legiscan.com/ME/research/LD2100/2025",
+      "last_action_date": "2026-03-26",
+      "last_action": "Ordered sent down forthwith.",
+      "title": "An Act to Update the Laws Regarding Fuel Gas Detector Requirements"
+    },
+    "1": {
+      "relevance": 91,
+      "state": "ME",
+      "bill_number": "LD1959",
+      "bill_id": 2029192,
+      "change_hash": "cdf222cb75894c82cfbc2ad9266fa663",
+      "url": "https://legiscan.com/ME/bill/LD1959/2025",
+      "text_url": "https://legiscan.com/ME/text/LD1959/2025",
+      "research_url": "https://legiscan.com/ME/research/LD1959/2025",
+      "last_action_date": "2026-03-12",
+      "last_action": "Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)",
+      "title": "An Act to Prohibit the Department of Health and Human Services from Reducing General Assistance Reimbursement Maximums for Payment of Costs of Providing Emergency Shelter"
+    },
+    "2": {
+      "relevance": 90,
+      "state": "ME",
+      "bill_number": "LD1928",
+      "bill_id": 2028548,
+      "change_hash": "91e179b5f136917909c077804fbdd14e",
+      "url": "https://legiscan.com/ME/bill/LD1928/2025",
+      "text_url": "https://legiscan.com/ME/text/LD1928/2025",
+      "research_url": "https://legiscan.com/ME/research/LD1928/2025",
+      "last_action_date": "2025-06-13",
+      "last_action": "Placed in Legislative Files (DEAD)",
+      "title": "An Act to Prohibit Lodging Establishments from Providing Single-use Plastic Containers"
+    },
+    "3": {
+      "relevance": 90,
+      "state": "ME",
+      "bill_number": "LD2012",
+      "bill_id": 2056533,
+      "change_hash": "967bf5dfb2bf14f1037a5c8f9de9bc43",
+      "url": "https://legiscan.com/ME/bill/LD2012/2025",
+      "text_url": "https://legiscan.com/ME/text/LD2012/2025",
+      "research_url": "https://legiscan.com/ME/research/LD2012/2025",
+      "last_action_date": "2026-01-14",
+      "last_action": "Voted: OTP-AM",
+      "title": "An Act to Amend the Laws Governing Carbon Monoxide Detectors"
+    },
+    "4": {
+      "relevance": 90,
+      "state": "ME",
+      "bill_number": "LD1066",
+      "bill_id": 2007238,
+      "change_hash": "0d792c068e7c1d7a269c71ba60305a40",
+      "url": "https://legiscan.com/ME/bill/LD1066/2025",
+      "text_url": "https://legiscan.com/ME/text/LD1066/2025",
+      "research_url": "https://legiscan.com/ME/research/LD1066/2025",
+      "last_action_date": "2025-05-22",
+      "last_action": "Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)",
+      "title": "An Act Regarding Limits on Municipal General Assistance Programs"
+    }
+  }
+}
