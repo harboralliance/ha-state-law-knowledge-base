@@ -1,0 +1,92 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 6",
+      "relevancy": "100% - 69%",
+      "count": 6,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zinn:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "MA",
+      "bill_number": "S967",
+      "bill_id": 1998350,
+      "change_hash": "ebcd8e4da59e46a3699ca8849956a3a6",
+      "url": "https://legiscan.com/MA/bill/S967/2025",
+      "text_url": "https://legiscan.com/MA/text/S967/2025",
+      "research_url": "https://legiscan.com/MA/research/S967/2025",
+      "last_action_date": "2026-03-12",
+      "last_action": "Accompanied a new draft, see S2981",
+      "title": "Relative to housing in seasonal communities"
+    },
+    "1": {
+      "relevance": 99,
+      "state": "MA",
+      "bill_number": "H4411",
+      "bill_id": 2041805,
+      "change_hash": "57b5d9bc7b925928eda39c92b22c2e9e",
+      "url": "https://legiscan.com/MA/bill/H4411/2025",
+      "text_url": "https://legiscan.com/MA/text/H4411/2025",
+      "research_url": "https://legiscan.com/MA/research/H4411/2025",
+      "last_action_date": "2025-10-03",
+      "last_action": "Hearing scheduled for 10/15/2025 from 01:00 PM-05:00 PM in A-1",
+      "title": "Relative to housing in seasonal communities"
+    },
+    "2": {
+      "relevance": 87,
+      "state": "MA",
+      "bill_number": "S570",
+      "bill_id": 1997070,
+      "change_hash": "b3968ee93d50ca0cedf5b180125aefdc",
+      "url": "https://legiscan.com/MA/bill/S570/2025",
+      "text_url": "https://legiscan.com/MA/text/S570/2025",
+      "research_url": "https://legiscan.com/MA/research/S570/2025",
+      "last_action_date": "2025-09-18",
+      "last_action": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means",
+      "title": "Establishing a waste reduction needs assessment in the commonwealth"
+    },
+    "3": {
+      "relevance": 85,
+      "state": "MA",
+      "bill_number": "H1023",
+      "bill_id": 2003332,
+      "change_hash": "93ae74faf70657f3287a600b847b0a64",
+      "url": "https://legiscan.com/MA/bill/H1023/2025",
+      "text_url": "https://legiscan.com/MA/text/H1023/2025",
+      "research_url": "https://legiscan.com/MA/research/H1023/2025",
+      "last_action_date": "2025-08-11",
+      "last_action": "Bill reported favorably by committee and referred to the committee on House Ways and Means",
+      "title": "To establish a mattress recycling program in the Commonwealth"
+    },
+    "4": {
+      "relevance": 70,
+      "state": "MA",
+      "bill_number": "S630",
+      "bill_id": 1999235,
+      "change_hash": "0ace91d083484c6d9eebdaa8fb98a710",
+      "url": "https://legiscan.com/MA/bill/S630/2025",
+      "text_url": "https://legiscan.com/MA/text/S630/2025",
+      "research_url": "https://legiscan.com/MA/research/S630/2025",
+      "last_action_date": "2025-06-23",
+      "last_action": "Accompanied a new draft, see S2541",
+      "title": "To reduce single-use plastics from the environment"
+    },
+    "5": {
+      "relevance": 69,
+      "state": "MA",
+      "bill_number": "H916",
+      "bill_id": 2003538,
+      "change_hash": "61277c789763eec1a29c1f61067e5c7d",
+      "url": "https://legiscan.com/MA/bill/H916/2025",
+      "text_url": "https://legiscan.com/MA/text/H916/2025",
+      "research_url": "https://legiscan.com/MA/research/H916/2025",
+      "last_action_date": "2026-02-26",
+      "last_action": "Accompanied a study order, see H5149",
+      "title": "To reduce single use plastics in the environment"
+    }
+  }
+}

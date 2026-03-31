@@ -1,0 +1,66 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 4",
+      "relevancy": "100% - 61%",
+      "count": 4,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zhotlin:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "CT",
+      "bill_number": "HB05477",
+      "bill_id": 2129266,
+      "change_hash": "4aa9eab54850869e0e9aaf6540172954",
+      "url": "https://legiscan.com/CT/bill/HB05477/2026",
+      "text_url": "https://legiscan.com/CT/text/HB05477/2026",
+      "research_url": "https://legiscan.com/CT/research/HB05477/2026",
+      "last_action_date": "2026-03-27",
+      "last_action": "Referred to Office of Legislative Research and Office of Fiscal Analysis 04/01/26 5:00 PM",
+      "title": "An Act Concerning The Well-being Of Employees Of The Department Of Correction And Persons Who Are Incarcerated In Correctional Institutions."
+    },
+    "1": {
+      "relevance": 83,
+      "state": "CT",
+      "bill_number": "SB00086",
+      "bill_id": 2107947,
+      "change_hash": "8217f811e407dcbd4e4fad9d3b4e20a6",
+      "url": "https://legiscan.com/CT/bill/SB00086/2026",
+      "text_url": "https://legiscan.com/CT/text/SB00086/2026",
+      "research_url": "https://legiscan.com/CT/research/SB00086/2026",
+      "last_action_date": "2026-03-27",
+      "last_action": "Referred to Office of Legislative Research and Office of Fiscal Analysis 04/01/26 5:00 PM",
+      "title": "An Act Addressing Innovations In And The Responsible Use Of Artificial Intelligence."
+    },
+    "2": {
+      "relevance": 73,
+      "state": "CT",
+      "bill_number": "HB05474",
+      "bill_id": 2129390,
+      "change_hash": "73e2697368115a2a48fc80a74e3bc180",
+      "url": "https://legiscan.com/CT/bill/HB05474/2026",
+      "text_url": "https://legiscan.com/CT/text/HB05474/2026",
+      "research_url": "https://legiscan.com/CT/research/HB05474/2026",
+      "last_action_date": "2026-03-26",
+      "last_action": "Referred to Office of Legislative Research and Office of Fiscal Analysis 03/31/26 5:00 PM",
+      "title": "An Act Concerning Oversight Of Medical Care For Persons Who Are Incarcerated At The Department Of Correction."
+    },
+    "3": {
+      "relevance": 61,
+      "state": "CT",
+      "bill_number": "HB05567",
+      "bill_id": 2132537,
+      "change_hash": "29eae16b2afdf9b61f12ad5d835eb7e1",
+      "url": "https://legiscan.com/CT/bill/HB05567/2026",
+      "text_url": "https://legiscan.com/CT/text/HB05567/2026",
+      "research_url": "https://legiscan.com/CT/research/HB05567/2026",
+      "last_action_date": "2026-03-25",
+      "last_action": "Filed with Legislative Commissioners' Office",
+      "title": "An Act Concerning Health Care In The Department Of Correction Facilities."
+    }
+  }
+}

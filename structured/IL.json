@@ -2,20 +2,19 @@
   "state": "Illinois",
   "state_code": "IL",
   "industry": "commercial lodging",
-  "source_file": "2026-03-30_Illinois_lodging_compliance.md",
+  "source_file": "2026-03-31_Illinois_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
-  "training_frequency": "every two years",
+  "training_frequency": "every 2 years",
   "new_hire_deadline_days": 180,
-  "new_hire_deadline_text": "six months of the employee's start date for that role",
+  "new_hire_deadline_text": "within 6 months of starting their role",
   "signage_required": false,
   "provider_approval_required": true,
-  "provider_approval_type": "approved human trafficking training recognition program",
+  "provider_approval_type": "curriculum by Department of Human Services",
   "approval_authority": "Department of Human Services",
-  "approval_contact": null,
   "enforcing_agencies": [
-    "units of local government",
-    "law enforcement agencies with jurisdiction over an employer"
+    "local government",
+    "law enforcement agency"
   ],
   "applicable_to": [
     "lodging establishments",
@@ -23,8 +22,10 @@
     "truck stops"
   ],
   "required_topics": [
-    "human trafficking recognition",
-    "reporting"
+    "Definition of Human Trafficking and Commercial Exploitation",
+    "Risk Identification",
+    "Labor vs. Sex Trafficking",
+    "Employee Roles in Reporting and Responding"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
@@ -35,19 +36,20 @@
     "required_content": []
   },
   "recordkeeping_requirements": [],
-  "certificate_requirements": [],
+  "certificate_requirements": [
+    "completion certificate by approved provider"
+  ],
   "law_references": [
-    "Act 101-18",
-    "Section 95/15(a)"
+    "Illinois Human Trafficking Prevention Act",
+    "Public Act 98-1066 (effective January 1, 2026)"
   ],
   "source_urls": [],
-  "harbor_alliance_posture": "needs-review",
+  "harbor_alliance_posture": null,
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "non-compliance penalties up to $1,500 per offense"
+    "Compliance with penalties for non-compliance",
+    "Training requirement may affect business operations"
   ],
-  "notes": [
-    "Training must be completed within six months of start date for new hires and every two years thereafter if still employed."
-  ],
+  "notes": [],
   "needs_review": []
 }

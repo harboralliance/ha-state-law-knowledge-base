@@ -2,7 +2,7 @@
   "state": "Connecticut",
   "state_code": "CT",
   "industry": "commercial lodging",
-  "source_file": "2026-03-30_Connecticut_lodging_compliance.md",
+  "source_file": "2026-03-31_Connecticut_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
   "training_frequency": "annual",
@@ -14,18 +14,15 @@
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "Connecticut Department of Children and Families (DCF)",
-    "Office of Victim Services"
+    "State attorneys",
+    "local law enforcement"
   ],
   "applicable_to": [
-    "hotels, motels, inns, and similar lodging"
+    "hotels, motels, inns, and similar lodging; law enforcement; healthcare providers; schools; foster parents; and youth"
   ],
-  "required_topics": [
-    "human trafficking",
-    "trafficking training and awareness campaigns"
-  ],
+  "required_topics": [],
   "reporting_contacts_required": [
-    "Connecticut Department of Children and Families (DCF)"
+    "law enforcement"
   ],
   "signage_details": {
     "languages_required": null,
@@ -37,34 +34,31 @@
     ]
   },
   "recordkeeping_requirements": [
-    "guest transactions and receipts for at least 6 months"
+    "guest transactions and receipts for at least six months"
   ],
   "certificate_requirements": [],
   "law_references": [
-    {
-      "statute_name": "Public Act 17-32",
-      "code_section": null,
-      "public_act_url": "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/human-and-sex-trafficking-legislation"
-    },
-    {
-      "statute_name": "Public Act 15-195",
-      "code_section": null,
-      "public_act_url": "NEEDS REVIEW"
-    }
+    "2017 Public Act 17-32",
+    "2016 Public Act 16-71",
+    "2015 Public Act 15-195",
+    "2014 Public Act 14-186",
+    "2013 Public Act 13-166",
+    "2012 Public Act 12-141",
+    "2011 Public Act 11-180",
+    "2010 Public Act 10-115"
   ],
   "source_urls": [
     "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/trainings-for-providers",
     "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/human-and-sex-trafficking-legislation"
   ],
-  "harbor_alliance_posture": null,
-  "harbor_alliance_actions": [],
-  "risks_or_constraints": [
-    "state-controlled training requirement",
-    "data reporting requirement"
+  "harbor_alliance_posture": "approval-required",
+  "harbor_alliance_actions": [
+    "Implement regular trainings on human trafficking for all relevant industries and professionals",
+    "Enhance awareness by requiring annual trafficking training and awareness campaigns in hotels and motels",
+    "Documentation and reporting by ensuring that law enforcement documents necessary information and maintains guest transactions and receipts as required by state laws",
+    "Strengthen enforcement mechanisms to hold individuals accountable for human trafficking violations, including commercial sexual exploitation of minors"
   ],
+  "risks_or_constraints": [],
   "notes": [],
-  "needs_review": [
-    "Public Act 15-195 URL",
-    "Harbor Alliance posture and actions"
-  ]
+  "needs_review": []
 }
