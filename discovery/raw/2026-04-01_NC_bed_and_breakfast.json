@@ -1,0 +1,79 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 5",
+      "relevancy": "100% - 70%",
+      "count": 5,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zbed:(pos=1) AND Zbreakfast:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "NC",
+      "bill_number": "S132",
+      "bill_id": 1979563,
+      "change_hash": "5f6b9b7263064fdd87900aba160042db",
+      "url": "https://legiscan.com/NC/bill/S132/2025",
+      "text_url": "https://legiscan.com/NC/text/S132/2025",
+      "research_url": "https://legiscan.com/NC/research/S132/2025",
+      "last_action_date": "2025-02-24",
+      "last_action": "Ref To Com On Rules and Operations of the Senate",
+      "title": "Swannanoa Valley TDA"
+    },
+    "1": {
+      "relevance": 87,
+      "state": "NC",
+      "bill_number": "H192",
+      "bill_id": 1982668,
+      "change_hash": "94f52eadc581019d28e5cf5ba030ae14",
+      "url": "https://legiscan.com/NC/bill/H192/2025",
+      "text_url": "https://legiscan.com/NC/text/H192/2025",
+      "research_url": "https://legiscan.com/NC/research/H192/2025",
+      "last_action_date": "2025-09-22",
+      "last_action": "Re-ref Com On Rules, Calendar, and Operations of the House",
+      "title": "Defund Planned Parenthood &amp; Cost Transparency"
+    },
+    "2": {
+      "relevance": 81,
+      "state": "NC",
+      "bill_number": "H125",
+      "bill_id": 1969116,
+      "change_hash": "12bab4774c781bb1dd39cba14bd3b10c",
+      "url": "https://legiscan.com/NC/bill/H125/2025",
+      "text_url": "https://legiscan.com/NC/text/H125/2025",
+      "research_url": "https://legiscan.com/NC/research/H125/2025",
+      "last_action_date": "2025-08-06",
+      "last_action": "Ch. SL 2025-89",
+      "title": "Continuing Budget Operations"
+    },
+    "3": {
+      "relevance": 80,
+      "state": "NC",
+      "bill_number": "S257",
+      "bill_id": 1996111,
+      "change_hash": "219a098b526db1dc9a5e0159d29a621b",
+      "url": "https://legiscan.com/NC/bill/S257/2025",
+      "text_url": "https://legiscan.com/NC/text/S257/2025",
+      "research_url": "https://legiscan.com/NC/research/S257/2025",
+      "last_action_date": "2025-06-05",
+      "last_action": "Conf Com Appointed",
+      "title": "2025 Appropriations Act"
+    },
+    "4": {
+      "relevance": 70,
+      "state": "NC",
+      "bill_number": "S440",
+      "bill_id": 2012916,
+      "change_hash": "f135d79b33bdeaed6c2c68a064ebf69c",
+      "url": "https://legiscan.com/NC/bill/S440/2025",
+      "text_url": "https://legiscan.com/NC/text/S440/2025",
+      "research_url": "https://legiscan.com/NC/research/S440/2025",
+      "last_action_date": "2025-03-25",
+      "last_action": "Re-ref Com On Appropriations/Base Budget",
+      "title": "2025 Governor&#x27;s Budget"
+    }
+  }
+}
