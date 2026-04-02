@@ -2,34 +2,25 @@
   "state": "Illinois",
   "state_code": "IL",
   "industry": "commercial lodging",
-  "source_file": "2026-04-01_Illinois_lodging_compliance.md",
+  "source_file": "2026-04-02_Illinois_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
-  "training_frequency": {
-    "initial_training_within": "6 months",
-    "followup_training_every": "2 years"
-  },
+  "training_frequency": "every two years for those still employed, within six months of employment initially",
   "new_hire_deadline_days": null,
   "new_hire_deadline_text": null,
   "signage_required": false,
   "provider_approval_required": true,
-  "provider_approval_type": "curriculum developed by the Department of Human Services",
+  "provider_approval_type": "approved human trafficking recognition program by the Department of Human Services",
   "approval_authority": "Department of Human Services",
+  "approval_contact": null,
   "enforcing_agencies": [
-    {
-      "name": "unit of local government or law enforcement agency"
-    }
+    "unit of local government or law enforcement agency"
   ],
-  "applicable_to": [
-    "lodging establishments",
-    "restaurants",
-    "truck stops"
-  ],
+  "applicable_to": [],
   "required_topics": [
-    "definition of human trafficking and commercial exploitation of children",
-    "guidance on identifying individuals at risk for human trafficking",
-    "differences between labor and sex trafficking as relates to lodging establishments, restaurants, or truck stops",
-    "employees' roles in reporting and responding to instances of human trafficking"
+    "identifying signs of human trafficking",
+    "reporting it to the appropriate authorities",
+    "responding to instances of it"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
@@ -39,24 +30,20 @@
     "posting_location": null,
     "required_content": []
   },
-  "recordkeeping_requirements": [
-    "records of training completion",
-    "documentation of reporting and responding to instances of human trafficking"
-  ],
+  "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    "Human Trafficking Prevention Act",
-    "Public Act 106-532"
+    "Human Trafficking Prevention Act of 2025",
+    "Public Act 104-087"
   ],
-  "source_urls": [],
+  "source_urls": [
+    "https://www.ilga.gov/legislation/ilcs/docs/435.I.650.pdf"
+  ],
   "harbor_alliance_posture": "approval-required",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "Non-compliance can result in a civil penalty if not corrected within 30 days, and may lead to further legal action by the Attorney General or State's Attorney."
+    "violations can result in a civil penalty and fines up to $1,500 for each offense"
   ],
-  "notes": [
-    "The Department of Human Services is responsible for developing an approved human trafficking training recognition program that must be used.",
-    "If a unit of local government or law enforcement agency discovers a violation of this Act, they have the authority to provide reasonable notice of noncompliance and impose a civil penalty."
-  ],
+  "notes": [],
   "needs_review": []
 }

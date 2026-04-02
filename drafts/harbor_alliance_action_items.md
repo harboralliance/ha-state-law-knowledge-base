@@ -1,55 +1,51 @@
 # Harbor Alliance Action Items
 
 ## Texas
+
 **Next Steps:**
-- Ensure all employees of commercial lodging establishments with 10 or more rooms complete the required annual training on human trafficking.
+1. Schedule training sessions for employees at all lodging establishments by June 30, 2026.
+2. Ensure compliance with the requirements for posting anti-trafficking signage.
 
-**Immediate Market Entry States:**
-- NEEDS REVIEW
+**States Allowing Immediate Market Entry:** NONE
 
-**Approval, Outreach, or Special Handling States:**
-- NONE
+**States Requiring Approval, Outreach, or Special Handling:** NONE
 
 ## California
+
 **Next Steps:**
-- Provide training to hotel and motel employees within 20 minutes of classroom or other effective interactive training.
-- Ensure new employees receive the required training within six months of starting employment.
+1. Review and implement training programs that meet the minimum duration requirement of 20 minutes.
+2. Encourage employees to report suspected incidents of human trafficking immediately.
 
-**Immediate Market Entry States:**
-- NONE
+**States Allowing Immediate Market Entry:** NONE
 
-**Approval, Outreach, or Special Handling States:**
-- NEEDS REVIEW
+**States Requiring Approval, Outreach, or Special Handling:** NONE
 
 ## Illinois
+
 **Next Steps:**
-- Provide human trafficking recognition training to all relevant staff within six months of their employment and every two years thereafter.
-- Ensure compliance with the model curriculum developed by the Department of Human Services.
+1. Provide initial training within 6 months of employment for all relevant staff roles.
+2. Conduct annual refresher training every two years thereafter.
 
-**Immediate Market Entry States:**
-- NONE
+**States Allowing Immediate Market Entry:** NONE
 
-**Approval, Outreach, or Special Handling States:**
-- NEEDS REVIEW
+**States Requiring Approval, Outreach, or Special Handling:** NONE
 
 ## Minnesota
+
 **Next Steps:**
-- Provide the required training to all owners, managers, and on-site employees within 90 days of hire.
-- Ensure all required staff retake the training every year.
+1. Ensure all required employees complete the mandated sex trafficking prevention training within 90 days of hire.
+2. Retake the training annually as needed.
 
-**Immediate Market Entry States:**
-- NONE
+**States Allowing Immediate Market Entry:** NONE
 
-**Approval, Outreach, or Special Handling States:**
-- NEEDS REVIEW
+**States Requiring Approval, Outreach, or Special Handling:** NONE
 
 ## Connecticut
+
 **Next Steps:**
-- Provide annual trafficking training to all hotel and motel employees.
-- Ensure compliance with specific trainings for foster parents, law enforcement, healthcare providers, and other relevant industries.
+1. Provide annual trafficking training to all employees in hotels and motels.
+2. Ensure compliance with mandatory data reporting requirements.
 
-**Immediate Market Entry States:**
-- NONE
+**States Allowing Immediate Market Entry:** NONE
 
-**Approval, Outreach, or Special Handling States:**
-- NEEDS REVIEW
+**States Requiring Approval, Outreach, or Special Handling:** NONE

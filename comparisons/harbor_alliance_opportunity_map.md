@@ -1,43 +1,24 @@
-### Legislative Search Summary for Wyoming (WY) with Keyword "hotline"
-
-**Page:** 1 of 1  
-**Range:** 1 - 2  
-**Relevancy:** 100% - 83%  
-**Count:** 2 bills  
-
----
-
-#### Bill Results:
-
-**1. HB0003: Wyoming Pregnancy Centers-Autonomy and Rights**
-
-- **Relevance:** 100%
-- **State:** WY
-- **Bill Number:** HB0003
-- **Bill ID:** 2054649
-- **Change Hash:** 65998ae9e57db19c5d94b797dfa1d58f
-- **URL:** [https://legiscan.com/WY/bill/HB0003/2026](https://legiscan.com/WY/bill/HB0003/2026)
-- **Text URL:** [https://legiscan.com/WY/text/HB0003/2026](https://legiscan.com/WY/text/HB0003/2026)
-- **Research URL:** [https://legiscan.com/WY/research/HB0003/2026](https://legiscan.com/WY/research/HB0003/2026)
-- **Last Action Date:** 2026-03-06
-- **Last Action:** Assigned Chapter Number 62
-- **Title:** Wyoming pregnancy centers-autonomy and rights
-
-**2. HB0123: Education Savings Accounts**
-
-- **Relevance:** 83%
-- **State:** WY
-- **Bill Number:** HB0123
-- **Bill ID:** 2111580
-- **Change Hash:** a375e8f5ac63125241c02aa8c0937fb4
-- **URL:** [https://legiscan.com/WY/bill/HB0123/2026](https://legiscan.com/WY/bill/HB0123/2026)
-- **Text URL:** [https://legiscan.com/WY/text/HB0123/2026](https://legiscan.com/WY/text/HB0123/2026)
-- **Research URL:** [https://legiscan.com/WY/research/HB0123/2026](https://legiscan.com/WY/research/HB0123/2026)
-- **Last Action Date:** 2026-02-10
-- **Last Action:** Failed Introduction 26-35-1-0-0
-- **Title:** Education savings accounts
-
----
-
-### Summary:
-These two bills are the only ones that match your search criteria in Wyoming for the keyword "hotline." The first bill, HB0003, deals with the autonomy and rights of pregnancy centers, while the second bill, HB0123, focuses on education savings accounts.
+```json
+{
+  "state": "Wyoming",
+  "total_bills": 2,
+  "bills": [
+    {
+      "bill_number": "HB0003",
+      "title": "Wyoming Pregnancy Centers-Autonomy and Rights",
+      "relevance": 100,
+      "last_action_date": "March 6, 2026",
+      "action_taken": "Assigned Chapter Number 62",
+      "description": "This bill addresses the autonomy and rights of pregnancy centers in Wyoming. It likely focuses on issues related to access to reproductive health services, patient privacy, and other relevant matters."
+    },
+    {
+      "bill_number": "HB0123",
+      "title": "Education Savings Accounts",
+      "relevance": 83,
+      "last_action_date": "February 10, 2026",
+      "action_taken": "Failed Introduction 26-35-1-0-0",
+      "description": "This bill proposes the creation of education savings accounts. While it's not directly related to a hotline, it could be indirectly connected if it includes provisions for financial assistance or support for educational initiatives."
+    }
+  ]
+}
+```

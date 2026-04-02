@@ -2,34 +2,29 @@
   "state": "Texas",
   "state_code": "TX",
   "industry": "commercial lodging",
-  "source_file": "2026-04-01_Texas_lodging_compliance.md",
+  "source_file": "2026-04-02_Texas_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
-  "training_frequency": "annual",
+  "training_frequency": "annually",
   "new_hire_deadline_days": null,
   "new_hire_deadline_text": null,
   "signage_required": false,
   "provider_approval_required": true,
-  "provider_approval_type": "certified training program approved by the Office of the Attorney General (OAG)",
+  "provider_approval_type": "specific training videos approved by the Office of the Attorney General (OAG)",
   "approval_authority": "Office of the Attorney General (OAG)",
-  "approval_contact": null,
+  "approval_contact": "Contact respective training organization for more information",
   "enforcing_agencies": [
-    "Texas Department of Public Safety",
-    "National Human Trafficking Hotline"
+    "Office of the Attorney General (OAG)",
+    "Texas Department of Public Safety"
   ],
   "applicable_to": [
-    "commercial lodging establishments with 10 or more rooms"
+    "commercial lodging establishments with 10 or more rooms",
+    "all lodging establishments in the State of Texas"
   ],
   "required_topics": [
-    "identifying potential victims of human trafficking",
-    "recognizing red flags",
-    "reporting procedures",
-    "role of hospitality industry workers in preventing and responding to such incidents"
+    "human trafficking training"
   ],
-  "reporting_contacts_required": [
-    "local law enforcement",
-    "National Human Trafficking Hotline"
-  ],
+  "reporting_contacts_required": [],
   "signage_details": {
     "languages_required": [
       "English",
@@ -40,22 +35,27 @@
     "posting_location": null,
     "required_content": []
   },
-  "recordkeeping_requirements": [
-    "maintain records of completed training certifications for each employee"
-  ],
-  "certificate_requirements": [
-    "completion of a certified training program approved by the Office of the Attorney General (OAG)"
-  ],
+  "recordkeeping_requirements": [],
+  "certificate_requirements": [],
   "law_references": [
-    "House Bill 390 (87th Regular Session)"
+    "House Bill 390, Texas Legislature"
   ],
-  "source_urls": [],
+  "source_urls": [
+    "https://www.texasattorneygeneral.gov/training-resources/human-trafficking-training-videos",
+    "https://unboundnow.com/trainings/unbound-now-human-trafficking-texas/",
+    "https://extendedstayamerica.com/training/human-traffic-trainig",
+    "https://www.marriott.com/en-us/sites/default/files/2021-05/marriott-hotels-and-resorts-prevention-of-human-trafficking.pdf"
+  ],
   "harbor_alliance_posture": "approval-required",
-  "harbor_alliance_actions": [],
-  "risks_or_constraints": [],
+  "harbor_alliance_actions": [
+    "Ensure compliance with the training requirements and obtain approval from the Office of the Attorney General (OAG)"
+  ],
+  "risks_or_constraints": [
+    "Potential legal penalties for non-compliance",
+    "Costs associated with obtaining and implementing training"
+  ],
   "notes": [
-    "Many training programs are available online and in multiple languages.",
-    "While some training programs may incur a cost, many are free or have affordable pricing structures."
+    "Lodging establishments are encouraged to provide human trafficking training regardless of room count"
   ],
   "needs_review": []
 }

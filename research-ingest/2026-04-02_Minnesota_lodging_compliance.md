@@ -1,0 +1,7 @@
+The law requires hotels, motels, and short-term rentals in Minnesota to provide training on sex trafficking prevention and response. The training must be completed by all owners, managers, and on-site employees, with new employees completing it within 90 days of hire and all required staff retaking the training every year. It includes a virtual presentation, a training companion guide, manager and owner toolkits, and a poster set that must be displayed in specific locations.
+
+The Minnesota Department of Health developed the training package in partnership with Hospitality Minnesota. The law does not exempt tribal nations from providing the training. However, MDH encourages tribes to use the department's materials for staff training.
+
+Managers and owners can access the training through the MDH Learning Center and will be asked to complete a pre-training survey before accessing the package. Employee training is available in multiple languages. The law requires annual compliance with the training, updates made to the package by November 1 of each year.
+
+MDH does not charge for the mandatory training package but does not provide assistance with printing posters or other costs associated with compliance. Licensees are responsible for paying these costs. Contracted workers, such as cleaners, must also take the training.

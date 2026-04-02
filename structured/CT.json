@@ -2,60 +2,54 @@
   "state": "Connecticut",
   "state_code": "CT",
   "industry": "commercial lodging",
-  "source_file": "2026-04-01_Connecticut_lodging_compliance.md",
+  "source_file": "2026-04-02_Connecticut_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
-  "training_frequency": "annual",
+  "training_frequency": "annually",
   "new_hire_deadline_days": null,
   "new_hire_deadline_text": null,
-  "signage_required": false,
+  "signage_required": true,
   "provider_approval_required": false,
   "provider_approval_type": null,
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "Department of Public Health (DPH)"
+    "Department of Children and Families (DCF)",
+    "state attorneys",
+    "local law enforcement"
   ],
   "applicable_to": [
-    "hotels",
-    "motels",
-    "lodging businesses"
+    "hotels, motels, inns, similar lodging; emergency medical services (EMS); child protective services"
   ],
-  "required_topics": [
-    "human trafficking"
+  "required_topics": [],
+  "reporting_contacts_required": [
+    "state attorneys",
+    "local law enforcement"
   ],
-  "reporting_contacts_required": [],
   "signage_details": {
     "languages_required": [],
     "minimum_size": null,
     "font_size": null,
-    "posting_location": null,
-    "required_content": []
+    "posting_location": "all employees annually",
+    "required_content": [
+      "trafficking training and awareness campaigns"
+    ]
   },
-  "recordkeeping_requirements": [
-    "guest transactions and receipts for at least six months"
-  ],
+  "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    "Public Act 17-32",
-    "Public Act 16-71",
-    "Public Act 15-195",
-    "Public Act 14-186",
-    "Public Act 13-166",
-    "Public Act 12-141",
-    "Public Act 11-180",
-    "Public Act 10-115"
+    {
+      "name": "Human and Sex Trafficking Legislation",
+      "url": "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/human-and-sex-trafficking-legislation"
+    }
   ],
   "source_urls": [
     "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/trainings-for-providers",
     "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/human-and-sex-trafficking-legislation"
   ],
-  "harbor_alliance_posture": "approval-required",
+  "harbor_alliance_posture": "immediate-entry",
   "harbor_alliance_actions": [],
-  "risks_or_constraints": [
-    "need for annual training for lodging industry staff",
-    "requirement to keep guest transactions and receipts for at least six months"
-  ],
+  "risks_or_constraints": [],
   "notes": [],
   "needs_review": []
 }
