@@ -2,25 +2,29 @@
   "state": "Illinois",
   "state_code": "IL",
   "industry": "commercial lodging",
-  "source_file": "2026-04-02_Illinois_lodging_compliance.md",
+  "source_file": "2026-04-03_Illinois_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
-  "training_frequency": "every two years for those still employed, within six months of employment initially",
-  "new_hire_deadline_days": null,
-  "new_hire_deadline_text": null,
+  "training_frequency": "every two years",
+  "new_hire_deadline_days": 180,
+  "new_hire_deadline_text": "within six months of employment",
   "signage_required": false,
-  "provider_approval_required": true,
-  "provider_approval_type": "approved human trafficking recognition program by the Department of Human Services",
-  "approval_authority": "Department of Human Services",
+  "provider_approval_required": false,
+  "provider_approval_type": null,
+  "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "unit of local government or law enforcement agency"
+    "Department of Human Services",
+    "law enforcement agencies"
   ],
-  "applicable_to": [],
+  "applicable_to": [
+    "lodging establishments",
+    "restaurants",
+    "truck stops"
+  ],
   "required_topics": [
-    "identifying signs of human trafficking",
-    "reporting it to the appropriate authorities",
-    "responding to instances of it"
+    "recognizing human trafficking",
+    "protocols for reporting it"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
@@ -33,17 +37,19 @@
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    "Human Trafficking Prevention Act of 2025",
-    "Public Act 104-087"
+    "SB1422"
   ],
   "source_urls": [
-    "https://www.ilga.gov/legislation/ilcs/docs/435.I.650.pdf"
+    "NEEDS REVIEW"
   ],
-  "harbor_alliance_posture": "approval-required",
+  "harbor_alliance_posture": "needs-review",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "violations can result in a civil penalty and fines up to $1,500 for each offense"
+    "civil penalties for non-compliance"
   ],
   "notes": [],
-  "needs_review": []
+  "needs_review": [
+    "exact source URL",
+    "specific signage details"
+  ]
 }

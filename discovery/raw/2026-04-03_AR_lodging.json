@@ -1,0 +1,40 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 2",
+      "relevancy": "100% - 85%",
+      "count": 2,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zlodg:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "AR",
+      "bill_number": "SB15",
+      "bill_id": 2140457,
+      "change_hash": "d16524334f7dafcbb41c637e76c92495",
+      "url": "https://legiscan.com/AR/bill/SB15/2026",
+      "text_url": "https://legiscan.com/AR/text/SB15/2026",
+      "research_url": "https://legiscan.com/AR/research/SB15/2026",
+      "last_action_date": "2026-04-01",
+      "last_action": "Filed",
+      "title": "An Act For The Department Of Parks, Heritage, And Tourism - State Parks And Tourism Divisions Appropriation For The 2026-2027 Fiscal Year. "
+    },
+    "1": {
+      "relevance": 85,
+      "state": "AR",
+      "bill_number": "SB41",
+      "bill_id": 2140661,
+      "change_hash": "ffae550561d2c2fff8d41ef30abbd0b7",
+      "url": "https://legiscan.com/AR/bill/SB41/2026",
+      "text_url": "https://legiscan.com/AR/text/SB41/2026",
+      "research_url": "https://legiscan.com/AR/research/SB41/2026",
+      "last_action_date": "2026-04-01",
+      "last_action": "Filed",
+      "title": "An Act For The University Of Arkansas - Fayetteville Appropriation For The 2026-2027 Fiscal Year. "
+    }
+  }
+}

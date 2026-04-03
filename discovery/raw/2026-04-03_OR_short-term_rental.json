@@ -1,0 +1,40 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 2",
+      "relevancy": "100% - 98%",
+      "count": 2,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(((short:(pos=1) PHRASE 2 term:(pos=2)) AND Zrental:(pos=3)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "OR",
+      "bill_number": "SB1578",
+      "bill_id": 2101074,
+      "change_hash": "0e806925a9a32e1c1ddcdf3279f1e95a",
+      "url": "https://legiscan.com/OR/bill/SB1578/2026",
+      "text_url": "https://legiscan.com/OR/text/SB1578/2026",
+      "research_url": "https://legiscan.com/OR/research/SB1578/2026",
+      "last_action_date": "2026-03-06",
+      "last_action": "In committee upon adjournment.",
+      "title": "Relating to rural residential development."
+    },
+    "1": {
+      "relevance": 98,
+      "state": "OR",
+      "bill_number": "HB5204",
+      "bill_id": 2111555,
+      "change_hash": "1ff7915025e38732e2eb5dff929384c8",
+      "url": "https://legiscan.com/OR/bill/HB5204/2026",
+      "text_url": "https://legiscan.com/OR/text/HB5204/2026",
+      "research_url": "https://legiscan.com/OR/research/HB5204/2026",
+      "last_action_date": "2026-03-10",
+      "last_action": "President signed.",
+      "title": "Relating to state financial administration; and declaring an emergency."
+    }
+  }
+}

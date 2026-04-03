@@ -2,28 +2,27 @@
   "state": "California",
   "state_code": "CA",
   "industry": "commercial lodging",
-  "source_file": "2026-04-02_California_lodging_compliance.md",
+  "source_file": "2026-04-03_California_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": 20,
   "training_frequency": null,
-  "new_hire_deadline_days": null,
-  "new_hire_deadline_text": null,
-  "signage_required": false,
+  "new_hire_deadline_days": 180,
+  "new_hire_deadline_text": "6 months from employment start date",
+  "signage_required": true,
   "provider_approval_required": false,
   "provider_approval_type": null,
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "California Department of Labor and Employment (DOL)",
-    "California Attorney General's office"
+    "California Attorney General's Office"
   ],
   "applicable_to": [
-    "hotel",
-    "motel",
-    "bed and breakfast"
+    "Hotels",
+    "Motels",
+    "Bed and Breakfast Inns"
   ],
   "required_topics": [
-    "human trafficking awareness"
+    "Human trafficking awareness"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
@@ -35,29 +34,26 @@
     "font_size": null,
     "posting_location": null,
     "required_content": [
-      "model notice for victims of human trafficking"
+      "Available telephone hotline numbers for help and reporting"
     ]
   },
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    {
-      "statute_name": "California Labor Code Section 437a"
-    },
-    {
-      "statute_name": "Senate Bill 970",
-      "effective_date": "2020-01-01"
-    }
+    "SB 970 (California Legislature)"
   ],
-  "source_urls": [],
-  "harbor_alliance_posture": "approval-required",
-  "harbor_alliance_actions": [
-    "provide human trafficking awareness training",
-    "post the model notice"
+  "source_urls": [
+    "https://www.leginfo.ca.gov/bill/ca/sb_970-979/sb_970.pdf",
+    "https://www.nhtrc.gov/",
+    "https://www.castnetwork.org/"
   ],
+  "harbor_alliance_posture": "needs-review",
+  "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "failure to comply could result in penalties"
+    "Failure to comply with posting and training requirements can result in fines and other penalties"
   ],
-  "notes": [],
+  "notes": [
+    "Employees who received training on or before January 1, 2019, do not need additional training."
+  ],
   "needs_review": []
 }

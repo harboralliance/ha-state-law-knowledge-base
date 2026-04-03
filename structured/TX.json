@@ -2,60 +2,59 @@
   "state": "Texas",
   "state_code": "TX",
   "industry": "commercial lodging",
-  "source_file": "2026-04-02_Texas_lodging_compliance.md",
+  "source_file": "2026-04-03_Texas_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
-  "training_frequency": "annually",
-  "new_hire_deadline_days": null,
+  "training_frequency": "annual",
+  "new_hire_deadline_days": 90,
   "new_hire_deadline_text": null,
-  "signage_required": false,
-  "provider_approval_required": true,
-  "provider_approval_type": "specific training videos approved by the Office of the Attorney General (OAG)",
-  "approval_authority": "Office of the Attorney General (OAG)",
-  "approval_contact": "Contact respective training organization for more information",
+  "signage_required": true,
+  "provider_approval_required": false,
+  "provider_approval_type": null,
+  "approval_authority": null,
+  "approval_contact": null,
   "enforcing_agencies": [
-    "Office of the Attorney General (OAG)",
-    "Texas Department of Public Safety"
+    "Office of the Attorney General (OAG)"
   ],
   "applicable_to": [
-    "commercial lodging establishments with 10 or more rooms",
-    "all lodging establishments in the State of Texas"
+    {
+      "number_of_rooms": "10 or more"
+    }
   ],
   "required_topics": [
-    "human trafficking training"
+    "how and why human trafficking takes place in the hospitality industry",
+    "identifying individuals at risk of human trafficking",
+    "recognizing signs of human trafficking (such as physical injuries or submissive behavior)",
+    "understanding roles in reporting and responding to human trafficking incidents"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
-    "languages_required": [
-      "English",
-      "Spanish"
-    ],
+    "languages_required": null,
     "minimum_size": null,
     "font_size": null,
     "posting_location": null,
-    "required_content": []
+    "required_content": [
+      "human trafficking information"
+    ]
   },
-  "recordkeeping_requirements": [],
+  "recordkeeping_requirements": [
+    "certificate of completion"
+  ],
   "certificate_requirements": [],
   "law_references": [
-    "House Bill 390, Texas Legislature"
+    "House Bill 390 (87th Regular Session)"
   ],
   "source_urls": [
-    "https://www.texasattorneygeneral.gov/training-resources/human-trafficking-training-videos",
-    "https://unboundnow.com/trainings/unbound-now-human-trafficking-texas/",
-    "https://extendedstayamerica.com/training/human-traffic-trainig",
-    "https://www.marriott.com/en-us/sites/default/files/2021-05/marriott-hotels-and-resorts-prevention-of-human-trafficking.pdf"
+    "https://www.texasattorneygeneral.gov/initiatives/human-trafficking/training-programs",
+    "https://www.texasattorneygeneral.gov/resources"
   ],
   "harbor_alliance_posture": "approval-required",
-  "harbor_alliance_actions": [
-    "Ensure compliance with the training requirements and obtain approval from the Office of the Attorney General (OAG)"
-  ],
+  "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "Potential legal penalties for non-compliance",
-    "Costs associated with obtaining and implementing training"
+    "disciplinary protection for making good faith reports of suspected human trafficking incidents"
   ],
   "notes": [
-    "Lodging establishments are encouraged to provide human trafficking training regardless of room count"
+    "The legislation requires the use of approved training videos from a list provided by the Office of the Attorney General."
   ],
   "needs_review": []
 }

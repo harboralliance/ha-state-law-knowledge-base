@@ -1,0 +1,66 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 4",
+      "relevancy": "100% - 53%",
+      "count": 4,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zsex:(pos=1) AND Ztraffick:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "DE",
+      "bill_number": "HB166",
+      "bill_id": 2031659,
+      "change_hash": "aec309c22961bf92709d9eb5822c4ce8",
+      "url": "https://legiscan.com/DE/bill/HB166/2025",
+      "text_url": "https://legiscan.com/DE/text/HB166/2025",
+      "research_url": "https://legiscan.com/DE/research/HB166/2025",
+      "last_action_date": "2025-06-25",
+      "last_action": "Assigned to Judiciary Committee in Senate",
+      "title": "An Act To Amend Title 11 And Title 16 Of The Delaware Code Relating To Child Sexual Abuse Material."
+    },
+    "1": {
+      "relevance": 63,
+      "state": "DE",
+      "bill_number": "SB17",
+      "bill_id": 1911260,
+      "change_hash": "b245fec850359917783fcaebaed098c2",
+      "url": "https://legiscan.com/DE/bill/SB17/2025",
+      "text_url": "https://legiscan.com/DE/text/SB17/2025",
+      "research_url": "https://legiscan.com/DE/research/SB17/2025",
+      "last_action_date": "2025-08-20",
+      "last_action": "Signed by Governor",
+      "title": "An Act To Amend Title 10, Title 11, And Title 19 Of The Delaware Code Relating To Crime Victims And Witnesses."
+    },
+    "2": {
+      "relevance": 58,
+      "state": "DE",
+      "bill_number": "HB225",
+      "bill_id": 2037575,
+      "change_hash": "d2b3aae68dfd6065793bfa297f94cfb8",
+      "url": "https://legiscan.com/DE/bill/HB225/2025",
+      "text_url": "https://legiscan.com/DE/text/HB225/2025",
+      "research_url": "https://legiscan.com/DE/research/HB225/2025",
+      "last_action_date": "2025-07-01",
+      "last_action": "Signed by Governor",
+      "title": "An Act Making Appropriations For The Expense Of The State Government For The Fiscal Year Ending June 30, 2026; Specifying Certain Procedures, Conditions And Limitations For The Expenditure Of Such Funds; And Amending Certain Pertinent Statutory Provisions."
+    },
+    "3": {
+      "relevance": 53,
+      "state": "DE",
+      "bill_number": "SB225",
+      "bill_id": 2101205,
+      "change_hash": "88768aaf9d41cf5e42617d4fa1117f64",
+      "url": "https://legiscan.com/DE/bill/SB225/2025",
+      "text_url": "https://legiscan.com/DE/text/SB225/2025",
+      "research_url": "https://legiscan.com/DE/research/SB225/2025",
+      "last_action_date": "2026-01-29",
+      "last_action": "Introduced and Assigned to Finance Committee in Senate",
+      "title": "An Act Making Appropriations For The Expense Of The State Government For The Fiscal Year Ending June 30, 2027; Specifying Certain Procedures, Conditions And Limitations For The Expenditure Of Such Funds; And Amending Certain Pertinent Statutory Provisions."
+    }
+  }
+}

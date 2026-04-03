@@ -1,55 +1,62 @@
 {
   "state": "Connecticut",
   "state_code": "CT",
-  "industry": "commercial lodging",
-  "source_file": "2026-04-02_Connecticut_lodging_compliance.md",
+  "industry": "child protection, education, law enforcement, healthcare, hospitality",
+  "source_file": "2026-04-03_Connecticut_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
-  "training_frequency": "annually",
+  "training_frequency": null,
   "new_hire_deadline_days": null,
   "new_hire_deadline_text": null,
-  "signage_required": true,
-  "provider_approval_required": false,
+  "signage_required": false,
+  "provider_approval_required": true,
   "provider_approval_type": null,
-  "approval_authority": null,
+  "approval_authority": "Department of Children and Families (DCF)",
   "approval_contact": null,
   "enforcing_agencies": [
     "Department of Children and Families (DCF)",
-    "state attorneys",
-    "local law enforcement"
+    "State attorneys",
+    "Local law enforcement"
   ],
   "applicable_to": [
-    "hotels, motels, inns, similar lodging; emergency medical services (EMS); child protective services"
+    "hotel, lodging businesses"
   ],
-  "required_topics": [],
+  "required_topics": [
+    "child trafficking"
+  ],
   "reporting_contacts_required": [
-    "state attorneys",
-    "local law enforcement"
+    {
+      "contact_type": "State attorneys",
+      "responsibilities": "Document training and investigations of missing children, trafficking referrals"
+    },
+    {
+      "contact_type": "Local law enforcement",
+      "responsibilities": "Document training and investigations of missing children, trafficking referrals"
+    }
   ],
   "signage_details": {
     "languages_required": [],
     "minimum_size": null,
     "font_size": null,
-    "posting_location": "all employees annually",
-    "required_content": [
-      "trafficking training and awareness campaigns"
-    ]
+    "posting_location": null,
+    "required_content": []
   },
-  "recordkeeping_requirements": [],
+  "recordkeeping_requirements": [
+    "mandatory data reporting requirements"
+  ],
   "certificate_requirements": [],
   "law_references": [
-    {
-      "name": "Human and Sex Trafficking Legislation",
-      "url": "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/human-and-sex-trafficking-legislation"
-    }
+    "Human and sex trafficking legislation"
   ],
   "source_urls": [
     "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/trainings-for-providers",
     "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/human-and-sex-trafficking-legislation"
   ],
-  "harbor_alliance_posture": "immediate-entry",
+  "harbor_alliance_posture": "approval-required",
   "harbor_alliance_actions": [],
-  "risks_or_constraints": [],
+  "risks_or_constraints": [
+    "Laws enacted since 2010 vary by state, requiring flexibility in compliance approach"
+  ],
   "notes": [],
   "needs_review": []
 }

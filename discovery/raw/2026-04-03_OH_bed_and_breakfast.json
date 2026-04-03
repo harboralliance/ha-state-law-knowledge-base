@@ -1,0 +1,66 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 4",
+      "relevancy": "100% - 55%",
+      "count": 4,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zbed:(pos=1) AND Zbreakfast:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "OH",
+      "bill_number": "SB190",
+      "bill_id": 2029268,
+      "change_hash": "6c7248475ac054b77900f85b77633772",
+      "url": "https://legiscan.com/OH/bill/SB190/2025",
+      "text_url": "https://legiscan.com/OH/text/SB190/2025",
+      "research_url": "https://legiscan.com/OH/research/SB190/2025",
+      "last_action_date": "2025-05-07",
+      "last_action": "Referred to committee: Finance",
+      "title": "Enact A Good Deal for Ohio Act"
+    },
+    "1": {
+      "relevance": 97,
+      "state": "OH",
+      "bill_number": "HB455",
+      "bill_id": 2044413,
+      "change_hash": "c2244d00cfb3c8f5b873c8093d6178c5",
+      "url": "https://legiscan.com/OH/bill/HB455/2025",
+      "text_url": "https://legiscan.com/OH/text/HB455/2025",
+      "research_url": "https://legiscan.com/OH/research/HB455/2025",
+      "last_action_date": "2026-02-11",
+      "last_action": "Referred to committee: Education",
+      "title": "Regards the operation of public schools and the DEW"
+    },
+    "2": {
+      "relevance": 62,
+      "state": "OH",
+      "bill_number": "HB775",
+      "bill_id": 2138010,
+      "change_hash": "c6d0085ab8f49c70a5a6ca3d8689f511",
+      "url": "https://legiscan.com/OH/bill/HB775/2025",
+      "text_url": "https://legiscan.com/OH/text/HB775/2025",
+      "research_url": "https://legiscan.com/OH/research/HB775/2025",
+      "last_action_date": "2026-03-25",
+      "last_action": "Referred to committee: General Government",
+      "title": "Regards state agencies' authority to adopt administrative rules"
+    },
+    "3": {
+      "relevance": 55,
+      "state": "OH",
+      "bill_number": "HB96",
+      "bill_id": 1966320,
+      "change_hash": "2d9e666a9894139fb859884eaba9add5",
+      "url": "https://legiscan.com/OH/bill/HB96/2025",
+      "text_url": "https://legiscan.com/OH/text/HB96/2025",
+      "research_url": "https://legiscan.com/OH/research/HB96/2025",
+      "last_action_date": "2025-06-30",
+      "last_action": "Effective Operating appropriations effective June 30, 2025. Other provisions generally effective September 30, 2025. Some provisions subject to special effective dates.",
+      "title": "Make state operating appropriations for FY 2026-27"
+    }
+  }
+}
