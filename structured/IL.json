@@ -1,21 +1,21 @@
 {
   "state": "Illinois",
   "state_code": "IL",
-  "industry": "commercial lodging",
-  "source_file": "2026-04-03_Illinois_lodging_compliance.md",
+  "industry": "commercial lodging, restaurants, truck stops",
+  "source_file": "2026-04-05_Illinois_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
-  "training_frequency": "every two years",
+  "training_frequency": "every 2 years",
   "new_hire_deadline_days": 180,
-  "new_hire_deadline_text": "within six months of employment",
+  "new_hire_deadline_text": "within 6 months of employment in their role with the employer",
   "signage_required": false,
   "provider_approval_required": false,
   "provider_approval_type": null,
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "Department of Human Services",
-    "law enforcement agencies"
+    "Units of local government",
+    "Law enforcement agencies"
   ],
   "applicable_to": [
     "lodging establishments",
@@ -23,8 +23,10 @@
     "truck stops"
   ],
   "required_topics": [
-    "recognizing human trafficking",
-    "protocols for reporting it"
+    "definitions of human trafficking",
+    "identifying individuals at risk",
+    "distinctions between labor and sex trafficking relevant to lodging establishments",
+    "guidance on reporting and responding to instances of trafficking"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
@@ -39,17 +41,15 @@
   "law_references": [
     "SB1422"
   ],
-  "source_urls": [
-    "NEEDS REVIEW"
-  ],
+  "source_urls": [],
   "harbor_alliance_posture": "needs-review",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "civil penalties for non-compliance"
+    "non-compliance may result in civil penalties"
   ],
-  "notes": [],
-  "needs_review": [
-    "exact source URL",
-    "specific signage details"
-  ]
+  "notes": [
+    "This legislation impacts lodging establishments, restaurants, and truck stops.",
+    "Training must be completed within the first 6 months of employment and every 2 years thereafter."
+  ],
+  "needs_review": []
 }

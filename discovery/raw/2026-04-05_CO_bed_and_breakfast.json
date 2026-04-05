@@ -1,0 +1,27 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 1",
+      "relevancy": "100% - 100%",
+      "count": 1,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zbed:(pos=1) AND Zbreakfast:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "CO",
+      "bill_number": "HB1157",
+      "bill_id": 2111318,
+      "change_hash": "87809bac1caaa77050886561cf096d6b",
+      "url": "https://legiscan.com/CO/bill/HB1157/2026",
+      "text_url": "https://legiscan.com/CO/text/HB1157/2026",
+      "research_url": "https://legiscan.com/CO/research/HB1157/2026",
+      "last_action_date": "2026-03-12",
+      "last_action": "Governor Signed",
+      "title": "Department of Human Services Supplemental"
+    }
+  }
+}

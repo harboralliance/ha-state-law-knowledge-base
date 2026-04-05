@@ -2,59 +2,57 @@
   "state": "Texas",
   "state_code": "TX",
   "industry": "commercial lodging",
-  "source_file": "2026-04-03_Texas_lodging_compliance.md",
+  "source_file": "2026-04-05_Texas_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
   "training_frequency": "annual",
-  "new_hire_deadline_days": 90,
+  "new_hire_deadline_days": null,
   "new_hire_deadline_text": null,
-  "signage_required": true,
-  "provider_approval_required": false,
-  "provider_approval_type": null,
-  "approval_authority": null,
-  "approval_contact": null,
+  "signage_required": false,
+  "provider_approval_required": true,
+  "provider_approval_type": "OAG approval",
+  "approval_authority": "Office of the Attorney General (OAG)",
+  "approval_contact": "[email\u00a0protected]",
   "enforcing_agencies": [
-    "Office of the Attorney General (OAG)"
+    "Office of the Attorney General",
+    "Local law enforcement"
   ],
   "applicable_to": [
-    {
-      "number_of_rooms": "10 or more"
-    }
+    "commercial lodging establishments with 10 or more rooms",
+    "all lodging establishments encouraged"
   ],
   "required_topics": [
-    "how and why human trafficking takes place in the hospitality industry",
-    "identifying individuals at risk of human trafficking",
-    "recognizing signs of human trafficking (such as physical injuries or submissive behavior)",
-    "understanding roles in reporting and responding to human trafficking incidents"
+    "identifying red flags",
+    "recognizing human trafficking in the hospitality industry",
+    "reporting suspected cases",
+    "understanding the role of hotel staff"
   ],
-  "reporting_contacts_required": [],
+  "reporting_contacts_required": [
+    "[email\u00a0protected]"
+  ],
   "signage_details": {
-    "languages_required": null,
+    "languages_required": [],
     "minimum_size": null,
     "font_size": null,
     "posting_location": null,
-    "required_content": [
-      "human trafficking information"
-    ]
+    "required_content": []
   },
   "recordkeeping_requirements": [
-    "certificate of completion"
+    "retain records of completed training for three years upon request by OAG or law enforcement"
   ],
-  "certificate_requirements": [],
+  "certificate_requirements": [
+    "employees who complete the training must be issued a certificate"
+  ],
   "law_references": [
-    "House Bill 390 (87th Regular Session)"
+    "House Bill 390"
   ],
-  "source_urls": [
-    "https://www.texasattorneygeneral.gov/initiatives/human-trafficking/training-programs",
-    "https://www.texasattorneygeneral.gov/resources"
-  ],
+  "source_urls": [],
   "harbor_alliance_posture": "approval-required",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "disciplinary protection for making good faith reports of suspected human trafficking incidents"
+    "state-controlled training requirement",
+    "provider approval process"
   ],
-  "notes": [
-    "The legislation requires the use of approved training videos from a list provided by the Office of the Attorney General."
-  ],
+  "notes": [],
   "needs_review": []
 }

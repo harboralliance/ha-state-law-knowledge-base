@@ -1,0 +1,27 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 1",
+      "relevancy": "100% - 100%",
+      "count": 1,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(((short:(pos=1) PHRASE 2 term:(pos=2)) AND Zrental:(pos=3)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "LA",
+      "bill_number": "HB1",
+      "bill_id": 2121126,
+      "change_hash": "d969774a1960d48d1cc7ca58d43c778b",
+      "url": "https://legiscan.com/LA/bill/HB1/2026",
+      "text_url": "https://legiscan.com/LA/text/HB1/2026",
+      "research_url": "https://legiscan.com/LA/research/HB1/2026",
+      "last_action_date": "2026-03-09",
+      "last_action": "Read by title, under the rules, referred to the Committee on Appropriations.",
+      "title": "Provides for the ordinary operating expenses of state government for Fiscal Year 2026-2027"
+    }
+  }
+}
