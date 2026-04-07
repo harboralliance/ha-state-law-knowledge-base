@@ -1,0 +1,40 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 2",
+      "relevancy": "100% - 96%",
+      "count": 2,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zmotel:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "CO",
+      "bill_number": "SB109",
+      "bill_id": 2114516,
+      "change_hash": "9c2f562076acd89627b340ba0ac655fc",
+      "url": "https://legiscan.com/CO/bill/SB109/2026",
+      "text_url": "https://legiscan.com/CO/text/SB109/2026",
+      "research_url": "https://legiscan.com/CO/research/SB109/2026",
+      "last_action_date": "2026-03-11",
+      "last_action": "Introduced In House - Assigned to Transportation, Housing & Local Government",
+      "title": "Building Code Accessibility"
+    },
+    "1": {
+      "relevance": 96,
+      "state": "CO",
+      "bill_number": "HJR1002",
+      "bill_id": 2081572,
+      "change_hash": "28373828d1b99564ee8ce365526e76c3",
+      "url": "https://legiscan.com/CO/bill/HJR1002/2026",
+      "text_url": "https://legiscan.com/CO/text/HJR1002/2026",
+      "research_url": "https://legiscan.com/CO/research/HJR1002/2026",
+      "last_action_date": "2026-01-20",
+      "last_action": "Signed by the President of the Senate",
+      "title": "MLK Jr. Day"
+    }
+  }
+}

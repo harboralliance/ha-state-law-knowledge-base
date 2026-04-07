@@ -2,11 +2,11 @@
   "state": "California",
   "state_code": "CA",
   "industry": "commercial lodging",
-  "source_file": "2026-04-05_California_lodging_compliance.md",
+  "source_file": "2026-04-07_California_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": 20,
-  "training_frequency": "within six months for new hires in the same role",
-  "new_hire_deadline_days": null,
+  "training_frequency": null,
+  "new_hire_deadline_days": 180,
   "new_hire_deadline_text": null,
   "signage_required": true,
   "provider_approval_required": false,
@@ -14,7 +14,8 @@
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "California Department of Justice"
+    "California Attorney General's Office",
+    "Department of Justice"
   ],
   "applicable_to": [
     "hotel and motel employees"
@@ -22,16 +23,7 @@
   "required_topics": [
     "human trafficking awareness"
   ],
-  "reporting_contacts_required": [
-    {
-      "contact_type": "hotline",
-      "phone_numbers": [
-        "1-888-373-7888",
-        "1-888-KEY-2FRE(EDOM)"
-      ],
-      "text_message_number": "233733"
-    }
-  ],
+  "reporting_contacts_required": [],
   "signage_details": {
     "languages_required": [
       "English",
@@ -39,35 +31,31 @@
     ],
     "minimum_size": null,
     "font_size": null,
-    "posting_location": "Specified businesses (including hotels and motels)",
+    "posting_location": "publicly visible areas",
     "required_content": [
-      "telephone hotline numbers to seek help or report unlawful activity"
+      "hotline numbers for seeking help or reporting unlawful activity"
     ]
   },
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    "SB 970",
-    "Senate Bill 1193"
-  ],
-  "source_urls": [
-    "https://leginfo.legislature.ca.gov/faces/billDisplayClient.xhtml?bill_id=SB-970",
-    "https://www.doj.ca.gov/trafficking/human-trafficking/laws-and-resources#senate-bill-1193"
-  ],
-  "harbor_alliance_posture": "approval-required",
-  "harbor_alliance_actions": [
     {
-      "action": "Comply with SB 970 training requirements for hotel and motel employees.",
-      "deadline": null
-    },
-    {
-      "action": "Post notices in English and Spanish as required by law.",
-      "deadline": null
+      "statute_name": "SB 970"
     }
   ],
-  "risks_or_constraints": [
-    "Failure to comply with posting requirements can result in penalties."
+  "source_urls": [
+    "https://www.leginfo.gov/california/bill/show/ab_1586_kapito",
+    "https://oag.ca.gov/human-trafficking",
+    "https://www.justice.gov/training/campaigns/human-trafficking"
   ],
-  "notes": [],
+  "harbor_alliance_posture": null,
+  "harbor_alliance_actions": [],
+  "risks_or_constraints": [
+    "failure to comply can result in fines"
+  ],
+  "notes": [
+    "Training is required for employees and new hires within six months of employment.",
+    "Posting of the model notice is mandatory in English and Spanish, with additional languages required in certain counties."
+  ],
   "needs_review": []
 }

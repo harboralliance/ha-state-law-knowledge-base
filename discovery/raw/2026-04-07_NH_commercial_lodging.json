@@ -1,0 +1,40 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 2",
+      "relevancy": "100% - 79%",
+      "count": 2,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zcommerci:(pos=1) AND Zlodg:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "NH",
+      "bill_number": "HB1207",
+      "bill_id": 2054299,
+      "change_hash": "a77e81594aff796a6205ffe03785ca80",
+      "url": "https://legiscan.com/NH/bill/HB1207/2026",
+      "text_url": "https://legiscan.com/NH/text/HB1207/2026",
+      "research_url": "https://legiscan.com/NH/research/HB1207/2026",
+      "last_action_date": "2026-03-18",
+      "last_action": "Hearing: 03/31/2026, Room 100, State House, 10:15 am; Senate Calendar  11",
+      "title": "Relative to certain laws applicable to state chartered banks, credit unions, trust companies, and other consumer credit entities subject to the authority of the banking department."
+    },
+    "1": {
+      "relevance": 79,
+      "state": "NH",
+      "bill_number": "HB186",
+      "bill_id": 2064507,
+      "change_hash": "6290a3760c020c050c7ded29a1fee71d",
+      "url": "https://legiscan.com/NH/bill/HB186/2026",
+      "text_url": "https://legiscan.com/NH/text/HB186/2026",
+      "research_url": "https://legiscan.com/NH/research/HB186/2026",
+      "last_action_date": "2026-03-05",
+      "last_action": "Pending Motion Inexpedient to Legislate; 03/05/2026; Senate Journal 5",
+      "title": "Relative to the legalization and regulation of cannabis and making appropriations therefor."
+    }
+  }
+}
