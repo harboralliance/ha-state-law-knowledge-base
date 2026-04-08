@@ -1,0 +1,92 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 6",
+      "relevancy": "100% - 88%",
+      "count": 6,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zlodg:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "WY",
+      "bill_number": "SF0053",
+      "bill_id": 2090785,
+      "change_hash": "a0382aed064f681a3abecce242b5fb02",
+      "url": "https://legiscan.com/WY/bill/SF0053/2026",
+      "text_url": "https://legiscan.com/WY/text/SF0053/2026",
+      "research_url": "https://legiscan.com/WY/research/SF0053/2026",
+      "last_action_date": "2026-03-03",
+      "last_action": "Assigned Chapter Number 28",
+      "title": "Keeping amateurism in high school athletics."
+    },
+    "1": {
+      "relevance": 99,
+      "state": "WY",
+      "bill_number": "SF0101",
+      "bill_id": 2113374,
+      "change_hash": "31268dde16ac4f2083dd095c3491520f",
+      "url": "https://legiscan.com/WY/bill/SF0101/2026",
+      "text_url": "https://legiscan.com/WY/text/SF0101/2026",
+      "research_url": "https://legiscan.com/WY/research/SF0101/2026",
+      "last_action_date": "2026-03-10",
+      "last_action": "Governor Vetoed SEA No. 0064 ",
+      "title": "Second amendment protection act amendments-3."
+    },
+    "2": {
+      "relevance": 99,
+      "state": "WY",
+      "bill_number": "SF0079",
+      "bill_id": 2110625,
+      "change_hash": "d895e7dea5bd1e3052d1817081f268c4",
+      "url": "https://legiscan.com/WY/bill/SF0079/2026",
+      "text_url": "https://legiscan.com/WY/text/SF0079/2026",
+      "research_url": "https://legiscan.com/WY/research/SF0079/2026",
+      "last_action_date": "2026-02-27",
+      "last_action": "Assigned Chapter Number 19",
+      "title": "Sales and use tax reorganization."
+    },
+    "3": {
+      "relevance": 98,
+      "state": "WY",
+      "bill_number": "SF0002",
+      "bill_id": 2070891,
+      "change_hash": "7448dc1cf5926ec5d0164efcff892cb7",
+      "url": "https://legiscan.com/WY/bill/SF0002/2026",
+      "text_url": "https://legiscan.com/WY/text/SF0002/2026",
+      "research_url": "https://legiscan.com/WY/research/SF0002/2026",
+      "last_action_date": "2026-03-03",
+      "last_action": "Assigned Chapter Number 23",
+      "title": "Legislative budget."
+    },
+    "4": {
+      "relevance": 97,
+      "state": "WY",
+      "bill_number": "HB0130",
+      "bill_id": 2112334,
+      "change_hash": "d8bbb8b1037909e2b6e3169c8a3e4e17",
+      "url": "https://legiscan.com/WY/bill/HB0130/2026",
+      "text_url": "https://legiscan.com/WY/text/HB0130/2026",
+      "research_url": "https://legiscan.com/WY/research/HB0130/2026",
+      "last_action_date": "2026-03-04",
+      "last_action": "3rd Reading:Failed 13-18-0-0-0",
+      "title": "Second amendment protection act amendments."
+    },
+    "5": {
+      "relevance": 88,
+      "state": "WY",
+      "bill_number": "HB0132",
+      "bill_id": 2112313,
+      "change_hash": "1151d1ba55209ba23aa5a0a98c5bed79",
+      "url": "https://legiscan.com/WY/bill/HB0132/2026",
+      "text_url": "https://legiscan.com/WY/text/HB0132/2026",
+      "research_url": "https://legiscan.com/WY/research/HB0132/2026",
+      "last_action_date": "2026-02-11",
+      "last_action": "Failed Introduction 29-32-1-0-0",
+      "title": "Nicotine products manufacturer licensing and reporting."
+    }
+  }
+}

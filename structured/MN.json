@@ -2,7 +2,7 @@
   "state": "Minnesota",
   "state_code": "MN",
   "industry": "commercial lodging",
-  "source_file": "2026-04-07_Minnesota_lodging_compliance.md",
+  "source_file": "2026-04-08_Minnesota_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
   "training_frequency": "annually",
@@ -17,40 +17,46 @@
     "Minnesota Department of Health"
   ],
   "applicable_to": [
-    "owners",
-    "managers",
-    "on-site employees"
+    {
+      "owner": true,
+      "manager": true,
+      "employee": true
+    }
   ],
   "required_topics": [
-    "identifying signs of sex trafficking",
-    "how to respond effectively"
+    "sex trafficking prevention training",
+    "compliance with state law"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
     "languages_required": [
-      "English",
-      "Spanish",
-      "Somali",
-      "Hmong"
+      "English"
     ],
     "minimum_size": null,
     "font_size": null,
-    "posting_location": "back of house",
+    "posting_location": "back-of-house",
     "required_content": [
-      "the required back-of-house poster"
+      "Poster Set",
+      "Back of House (required to display)"
     ]
   },
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    "Minnesota Statutes, section 268.01 et seq."
+    "Minnesota law"
   ],
   "source_urls": [
-    "https://www.health.state.mn.us/divs/whsv/trafficking/training.html"
+    "health.safeharbor@state.mn.us"
   ],
-  "harbor_alliance_posture": "approval-required",
+  "harbor_alliance_posture": null,
   "harbor_alliance_actions": [],
-  "risks_or_constraints": [],
-  "notes": [],
+  "risks_or_constraints": [
+    "exceptions for employees under 16 and those working exclusively in a restaurant or providing catering services",
+    "new hire deadline of 90 days"
+  ],
+  "notes": [
+    "Training is mandatory for all owners, managers, and on-site employees with a hotel license.",
+    "All required staff must retake the training annually."
+  ],
   "needs_review": []
 }

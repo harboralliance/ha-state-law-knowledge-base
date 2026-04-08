@@ -1,11 +1,11 @@
 {
   "state": "Connecticut",
   "state_code": "CT",
-  "industry": "commercial lodging, child protective services, foster care, schools, law enforcement, hospitals, hotels/motels/lodging, medical providers, emergency services, youth programs",
-  "source_file": "2026-04-07_Connecticut_lodging_compliance.md",
+  "industry": "commercial lodging",
+  "source_file": "2026-04-08_Connecticut_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
-  "training_frequency": "annual",
+  "training_frequency": null,
   "new_hire_deadline_days": null,
   "new_hire_deadline_text": null,
   "signage_required": false,
@@ -14,30 +14,22 @@
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "Department of Children and Families (DCF)",
-    "law enforcement (state and municipal)"
+    "Connecticut Department of Children and Families (DCF)"
   ],
   "applicable_to": [
-    "Child Protective Services staff",
-    "foster parents",
-    "schools",
-    "law enforcement",
-    "hospitals",
-    "hotels/motels/lodging",
-    "medical providers",
-    "emergency services",
-    "youth programs"
+    " hotels",
+    "motels",
+    "similar lodging"
   ],
   "required_topics": [
-    "human trafficking",
-    "child protection",
-    "age-related offenses",
-    "hotel/motel requirements",
-    "victim services"
+    "Introduction to Child Trafficking in Connecticut",
+    "Introduction to Child Trafficking in Connecticut for School Settings",
+    "Introduction to Human Trafficking in Connecticut for Law Enforcement - Police Officer's Standards and Training (POST) Certified",
+    "Introduction to Human Trafficking in Connecticut for Emergency Medical Services (EMS)",
+    "Child Trafficking Training for Medical Providers/Emergency Medicine",
+    "Introduction to Human Trafficking in Connecticut for Hotels, Motels, and Similar Lodging"
   ],
-  "reporting_contacts_required": [
-    "state attorneys and local law enforcement"
-  ],
+  "reporting_contacts_required": [],
   "signage_details": {
     "languages_required": [],
     "minimum_size": null,
@@ -46,30 +38,24 @@
     "required_content": []
   },
   "recordkeeping_requirements": [
-    "training documentation",
-    "investigations of missing children",
-    "trafficking referrals",
-    "trafficking cases referred for prosecution"
+    "guest transactions and receipts must be kept for at least 6 months"
   ],
   "certificate_requirements": [],
   "law_references": [
-    "2017 Public Act 17-32",
-    "2016 Public Act 16-71",
-    "2015 Public Act 15-195",
-    "2014 Public Act 14-186",
-    "2013 Public Act 13-166"
+    "Hart Act",
+    "Public Act 97-201"
   ],
   "source_urls": [
     "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/trainings-for-providers",
     "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/human-and-sex-trafficking-legislation"
   ],
-  "harbor_alliance_posture": "immediate-entry",
+  "harbor_alliance_posture": null,
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "need for future signage implementation"
+    "state application or approval path not explicitly mentioned"
   ],
   "notes": [
-    "Signage requirements not explicitly mentioned in the source text but common practice"
+    "Training is required for professionals across various sectors, including hospitality industry personnel."
   ],
   "needs_review": []
 }

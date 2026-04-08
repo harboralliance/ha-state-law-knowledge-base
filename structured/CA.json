@@ -2,60 +2,68 @@
   "state": "California",
   "state_code": "CA",
   "industry": "commercial lodging",
-  "source_file": "2026-04-07_California_lodging_compliance.md",
+  "source_file": "2026-04-08_California_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": 20,
   "training_frequency": null,
-  "new_hire_deadline_days": 180,
+  "new_hire_deadline_days": null,
   "new_hire_deadline_text": null,
-  "signage_required": true,
+  "signage_required": false,
   "provider_approval_required": false,
   "provider_approval_type": null,
   "approval_authority": null,
   "approval_contact": null,
-  "enforcing_agencies": [
-    "California Attorney General's Office",
-    "Department of Justice"
-  ],
+  "enforcing_agencies": [],
   "applicable_to": [
-    "hotel and motel employees"
+    "hotel and motel employers"
   ],
   "required_topics": [
-    "human trafficking awareness"
+    "human trafficking awareness",
+    "recognizing, reporting, responding to suspected cases"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
     "languages_required": [
       "English",
-      "Spanish"
+      "Spanish",
+      "up to 3 additional languages"
     ],
     "minimum_size": null,
     "font_size": null,
-    "posting_location": "publicly visible areas",
+    "posting_location": null,
     "required_content": [
-      "hotline numbers for seeking help or reporting unlawful activity"
+      "model notice for posting"
     ]
   },
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
     {
-      "statute_name": "SB 970"
+      "statute_name": "Senate Bill 970",
+      "code_section": null,
+      "public_act": null
     }
   ],
   "source_urls": [
-    "https://www.leginfo.gov/california/bill/show/ab_1586_kapito",
-    "https://oag.ca.gov/human-trafficking",
-    "https://www.justice.gov/training/campaigns/human-trafficking"
+    "NEEDS REVIEW"
   ],
-  "harbor_alliance_posture": null,
-  "harbor_alliance_actions": [],
-  "risks_or_constraints": [
-    "failure to comply can result in fines"
+  "harbor_alliance_posture": "immediate-entry",
+  "harbor_alliance_actions": [
+    {
+      "action": "Annual refresher courses"
+    },
+    {
+      "action": "Develop or update training materials based on the latest research and best practices in human trafficking prevention and response"
+    },
+    {
+      "action": "Ensure that training sessions are accessible and engaging, possibly offering both online and in-person options"
+    }
   ],
+  "risks_or_constraints": [],
   "notes": [
-    "Training is required for employees and new hires within six months of employment.",
-    "Posting of the model notice is mandatory in English and Spanish, with additional languages required in certain counties."
+    "No specific enforcement mechanism has been mentioned beyond the compliance deadline of January 1, 2020."
   ],
-  "needs_review": []
+  "needs_review": [
+    "Source URLs"
+  ]
 }

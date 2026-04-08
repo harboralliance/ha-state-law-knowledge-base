@@ -1,0 +1,92 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 6",
+      "relevancy": "100% - 63%",
+      "count": 6,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zlabor:(pos=1) AND Ztraffick:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "AL",
+      "bill_number": "HB346",
+      "bill_id": 2101558,
+      "change_hash": "954c394b07f40b484c778f6c1c5f21c0",
+      "url": "https://legiscan.com/AL/bill/HB346/2026",
+      "text_url": "https://legiscan.com/AL/text/HB346/2026",
+      "research_url": "https://legiscan.com/AL/research/HB346/2026",
+      "last_action_date": "2026-01-29",
+      "last_action": "Pending House State Government",
+      "title": "Tax incentives; reimbursement for violation of labor and trafficking laws provided for"
+    },
+    "1": {
+      "relevance": 99,
+      "state": "AL",
+      "bill_number": "SB291",
+      "bill_id": 2113400,
+      "change_hash": "06f98da7df87c8006a41c63c6ffff5eb",
+      "url": "https://legiscan.com/AL/bill/SB291/2026",
+      "text_url": "https://legiscan.com/AL/text/SB291/2026",
+      "research_url": "https://legiscan.com/AL/research/SB291/2026",
+      "last_action_date": "2026-02-10",
+      "last_action": "Pending Senate Finance and Taxation General Fund",
+      "title": "Tax incentives; reimbursement for violation of labor and trafficking laws provided for"
+    },
+    "2": {
+      "relevance": 95,
+      "state": "AL",
+      "bill_number": "HB653",
+      "bill_id": 2140058,
+      "change_hash": "bce43d990d86e9b274c1e5c1ac0fc2e4",
+      "url": "https://legiscan.com/AL/bill/HB653/2026",
+      "text_url": "https://legiscan.com/AL/text/HB653/2026",
+      "research_url": "https://legiscan.com/AL/research/HB653/2026",
+      "last_action_date": "2026-03-31",
+      "last_action": "Pending House Judiciary",
+      "title": "Human trafficking; crime of human trafficking in the first degree, minimum sentence imposed for subjecting victim to sexual servitude"
+    },
+    "3": {
+      "relevance": 71,
+      "state": "AL",
+      "bill_number": "HB389",
+      "bill_id": 2109001,
+      "change_hash": "4011524c7f40915db81d57fa0023848f",
+      "url": "https://legiscan.com/AL/bill/HB389/2026",
+      "text_url": "https://legiscan.com/AL/text/HB389/2026",
+      "research_url": "https://legiscan.com/AL/research/HB389/2026",
+      "last_action_date": "2026-04-01",
+      "last_action": "Read for the Second Time and placed on the Calendar",
+      "title": "Crimes and procedure; domestic violence crimes, substantially revised; temporary holding periods and bond requirements, established; criminal penalties increased under certain conditions"
+    },
+    "4": {
+      "relevance": 64,
+      "state": "AL",
+      "bill_number": "SB146",
+      "bill_id": 2079748,
+      "change_hash": "8c40dd25b33cb86641ecccb30003a71e",
+      "url": "https://legiscan.com/AL/bill/SB146/2026",
+      "text_url": "https://legiscan.com/AL/text/SB146/2026",
+      "research_url": "https://legiscan.com/AL/research/SB146/2026",
+      "last_action_date": "2026-04-01",
+      "last_action": "Motion to Read a Third Time and Pass as Amended - Adopted Roll Call 1159",
+      "title": "Appropriations from State General Fund for executive, legislative, and judicial agencies of the State, other functions of government, debt service, and capital outlay for fiscal year ending September 30, 2027"
+    },
+    "5": {
+      "relevance": 63,
+      "state": "AL",
+      "bill_number": "HB218",
+      "bill_id": 2077734,
+      "change_hash": "6f488b2dcfd3682c5137dd56490a8d56",
+      "url": "https://legiscan.com/AL/bill/HB218/2026",
+      "text_url": "https://legiscan.com/AL/text/HB218/2026",
+      "research_url": "https://legiscan.com/AL/research/HB218/2026",
+      "last_action_date": "2026-01-14",
+      "last_action": "Pending House Ways and Means General Fund",
+      "title": "Appropriations from State General Fund for executive, legislative, and judicial agencies of the State, other functions of government, debt service, and capital outlay for fiscal year ending September 30, 2027"
+    }
+  }
+}
