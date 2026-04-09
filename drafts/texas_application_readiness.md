@@ -1,25 +1,24 @@
 # Texas Application Readiness
 
-## Overview
-The Texas Office of the Attorney General (OAG) has established requirements for human trafficking training for workers in commercial lodging establishments. House Bill 390 mandates annual training for employees at establishments with 10 or more rooms and all lodging establishments regardless of size.
+## Preparation for Texas OAG Application Submission
 
-## Materials Needed
-- Access to approved training videos provided by the Office of the Attorney General.
-- Compliance materials such as anti-trafficking signage.
-- Training documentation, including proof of completion.
+The Harbor Alliance must prepare comprehensively to meet the requirements set forth by the Office of the Attorney General (OAG) in Texas. This includes understanding specific training needs, gathering necessary materials, and identifying potential risks or gaps that may arise during the application process.
 
-## Standards to Meet
-- **Training Content**: Employees must receive training on identifying and responding to human trafficking, covering topics like recognizing signs of trafficking, reporting incidents, and posting anti-trafficking signage.
-- **Frequency**: Annual training for establishments with 10 or more rooms; mandatory for all lodging establishments.
-- **Duration**: The training must be completed within one year of employment and annually thereafter.
+### Materials Needed
+1. **Human Trafficking Training Videos**: The OAG has approved several online and in-person training videos that meet the requirements. Employees must access and complete these videos.
+2. **Anti-Trafficking Signage**: Employers need to ensure that anti-trafficking signage is posted in all commercial lodging establishments with 10 or more rooms, as well as at smaller establishments.
+3. **Training Documentation**: Employers must maintain records of training completion for employees, including dates and evidence of online course completion.
+4. **Anti-Trafficking Policy**: Develop an anti-trafficking policy that aligns with the OAG’s requirements and is communicated to all staff.
 
-## Likely Review Risks/Gaps
-- **Training Completion**: Ensuring that all employees complete the required training on time and in full.
-- **Signage Compliance**: Verifying that anti-trafficking signage is posted in visible locations.
-- **Employee Awareness**: Confirming that employees understand their roles in identifying and reporting human trafficking incidents.
+### Standards to Meet
+1. **Annual Training Requirement**: All employees of commercial lodging establishments with 10 or more rooms must complete the required human trafficking training annually.
+2. **Signage Requirement**: Post anti-trafficking signage in all relevant locations.
+3. **Policy Implementation**: Ensure that an effective anti-trafficking policy is implemented and communicated throughout the organization.
 
-## Additional Resources
-- **Office of the Attorney General, Texas**: Provides access to approved training videos.
-- **Local Law Enforcement Agencies**: For additional support in identifying and responding to suspected cases of human trafficking.
+### Likely Review Risks/Gaps
+1. **Training Completion Verification**: There may be a need to verify that all employees have completed the required training and retain evidence of completion for audit purposes.
+2. **Signage Placement**: Ensure that anti-trafficking signage is visible and accessible in all designated areas within the establishment.
+3. **Policy Consistency**: Verify that the anti-trafficking policy aligns with OAG standards and is consistently applied across all departments and employees.
 
-**NEEDS REVIEW:** Specific requirements regarding enforcement mechanisms and penalties for non-compliance are not explicitly stated in the provided sources.
+### Conclusion
+The Harbor Alliance must diligently prepare for the Texas OAG application submission by ensuring compliance with human trafficking training requirements, maintaining proper documentation, and addressing any potential risks or gaps. Compliance with these standards will demonstrate the organization’s commitment to responsible operations and support for the local community.

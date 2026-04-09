@@ -2,10 +2,10 @@
   "state": "Minnesota",
   "state_code": "MN",
   "industry": "commercial lodging",
-  "source_file": "2026-04-08_Minnesota_lodging_compliance.md",
+  "source_file": "2026-04-09_Minnesota_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
-  "training_frequency": "annually",
+  "training_frequency": "yearly",
   "new_hire_deadline_days": 90,
   "new_hire_deadline_text": "within 90 days of hire",
   "signage_required": true,
@@ -17,46 +17,52 @@
     "Minnesota Department of Health"
   ],
   "applicable_to": [
-    {
-      "owner": true,
-      "manager": true,
-      "employee": true
-    }
+    "hotel",
+    "motel",
+    "short-term rental property owners, managers, and on-site employees"
   ],
   "required_topics": [
-    "sex trafficking prevention training",
-    "compliance with state law"
+    "sex trafficking prevention",
+    "response training"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
     "languages_required": [
-      "English"
+      "English",
+      "Spanish",
+      "Somali",
+      "Hmong"
     ],
     "minimum_size": null,
     "font_size": null,
     "posting_location": "back-of-house",
     "required_content": [
-      "Poster Set",
-      "Back of House (required to display)"
+      "requirements for sex trafficking prevention and response"
     ]
   },
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    "Minnesota law"
+    "Minn. Stat. \u00a7 173A.04"
   ],
   "source_urls": [
     "health.safeharbor@state.mn.us"
   ],
-  "harbor_alliance_posture": null,
-  "harbor_alliance_actions": [],
-  "risks_or_constraints": [
-    "exceptions for employees under 16 and those working exclusively in a restaurant or providing catering services",
-    "new hire deadline of 90 days"
+  "harbor_alliance_posture": "immediate-entry",
+  "harbor_alliance_actions": [
+    {
+      "action": "Complete the required sex trafficking prevention and response training",
+      "details": "All hotel, motel, and short-term rental property owners, managers, and on-site employees must complete this training annually."
+    },
+    {
+      "action": "Display a back-of-house poster",
+      "details": "Managers and owners are required to display a back-of-house poster that outlines the requirements for sex trafficking prevention and response."
+    }
   ],
+  "risks_or_constraints": [],
   "notes": [
-    "Training is mandatory for all owners, managers, and on-site employees with a hotel license.",
-    "All required staff must retake the training annually."
+    "Training materials will be available in Spanish, Hmong, and Somali starting late fall 2023/early 2024.",
+    "Licensees (owners, managers) are required to pay for the costs of compliance, such as printing posters."
   ],
   "needs_review": []
 }

@@ -1,0 +1,105 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 7",
+      "relevancy": "100% - 92%",
+      "count": 7,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zhospit:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "AR",
+      "bill_number": "SB42",
+      "bill_id": 2140560,
+      "change_hash": "d1b5a58095803c9da2c5c6e2460e846c",
+      "url": "https://legiscan.com/AR/bill/SB42/2026",
+      "text_url": "https://legiscan.com/AR/text/SB42/2026",
+      "research_url": "https://legiscan.com/AR/research/SB42/2026",
+      "last_action_date": "2026-04-08",
+      "last_action": "Read first time, rules suspended, read second time, referred to JOINT BUDGET COMMITTEE",
+      "title": "An Act For The University Of Arkansas For Medical Sciences Appropriation For The 2026-2027 Fiscal Year. "
+    },
+    "1": {
+      "relevance": 99,
+      "state": "AR",
+      "bill_number": "HB1058",
+      "bill_id": 2140557,
+      "change_hash": "49324737421fe8296ce0eaaf12c4dad0",
+      "url": "https://legiscan.com/AR/bill/HB1058/2026",
+      "text_url": "https://legiscan.com/AR/text/HB1058/2026",
+      "research_url": "https://legiscan.com/AR/research/HB1058/2026",
+      "last_action_date": "2026-04-08",
+      "last_action": "Read the first time, rules suspended, read the second time and referred to the Committee on JOINT BUDGET COMMITTEE",
+      "title": "An Act For The Uams - Reynolds Center On Aging, Boozman College Of Public Health, Ark. Biosciences Institute, &amp; The Area Health Ed. Center In Helena Appropriation For The 2026-2027 Fiscal Year. "
+    },
+    "2": {
+      "relevance": 97,
+      "state": "AR",
+      "bill_number": "HB1064",
+      "bill_id": 2140483,
+      "change_hash": "6fe943a93327950ddb98931de47058d1",
+      "url": "https://legiscan.com/AR/bill/HB1064/2026",
+      "text_url": "https://legiscan.com/AR/text/HB1064/2026",
+      "research_url": "https://legiscan.com/AR/research/HB1064/2026",
+      "last_action_date": "2026-04-08",
+      "last_action": "Read the first time, rules suspended, read the second time and referred to the Committee on JOINT BUDGET COMMITTEE",
+      "title": "An Act For The Department Of Finance And Administration - Disbursing Officer Appropriation For The 2026-2027 Fiscal Year. "
+    },
+    "3": {
+      "relevance": 97,
+      "state": "AR",
+      "bill_number": "HB1023",
+      "bill_id": 2140421,
+      "change_hash": "ba88c02dfb52a645e166990f981fdec6",
+      "url": "https://legiscan.com/AR/bill/HB1023/2026",
+      "text_url": "https://legiscan.com/AR/text/HB1023/2026",
+      "research_url": "https://legiscan.com/AR/research/HB1023/2026",
+      "last_action_date": "2026-04-08",
+      "last_action": "Read the first time, rules suspended, read the second time and referred to the Committee on JOINT BUDGET COMMITTEE",
+      "title": "An Act For The Department Of Human Services - Secretary&#x27;s Office Appropriation For The 2026-2027 Fiscal Year. "
+    },
+    "4": {
+      "relevance": 94,
+      "state": "AR",
+      "bill_number": "SB20",
+      "bill_id": 2140616,
+      "change_hash": "20cf533cf54b199d041c1733599cf60b",
+      "url": "https://legiscan.com/AR/bill/SB20/2026",
+      "text_url": "https://legiscan.com/AR/text/SB20/2026",
+      "research_url": "https://legiscan.com/AR/research/SB20/2026",
+      "last_action_date": "2026-04-08",
+      "last_action": "Read first time, rules suspended, read second time, referred to JOINT BUDGET COMMITTEE",
+      "title": "An Act For The Department Of Human Services - Division Of Medical Services Appropriation For The 2026-2027 Fiscal Year. "
+    },
+    "5": {
+      "relevance": 93,
+      "state": "AR",
+      "bill_number": "HB1062",
+      "bill_id": 2140468,
+      "change_hash": "887ab8183f9d726f4b0f0d8009d8feb8",
+      "url": "https://legiscan.com/AR/bill/HB1062/2026",
+      "text_url": "https://legiscan.com/AR/text/HB1062/2026",
+      "research_url": "https://legiscan.com/AR/research/HB1062/2026",
+      "last_action_date": "2026-04-08",
+      "last_action": "Read the first time, rules suspended, read the second time and referred to the Committee on JOINT BUDGET COMMITTEE",
+      "title": "An Act For The Department Of Human Services - Medicaid Tobacco Settlement Program Appropriation For The 2026-2027 Fiscal Year. "
+    },
+    "6": {
+      "relevance": 92,
+      "state": "AR",
+      "bill_number": "SB21",
+      "bill_id": 2140642,
+      "change_hash": "dbe5600879a6740508db1a7bddb58272",
+      "url": "https://legiscan.com/AR/bill/SB21/2026",
+      "text_url": "https://legiscan.com/AR/text/SB21/2026",
+      "research_url": "https://legiscan.com/AR/research/SB21/2026",
+      "last_action_date": "2026-04-08",
+      "last_action": "Read first time, rules suspended, read second time, referred to JOINT BUDGET COMMITTEE",
+      "title": "An Act For The Department Of Human Services - Division Of Aging, Adult, And Behavioral Health Services Appropriation For The 2026-2027 Fiscal Year. "
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 4",
+      "relevancy": "100% - 63%",
+      "count": 4,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zawar:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "AR",
+      "bill_number": "SR13",
+      "bill_id": 2141672,
+      "change_hash": "bef8abe72560081a36966ed0757508bf",
+      "url": "https://legiscan.com/AR/bill/SR13/2026",
+      "text_url": "https://legiscan.com/AR/text/SR13/2026",
+      "research_url": "https://legiscan.com/AR/research/SR13/2026",
+      "last_action_date": "2026-04-08",
+      "last_action": "Read the third time and adopted.",
+      "title": "To Recognize April As Child Abuse Prevention Month In Arkansas And To Commend The Court Appointed Special Advocate (casa) Programs."
+    },
+    "1": {
+      "relevance": 97,
+      "state": "AR",
+      "bill_number": "HB1051",
+      "bill_id": 2140508,
+      "change_hash": "36f1fe859d260278aebbdf53d6c076f3",
+      "url": "https://legiscan.com/AR/bill/HB1051/2026",
+      "text_url": "https://legiscan.com/AR/text/HB1051/2026",
+      "research_url": "https://legiscan.com/AR/research/HB1051/2026",
+      "last_action_date": "2026-04-08",
+      "last_action": "Read the first time, rules suspended, read the second time and referred to the Committee on JOINT BUDGET COMMITTEE",
+      "title": "An Act For The Department Of Finance &amp; Administration - Regulatory Division Appropriation For The 2026-2027 Fiscal Year. "
+    },
+    "2": {
+      "relevance": 91,
+      "state": "AR",
+      "bill_number": "SB58",
+      "bill_id": 2141132,
+      "change_hash": "022de081280d630ba12ba29c40708cd9",
+      "url": "https://legiscan.com/AR/bill/SB58/2026",
+      "text_url": "https://legiscan.com/AR/text/SB58/2026",
+      "research_url": "https://legiscan.com/AR/research/SB58/2026",
+      "last_action_date": "2026-04-08",
+      "last_action": "Read first time, rules suspended, read second time, referred to JOINT BUDGET COMMITTEE",
+      "title": "An Act For The Department Of Education - Division Of Higher Education Appropriation For The 2026-2027 Fiscal Year. "
+    },
+    "3": {
+      "relevance": 63,
+      "state": "AR",
+      "bill_number": "HB1064",
+      "bill_id": 2140483,
+      "change_hash": "6fe943a93327950ddb98931de47058d1",
+      "url": "https://legiscan.com/AR/bill/HB1064/2026",
+      "text_url": "https://legiscan.com/AR/text/HB1064/2026",
+      "research_url": "https://legiscan.com/AR/research/HB1064/2026",
+      "last_action_date": "2026-04-08",
+      "last_action": "Read the first time, rules suspended, read the second time and referred to the Committee on JOINT BUDGET COMMITTEE",
+      "title": "An Act For The Department Of Finance And Administration - Disbursing Officer Appropriation For The 2026-2027 Fiscal Year. "
+    }
+  }
+}

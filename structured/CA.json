@@ -2,68 +2,57 @@
   "state": "California",
   "state_code": "CA",
   "industry": "commercial lodging",
-  "source_file": "2026-04-08_California_lodging_compliance.md",
+  "source_file": "2026-04-09_California_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": 20,
   "training_frequency": null,
   "new_hire_deadline_days": null,
   "new_hire_deadline_text": null,
-  "signage_required": false,
+  "signage_required": true,
   "provider_approval_required": false,
   "provider_approval_type": null,
   "approval_authority": null,
   "approval_contact": null,
-  "enforcing_agencies": [],
+  "enforcing_agencies": [
+    "California Department of Justice's Office of the Attorney General"
+  ],
   "applicable_to": [
-    "hotel and motel employers"
+    "Hotels",
+    "Motels",
+    "Bed and breakfast inns"
   ],
   "required_topics": [
-    "human trafficking awareness",
-    "recognizing, reporting, responding to suspected cases"
+    "Human trafficking awareness"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
-    "languages_required": [
-      "English",
-      "Spanish",
-      "up to 3 additional languages"
-    ],
+    "languages_required": [],
     "minimum_size": null,
     "font_size": null,
     "posting_location": null,
     "required_content": [
-      "model notice for posting"
+      "Information about hotline numbers for human trafficking reporting"
     ]
   },
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    {
-      "statute_name": "Senate Bill 970",
-      "code_section": null,
-      "public_act": null
-    }
+    "GOV Code Section 12950.3",
+    "Human trafficking resources provided by the California Department of Justice's Office of the Attorney General",
+    "Model notice for human trafficking hotline numbers"
   ],
   "source_urls": [
-    "NEEDS REVIEW"
+    "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=GOV&sectionNum=12950.3.",
+    "https://calcivilrights.ca.gov/humantrafficking/",
+    "https://oag.ca.gov/human-trafficking/model-notice"
   ],
-  "harbor_alliance_posture": "immediate-entry",
-  "harbor_alliance_actions": [
-    {
-      "action": "Annual refresher courses"
-    },
-    {
-      "action": "Develop or update training materials based on the latest research and best practices in human trafficking prevention and response"
-    },
-    {
-      "action": "Ensure that training sessions are accessible and engaging, possibly offering both online and in-person options"
-    }
+  "harbor_alliance_posture": null,
+  "harbor_alliance_actions": [],
+  "risks_or_constraints": [
+    "Potential penalties for failure to comply with posting requirements"
   ],
-  "risks_or_constraints": [],
   "notes": [
-    "No specific enforcement mechanism has been mentioned beyond the compliance deadline of January 1, 2020."
+    "Training is effective as of January 1, 2020."
   ],
-  "needs_review": [
-    "Source URLs"
-  ]
+  "needs_review": []
 }
