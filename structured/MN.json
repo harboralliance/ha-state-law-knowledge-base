@@ -2,10 +2,10 @@
   "state": "Minnesota",
   "state_code": "MN",
   "industry": "commercial lodging",
-  "source_file": "2026-04-09_Minnesota_lodging_compliance.md",
+  "source_file": "2026-04-10_Minnesota_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
-  "training_frequency": "yearly",
+  "training_frequency": "annual",
   "new_hire_deadline_days": 90,
   "new_hire_deadline_text": "within 90 days of hire",
   "signage_required": true,
@@ -19,50 +19,41 @@
   "applicable_to": [
     "hotel",
     "motel",
-    "short-term rental property owners, managers, and on-site employees"
+    "short-term rental"
   ],
   "required_topics": [
-    "sex trafficking prevention",
-    "response training"
+    "identifying signs of sex trafficking",
+    "how to respond appropriately"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
     "languages_required": [
-      "English",
       "Spanish",
       "Somali",
       "Hmong"
     ],
     "minimum_size": null,
     "font_size": null,
-    "posting_location": "back-of-house",
-    "required_content": [
-      "requirements for sex trafficking prevention and response"
-    ]
+    "posting_location": "various areas of the property",
+    "required_content": []
   },
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    "Minn. Stat. \u00a7 173A.04"
+    "NEEDS REVIEW"
   ],
   "source_urls": [
-    "health.safeharbor@state.mn.us"
+    "NEEDS REVIEW"
   ],
   "harbor_alliance_posture": "immediate-entry",
-  "harbor_alliance_actions": [
-    {
-      "action": "Complete the required sex trafficking prevention and response training",
-      "details": "All hotel, motel, and short-term rental property owners, managers, and on-site employees must complete this training annually."
-    },
-    {
-      "action": "Display a back-of-house poster",
-      "details": "Managers and owners are required to display a back-of-house poster that outlines the requirements for sex trafficking prevention and response."
-    }
+  "harbor_alliance_actions": [],
+  "risks_or_constraints": [
+    "employees under 16",
+    "no direct contact with guests or guest rooms"
   ],
-  "risks_or_constraints": [],
-  "notes": [
-    "Training materials will be available in Spanish, Hmong, and Somali starting late fall 2023/early 2024.",
-    "Licensees (owners, managers) are required to pay for the costs of compliance, such as printing posters."
-  ],
-  "needs_review": []
+  "notes": [],
+  "needs_review": [
+    "law_references",
+    "source_urls"
+  ]
 }

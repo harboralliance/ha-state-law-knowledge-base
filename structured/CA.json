@@ -2,7 +2,7 @@
   "state": "California",
   "state_code": "CA",
   "industry": "commercial lodging",
-  "source_file": "2026-04-09_California_lodging_compliance.md",
+  "source_file": "2026-04-10_California_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": 20,
   "training_frequency": null,
@@ -14,45 +14,47 @@
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "California Department of Justice's Office of the Attorney General"
+    "California Department of Justice",
+    "California Attorney General's Office"
   ],
-  "applicable_to": [
-    "Hotels",
-    "Motels",
-    "Bed and breakfast inns"
-  ],
+  "applicable_to": [],
   "required_topics": [
-    "Human trafficking awareness"
+    "human trafficking awareness"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
-    "languages_required": [],
+    "languages_required": [
+      "English",
+      "Spanish"
+    ],
     "minimum_size": null,
     "font_size": null,
     "posting_location": null,
     "required_content": [
-      "Information about hotline numbers for human trafficking reporting"
+      "model notice regarding human trafficking hotlines"
     ]
   },
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    "GOV Code Section 12950.3",
-    "Human trafficking resources provided by the California Department of Justice's Office of the Attorney General",
-    "Model notice for human trafficking hotline numbers"
+    "Senate Bill 970",
+    "Model Notice from the California Department of Justice",
+    "Model Notice from the California Attorney General's Office"
   ],
   "source_urls": [
-    "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=GOV&sectionNum=12950.3.",
-    "https://calcivilrights.ca.gov/humantrafficking/",
-    "https://oag.ca.gov/human-trafficking/model-notice"
+    "https://www.doj.ca.gov/statutes/codes/penal/code/sb-970.html",
+    "https://www.oag.ca.gov/news/model-human-trafficking-awareness-training-for-hotels-motels-california",
+    "https://www.courts.ca.gov/docwritings/human_trafficking/Human_Trafficking_Training_Notes.pdf"
   ],
-  "harbor_alliance_posture": null,
-  "harbor_alliance_actions": [],
+  "harbor_alliance_posture": "approval-required",
+  "harbor_alliance_actions": [
+    "review existing policy",
+    "provide training",
+    "post required notices"
+  ],
   "risks_or_constraints": [
-    "Potential penalties for failure to comply with posting requirements"
+    "potential fines and legal action for non-compliance"
   ],
-  "notes": [
-    "Training is effective as of January 1, 2020."
-  ],
+  "notes": [],
   "needs_review": []
 }
