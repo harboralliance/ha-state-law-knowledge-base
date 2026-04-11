@@ -1,24 +1,61 @@
 # Harbor Alliance Action Items
 
 ## Texas
-- **Next Steps:** Ensure compliance with House Bill 390 by providing required human trafficking training annually to all employees at lodging establishments with 10 or more rooms, and to all employees at lodging establishments regardless of size. Employers should verify that their employees have access to approved training videos.
-- **Immediate Market Entry:** NOT ALLOWED - Immediate market entry requires approval from the Texas Attorney General's office.
+
+**Next Steps:**
+- Coordinate with local lodging associations to ensure awareness of HB 390 requirements.
+- Distribute training materials provided by the Office of the Attorney General.
+
+**States Allowing Immediate Market Entry:**
+- NEEDS REVIEW
+
+**States Requiring Approval, Outreach, or Special Handling:**
+- NEEDS REVIEW
 
 ## California
-- **Next Steps:** Ensure compliance with Senate Bill 970 (SB 970) by providing at least 20 minutes of classroom or other effective interactive training to employees who are likely to interact with victims of human trafficking, as well as new employees joining this role within six months.
-- **Immediate Market Entry:** ALLOWED - Immediate market entry does not require additional approval.
+
+**Next Steps:**
+- Provide hotel and motel employees with the 20-minute classroom or other effective interactive training as per SB 970.
+- Encourage compliance through resources such as the California Coalition to Abolish Slavery and Trafficking (CAST) and the National Human Trafficking Resource Center.
+
+**States Allowing Immediate Market Entry:**
+- NEEDS REVIEW
+
+**States Requiring Approval, Outreach, or Special Handling:**
+- NEEDS REVIEW
 
 ## Illinois
-- **Next Steps:** Ensure compliance with Act 2026 by providing annual human trafficking recognition training to all relevant staff within six months of their employment and every two years thereafter. Employers should develop or use a customizable program that includes the required elements.
-- **Immediate Market Entry:** NOT ALLOWED - Immediate market entry requires approval from local government or law enforcement agencies.
+
+**Next Steps:**
+- Implement the training requirements by providing at least 20 minutes of human trafficking recognition and protocols for reporting observed instances to employees.
+- Ensure all relevant staff complete the initial training within six months of employment and every two years thereafter.
+
+**States Allowing Immediate Market Entry:**
+- NEEDS REVIEW
+
+**States Requiring Approval, Outreach, or Special Handling:**
+- NEEDS REVIEW
 
 ## Minnesota
-- **Next Steps:** Ensure compliance with the Sex Trafficking Prevention Training Requirement for Hotels, Motels, and Short-Term Rentals in Minnesota by completing the mandatory training for all owners, managers, and on-site employees.
-- **Immediate Market Entry:** NOT ALLOWED - Immediate market entry requires access to the MN DOH Learning Center for training materials.
+
+**Next Steps:**
+- Provide all owners, managers, and on-site employees with the required training.
+- Ensure new employees complete the training within 90 days of hire and all staff retake it annually.
+
+**States Allowing Immediate Market Entry:**
+- NEEDS REVIEW
+
+**States Requiring Approval, Outreach, or Special Handling:**
+- NEEDS REVIEW
 
 ## Connecticut
-- **Next Steps:** Ensure compliance with human trafficking legislation and requirements by providing required trainings to foster parents, law enforcement, healthcare providers, and hotel and motel industry staff. Employers should maintain records of employee training completion.
-- **Immediate Market Entry:** NOT ALLOWED - Immediate market entry requires approval from the Department of Children and Families (DCF) and other relevant enforcement agencies.
 
-# Summary
-Harbor Alliance must ensure compliance with state-specific requirements for human trafficking prevention in lodging establishments. Immediate market entry is only allowed in California, while all other states require either approval, outreach, or special handling. Specific steps include providing required training, maintaining records of completion, and ensuring adherence to reporting requirements as necessary.
+**Next Steps:**
+- Conduct mandatory human trafficking training for all hotel and motel employees.
+- Ensure compliance with the reporting requirements as mandated by legislation.
+
+**States Allowing Immediate Market Entry:**
+- NEEDS REVIEW
+
+**States Requiring Approval, Outreach, or Special Handling:**
+- NEEDS REVIEW

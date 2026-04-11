@@ -1,0 +1,66 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 4",
+      "relevancy": "100% - 90%",
+      "count": 4,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zhotlin:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "SC",
+      "bill_number": "S0031",
+      "bill_id": 1896071,
+      "change_hash": "10471e896816728dd2ebb50576d2497a",
+      "url": "https://legiscan.com/SC/bill/S0031/2025",
+      "text_url": "https://legiscan.com/SC/text/S0031/2025",
+      "research_url": "https://legiscan.com/SC/research/S0031/2025",
+      "last_action_date": "2025-01-14",
+      "last_action": "Referred to Committee on Education",
+      "title": "Student ID- Suicide Hotline"
+    },
+    "1": {
+      "relevance": 97,
+      "state": "SC",
+      "bill_number": "H3631",
+      "bill_id": 1896454,
+      "change_hash": "c4ca61871907c66bc9e8dbab5df53554",
+      "url": "https://legiscan.com/SC/bill/H3631/2025",
+      "text_url": "https://legiscan.com/SC/text/H3631/2025",
+      "research_url": "https://legiscan.com/SC/research/H3631/2025",
+      "last_action_date": "2026-03-09",
+      "last_action": "Member(s) request name added as sponsor: Sessions",
+      "title": "Student ID cards"
+    },
+    "2": {
+      "relevance": 90,
+      "state": "SC",
+      "bill_number": "H3504",
+      "bill_id": 1895373,
+      "change_hash": "4ef844177af9a08574e4923acc44a553",
+      "url": "https://legiscan.com/SC/bill/H3504/2025",
+      "text_url": "https://legiscan.com/SC/text/H3504/2025",
+      "research_url": "https://legiscan.com/SC/research/H3504/2025",
+      "last_action_date": "2025-01-28",
+      "last_action": "Member(s) request name added as sponsor: C.Mitchell, Oremus, Gibson, Huff, Lawson, Burns",
+      "title": "Pregnancy CARE Act"
+    },
+    "3": {
+      "relevance": 90,
+      "state": "SC",
+      "bill_number": "H3012",
+      "bill_id": 1895452,
+      "change_hash": "8f767d3a739caa6d85056c128277acfc",
+      "url": "https://legiscan.com/SC/bill/H3012/2025",
+      "text_url": "https://legiscan.com/SC/text/H3012/2025",
+      "research_url": "https://legiscan.com/SC/research/H3012/2025",
+      "last_action_date": "2025-01-28",
+      "last_action": "Member(s) request name added as sponsor: C.Mitchell, Rankin, Long, Oremus, Gibson, Lawson, Burns, Edgerton",
+      "title": "Pregnancy CARE Act"
+    }
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 9",
+      "relevancy": "100% - 67%",
+      "count": 9,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zhotlin:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "NV",
+      "bill_number": "AB380",
+      "bill_id": 1996376,
+      "change_hash": "4171093b2f366c63356f14e17542d09d",
+      "url": "https://legiscan.com/NV/bill/AB380/2025",
+      "text_url": "https://legiscan.com/NV/text/AB380/2025",
+      "research_url": "https://legiscan.com/NV/research/AB380/2025",
+      "last_action_date": "2025-05-30",
+      "last_action": "Chapter 128. (Effective October 1, 2025)",
+      "title": "Revises provisions relating to mobile crisis teams. (BDR 39-1062)"
+    },
+    "1": {
+      "relevance": 94,
+      "state": "NV",
+      "bill_number": "SB338",
+      "bill_id": 2004756,
+      "change_hash": "3b3e6091963060dc04f7c3ff650a4763",
+      "url": "https://legiscan.com/NV/bill/SB338/2025",
+      "text_url": "https://legiscan.com/NV/text/SB338/2025",
+      "research_url": "https://legiscan.com/NV/research/SB338/2025",
+      "last_action_date": "2025-05-31",
+      "last_action": "Approved by the Governor. Chapter 201. (Effective October 1, 2025)",
+      "title": "Revises provisions relating to the sale of tickets to a live entertainment event. (BDR 52-590)"
+    },
+    "2": {
+      "relevance": 93,
+      "state": "NV",
+      "bill_number": "AB406",
+      "bill_id": 1999738,
+      "change_hash": "047956474a1b36ce61bdd1ccc0a0081d",
+      "url": "https://legiscan.com/NV/bill/AB406/2025",
+      "text_url": "https://legiscan.com/NV/text/AB406/2025",
+      "research_url": "https://legiscan.com/NV/research/AB406/2025",
+      "last_action_date": "2025-06-06",
+      "last_action": "Chapter 283.",
+      "title": "Makes various changes relating to health. (BDR 34-674)"
+    },
+    "3": {
+      "relevance": 91,
+      "state": "NV",
+      "bill_number": "SB337",
+      "bill_id": 2005451,
+      "change_hash": "b1edc17ac61305b80a16c7c0b800573e",
+      "url": "https://legiscan.com/NV/bill/SB337/2025",
+      "text_url": "https://legiscan.com/NV/text/SB337/2025",
+      "research_url": "https://legiscan.com/NV/research/SB337/2025",
+      "last_action_date": "2025-06-03",
+      "last_action": "(No further action taken.)",
+      "title": "Revises provisions relating to opioids. (BDR 40-204)"
+    },
+    "4": {
+      "relevance": 87,
+      "state": "NV",
+      "bill_number": "AB446",
+      "bill_id": 2009652,
+      "change_hash": "b53692ac6419b8042cde8db3ba36641c",
+      "url": "https://legiscan.com/NV/bill/AB446/2025",
+      "text_url": "https://legiscan.com/NV/text/AB446/2025",
+      "research_url": "https://legiscan.com/NV/research/AB446/2025",
+      "last_action_date": "2025-06-03",
+      "last_action": "(No further action taken.)",
+      "title": "Revises provisions relating to transportation. (BDR 58-207)"
+    },
+    "5": {
+      "relevance": 87,
+      "state": "NV",
+      "bill_number": "AB298",
+      "bill_id": 1987225,
+      "change_hash": "c98e22900f84bc3cb04e0431b3e32a37",
+      "url": "https://legiscan.com/NV/bill/AB298/2025",
+      "text_url": "https://legiscan.com/NV/text/AB298/2025",
+      "research_url": "https://legiscan.com/NV/research/AB298/2025",
+      "last_action_date": "2025-04-12",
+      "last_action": "(Pursuant to Joint Standing Rule No. 14.3.1, no further action allowed.)",
+      "title": "Revises provisions relating to school counselors. (BDR 34-532)"
+    },
+    "6": {
+      "relevance": 87,
+      "state": "NV",
+      "bill_number": "AB159",
+      "bill_id": 1949487,
+      "change_hash": "08b646d3015570edd761a5a174462d84",
+      "url": "https://legiscan.com/NV/bill/AB159/2025",
+      "text_url": "https://legiscan.com/NV/text/AB159/2025",
+      "research_url": "https://legiscan.com/NV/research/AB159/2025",
+      "last_action_date": "2025-06-03",
+      "last_action": "(No further action taken.)",
+      "title": "Establishes the Hope Card Program for applicants who have been granted an extended order for protection against domestic violence. (BDR 3-180)"
+    },
+    "7": {
+      "relevance": 87,
+      "state": "NV",
+      "bill_number": "SB331",
+      "bill_id": 1999873,
+      "change_hash": "03c7f112512c6dca215fbfac3c6c09ae",
+      "url": "https://legiscan.com/NV/bill/SB331/2025",
+      "text_url": "https://legiscan.com/NV/text/SB331/2025",
+      "research_url": "https://legiscan.com/NV/research/SB331/2025",
+      "last_action_date": "2025-06-03",
+      "last_action": "(No further action taken.)",
+      "title": "Revises provisions relating to education. (BDR 34-698)"
+    },
+    "8": {
+      "relevance": 67,
+      "state": "NV",
+      "bill_number": "SB457",
+      "bill_id": 2021134,
+      "change_hash": "e2e098b4c6684bd8459bb8fc31f0fc55",
+      "url": "https://legiscan.com/NV/bill/SB457/2025",
+      "text_url": "https://legiscan.com/NV/text/SB457/2025",
+      "research_url": "https://legiscan.com/NV/research/SB457/2025",
+      "last_action_date": "2025-06-04",
+      "last_action": "From printer. To reengrossment. Reengrossed. Second reprint.",
+      "title": "Revises provisions relating to public safety. (BDR 15-1038)"
+    }
+  }
+}

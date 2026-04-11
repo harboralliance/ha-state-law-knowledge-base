@@ -2,71 +2,60 @@
   "state": "Connecticut",
   "state_code": "CT",
   "industry": "commercial lodging",
-  "source_file": "2026-04-10_Connecticut_lodging_compliance.md",
+  "source_file": "2026-04-11_Connecticut_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
   "training_frequency": null,
   "new_hire_deadline_days": null,
   "new_hire_deadline_text": null,
-  "signage_required": false,
+  "signage_required": true,
   "provider_approval_required": false,
   "provider_approval_type": null,
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "Connecticut Department of Children and Families"
+    "Department of Children and Families (DCF)"
   ],
   "applicable_to": [
-    "Child Protective Services staff",
-    "foster parents",
-    "service providers",
-    "law enforcement",
-    "hospital and medical staff",
-    "hospitality industry personnel"
+    "hotels",
+    "motels",
+    "inns",
+    "similar lodging"
   ],
   "required_topics": [
-    "Introduction to Child Trafficking in Connecticut",
-    "Introduction to Human Trafficking in Connecticut for Law Enforcement (POST Certified)",
-    "Introduction to Human Trafficking in Connecticut for Emergency Medical Services (EMS)",
-    "Child Trafficking Training for Medical Providers/Emergency Medicine",
-    "Introduction to Labor Trafficking in Connecticut",
-    "Introduction to Labor Trafficking in Connecticut for Law Enforcement (POST Certified)"
+    "human trafficking",
+    "trafficking training and awareness campaigns"
   ],
-  "reporting_contacts_required": [
-    {
-      "contact_type": "mandatory",
-      "responsibilities": [
-        "missing children and trafficking referrals"
-      ]
-    }
-  ],
+  "reporting_contacts_required": [],
   "signage_details": {
     "languages_required": [],
     "minimum_size": null,
     "font_size": null,
-    "posting_location": null,
-    "required_content": []
+    "posting_location": "annually in hotels, motels, inns, and similar lodging",
+    "required_content": [
+      "human trafficking training",
+      "awareness campaigns"
+    ]
   },
   "recordkeeping_requirements": [
-    "Mandatory data reporting to combat trafficking effectively"
+    "documenting training",
+    "investigations of missing children",
+    "trafficking referrals",
+    "trafficking cases referred for prosecution"
   ],
-  "certificate_requirements": [
-    "POST Certified"
-  ],
+  "certificate_requirements": [],
   "law_references": [
-    "Human and sex trafficking legislation",
-    "Supports for Children and Families training programs"
+    "human and sex trafficking legislation",
+    "commercial sexual exploitation of a minor (class C felony)"
   ],
   "source_urls": [
     "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/trainings-for-providers",
     "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/human-and-sex-trafficking-legislation"
   ],
-  "harbor_alliance_posture": null,
+  "harbor_alliance_posture": "needs-review",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "Need for enhanced signage in high-risk areas",
-    "Potential lack of community engagement",
-    "Ongoing monitoring required to assess the effectiveness of current laws and training programs"
+    "need for ongoing training and awareness"
   ],
   "notes": [],
   "needs_review": []

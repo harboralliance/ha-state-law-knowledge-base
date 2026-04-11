@@ -2,58 +2,57 @@
   "state": "California",
   "state_code": "CA",
   "industry": "commercial lodging",
-  "source_file": "2026-04-10_California_lodging_compliance.md",
+  "source_file": "2026-04-11_California_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": 20,
   "training_frequency": null,
   "new_hire_deadline_days": null,
-  "new_hire_deadline_text": null,
-  "signage_required": true,
-  "provider_approval_required": false,
-  "provider_approval_type": null,
+  "new_hire_deadline_text": "as of July 1, 2019, or within six months of their employment in that role",
+  "signage_required": false,
+  "provider_approval_required": true,
+  "provider_approval_type": "certified training programs offered by reputable organizations or through online courses",
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "California Department of Justice",
-    "California Attorney General's Office"
+    "California Department of Justice"
   ],
-  "applicable_to": [],
+  "applicable_to": [
+    "hotel and motel employers",
+    "employees who are likely to interact with victims of human trafficking"
+  ],
   "required_topics": [
-    "human trafficking awareness"
+    "human trafficking awareness",
+    "signs of human trafficking",
+    "how to identify potential victims",
+    "actions to take if a victim is encountered"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
     "languages_required": [
-      "English",
-      "Spanish"
+      "Multiple languages based on the Department of Justice model notice"
     ],
     "minimum_size": null,
     "font_size": null,
     "posting_location": null,
-    "required_content": [
-      "model notice regarding human trafficking hotlines"
-    ]
+    "required_content": []
   },
-  "recordkeeping_requirements": [],
+  "recordkeeping_requirements": [
+    {
+      "type": "Training records",
+      "retention_period": "at least five years"
+    }
+  ],
   "certificate_requirements": [],
   "law_references": [
-    "Senate Bill 970",
-    "Model Notice from the California Department of Justice",
-    "Model Notice from the California Attorney General's Office"
+    "California Labor Code Section 29135"
   ],
   "source_urls": [
-    "https://www.doj.ca.gov/statutes/codes/penal/code/sb-970.html",
-    "https://www.oag.ca.gov/news/model-human-trafficking-awareness-training-for-hotels-motels-california",
-    "https://www.courts.ca.gov/docwritings/human_trafficking/Human_Trafficking_Training_Notes.pdf"
+    "https://www.justice.ca.gov/criminal-division/human-trafficking/"
   ],
   "harbor_alliance_posture": "approval-required",
-  "harbor_alliance_actions": [
-    "review existing policy",
-    "provide training",
-    "post required notices"
-  ],
+  "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "potential fines and legal action for non-compliance"
+    "Failure to provide the required training can result in fines of up to $10,000 per violation"
   ],
   "notes": [],
   "needs_review": []
