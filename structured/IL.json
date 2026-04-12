@@ -2,35 +2,31 @@
   "state": "Illinois",
   "state_code": "IL",
   "industry": "commercial lodging",
-  "source_file": "2026-04-11_Illinois_lodging_compliance.md",
+  "source_file": "2026-04-12_Illinois_lodging_compliance.md",
   "training_required": true,
-  "training_duration_minutes": null,
-  "training_frequency": "every 2 years",
+  "training_duration_minutes": 20,
+  "training_frequency": "every two years",
   "new_hire_deadline_days": null,
   "new_hire_deadline_text": null,
   "signage_required": false,
   "provider_approval_required": true,
-  "provider_approval_type": "third-party training program approved by the Department of Human Services",
+  "provider_approval_type": "approved curriculum by the Department of Human Services",
   "approval_authority": "Department of Human Services",
-  "approval_contact": "NEEDS REVIEW",
+  "approval_contact": null,
   "enforcing_agencies": [
-    "local government",
-    "law enforcement agency"
+    "Local governments or law enforcement"
   ],
   "applicable_to": [
-    "lodging establishments",
-    "restaurants",
-    "truck stops"
+    "hotel and motel establishments under 2017 North American Industry Classification System codes 721110 and 721120",
+    "restaurants primarily engaged in selling ready-to-eat food for immediate consumption comprising at least 51% of total sales (excluding liquor)",
+    "truck stops providing services to the trucking industry"
   ],
   "required_topics": [
-    "definition of human trafficking and commercial exploitation of children",
-    "how to identify individuals at risk for human trafficking",
-    "differences between labor and sex trafficking",
-    "roles of employees in reporting and responding to human trafficking incidents"
+    "identifying individuals most at risk for human trafficking",
+    "distinguishing labor from sex trafficking relevant to lodging, restaurants, and truck stops",
+    "guidance on reporting and responding"
   ],
-  "reporting_contacts_required": [
-    "NEEDS REVIEW"
-  ],
+  "reporting_contacts_required": [],
   "signage_details": {
     "languages_required": [],
     "minimum_size": null,
@@ -38,33 +34,23 @@
     "posting_location": null,
     "required_content": []
   },
-  "recordkeeping_requirements": [
-    "NEEDS REVIEW"
-  ],
+  "recordkeeping_requirements": [],
   "certificate_requirements": [
-    "NEEDS REVIEW"
+    "certification of training completion"
   ],
   "law_references": [
-    {
-      "name": "Human Trafficking Recognition Training Act",
-      "code_section": "SB1422"
-    }
+    "SB1422",
+    "Human trafficking recognition training curriculum by the Department of Human Services"
   ],
-  "source_urls": [],
+  "source_urls": [
+    null
+  ],
   "harbor_alliance_posture": "approval-required",
-  "harbor_alliance_actions": [
-    "NEEDS REVIEW"
+  "harbor_alliance_actions": [],
+  "risks_or_constraints": [],
+  "notes": [
+    "Training must be completed within six months of employment and is mandatory by June 1, 2020.",
+    "Employers can use their own or a third-party program, but they must adhere to the approved curriculum."
   ],
-  "risks_or_constraints": [
-    {
-      "risk": "Non-compliance with the Act can result in fines up to $1,500 per offense.",
-      "constraint": "Employers must ensure continuous compliance and training of employees."
-    }
-  ],
-  "notes": [],
-  "needs_review": [
-    "training duration",
-    "approval contact information",
-    "reporting contacts"
-  ]
+  "needs_review": []
 }
