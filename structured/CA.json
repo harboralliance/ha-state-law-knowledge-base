@@ -2,7 +2,7 @@
   "state": "California",
   "state_code": "CA",
   "industry": "commercial lodging",
-  "source_file": "2026-04-12_California_lodging_compliance.md",
+  "source_file": "2026-04-13_California_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": 20,
   "training_frequency": null,
@@ -14,14 +14,15 @@
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "California Department of Justice"
+    "California Attorney General's Office (AGO)"
   ],
   "applicable_to": [
-    "hotel and motel employers",
-    "employees likely to interact with victims of human trafficking"
+    "hotel and motel employers"
   ],
   "required_topics": [
-    "human trafficking awareness"
+    "identifying signs and indicators of human trafficking",
+    "the legal framework surrounding human trafficking",
+    "procedures for responding to suspected cases of human trafficking"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
@@ -33,27 +34,25 @@
     "font_size": null,
     "posting_location": null,
     "required_content": [
-      "information on how victims can seek help and report unlawful activity"
+      "telephone hotline numbers for seeking help or reporting unlawful activity",
+      "a specified number that victims can text for services and support"
     ]
   },
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    {
-      "title": "Senate Bill 970",
-      "section": null
-    }
+    "SB 970 (2018)"
   ],
   "source_urls": [
-    "https://leginfo.legislature.ca.gov/faces/billText.jsp?bill_num=SB%20970&chap=YTK&sess=2019-2020"
+    "https://www.leginfo.ca.gov/bill/ca/sb970",
+    "https://www.cast.ca.gov/",
+    "https://oag.ca.gov/human-trafficking"
   ],
-  "harbor_alliance_posture": "approval-required",
+  "harbor_alliance_posture": "needs-review",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "non-compliance could result in financial penalties and legal actions against employers"
+    "fines for non-compliance with posting requirements"
   ],
-  "notes": [
-    "Employers who have provided the required training to an employee on or before January 1, 2019, are exempt from providing additional training."
-  ],
+  "notes": [],
   "needs_review": []
 }

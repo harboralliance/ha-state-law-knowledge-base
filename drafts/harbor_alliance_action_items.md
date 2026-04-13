@@ -1,30 +1,56 @@
 # Harbor Alliance Action Items
 
 ## Texas
-- **Next Steps**: Employers should review and implement the required human trafficking training annually as per HB 390.
-- **Immediate Market Entry States**: NONE
-- **Approval/Outreach/Special Handling Required**: NONE
+### Next Steps:
+- Ensure all commercial lodging establishments comply with House Bill 390 by providing annual human trafficking training to employees.
+- Promote and facilitate access to approved training videos through local organizations.
+
+### Immediate Market Entry States:
+- NEEDS REVIEW
+
+### Approval, Outreach, or Special Handling States:
+- Texas requires approval and outreach for employers to ensure compliance with the new legislation.
 
 ## California
-- **Next Steps**: Hotels and motels must ensure all employees receive at least 20 minutes of classroom or other effective interactive training on human trafficking awareness by January 1, 2020.
-- **Immediate Market Entry States**: NONE
-- **Approval/Outreach/Special Handling Required**: NONE
+### Next Steps:
+- Distribute the required human trafficking training materials to all hotel and motel employees.
+- Encourage use of resources from CAST and the National Human Trafficking Resource Center for additional support.
+
+### Immediate Market Entry States:
+- NEEDS REVIEW
+
+### Approval, Outreach, or Special Handling States:
+- California requires approval and outreach to ensure that all relevant staff receive the required training by January 1, 2020.
 
 ## Illinois
-- **Next Steps**: Employers should provide annual human trafficking recognition training to all relevant staff within six months of employment and every two years thereafter. Non-compliance could result in fines up to $1,500 per violation.
-- **Immediate Market Entry States**: NONE
-- **Approval/Outreach/Special Handling Required**: NONE
+### Next Steps:
+- Develop a comprehensive human trafficking recognition training program compliant with Act 2026.
+- Ensure all lodging establishment employees complete the mandatory training within six months of employment and every two years thereafter.
+
+### Immediate Market Entry States:
+- NEEDS REVIEW
+
+### Approval, Outreach, or Special Handling States:
+- Illinois requires approval and outreach to ensure that all relevant staff receive the required training by June 1, 2020.
 
 ## Minnesota
-- **Next Steps**: Hotel, motel, and short-term rental staff must complete the Minnesota Lodging Sex Trafficking Prevention and Response Training annually. Employers should ensure all required staff retake the training every year.
-- **Immediate Market Entry States**: NONE
-- **Approval/Outreach/Special Handling Required**: NONE
+### Next Steps:
+- Provide hotel, motel, and short-term rental staff with the required human trafficking prevention and response training.
+- Ensure compliance through mandatory reporting and enforcement actions as needed.
+
+### Immediate Market Entry States:
+- NEEDS REVIEW
+
+### Approval, Outreach, or Special Handling States:
+- Minnesota requires approval and outreach to ensure that all relevant staff receive the required training within 90 days of employment.
 
 ## Connecticut
-- **Next Steps**: All hotel and motel employees are required to receive annual trafficking training and awareness campaigns as per legislation effective from 2010 onwards with subsequent amendments up to 2017.
-- **Immediate Market Entry States**: NONE
-- **Approval/Outreach/Special Handling Required**: NONE
+### Next Steps:
+- Provide hotel and motel employees with annual human trafficking recognition training.
+- Ensure compliance with mandatory data reporting requirements as part of human trafficking legislation.
 
-### Summary of Immediate Market Entry and Special Requirements
-- **States allowing immediate market entry**: NONE
-- **States requiring approval, outreach, or special handling**: NONE
+### Immediate Market Entry States:
+- NEEDS REVIEW
+
+### Approval, Outreach, or Special Handling States:
+- Connecticut requires approval and outreach to ensure that all relevant staff receive the required training by June 1, 2020.

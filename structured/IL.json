@@ -2,29 +2,31 @@
   "state": "Illinois",
   "state_code": "IL",
   "industry": "commercial lodging",
-  "source_file": "2026-04-12_Illinois_lodging_compliance.md",
+  "source_file": "2026-04-13_Illinois_lodging_compliance.md",
   "training_required": true,
-  "training_duration_minutes": 20,
+  "training_duration_minutes": null,
   "training_frequency": "every two years",
-  "new_hire_deadline_days": null,
-  "new_hire_deadline_text": null,
+  "new_hire_deadline_days": 180,
+  "new_hire_deadline_text": "within six months of beginning employment in such a role",
   "signage_required": false,
   "provider_approval_required": true,
-  "provider_approval_type": "approved curriculum by the Department of Human Services",
+  "provider_approval_type": "approved human trafficking training recognition program developed by the Department of Human Services",
   "approval_authority": "Department of Human Services",
   "approval_contact": null,
   "enforcing_agencies": [
-    "Local governments or law enforcement"
+    "unit of local government",
+    "law enforcement agency"
   ],
   "applicable_to": [
-    "hotel and motel establishments under 2017 North American Industry Classification System codes 721110 and 721120",
-    "restaurants primarily engaged in selling ready-to-eat food for immediate consumption comprising at least 51% of total sales (excluding liquor)",
-    "truck stops providing services to the trucking industry"
+    "lodging establishments",
+    "restaurants",
+    "truck stops"
   ],
   "required_topics": [
-    "identifying individuals most at risk for human trafficking",
-    "distinguishing labor from sex trafficking relevant to lodging, restaurants, and truck stops",
-    "guidance on reporting and responding"
+    "definition of human trafficking and commercial exploitation of children",
+    "guidance on how to identify individuals who are most at risk for human trafficking",
+    "difference between human trafficking for purposes of labor and for purposes of sex as it relates to lodging establishments, restaurants, and truck stops",
+    "guidance on the role of lodging establishment, restaurant, and truck stop employees in reporting and responding to instances of human trafficking"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
@@ -35,22 +37,16 @@
     "required_content": []
   },
   "recordkeeping_requirements": [],
-  "certificate_requirements": [
-    "certification of training completion"
-  ],
+  "certificate_requirements": [],
   "law_references": [
-    "SB1422",
-    "Human trafficking recognition training curriculum by the Department of Human Services"
+    "Human Trafficking Prevention Act"
   ],
-  "source_urls": [
-    null
-  ],
+  "source_urls": [],
   "harbor_alliance_posture": "approval-required",
   "harbor_alliance_actions": [],
-  "risks_or_constraints": [],
-  "notes": [
-    "Training must be completed within six months of employment and is mandatory by June 1, 2020.",
-    "Employers can use their own or a third-party program, but they must adhere to the approved curriculum."
+  "risks_or_constraints": [
+    "potential fines up to $1,500 per offense if verified by the unit of local government or law enforcement agency regulating the employer"
   ],
+  "notes": [],
   "needs_review": []
 }

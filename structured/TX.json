@@ -2,51 +2,55 @@
   "state": "Texas",
   "state_code": "TX",
   "industry": "commercial lodging",
-  "source_file": "2026-04-12_Texas_lodging_compliance.md",
+  "source_file": "2026-04-13_Texas_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
-  "training_frequency": "annual",
-  "new_hire_deadline_days": null,
+  "training_frequency": "annually",
+  "new_hire_deadline_days": 90,
   "new_hire_deadline_text": null,
-  "signage_required": true,
+  "signage_required": false,
   "provider_approval_required": true,
-  "provider_approval_type": "approved by the Attorney General's office",
-  "approval_authority": "Texas Attorney General's office",
-  "approval_contact": "Not specified in the research note",
+  "provider_approval_type": "approval by the Office of the Attorney General and delivery through an approved provider",
+  "approval_authority": "Office of the Attorney General",
+  "approval_contact": null,
   "enforcing_agencies": [
-    "Texas Attorney General's office"
+    "Texas Department of Licensing and Regulation"
   ],
   "applicable_to": [
-    "establishments with 10 or more rooms",
-    "encouraged for all lodging establishments"
+    "commercial lodging establishments with 10 or more rooms"
   ],
   "required_topics": [
-    "human trafficking"
+    "human trafficking awareness",
+    "response to potential signs of human trafficking"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
     "languages_required": [],
     "minimum_size": null,
     "font_size": null,
-    "posting_location": "facilities",
-    "required_content": [
-      "information about how employees can report suspected instances of human trafficking",
-      "where they can receive assistance"
-    ]
+    "posting_location": null,
+    "required_content": []
   },
-  "recordkeeping_requirements": [],
-  "certificate_requirements": [],
+  "recordkeeping_requirements": [
+    "records showing compliance with the law"
+  ],
+  "certificate_requirements": [
+    "a certificate of completion for each employee who completes the course"
+  ],
   "law_references": [
-    "House Bill 390"
+    "House Bill 390 (87th Regular Session)"
   ],
   "source_urls": [
-    "https://www.texasattorneygeneral.gov/training-programs/human-trafficking-training"
+    "https://www.texasattorneygeneral.gov/training-resources/human-traffic",
+    "https://www.etactics.com/products/identifying-and-responding-to-human-trafficking-commercial-lodging-hospitality-industry"
   ],
-  "harbor_alliance_posture": "needs-review",
+  "harbor_alliance_posture": null,
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "discrimination against employees who make good faith reports of suspected instances of human trafficking"
+    "non-compliance with the law can result in penalties"
   ],
-  "notes": [],
+  "notes": [
+    "The training must be approved by the Office of the Attorney General and delivered through an approved provider."
+  ],
   "needs_review": []
 }
