@@ -1,56 +1,39 @@
 # Harbor Alliance Action Items
 
 ## Texas
-### Next Steps:
-- Ensure all commercial lodging establishments comply with House Bill 390 by providing annual human trafficking training to employees.
-- Promote and facilitate access to approved training videos through local organizations.
+**Next Steps:**
+- Ensure all commercial lodging establishments with 10 or more rooms have completed the required annual human trafficking training by December 31, 2026.
+- Provide and promote access to approved training videos for employers who need additional resources.
 
-### Immediate Market Entry States:
-- NEEDS REVIEW
-
-### Approval, Outreach, or Special Handling States:
-- Texas requires approval and outreach for employers to ensure compliance with the new legislation.
+**Immediate Market Entry:** Not applicable
 
 ## California
-### Next Steps:
-- Distribute the required human trafficking training materials to all hotel and motel employees.
-- Encourage use of resources from CAST and the National Human Trafficking Resource Center for additional support.
+**Next Steps:**
+- Conduct outreach to hotel and motel owners/management to ensure all employees receive the required 20-minute human trafficking awareness training by January 1, 2026.
+- Coordinate with local law enforcement and non-profits to provide additional support and resources.
 
-### Immediate Market Entry States:
-- NEEDS REVIEW
-
-### Approval, Outreach, or Special Handling States:
-- California requires approval and outreach to ensure that all relevant staff receive the required training by January 1, 2020.
+**Immediate Market Entry:** Not applicable
 
 ## Illinois
-### Next Steps:
-- Develop a comprehensive human trafficking recognition training program compliant with Act 2026.
-- Ensure all lodging establishment employees complete the mandatory training within six months of employment and every two years thereafter.
+**Next Steps:**
+- Develop a plan for all lodging establishments, restaurants, and truck stops to provide annual human trafficking recognition training to their employees by June 1, 2026.
+- Collaborate with the Department of Human Services to ensure the model curriculum is fully implemented and accessible.
 
-### Immediate Market Entry States:
-- NEEDS REVIEW
-
-### Approval, Outreach, or Special Handling States:
-- Illinois requires approval and outreach to ensure that all relevant staff receive the required training by June 1, 2020.
+**Immediate Market Entry:** Not applicable
 
 ## Minnesota
-### Next Steps:
-- Provide hotel, motel, and short-term rental staff with the required human trafficking prevention and response training.
-- Ensure compliance through mandatory reporting and enforcement actions as needed.
+**Next Steps:**
+- Implement mandatory sex trafficking prevention training for hotel, motel, and short-term rental staff within 90 days of hire by October 1, 2026.
+- Ensure all required employees receive the training annually thereafter.
 
-### Immediate Market Entry States:
-- NEEDS REVIEW
-
-### Approval, Outreach, or Special Handling States:
-- Minnesota requires approval and outreach to ensure that all relevant staff receive the required training within 90 days of employment.
+**Immediate Market Entry:** Not applicable
 
 ## Connecticut
-### Next Steps:
-- Provide hotel and motel employees with annual human trafficking recognition training.
-- Ensure compliance with mandatory data reporting requirements as part of human trafficking legislation.
+**Next Steps:**
+- Provide comprehensive training to foster parents, law enforcement, healthcare providers, and hotel/motel industry staff within the next six months.
+- Establish a process for mandatory data reporting of human trafficking cases by December 31, 2026.
 
-### Immediate Market Entry States:
-- NEEDS REVIEW
+**Immediate Market Entry:** Not applicable
 
-### Approval, Outreach, or Special Handling States:
-- Connecticut requires approval and outreach to ensure that all relevant staff receive the required training by June 1, 2020.
+## NEEDS REVIEW
+- States with unclear requirements or additional compliance measures not detailed in the provided sources. Further research and consultation are required to determine specific next steps.

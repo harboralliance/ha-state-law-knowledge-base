@@ -2,10 +2,10 @@
   "state": "California",
   "state_code": "CA",
   "industry": "commercial lodging",
-  "source_file": "2026-04-13_California_lodging_compliance.md",
+  "source_file": "2026-04-14_California_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": 20,
-  "training_frequency": null,
+  "training_frequency": "annual",
   "new_hire_deadline_days": null,
   "new_hire_deadline_text": null,
   "signage_required": true,
@@ -14,15 +14,15 @@
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "California Attorney General's Office (AGO)"
+    "California Attorney General's Office"
   ],
   "applicable_to": [
-    "hotel and motel employers"
+    "hotels",
+    "motels"
   ],
   "required_topics": [
-    "identifying signs and indicators of human trafficking",
-    "the legal framework surrounding human trafficking",
-    "procedures for responding to suspected cases of human trafficking"
+    "human trafficking awareness",
+    "identifying and responding to potential cases"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
@@ -32,27 +32,29 @@
     ],
     "minimum_size": null,
     "font_size": null,
-    "posting_location": null,
+    "posting_location": "prominently in common areas",
     "required_content": [
-      "telephone hotline numbers for seeking help or reporting unlawful activity",
-      "a specified number that victims can text for services and support"
+      "human trafficking hotlines"
     ]
   },
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    "SB 970 (2018)"
+    "SB 970 (2020)"
   ],
   "source_urls": [
-    "https://www.leginfo.ca.gov/bill/ca/sb970",
-    "https://www.cast.ca.gov/",
-    "https://oag.ca.gov/human-trafficking"
+    "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?billNumber=SB-970&chamber=assem&commitmentCode=&sessionYear=2019&version=A&tab=Bill+Text"
   ],
-  "harbor_alliance_posture": "needs-review",
+  "harbor_alliance_posture": "approval-required",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "fines for non-compliance with posting requirements"
+    "fines and penalties for non-compliance",
+    "legal consequences for non-compliance"
   ],
-  "notes": [],
+  "notes": [
+    "State-controlled training requirement",
+    "Signage required in English and Spanish",
+    "Third language may be required for certain counties"
+  ],
   "needs_review": []
 }

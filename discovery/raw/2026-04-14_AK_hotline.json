@@ -1,0 +1,40 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 2",
+      "relevancy": "100% - 100%",
+      "count": 2,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zhotlin:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "AK",
+      "bill_number": "SB169",
+      "bill_id": 2023451,
+      "change_hash": "caf00aee8421f1da426d0ae1b4426162",
+      "url": "https://legiscan.com/AK/bill/SB169/2025",
+      "text_url": "https://legiscan.com/AK/text/SB169/2025",
+      "research_url": "https://legiscan.com/AK/research/SB169/2025",
+      "last_action_date": "2025-04-11",
+      "last_action": "REFERRED TO STATE AFFAIRS",
+      "title": "Welcoming Alaska Office"
+    },
+    "1": {
+      "relevance": 100,
+      "state": "AK",
+      "bill_number": "HB188",
+      "bill_id": 2023537,
+      "change_hash": "14f0e47bc53cb03bc87a81bea8ef1730",
+      "url": "https://legiscan.com/AK/bill/HB188/2025",
+      "text_url": "https://legiscan.com/AK/text/HB188/2025",
+      "research_url": "https://legiscan.com/AK/research/HB188/2025",
+      "last_action_date": "2025-04-11",
+      "last_action": "REFERRED TO STATE AFFAIRS",
+      "title": "Welcoming Alaska Office"
+    }
+  }
+}

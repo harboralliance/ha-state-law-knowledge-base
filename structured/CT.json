@@ -2,10 +2,10 @@
   "state": "Connecticut",
   "state_code": "CT",
   "industry": "commercial lodging",
-  "source_file": "2026-04-13_Connecticut_lodging_compliance.md",
-  "training_required": false,
+  "source_file": "2026-04-14_Connecticut_lodging_compliance.md",
+  "training_required": true,
   "training_duration_minutes": null,
-  "training_frequency": null,
+  "training_frequency": "Annual",
   "new_hire_deadline_days": null,
   "new_hire_deadline_text": null,
   "signage_required": false,
@@ -14,22 +14,21 @@
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "Department of Children and Families (DCF)",
-    "Law enforcement agencies"
+    "Department of Children and Families (DCF)"
   ],
   "applicable_to": [
-    "Child Protective Services",
-    "Foster parents",
-    "Schools",
-    "Law enforcement",
-    "Hospitals",
-    "Hospitality industry",
-    "Other professionals",
-    "Youth",
-    "Community"
+    "Hotels",
+    "Motels",
+    "Inns",
+    "Lodging businesses"
   ],
-  "required_topics": [],
-  "reporting_contacts_required": [],
+  "required_topics": [
+    "Human trafficking"
+  ],
+  "reporting_contacts_required": [
+    "State attorneys",
+    "Local law enforcement"
+  ],
   "signage_details": {
     "languages_required": [],
     "minimum_size": null,
@@ -38,22 +37,22 @@
     "required_content": []
   },
   "recordkeeping_requirements": [
-    "Mandatory data reporting"
+    "Documenting training, investigations of missing children, trafficking referrals, and cases referred for prosecution"
   ],
   "certificate_requirements": [],
   "law_references": [
-    "Human and Sex Trafficking Legislation"
+    "Public acts that expand protections for victims of human trafficking and strengthen investigation processes"
   ],
   "source_urls": [
     "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/trainings-for-providers",
     "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/human-and-sex-trafficking-legislation"
   ],
-  "harbor_alliance_posture": "needs-review",
-  "harbor_alliance_actions": [
-    "Advocate for the passage of additional legislation to enhance protections for victims, including expanded services and resources.",
-    "Work with DCF and law enforcement agencies to enforce existing laws and regulations related to human trafficking."
+  "harbor_alliance_posture": null,
+  "harbor_alliance_actions": [],
+  "risks_or_constraints": [
+    "Need for annual training for staff and industry professionals",
+    "Lack of specific signage requirements mentioned"
   ],
-  "risks_or_constraints": [],
   "notes": [],
   "needs_review": []
 }
