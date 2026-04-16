@@ -1,0 +1,79 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 5",
+      "relevancy": "100% - 47%",
+      "count": 5,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zsignag:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "ND",
+      "bill_number": "HB1363",
+      "bill_id": 1916834,
+      "change_hash": "fe0a3cbc82c714b3bbd9e482434cb425",
+      "url": "https://legiscan.com/ND/bill/HB1363/2025",
+      "text_url": "https://legiscan.com/ND/text/HB1363/2025",
+      "research_url": "https://legiscan.com/ND/research/HB1363/2025",
+      "last_action_date": "2025-06-11",
+      "last_action": "Filed with Secretary Of State 05/02",
+      "title": "Cardiac emergency response plans for public and nonpublic schools and athletic events."
+    },
+    "1": {
+      "relevance": 98,
+      "state": "ND",
+      "bill_number": "HB1018",
+      "bill_id": 1899072,
+      "change_hash": "dc7cd170b2a2789aa1bdbe243f6f7825",
+      "url": "https://legiscan.com/ND/bill/HB1018/2025",
+      "text_url": "https://legiscan.com/ND/text/HB1018/2025",
+      "research_url": "https://legiscan.com/ND/research/HB1018/2025",
+      "last_action_date": "2025-06-11",
+      "last_action": "Filed with Secretary Of State 05/06",
+      "title": "Jurisdiction of the heritage center; to authorize a Bank of North Dakota line of credit; and to declare an emergency."
+    },
+    "2": {
+      "relevance": 96,
+      "state": "ND",
+      "bill_number": "HB1190",
+      "bill_id": 1911110,
+      "change_hash": "a15bb90b6ed96d23bc3aa3b595be6d58",
+      "url": "https://legiscan.com/ND/bill/HB1190/2025",
+      "text_url": "https://legiscan.com/ND/text/HB1190/2025",
+      "research_url": "https://legiscan.com/ND/research/HB1190/2025",
+      "last_action_date": "2025-01-14",
+      "last_action": "Withdrawn from further consideration",
+      "title": "The creation of the fallen military service members bridge committee; and to provide a continuing appropriation."
+    },
+    "3": {
+      "relevance": 91,
+      "state": "ND",
+      "bill_number": "HB1122",
+      "bill_id": 1900204,
+      "change_hash": "1cd0118c07ad4eaee858fc45f757d48d",
+      "url": "https://legiscan.com/ND/bill/HB1122/2025",
+      "text_url": "https://legiscan.com/ND/text/HB1122/2025",
+      "research_url": "https://legiscan.com/ND/research/HB1122/2025",
+      "last_action_date": "2025-03-25",
+      "last_action": "Filed with Secretary Of State 03/24",
+      "title": "State purchasing practices."
+    },
+    "4": {
+      "relevance": 47,
+      "state": "ND",
+      "bill_number": "SB2113",
+      "bill_id": 1900284,
+      "change_hash": "63122cb732cc13431092a651bef8e401",
+      "url": "https://legiscan.com/ND/bill/SB2113/2025",
+      "text_url": "https://legiscan.com/ND/text/SB2113/2025",
+      "research_url": "https://legiscan.com/ND/research/SB2113/2025",
+      "last_action_date": "2025-06-11",
+      "last_action": "Filed with Secretary Of State 05/02",
+      "title": "The powers and duties of the department of health and human services, treatment hearing timelines, and membership of the cross-disability advisory council; to provide for a legislative management study; and to provide an expiration date."
+    }
+  }
+}

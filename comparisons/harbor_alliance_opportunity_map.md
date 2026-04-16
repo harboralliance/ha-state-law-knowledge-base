@@ -1,19 +1,7 @@
-The search results indicate that there are two Wyoming bills related to health care and education:
+Based on the search results provided, it seems that there are no direct legislative bills related to the term "hotline" in Wyoming. Instead, the two bills found focus on different areas:
 
-1. **HB0003 - Wyoming pregnancy centers-autonomy and rights**
-   - **Relevance:** 100%
-   - **Status:** Assigned Chapter Number 62
-   - **Last Action Date:** March 6, 2026
-   - **Title:** This bill aims to protect the autonomy and rights of pregnancy centers in Wyoming.
-   - **Link:** [https://legiscan.com/WY/bill/HB0003/2026](https://legiscan.com/WY/bill/HB0003/2026)
+1. **HB0003**: This bill is titled "Wyoming pregnancy centers-autonomy and rights." It appears to be addressing issues related to the autonomy and rights of pregnancy centers in Wyoming.
 
-2. **HB0123 - Education savings accounts**
-   - **Relevance:** 83%
-   - **Status:** Failed Introduction (26-35-1-0-0)
-   - **Last Action Date:** February 10, 2026
-   - **Title:** This bill proposes the creation of education savings accounts to provide financial assistance for K-12 students.
-   - **Link:** [https://legiscan.com/WY/bill/HB0123/2026](https://legiscan.com/WY/bill/HB0123/2026)
+2. **HB0123**: This bill is titled "Education savings accounts." It likely relates to a proposed system for providing financial assistance or incentives for K-12 education.
 
-Given that the keyword "hotline" is not directly related to the content of either bill, it seems there might have been a misunderstanding or miscommunication regarding the search intent. If you were looking for bills specifically related to hotlines or emergency services, those would typically be found under different categories such as public safety, emergency communications, or healthcare-related legislation.
-
-If you need further assistance with another topic or if there was an error in your initial request, please let me know!
+The search query did not return any results that directly mention or are related to the term "hotline." If you were looking for legislation specifically addressing hotlines, you might want to consider using broader terms like "emergency services" or "public safety" in your search. Additionally, it could be beneficial to check more recent updates or archives from Wyoming's legislature, as new bills and proposals are introduced regularly.

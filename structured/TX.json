@@ -2,46 +2,31 @@
   "state": "Texas",
   "state_code": "TX",
   "industry": "commercial lodging",
-  "source_file": "2026-04-14_Texas_lodging_compliance.md",
+  "source_file": "2026-04-16_Texas_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
   "training_frequency": "annual",
   "new_hire_deadline_days": null,
   "new_hire_deadline_text": null,
-  "signage_required": false,
+  "signage_required": true,
   "provider_approval_required": true,
-  "provider_approval_type": "OAG approval",
-  "approval_authority": "Office of the Attorney General (OAG)",
-  "approval_contact": null,
+  "provider_approval_type": "approved_by_OAG_and_ECPAT-USA",
+  "approval_authority": "Texas Legislature (House Bill 390)",
+  "approval_contact": "[email\u00a0protected]",
   "enforcing_agencies": [
-    "National Human Trafficking Hotline",
-    "local law enforcement agencies",
-    "Attorney general\u2019s designated hotline"
+    "Office of the Attorney General",
+    "ECPAT-USA"
   ],
   "applicable_to": [
-    {
-      "lodging_size": "10 or more rooms",
-      "encouraged_for": "all lodging establishments"
-    }
+    "commercial lodging establishments with 10 or more rooms"
   ],
   "required_topics": [
-    "Understanding human trafficking and its impact on the hospitality industry",
-    "Identifying potential signs of human trafficking among employees",
-    "Reporting procedures for suspected cases",
-    "Legal protections afforded to individuals making good faith reports of trafficking",
-    "Roles and responsibilities in reporting and responding to human trafficking incidents"
+    "identifying individuals at risk for human trafficking",
+    "reporting procedures",
+    "relevant legislation"
   ],
   "reporting_contacts_required": [
-    {
-      "contact_type": "National Human Trafficking Hotline",
-      "toll_free": true
-    },
-    {
-      "contact_type": "Appropriate local law enforcement agencies"
-    },
-    {
-      "contact_type": "Attorney general\u2019s designated hotline"
-    }
+    "[email\u00a0protected]"
   ],
   "signage_details": {
     "languages_required": [
@@ -51,31 +36,29 @@
     "minimum_size": null,
     "font_size": null,
     "posting_location": null,
-    "required_content": []
+    "required_content": [
+      "Human trafficking is illegal. If you suspect human trafficking, report it immediately."
+    ]
   },
-  "recordkeeping_requirements": [
-    "Records of completed trainings for each employee, available for review by OAG and other law enforcement agencies"
-  ],
-  "certificate_requirements": [
+  "recordkeeping_requirements": [],
+  "certificate_requirements": [],
+  "law_references": [
     {
-      "type": "Certificate of Completion",
-      "details": "Must be provided to every employee who completes the training, including the date taken and course title"
+      "statute_name": "House Bill 390",
+      "section": "87th Regular Session"
     }
   ],
-  "law_references": [
-    "House Bill 390 (87th Regular Session)"
+  "source_urls": [
+    "https://www.texasattorneygeneral.gov/human-trafficking-training-for-commercial-lodging-establishments-in-texas"
   ],
-  "source_urls": [],
   "harbor_alliance_posture": "approval-required",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    {
-      "risk": "Costs of training programs",
-      "impact": "Some providers charge a fee per user"
-    }
+    "non-compliance with annual training requirement could lead to legal penalties"
   ],
   "notes": [
-    "Many approved trainings are offered at no cost to ensure broad access for businesses and employees."
+    "Training providers include the Office of the Attorney General and ECPAT-USA.",
+    "Signage must be displayed in English and Spanish."
   ],
   "needs_review": []
 }

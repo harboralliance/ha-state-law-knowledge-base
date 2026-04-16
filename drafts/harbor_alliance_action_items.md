@@ -2,38 +2,55 @@
 
 ## Texas
 **Next Steps:**
-- Ensure all commercial lodging establishments with 10 or more rooms have completed the required annual human trafficking training by December 31, 2026.
-- Provide and promote access to approved training videos for employers who need additional resources.
+- Review the Office of the Attorney General's approved training videos for distribution to lodging establishments.
+- Coordinate with hotel associations to facilitate mandatory annual training compliance.
 
-**Immediate Market Entry:** Not applicable
+**Market Entry Status:**
+- Immediate market entry allowed if hotels comply with HB 390 requirements.
+
+**Approval/Outreach Needed:**
+- NONE
 
 ## California
 **Next Steps:**
-- Conduct outreach to hotel and motel owners/management to ensure all employees receive the required 20-minute human trafficking awareness training by January 1, 2026.
-- Coordinate with local law enforcement and non-profits to provide additional support and resources.
+- Provide workshops or seminars on human trafficking awareness to lodging establishments.
+- Ensure hotel managers are aware of the training requirement and its importance.
 
-**Immediate Market Entry:** Not applicable
+**Market Entry Status:**
+- Immediate market entry allowed if hotels comply with Senate Bill 970 requirements.
+
+**Approval/Outreach Needed:**
+- NONE
 
 ## Illinois
 **Next Steps:**
-- Develop a plan for all lodging establishments, restaurants, and truck stops to provide annual human trafficking recognition training to their employees by June 1, 2026.
-- Collaborate with the Department of Human Services to ensure the model curriculum is fully implemented and accessible.
+- Develop a comprehensive model curriculum for human trafficking recognition by July 1, 2020.
+- Coordinate with lodging associations to ensure all relevant staff are trained annually within six months of employment and every two years thereafter.
 
-**Immediate Market Entry:** Not applicable
+**Market Entry Status:**
+- Immediate market entry allowed if hotels comply with Act 2026 requirements.
+
+**Approval/Outreach Needed:**
+- NONE
 
 ## Minnesota
 **Next Steps:**
-- Implement mandatory sex trafficking prevention training for hotel, motel, and short-term rental staff within 90 days of hire by October 1, 2026.
-- Ensure all required employees receive the training annually thereafter.
+- Distribute the mandatory training package to lodging establishments.
+- Ensure all hotel managers, owners, and on-site employees complete the training within 90 days of hire and annually thereafter.
 
-**Immediate Market Entry:** Not applicable
+**Market Entry Status:**
+- Immediate market entry allowed if hotels comply with Minnesota Law requirements.
+
+**Approval/Outreach Needed:**
+- NONE
 
 ## Connecticut
 **Next Steps:**
-- Provide comprehensive training to foster parents, law enforcement, healthcare providers, and hotel/motel industry staff within the next six months.
-- Establish a process for mandatory data reporting of human trafficking cases by December 31, 2026.
+- Review the available trainings for hotel and motel industry.
+- Ensure all employees receive annual trafficking training.
 
-**Immediate Market Entry:** Not applicable
+**Market Entry Status:**
+- Immediate market entry allowed if hotels comply with the comprehensive training requirement.
 
-## NEEDS REVIEW
-- States with unclear requirements or additional compliance measures not detailed in the provided sources. Further research and consultation are required to determine specific next steps.
+**Approval/Outreach Needed:**
+- NONE

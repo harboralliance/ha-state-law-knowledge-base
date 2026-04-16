@@ -2,12 +2,12 @@
   "state": "Minnesota",
   "state_code": "MN",
   "industry": "commercial lodging",
-  "source_file": "2026-04-14_Minnesota_lodging_compliance.md",
+  "source_file": "2026-04-16_Minnesota_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
   "training_frequency": "yearly",
   "new_hire_deadline_days": 90,
-  "new_hire_deadline_text": "New employees must take this training within 90 days of hire.",
+  "new_hire_deadline_text": "within 90 days of hire",
   "signage_required": true,
   "provider_approval_required": false,
   "provider_approval_type": null,
@@ -21,36 +21,46 @@
     "managers",
     "on-site employees"
   ],
-  "required_topics": [],
+  "required_topics": [
+    "recognizing signs of sex trafficking",
+    "how to respond appropriately"
+  ],
   "reporting_contacts_required": [],
   "signage_details": {
     "languages_required": [
       "English",
       "Spanish",
-      "Somali",
-      "Hmong"
+      "Hmong",
+      "Somali"
     ],
     "minimum_size": null,
     "font_size": null,
     "posting_location": "back-of-house",
     "required_content": [
-      "Training package materials"
+      "The Minnesota Lodging Sex Trafficking Prevention and Response Training Package"
     ]
   },
-  "recordkeeping_requirements": [],
+  "recordkeeping_requirements": [
+    {
+      "type": "training completion roster",
+      "description": "A roster of names for all employees who completed the training along with the date of completion",
+      "storage_location": "on file for future inspections"
+    }
+  ],
   "certificate_requirements": [],
   "law_references": [
-    "Minnesota Statutes, section 236.467"
+    "Minnesota law (specific section or public act not provided in the research note)"
   ],
-  "source_urls": [
-    "https://www.health.state.mn.us/divisions/labor/occupational-safety-compliance/training-for-sex-trafficking-prevention.html",
-    "https://www.health.state.mn.us/mdh/hrm/lodging/training"
-  ],
+  "source_urls": [],
   "harbor_alliance_posture": "immediate-entry",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "Lack of compliance may result in penalties or legal action."
+    "exemptions for certain employees",
+    "need for ongoing awareness campaigns"
   ],
-  "notes": [],
+  "notes": [
+    "Training is provided through a virtual presentation with guided exercises, a Training Companion Guide (PDF), and the Manager & Owner Training Toolkit (PDF).",
+    "The signage is available in multiple languages starting late fall 2023/early 2024."
+  ],
   "needs_review": []
 }

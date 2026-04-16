@@ -2,31 +2,27 @@
   "state": "Illinois",
   "state_code": "IL",
   "industry": "commercial lodging",
-  "source_file": "2026-04-14_Illinois_lodging_compliance.md",
+  "source_file": "2026-04-16_Illinois_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
-  "training_frequency": "every two years",
-  "new_hire_deadline_days": null,
-  "new_hire_deadline_text": null,
+  "training_frequency": "every 2 years",
+  "new_hire_deadline_days": 180,
+  "new_hire_deadline_text": "within 6 months of employment for new roles",
   "signage_required": false,
   "provider_approval_required": true,
-  "provider_approval_type": "third party",
+  "provider_approval_type": null,
   "approval_authority": "Department of Human Services",
   "approval_contact": null,
   "enforcing_agencies": [
-    "local government",
-    "law enforcement agency"
+    "Units of local government",
+    "law enforcement agencies"
   ],
-  "applicable_to": [
-    "lodging establishments",
-    "restaurants",
-    "truck stops"
-  ],
+  "applicable_to": [],
   "required_topics": [
-    "human trafficking definition",
-    "identifying individuals at risk",
-    "differences between labor and sex trafficking",
-    "employees' roles in reporting and responding"
+    "Definition of human trafficking and commercial exploitation of children",
+    "How to identify individuals at risk for human trafficking",
+    "Difference between labor and sex trafficking in the context of lodging, restaurants, and truck stops",
+    "Role of employees in reporting and responding to human trafficking instances"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
@@ -39,17 +35,19 @@
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    "SB1422"
+    "SB1422",
+    "ILGA.gov"
   ],
-  "source_urls": [],
+  "source_urls": [
+    "https://www.ilga.gov/sb1422",
+    "https://www.ilga.gov/laws-and-code/code-of-ilinois"
+  ],
   "harbor_alliance_posture": "approval-required",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "non-compliance penalties of up to $1,500 per offense"
+    "Lack of mandated training curriculum",
+    "Potential for non-compliance leading to fines"
   ],
-  "notes": [
-    "The bill requires training for employees and approval through a third party curriculum.",
-    "Training must be completed within six months of starting employment and every two years thereafter."
-  ],
+  "notes": [],
   "needs_review": []
 }

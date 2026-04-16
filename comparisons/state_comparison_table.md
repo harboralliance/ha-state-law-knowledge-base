@@ -1,13 +1,9 @@
-| **State** | **Controlling Law** | **Training Duration** | **Frequency** | **New Hire Deadline** | **Signage Requirement** | **Approval Requirement** | **Enforcing Agency** | **Harbor Alliance Opportunity Level** |
-|-----------|---------------------|-----------------------|---------------|------------------------|--------------------------|----------------------------|------------------------------|-----------------------------------|
-| Texas     | House Bill 390       | Not specified          | Annual        | Not specified           | Anti-trafficking signage | Office of the Attorney General | Labor Commission             | NEEDS REVIEW                      |
-| California| Senate Bill 970      | At least 20 minutes    | Annually      | January 1, 2020          | None                     | Not specified               | Not specified                 | NEEDS REVIEW                      |
-| Illinois  | Act 2026             | At least 20 minutes    | Every 2 years   | Within 6 months of hire  | Anti-trafficking signage | Department of Human Services   | Local government or law enforcement agencies | NEEDS REVIEW                      |
-| Minnesota | Minnesota Law        | Virtual presentation + Training Companion Guide | Annually      | 90 days after hire       | Required back-of-house poster | Minnesota Department of Health (MDH) | MDH                          | NEEDS REVIEW                      |
-| Connecticut| Various Public Acts   | Introduction to Child Trafficking, Introduction to Human Trafficking for Law Enforcement, Child Trafficking Training for Medical Providers/Emergency Medicine, Introduction to Labor Trafficking | Annually      | 90 days after hire       | None                     | Department of Children and Families (DCF), law enforcement agencies | NEEDS REVIEW                      |
-
-**NOTES:**
-- **Training Duration:** Not specified in Texas.
-- **Approval Requirement:** Not explicitly mentioned for Texas.
-- **Signage Requirement:** Anti-trafficking signage is required in Illinois and Minnesota, no specific signage requirement mentioned in other states.
-- **Harbor Alliance Opportunity Level:** Needs review as it is not explicitly detailed in any of the provided documents.
+```markdown
+| State         | Controlling Law                                    | Training Duration | Frequency                    | New Hire Deadline      | Signage Requirement                         | Approval Requirement                           | Enforcing Agency                             | Harbor Alliance Opportunity Level |
+|---------------|----------------------------------------------------|-------------------|--------------------------------|------------------------|---------------------------------------------|----------------------------------------------|------------------------------------|---------------------------------|
+| Texas         | House Bill 390                                     | Annual            | Not specified                  | N/A                    | Anti-trafficking signage                    | Office of the Attorney General (OAG)          | OAG                                | High                          |
+| California    | Senate Bill 970                                    | At least 20 minutes | Not specified                  | January 1, 2020          | No specific signage                         | Not explicitly stated                      | Potential penalties through state agencies | Moderate                        |
+| Illinois      | Act 2026                                             | At least 20 minutes | Every 2 years                    | 6 months after employment    | Anti-trafficking signage                    | Department of Human Services (DHS)          | DHS                                | High                          |
+| Minnesota     | Minnesota Lodging Sex Trafficking Prevention and Response Training | Virtual presentation | Annual                         | Within 90 days of hire   | Required back-of-house poster              | Minnesota Department of Health (MDH)         | MDH, local government or law enforcement | High                          |
+| Connecticut   | Various state acts (Public Acts 13-166, 14-186, etc.) | Varies by role      | Not specified                  | Within 90 days of hire   | No specific signage                         | Department of Children and Families (DCF), law enforcement agencies | Fines up to $1,500 per offense      | High                          |
+```
