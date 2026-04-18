@@ -2,55 +2,55 @@
 
 ## Texas
 **Next Steps:**
-- Review the Office of the Attorney General's approved training videos for distribution to lodging establishments.
-- Coordinate with hotel associations to facilitate mandatory annual training compliance.
+- Ensure all employees receive annual human trafficking training by the specified dates.
+- Access approved training videos provided by the Office of the Attorney General.
 
-**Market Entry Status:**
-- Immediate market entry allowed if hotels comply with HB 390 requirements.
+**Immediate Market Entry:** Texas allows immediate market entry for businesses adhering to these requirements.
 
-**Approval/Outreach Needed:**
-- NONE
+**States Requiring Approval/Outreach/Special Handling:** NONE
 
 ## California
 **Next Steps:**
-- Provide workshops or seminars on human trafficking awareness to lodging establishments.
-- Ensure hotel managers are aware of the training requirement and its importance.
+- Provide initial 20-minute human trafficking awareness training to all hotel and motel employees as per Senate Bill 970.
+- Maintain compliance with any updates or additional regulations provided by the Office of Fair Employment and Housing.
 
-**Market Entry Status:**
-- Immediate market entry allowed if hotels comply with Senate Bill 970 requirements.
+**Immediate Market Entry:** California allows immediate market entry for businesses adhering to these requirements.
 
-**Approval/Outreach Needed:**
-- NONE
+**States Requiring Approval/Outreach/Special Handling:** NONE
 
 ## Illinois
 **Next Steps:**
-- Develop a comprehensive model curriculum for human trafficking recognition by July 1, 2020.
-- Coordinate with lodging associations to ensure all relevant staff are trained annually within six months of employment and every two years thereafter.
+- Provide initial human trafficking recognition training within 6 months of employment.
+- Conduct follow-up training every 2 years as required by Act 2026.
+- Ensure compliance with the model curriculum developed by the Department of Human Services.
 
-**Market Entry Status:**
-- Immediate market entry allowed if hotels comply with Act 2026 requirements.
+**Immediate Market Entry:** Illinois requires approval or outreach for businesses to ensure all employees receive the necessary training on time.
 
-**Approval/Outreach Needed:**
-- NONE
+**States Requiring Approval/Outreach/Special Handling:**
+- Needs Review
 
 ## Minnesota
 **Next Steps:**
-- Distribute the mandatory training package to lodging establishments.
-- Ensure all hotel managers, owners, and on-site employees complete the training within 90 days of hire and annually thereafter.
+- Provide initial human trafficking prevention training within 90 days of hire.
+- Conduct follow-up annual training for all required staff.
+- Display the required back-of-house poster in a visible location.
 
-**Market Entry Status:**
-- Immediate market entry allowed if hotels comply with Minnesota Law requirements.
+**Immediate Market Entry:** Minnesota requires approval or outreach for businesses to ensure all employees receive the necessary training on time.
 
-**Approval/Outreach Needed:**
-- NONE
+**States Requiring Approval/Outreach/Special Handling:**
+- Needs Review
 
 ## Connecticut
 **Next Steps:**
-- Review the available trainings for hotel and motel industry.
-- Ensure all employees receive annual trafficking training.
+- Provide initial human trafficking awareness training within 90 days of hire.
+- Conduct follow-up annual training as required by law.
+- Ensure compliance with specific trainings for foster parents, law enforcement, healthcare providers, and hotel and motel industry employees.
 
-**Market Entry Status:**
-- Immediate market entry allowed if hotels comply with the comprehensive training requirement.
+**Immediate Market Entry:** Connecticut requires approval or outreach for businesses to ensure all employees receive the necessary training on time.
 
-**Approval/Outreach Needed:**
-- NONE
+**States Requiring Approval/Outreach/Special Handling:**
+- Needs Review
+
+---
+
+Harbor Alliance must work closely with state regulatory bodies in Texas, Illinois, Minnesota, and Connecticut to ensure compliance with human trafficking training requirements. For Illinois, Minnesota, and Connecticut, Harbor Alliance should seek approval or outreach to meet the specific timing requirements for employee training.

@@ -1,0 +1,53 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 3",
+      "relevancy": "100% - 61%",
+      "count": 3,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zinn:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "LA",
+      "bill_number": "SB136",
+      "bill_id": 2123137,
+      "change_hash": "5335bebc3744823507ecebdf7f6901ff",
+      "url": "https://legiscan.com/LA/bill/SB136/2026",
+      "text_url": "https://legiscan.com/LA/text/SB136/2026",
+      "research_url": "https://legiscan.com/LA/research/SB136/2026",
+      "last_action_date": "2026-03-09",
+      "last_action": "Introduced in the Senate; read by title. Rules suspended. Read second time and referred to the Committee on Senate and Governmental Affairs.",
+      "title": "Provides for redistricting of the Louisiana Senate. (See Act) (OR +$2,934,660 GF EX See Note)"
+    },
+    "1": {
+      "relevance": 96,
+      "state": "LA",
+      "bill_number": "SB282",
+      "bill_id": 2126243,
+      "change_hash": "51afe12db83c364acd017441a2b0b7d5",
+      "url": "https://legiscan.com/LA/bill/SB282/2026",
+      "text_url": "https://legiscan.com/LA/text/SB282/2026",
+      "research_url": "https://legiscan.com/LA/research/SB282/2026",
+      "last_action_date": "2026-04-15",
+      "last_action": "Reported favorably.",
+      "title": "Authorizes the creation of a cooperative economic development district affiliated with Baton Rouge Community College in East Baton Rouge Parish. (gov sig)"
+    },
+    "2": {
+      "relevance": 61,
+      "state": "LA",
+      "bill_number": "HB312",
+      "bill_id": 2122946,
+      "change_hash": "37d5996b266c1c3e7627654c4c7248a1",
+      "url": "https://legiscan.com/LA/bill/HB312/2026",
+      "text_url": "https://legiscan.com/LA/text/HB312/2026",
+      "research_url": "https://legiscan.com/LA/research/HB312/2026",
+      "last_action_date": "2026-04-16",
+      "last_action": "Read third time by title, roll called on final passage, yeas 104, nays 0. Finally passed, title adopted, ordered to the Senate.",
+      "title": "Makes supplemental appropriations for Fiscal Year 2025-2026"
+    }
+  }
+}

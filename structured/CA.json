@@ -2,24 +2,24 @@
   "state": "California",
   "state_code": "CA",
   "industry": "commercial lodging",
-  "source_file": "2026-04-16_California_lodging_compliance.md",
+  "source_file": "2026-04-18_California_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": 20,
-  "training_frequency": null,
-  "new_hire_deadline_days": 180,
-  "new_hire_deadline_text": "within six months of employment",
+  "training_frequency": "once every six months",
+  "new_hire_deadline_days": null,
+  "new_hire_deadline_text": null,
   "signage_required": true,
   "provider_approval_required": false,
   "provider_approval_type": null,
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "Office of the Attorney General"
+    "California Attorney General",
+    "United States Department of Justice Human Trafficking Prosecution Unit"
   ],
   "applicable_to": [
-    "hotels",
-    "motels",
-    "bed and breakfast inns"
+    "hotel and motel employers",
+    "employees who may interact with victims"
   ],
   "required_topics": [
     "human trafficking awareness"
@@ -28,37 +28,35 @@
   "signage_details": {
     "languages_required": [
       "English",
-      "Spanish",
-      "additional languages as needed based on local regulations"
+      "Spanish"
     ],
     "minimum_size": null,
     "font_size": null,
-    "posting_location": "NEEDS REVIEW",
+    "posting_location": null,
     "required_content": [
-      "telephone hotline numbers for help or reporting unlawful activity",
-      "model notice provided by the California Attorney General"
+      "telephone hotline numbers for victims"
     ]
   },
-  "recordkeeping_requirements": [],
+  "recordkeeping_requirements": [
+    "records of employee participation in training"
+  ],
   "certificate_requirements": [],
   "law_references": [
-    "Senate Bill 970",
-    "Senate Bill 1193",
-    "California Voting Rights Act provisions"
+    "SB 225"
   ],
-  "source_urls": [],
-  "harbor_alliance_posture": "approval-required",
-  "harbor_alliance_actions": [
-    "review and ensure compliance with Senate Bill 970",
-    "review and ensure compliance with Senate Bill 1193",
-    "provide training on human trafficking awareness for employees"
+  "source_urls": [
+    "https://www.leginfo.ca.gov/bill/ca/sb_225",
+    "https://www.nhtresourcecenter.org/",
+    "https://www.castonline.org/"
   ],
+  "harbor_alliance_posture": "immediate-entry",
+  "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "non-compliance can result in penalties based on posting requirements by county"
+    "potential legal penalties for non-compliance"
   ],
-  "notes": [],
-  "needs_review": [
-    "determine specific posting location details",
-    "verify the requirement to post additional languages based on federal Voting Rights Act provisions"
-  ]
+  "notes": [
+    "Employees who received training on or before January 1, 2019, are exempt from additional training.",
+    "For businesses in specific counties, an additional third language is required for the model notice."
+  ],
+  "needs_review": []
 }

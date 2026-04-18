@@ -1,11 +1,11 @@
 {
   "state": "Connecticut",
   "state_code": "CT",
-  "industry": "commercial lodging; healthcare; hospitality industry; law enforcement; schools",
-  "source_file": "2026-04-16_Connecticut_lodging_compliance.md",
+  "industry": "commercial lodging",
+  "source_file": "2026-04-18_Connecticut_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
-  "training_frequency": "annual for hotel employees",
+  "training_frequency": "annual",
   "new_hire_deadline_days": null,
   "new_hire_deadline_text": null,
   "signage_required": false,
@@ -19,19 +19,32 @@
     "local law enforcement"
   ],
   "applicable_to": [
-    "Hotels, motels, inns, and similar lodging",
-    "Healthcare",
-    "Hospitality industry",
-    "Law enforcement",
-    "Schools"
+    "DCF staff",
+    "foster parents",
+    "service providers",
+    "schools",
+    "law enforcement",
+    "hospital and medical staff",
+    "hospitality industry professionals",
+    "other community members"
   ],
   "required_topics": [
-    "Human trafficking of minors",
-    "Trafficking awareness and prevention",
-    "Identifying and supporting children in trafficking situations",
-    "Better serving human trafficking victims"
+    "human trafficking definitions",
+    "laws",
+    "warning signs",
+    "impacts",
+    "how to respond"
   ],
-  "reporting_contacts_required": [],
+  "reporting_contacts_required": [
+    {
+      "agency": "state attorneys",
+      "contact": null
+    },
+    {
+      "agency": "local law enforcement",
+      "contact": null
+    }
+  ],
   "signage_details": {
     "languages_required": [],
     "minimum_size": null,
@@ -40,31 +53,33 @@
     "required_content": []
   },
   "recordkeeping_requirements": [
-    "Mandatory data reporting on trafficking cases"
+    "documenting training",
+    "investigations of missing children",
+    "trafficking referrals",
+    "cases referred for prosecution"
   ],
   "certificate_requirements": [],
   "law_references": [
-    "Public Act 17-32",
-    "Public Act 16-71",
-    "Public Act 15-195",
-    "Public Act 14-186",
-    "Public Act 13-166",
-    "Public Act 12-141",
-    "Public Act 11-180",
-    "Public Act 10-115"
+    {
+      "statute_name": "Human Trafficking Act",
+      "code_section": "NEEDS REVIEW",
+      "public_act": "2017 Public Acts of Connecticut"
+    }
   ],
   "source_urls": [
     "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/trainings-for-providers",
     "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/human-and-sex-trafficking-legislation"
   ],
-  "harbor_alliance_posture": "needs-review",
+  "harbor_alliance_posture": null,
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "Need for annual training for hotel employees",
-    "Potential need for state-controlled training requirement"
+    "No specific mention of signage requirements",
+    "Risk of penalties for certain human trafficking offenses"
   ],
   "notes": [
-    "Annual training for hotel employees is required, which could be a state-controlled requirement."
+    "Effective date of laws mentioned: 2010 with subsequent updates up to 2017."
   ],
-  "needs_review": []
+  "needs_review": [
+    "Specific details on harbor alliance posture and actions are missing."
+  ]
 }
