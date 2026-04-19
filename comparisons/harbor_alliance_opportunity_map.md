@@ -1,7 +1,32 @@
-Based on the search results, it appears that the keyword "hotline" is not directly related to any legislation in Wyoming. The two bills identified are:
+### Summary of Wyoming Legislation Search Results (April 19, 2026)
 
-1. **HB0003**: This bill focuses on "Wyoming pregnancy centers-autonomy and rights." It has been assigned a chapter number of 62 and has had its last action date set for March 6, 2026.
+#### Bill Details
 
-2. **HB0123**: This bill deals with "Education savings accounts." It has also had its last action date set for February 10, 2026, but the introduction attempt was unsuccessful.
+**HB0003: Wyoming Pregnancy Centers-Autonomy and Rights**
+- **State:** WY
+- **Bill Number:** HB0003
+- **Bill ID:** 2054649
+- **Change Hash:** 65998ae9e57db19c5d94b797dfa1d58f
+- **URL:** https://legiscan.com/WY/bill/HB0003/2026
+- **Text URL:** https://legiscan.com/WY/text/HB0003/2026
+- **Research URL:** https://legiscan.com/WY/research/HB0003/2026
+- **Last Action Date:** 2026-03-06
+- **Last Action:** Assigned Chapter Number 62
+- **Title:** Wyoming pregnancy centers-autonomy and rights
 
-Since there are no bills directly related to "hotline" in the provided search results, it seems that the term might be used in a different context or could be a typographical error. If you have additional information or if the keyword "hotline" is meant for another state, please provide further details so I can assist you better.
+**HB0123: Education Savings Accounts**
+- **State:** WY
+- **Bill Number:** HB0123
+- **Bill ID:** 2111580
+- **Change Hash:** a375e8f5ac63125241c02aa8c0937fb4
+- **URL:** https://legiscan.com/WY/bill/HB0123/2026
+- **Text URL:** https://legiscan.com/WY/text/HB0123/2026
+- **Research URL:** https://legiscan.com/WY/research/HB0123/2026
+- **Last Action Date:** 2026-02-10
+- **Last Action:** Failed Introduction 26-35-1-0-0
+- **Title:** Education savings accounts
+
+### Notes:
+The keyword "hotline" is not directly relevant to the content of these bills. The bills focus on issues such as maternal rights and education savings accounts, respectively.
+
+For more detailed information on each bill, please visit the provided URLs.

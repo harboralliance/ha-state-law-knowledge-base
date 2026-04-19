@@ -2,7 +2,7 @@
   "state": "Connecticut",
   "state_code": "CT",
   "industry": "commercial lodging",
-  "source_file": "2026-04-18_Connecticut_lodging_compliance.md",
+  "source_file": "2026-04-19_Connecticut_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
   "training_frequency": "annual",
@@ -14,37 +14,23 @@
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "Department of Children and Families (DCF)",
-    "state attorneys",
-    "local law enforcement"
+    "DCF",
+    "law enforcement"
   ],
   "applicable_to": [
     "DCF staff",
     "foster parents",
     "service providers",
     "schools",
-    "law enforcement",
     "hospital and medical staff",
-    "hospitality industry professionals",
-    "other community members"
+    "hospitlity industry professionals",
+    "other professionals"
   ],
   "required_topics": [
-    "human trafficking definitions",
-    "laws",
-    "warning signs",
-    "impacts",
-    "how to respond"
+    "human trafficking basics",
+    "advanced human trafficking training"
   ],
-  "reporting_contacts_required": [
-    {
-      "agency": "state attorneys",
-      "contact": null
-    },
-    {
-      "agency": "local law enforcement",
-      "contact": null
-    }
-  ],
+  "reporting_contacts_required": [],
   "signage_details": {
     "languages_required": [],
     "minimum_size": null,
@@ -53,33 +39,23 @@
     "required_content": []
   },
   "recordkeeping_requirements": [
-    "documenting training",
-    "investigations of missing children",
-    "trafficking referrals",
-    "cases referred for prosecution"
+    "mandatory data reporting"
   ],
   "certificate_requirements": [],
   "law_references": [
-    {
-      "statute_name": "Human Trafficking Act",
-      "code_section": "NEEDS REVIEW",
-      "public_act": "2017 Public Acts of Connecticut"
-    }
+    "Public Act 17-32",
+    "Public Act 16-71",
+    "Public Act 15-195"
   ],
   "source_urls": [
     "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/trainings-for-providers",
     "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/human-and-sex-trafficking-legislation"
   ],
-  "harbor_alliance_posture": null,
+  "harbor_alliance_posture": "approval-required",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "No specific mention of signage requirements",
-    "Risk of penalties for certain human trafficking offenses"
+    "need for comprehensive training across various sectors"
   ],
-  "notes": [
-    "Effective date of laws mentioned: 2010 with subsequent updates up to 2017."
-  ],
-  "needs_review": [
-    "Specific details on harbor alliance posture and actions are missing."
-  ]
+  "notes": [],
+  "needs_review": []
 }

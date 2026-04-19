@@ -1,0 +1,5 @@
+The Minnesota law requires hotels, motels, and short-term rentals to provide training on sex trafficking prevention and response to their employees. The training must be completed by all owners, managers, and on-site employees within 90 days of hire, and retaken annually thereafter. Employees under certain exemptions are not required to complete the training, such as those under 16 years old unless they clean rooms, those who work exclusively in a restaurant providing catering services, or those with no direct contact with guests or guest rooms.
+
+The training package includes a virtual presentation, a Training Companion Guide, a Manager & Owner Training Toolkit, and a poster set that must be displayed in various areas of the facility. The law does not specify exemptions for resorts, bed and breakfasts, vacation shares, or short-term rentals that do not hold hotel licenses.
+
+If you have any questions about the training requirements, please contact health.safeharbor@state.mn.us.
