@@ -2,7 +2,7 @@
   "state": "Connecticut",
   "state_code": "CT",
   "industry": "commercial lodging",
-  "source_file": "2026-04-19_Connecticut_lodging_compliance.md",
+  "source_file": "2026-04-20_Connecticut_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
   "training_frequency": "annual",
@@ -14,21 +14,22 @@
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "DCF",
-    "law enforcement"
+    "Connecticut Department of Children and Families (DCF)",
+    "State attorneys",
+    "Local law enforcement"
   ],
   "applicable_to": [
-    "DCF staff",
-    "foster parents",
-    "service providers",
-    "schools",
-    "hospital and medical staff",
-    "hospitlity industry professionals",
-    "other professionals"
+    "Child Protective Services staff",
+    "Foster parents",
+    "Hotel employees",
+    "Schools",
+    "Law enforcement",
+    "Hospital and medical staff",
+    "Other professionals"
   ],
   "required_topics": [
-    "human trafficking basics",
-    "advanced human trafficking training"
+    "Human trafficking",
+    "Impact on different populations (boys, LGBTQ+ children)"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
@@ -39,22 +40,25 @@
     "required_content": []
   },
   "recordkeeping_requirements": [
-    "mandatory data reporting"
+    "Guest transactions and receipts for at least six months"
   ],
   "certificate_requirements": [],
   "law_references": [
-    "Public Act 17-32",
-    "Public Act 16-71",
-    "Public Act 15-195"
+    "2017 Public Act 17-32",
+    "2016 Public Act 16-71",
+    "2015 Public Act 15-195",
+    "2014 Public Act 14-186",
+    "2013 Public Act 13-166"
   ],
   "source_urls": [
     "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/trainings-for-providers",
     "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/human-and-sex-trafficking-legislation"
   ],
-  "harbor_alliance_posture": "approval-required",
+  "harbor_alliance_posture": null,
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "need for comprehensive training across various sectors"
+    "Annual training requirement for hotel employees",
+    "Mandatory data reporting requirements"
   ],
   "notes": [],
   "needs_review": []

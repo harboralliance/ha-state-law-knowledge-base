@@ -1,21 +1,72 @@
 # Harbor Alliance Action Items
 
 ## Texas
-- **Immediate Market Entry:** NOT ALLOWED  
-- **Action Item:** The Office of the Attorney General requires annual human trafficking training for employees in lodging establishments with 10 or more rooms, and mandatory training for all other lodging establishments. Harbor Alliance must ensure compliance by providing the required training annually.
+**Next Steps:**
+- Review and distribute approved human trafficking training videos to lodging establishments.
+- Ensure all employees of commercial lodging establishments with 10 or more rooms complete the required annual training by the deadline.
+
+**Immediate Market Entry States:**
+- NONE (Training requirement pending)
+
+**States Requiring Approval, Outreach, or Special Handling:**
+- NONE
+
+---
 
 ## California
-- **Immediate Market Entry:** ALLOWED  
-- **Action Item:** No specific requirements noted for immediate market entry at this time. Harbor Alliance should continue to monitor developments and provide updates as needed.
+**Next Steps:**
+- Distribute required training videos and materials to hotel and motel employees.
+- Ensure all relevant staff complete at least 20 minutes of classroom or interactive training by the effective date.
+
+**Immediate Market Entry States:**
+- NONE (Training requirement pending)
+
+**States Requiring Approval, Outreach, or Special Handling:**
+- NONE
+
+---
 
 ## Illinois
-- **Immediate Market Entry:** NEEDS REVIEW  
-- **Action Item:** Employers in Illinois are required to provide annual human trafficking recognition training within six months of employment and every two years thereafter. Harbor Alliance should confirm the specific training requirements from the Department of Human Services and ensure compliance with all relevant guidelines.
+**Next Steps:**
+- Distribute model human trafficking recognition training curriculum to lodging establishments.
+- Ensure all relevant employees complete the required training within 6 months of employment and every 2 years thereafter.
+
+**Immediate Market Entry States:**
+- NONE (Training requirement pending)
+
+**States Requiring Approval, Outreach, or Special Handling:**
+- NONE
+
+---
 
 ## Minnesota
-- **Immediate Market Entry:** ALLOWED  
-- **Action Item:** Hotel, motel, and short-term rental staff must complete the Minnesota Lodging Sex Trafficking Prevention and Response Training within 90 days of hire and every year thereafter. Harbor Alliance should provide necessary training materials and ensure ongoing compliance with the law.
+**Next Steps:**
+- Distribute the mandatory human trafficking prevention training package to hotel, motel, and short-term rental staff.
+- Ensure all relevant employees complete the training within 90 days of hire and annually thereafter.
+
+**Immediate Market Entry States:**
+- NONE (Training requirement pending)
+
+**States Requiring Approval, Outreach, or Special Handling:**
+- NONE
+
+---
 
 ## Connecticut
-- **Immediate Market Entry:** NEEDS REVIEW  
-- **Action Item:** Employees in Connecticut's hospitality industry are required to receive annual trafficking training. Harbor Alliance should verify specific training requirements from the Department of Children and Families and ensure all relevant staff are compliant by the specified deadlines.
+**Next Steps:**
+- Distribute required trainings for foster parents, law enforcement, healthcare providers, and hotel and motel industry employees.
+- Ensure all relevant staff complete the specified training programs.
+
+**Immediate Market Entry States:**
+- NONE (Training requirement pending)
+
+**States Requiring Approval, Outreach, or Special Handling:**
+- NONE
+
+---
+
+## General Notes
+- **Review Requirement:** ALL states require immediate distribution of training materials and completion by respective deadlines.
+- **Contact Compliance Teams:** Each state has specific resources and compliance teams. Contact local offices for further assistance and support.
+
+**END OF DOCUMENT**

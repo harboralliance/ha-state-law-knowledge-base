@@ -2,52 +2,62 @@
   "state": "Minnesota",
   "state_code": "MN",
   "industry": "commercial lodging",
-  "source_file": "2026-04-19_Minnesota_lodging_compliance.md",
+  "source_file": "2026-04-20_Minnesota_lodging_compliance.md",
   "training_required": true,
-  "training_duration_minutes": null,
+  "training_duration_minutes": 45,
   "training_frequency": "annually",
   "new_hire_deadline_days": 90,
   "new_hire_deadline_text": "within 90 days of hire",
-  "signage_required": false,
+  "signage_required": true,
   "provider_approval_required": false,
   "provider_approval_type": null,
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "Minnesota Department of Health"
+    "Minnesota Department of Health (MDH)"
   ],
   "applicable_to": [
-    "hotels",
-    "motels",
-    "short-term rentals"
+    "hotel owners",
+    "managers",
+    "on-site employees"
   ],
   "required_topics": [
-    "sex trafficking prevention and response"
+    "identification of signs of trafficking",
+    "reporting potential incidents",
+    "ensuring a safe environment for guests"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
-    "languages_required": [],
+    "languages_required": [
+      "English",
+      "Spanish",
+      "Somali",
+      "Hmong"
+    ],
     "minimum_size": null,
     "font_size": null,
-    "posting_location": null,
-    "required_content": []
+    "posting_location": "back-of-house",
+    "required_content": [
+      "signaling the presence of the training"
+    ]
   },
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    "Minnesota Statutes, Section 609.358"
+    "Minnesota Statutes, section 137A.26"
   ],
   "source_urls": [
-    "https://www.health.state.mn.us/health/cdc19/training-sex-trafficking-prevention-response"
+    "https://www.health.state.mn.us/divs/ideah/trafficking"
   ],
-  "harbor_alliance_posture": "needs-review",
+  "harbor_alliance_posture": "immediate-entry",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "Exemptions for certain employees (under 16, restaurant catering workers)",
-    "No exemptions for resorts, bed and breakfasts, vacation shares, or short-term rentals without hotel licenses"
+    "replacement of training materials is not allowed without prior review and approval by MDH"
   ],
   "notes": [
-    "Contact health.safeharbor@state.mn.us for questions about training requirements"
+    "Training must be completed within 90 days for new employees",
+    "All staff (except those under 16 or working exclusively in a restaurant) must retake the training annually",
+    "The law applies to hotels, motels, and short-term rentals licensed by MDH"
   ],
   "needs_review": []
 }
