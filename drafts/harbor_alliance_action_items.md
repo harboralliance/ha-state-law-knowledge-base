@@ -2,71 +2,55 @@
 
 ## Texas
 **Next Steps:**
-- Review and distribute approved human trafficking training videos to lodging establishments.
-- Ensure all employees of commercial lodging establishments with 10 or more rooms complete the required annual training by the deadline.
+- Schedule training for all employees in commercial lodging establishments with 10 or more rooms.
+- Ensure that all relevant employees complete the required annual training.
 
 **Immediate Market Entry States:**
-- NONE (Training requirement pending)
+- None (Training requirements are in place)
 
-**States Requiring Approval, Outreach, or Special Handling:**
-- NONE
-
----
+**Approval/Outreach Required States:**
+- None (Texas has approved several training videos; no additional action required from Harbor Alliance)
 
 ## California
 **Next Steps:**
-- Distribute required training videos and materials to hotel and motel employees.
-- Ensure all relevant staff complete at least 20 minutes of classroom or interactive training by the effective date.
+- Coordinate with hotel and motel owners to schedule the 20-minute training session for employees.
+- Ensure that new employees receive the required training within six months of joining their roles.
 
 **Immediate Market Entry States:**
-- NONE (Training requirement pending)
+- None (Training requirement is in place since January 1, 2020)
 
-**States Requiring Approval, Outreach, or Special Handling:**
-- NONE
-
----
+**Approval/Outreach Required States:**
+- None (California has provided detailed resources and support for human trafficking awareness; no additional action required from Harbor Alliance)
 
 ## Illinois
 **Next Steps:**
-- Distribute model human trafficking recognition training curriculum to lodging establishments.
-- Ensure all relevant employees complete the required training within 6 months of employment and every 2 years thereafter.
+- Develop a plan to provide training to employees within six months of starting employment in relevant roles.
+- Schedule annual refresher training every two years.
 
 **Immediate Market Entry States:**
-- NONE (Training requirement pending)
+- None (Training requirement is in place since June 1, 2020)
 
-**States Requiring Approval, Outreach, or Special Handling:**
-- NONE
-
----
+**Approval/Outreach Required States:**
+- None (Illinois has developed a model curriculum; no additional action required from Harbor Alliance)
 
 ## Minnesota
 **Next Steps:**
-- Distribute the mandatory human trafficking prevention training package to hotel, motel, and short-term rental staff.
-- Ensure all relevant employees complete the training within 90 days of hire and annually thereafter.
+- Coordinate with hotel, motel, and short-term rental managers to schedule the training within 90 days of hire.
+- Ensure all staff complete the required annual refresher training.
 
 **Immediate Market Entry States:**
-- NONE (Training requirement pending)
+- None (Training requirement is in place since January 1, 2026)
 
-**States Requiring Approval, Outreach, or Special Handling:**
-- NONE
-
----
+**Approval/Outreach Required States:**
+- None (Minnesota provides the mandatory training package at no cost; no additional action required from Harbor Alliance)
 
 ## Connecticut
 **Next Steps:**
-- Distribute required trainings for foster parents, law enforcement, healthcare providers, and hotel and motel industry employees.
-- Ensure all relevant staff complete the specified training programs.
+- Develop a plan to provide training for all employees within hotels and motels.
+- Ensure new employees receive the required training within 90 days of joining their roles.
 
 **Immediate Market Entry States:**
-- NONE (Training requirement pending)
+- None (Training requirement is in place since 2010 with subsequent updates)
 
-**States Requiring Approval, Outreach, or Special Handling:**
-- NONE
-
----
-
-## General Notes
-- **Review Requirement:** ALL states require immediate distribution of training materials and completion by respective deadlines.
-- **Contact Compliance Teams:** Each state has specific resources and compliance teams. Contact local offices for further assistance and support.
-
-**END OF DOCUMENT**
+**Approval/Outreach Required States:**
+- None (Connecticut has provided detailed resources and support for human trafficking awareness; no additional action required from Harbor Alliance)

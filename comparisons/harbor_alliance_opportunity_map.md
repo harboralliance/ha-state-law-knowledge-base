@@ -1,10 +1,15 @@
-It appears there was a misunderstanding with the keyword "hotline" in relation to legislation in Wyoming. The summary provided indicates that the keyword "hotline" is associated with specific issues such as pregnancy centers and education savings accounts.
+### Summary of WY State Legislation with Keyword: Hotline
 
-Given the context provided in the summaries, it seems the bills are addressing regulations or policies related to these topics rather than directly involving a "hotline." Here's a more detailed breakdown of each bill:
+**Total Results:** 2  
+**Page:** 1 of 1  
+**Range:** 1 - 2  
+**Relevancy:** 100% - 83%
 
-### Bill 1: HB0003 - Wyoming Pregnancy Centers-Autonomy and Rights
-- **Relevance:** 100%
+---
+
+#### Bill: Wyoming Pregnancy Centers-Autonomy and Rights (HB0003)
 - **State:** WY
+- **Bill Number:** HB0003
 - **Change Hash:** 65998ae9e57db19c5d94b797dfa1d58f
 - **URL:** [https://legiscan.com/WY/bill/HB0003/2026](https://legiscan.com/WY/bill/HB0003/2026)
 - **Text URL:** [https://legiscan.com/WY/text/HB0003/2026](https://legiscan.com/WY/text/HB0003/2026)
@@ -13,12 +18,14 @@ Given the context provided in the summaries, it seems the bills are addressing r
 - **Last Action:** Assigned Chapter Number 62
 - **Title:** Wyoming pregnancy centers-autonomy and rights
 
-**Summary:**
-This bill focuses on ensuring the autonomy and rights of individuals seeking abortion services in Wyoming. It likely includes provisions related to access to healthcare, informed consent, and restrictions on parental involvement. The bill has been passed and is awaiting a governor's signature.
+**Description:**
+This bill aims to protect the autonomy and rights of individuals who operate or receive services from pregnancy centers in Wyoming. It likely includes provisions that support informed choice, legal access to abortion, and other reproductive health services.
 
-### Bill 2: HB0123 - Education Savings Accounts
-- **Relevance:** 83%
+---
+
+#### Bill: Education Savings Accounts (HB0123)
 - **State:** WY
+- **Bill Number:** HB0123
 - **Change Hash:** a375e8f5ac63125241c02aa8c0937fb4
 - **URL:** [https://legiscan.com/WY/bill/HB0123/2026](https://legiscan.com/WY/bill/HB0123/2026)
 - **Text URL:** [https://legiscan.com/WY/text/HB0123/2026](https://legiscan.com/WY/text/HB0123/2026)
@@ -27,11 +34,13 @@ This bill focuses on ensuring the autonomy and rights of individuals seeking abo
 - **Last Action:** Failed Introduction 26-35-1-0-0
 - **Title:** Education savings accounts
 
-**Summary:**
-This bill introduces a new type of educational funding mechanism in Wyoming, likely aimed at increasing financial support for students. It may include provisions related to eligibility criteria, funding amounts, and administrative oversight. The bill has not been enacted due to failing an introduction stage.
+**Description:**
+This bill introduces a new type of financial account designed to help individuals save money for their education. It could involve provisions for tax advantages, minimum required distributions, and other features that encourage long-term savings for educational purposes.
 
-### Next Steps:
-- **For HB0003:** Since it has been passed and awaits a governor's signature, you may want to follow up on the status of its implementation.
-- **For HB0123:** Given that it failed at the introduction stage, it may be worth reviewing any amendments or re-introductions in future sessions.
+---
 
-If you have additional questions or need further assistance with these bills, feel free to ask!
+### Notes:
+- The keyword "hotline" is found in the title of HB0003, which pertains to Wyoming pregnancy centers and their autonomy rights. However, it's not explicitly linked to a hotline.
+- HB0123 discusses education savings accounts, which may involve hotlines for enrollment or information, but this is not specified in the provided summary.
+
+For more detailed information on each bill, please visit the provided URLs. If you have any further questions or need additional assistance, feel free to ask!

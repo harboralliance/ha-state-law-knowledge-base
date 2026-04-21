@@ -1,0 +1,79 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 5",
+      "relevancy": "100% - 89%",
+      "count": 5,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zhotel:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "CO",
+      "bill_number": "SB109",
+      "bill_id": 2114516,
+      "change_hash": "4d262e39161cc30d9dc6c1f81d003779",
+      "url": "https://legiscan.com/CO/bill/SB109/2026",
+      "text_url": "https://legiscan.com/CO/text/SB109/2026",
+      "research_url": "https://legiscan.com/CO/research/SB109/2026",
+      "last_action_date": "2026-04-16",
+      "last_action": "House Third Reading Laid Over Daily - No Amendments",
+      "title": "Building Code Accessibility"
+    },
+    "1": {
+      "relevance": 98,
+      "state": "CO",
+      "bill_number": "HB1194",
+      "bill_id": 2114465,
+      "change_hash": "85abec25ba4f91c0d1aa8f1236be07dc",
+      "url": "https://legiscan.com/CO/bill/HB1194/2026",
+      "text_url": "https://legiscan.com/CO/text/HB1194/2026",
+      "research_url": "https://legiscan.com/CO/research/HB1194/2026",
+      "last_action_date": "2026-04-09",
+      "last_action": "Senate Committee on Health & Human Services Refer Amended to Appropriations",
+      "title": "Sunset Combative Sports Office &amp; Commission"
+    },
+    "2": {
+      "relevance": 95,
+      "state": "CO",
+      "bill_number": "SB146",
+      "bill_id": 2137505,
+      "change_hash": "588aa523eed4e506d369f6aa35a09f18",
+      "url": "https://legiscan.com/CO/bill/SB146/2026",
+      "text_url": "https://legiscan.com/CO/text/SB146/2026",
+      "research_url": "https://legiscan.com/CO/research/SB146/2026",
+      "last_action_date": "2026-03-24",
+      "last_action": "Introduced In Senate - Assigned to Health & Human Services",
+      "title": "Restrict Single-Use Food Serviceware Distribution"
+    },
+    "3": {
+      "relevance": 95,
+      "state": "CO",
+      "bill_number": "HB1257",
+      "bill_id": 2119895,
+      "change_hash": "a4096581edb3162b3b7ec1173eb7237d",
+      "url": "https://legiscan.com/CO/bill/HB1257/2026",
+      "text_url": "https://legiscan.com/CO/text/HB1257/2026",
+      "research_url": "https://legiscan.com/CO/research/HB1257/2026",
+      "last_action_date": "2026-03-30",
+      "last_action": "Senate Second Reading Passed - No Amendments",
+      "title": "Local Regulation of Massage Facilities"
+    },
+    "4": {
+      "relevance": 89,
+      "state": "CO",
+      "bill_number": "HR1005",
+      "bill_id": 2142611,
+      "change_hash": "c8bf85919ff05c96cc05f76db7d8b719",
+      "url": "https://legiscan.com/CO/bill/HR1005/2026",
+      "text_url": "https://legiscan.com/CO/text/HR1005/2026",
+      "research_url": "https://legiscan.com/CO/research/HR1005/2026",
+      "last_action_date": "2026-04-14",
+      "last_action": "House Third Reading Laid Over Daily - No Amendments",
+      "title": "State Highway 47 Dolores Huerta Boulevard"
+    }
+  }
+}

@@ -2,28 +2,36 @@
   "state": "Texas",
   "state_code": "TX",
   "industry": "commercial lodging",
-  "source_file": "2026-04-20_Texas_lodging_compliance.md",
+  "source_file": "2026-04-21_Texas_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
-  "training_frequency": "annual",
+  "training_frequency": "annually",
   "new_hire_deadline_days": null,
   "new_hire_deadline_text": null,
   "signage_required": false,
   "provider_approval_required": true,
-  "provider_approval_type": "OAG approval required for training",
+  "provider_approval_type": "specific training programs approved by the Office of the Attorney General (OAG)",
   "approval_authority": "Office of the Attorney General (OAG)",
-  "approval_contact": "[email\u00a0protected]",
+  "approval_contact": null,
   "enforcing_agencies": [
-    "Texas Department of Licensing and Regulation"
+    "National Human Trafficking Hotline",
+    "local law enforcement agencies"
   ],
   "applicable_to": [
     "commercial lodging establishments with 10 or more rooms",
-    "all lodging establishments in Texas regardless of size"
+    "all lodging establishments in the State of Texas regardless of size"
   ],
   "required_topics": [
-    "human trafficking"
+    "identifying and responding to human trafficking",
+    "signs that an individual may be a victim",
+    "reporting procedures",
+    "role of employees in addressing human trafficking"
   ],
-  "reporting_contacts_required": [],
+  "reporting_contacts_required": [
+    "National Human Trafficking Hotline",
+    "local law enforcement agencies",
+    "telephone number designated by the attorney general for reporting suspected human trafficking"
+  ],
   "signage_details": {
     "languages_required": [],
     "minimum_size": null,
@@ -31,27 +39,31 @@
     "posting_location": null,
     "required_content": []
   },
-  "recordkeeping_requirements": [],
-  "certificate_requirements": [],
+  "recordkeeping_requirements": [
+    "certificate of completion which must include the date taken and the course title"
+  ],
+  "certificate_requirements": [
+    {
+      "type": "certificate of completion",
+      "content": [
+        "date taken",
+        "course title"
+      ],
+      "retention_period": null
+    }
+  ],
   "law_references": [
     "House Bill 390"
   ],
   "source_urls": [
-    "https://www.texasattorneygeneral.gov/training-resources",
-    "https://www.etactics.com/learn/human-trafficking-texas",
-    "https://www.unboundnow.org/collections/human-traffic-training-for-commercial-lodging-and-hospitality-industry/",
-    "https://www.businessesslaveryandtrafficking.com/inhospitable-to-human-trafficking-training/",
-    "https://www.esta.com/resources/training",
-    "https://www.marriott.com/hr/learning-resources/human-traffic-training",
-    "https://www.ecpat-usa.org/prevention/training/recognize-the-signs",
-    "https://www.refugeeservicesoftexas.org/survivor-services-h101/",
-    "https://pbjlearning.com/course/human-trafficking-essentials-texas-hospitality-awareness-hb-390",
-    "https://www.compliancelearningsolutions.com/courses/combating-human-trafficking-in-the-hospitality-industry"
+    "https://www.texasattorneygeneral.gov/training-programs",
+    "https://www.nationalhumantraffickinghotline.org/",
+    "https://iwatchtx.com/"
   ],
   "harbor_alliance_posture": "approval-required",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "cost of training for some establishments"
+    "employees who report suspected acts of human trafficking cannot be disciplined or retaliated against"
   ],
   "notes": [],
   "needs_review": []
