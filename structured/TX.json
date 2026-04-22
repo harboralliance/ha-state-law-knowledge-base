@@ -2,69 +2,52 @@
   "state": "Texas",
   "state_code": "TX",
   "industry": "commercial lodging",
-  "source_file": "2026-04-21_Texas_lodging_compliance.md",
+  "source_file": "2026-04-22_Texas_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
-  "training_frequency": "annually",
-  "new_hire_deadline_days": null,
-  "new_hire_deadline_text": null,
-  "signage_required": false,
+  "training_frequency": "annual",
+  "new_hire_deadline_days": 90,
+  "new_hire_deadline_text": "New employees must complete within 90 days of hire.",
+  "signage_required": true,
   "provider_approval_required": true,
-  "provider_approval_type": "specific training programs approved by the Office of the Attorney General (OAG)",
-  "approval_authority": "Office of the Attorney General (OAG)",
-  "approval_contact": null,
+  "provider_approval_type": "approved by the Office of the Attorney General (OAG)",
+  "approval_authority": "Office of the Attorney General",
+  "approval_contact": "[email\u00a0protected]",
   "enforcing_agencies": [
-    "National Human Trafficking Hotline",
-    "local law enforcement agencies"
+    "Texas Department of Public Safety"
   ],
   "applicable_to": [
     "commercial lodging establishments with 10 or more rooms",
-    "all lodging establishments in the State of Texas regardless of size"
+    "all commercial lodging establishments"
   ],
   "required_topics": [
-    "identifying and responding to human trafficking",
-    "signs that an individual may be a victim",
-    "reporting procedures",
-    "role of employees in addressing human trafficking"
+    "identifying human trafficking",
+    "reporting it"
   ],
-  "reporting_contacts_required": [
-    "National Human Trafficking Hotline",
-    "local law enforcement agencies",
-    "telephone number designated by the attorney general for reporting suspected human trafficking"
-  ],
+  "reporting_contacts_required": [],
   "signage_details": {
-    "languages_required": [],
+    "languages_required": null,
     "minimum_size": null,
     "font_size": null,
     "posting_location": null,
-    "required_content": []
+    "required_content": [
+      "information on identifying human trafficking",
+      "reporting it"
+    ]
   },
   "recordkeeping_requirements": [
-    "certificate of completion which must include the date taken and the course title"
+    "certificate of completion for each employee"
   ],
-  "certificate_requirements": [
-    {
-      "type": "certificate of completion",
-      "content": [
-        "date taken",
-        "course title"
-      ],
-      "retention_period": null
-    }
-  ],
+  "certificate_requirements": [],
   "law_references": [
-    "House Bill 390"
+    "House Bill 390 (87th Regular Session)"
   ],
   "source_urls": [
-    "https://www.texasattorneygeneral.gov/training-programs",
-    "https://www.nationalhumantraffickinghotline.org/",
-    "https://iwatchtx.com/"
+    "https://www.texastribune.org/2016/11/04/texas-human-trafficking-training-law/"
   ],
   "harbor_alliance_posture": "approval-required",
   "harbor_alliance_actions": [],
-  "risks_or_constraints": [
-    "employees who report suspected acts of human trafficking cannot be disciplined or retaliated against"
-  ],
+  "risks_or_constraints": [],
   "notes": [],
   "needs_review": []
 }

@@ -1,56 +1,29 @@
 # Harbor Alliance Action Items
 
 ## Texas
-**Next Steps:**
-- Schedule training for all employees in commercial lodging establishments with 10 or more rooms.
-- Ensure that all relevant employees complete the required annual training.
-
-**Immediate Market Entry States:**
-- None (Training requirements are in place)
-
-**Approval/Outreach Required States:**
-- None (Texas has approved several training videos; no additional action required from Harbor Alliance)
+- **Next Steps:** Employers must ensure that all required annual human trafficking training is completed by employees working at commercial lodging establishments with 10 or more rooms. Employees at smaller establishments should also receive this training annually.
+- **Immediate Market Entry:** Not applicable as the training requirement has been established.
+- **Special Handling:** Ensure compliance with the approved training videos available through the Office of the Attorney General.
 
 ## California
-**Next Steps:**
-- Coordinate with hotel and motel owners to schedule the 20-minute training session for employees.
-- Ensure that new employees receive the required training within six months of joining their roles.
-
-**Immediate Market Entry States:**
-- None (Training requirement is in place since January 1, 2020)
-
-**Approval/Outreach Required States:**
-- None (California has provided detailed resources and support for human trafficking awareness; no additional action required from Harbor Alliance)
+- **Next Steps:** Employers must provide training to hotel and motel employees on human trafficking awareness by January 1, 2023. Employees who have received training prior to this date do not need additional training.
+- **Immediate Market Entry:** Not applicable as the training requirement has been established.
+- **Special Handling:** Engage with resources provided by CAST and NHTRC for additional support and reporting.
 
 ## Illinois
-**Next Steps:**
-- Develop a plan to provide training to employees within six months of starting employment in relevant roles.
-- Schedule annual refresher training every two years.
-
-**Immediate Market Entry States:**
-- None (Training requirement is in place since June 1, 2020)
-
-**Approval/Outreach Required States:**
-- None (Illinois has developed a model curriculum; no additional action required from Harbor Alliance)
+- **Next Steps:** Employers must provide annual human trafficking recognition training to all relevant staff within six months of employment and every two years thereafter. Ensure compliance with the Department's model curriculum.
+- **Immediate Market Entry:** Not applicable as the training requirement has been established.
+- **Special Handling:** Monitor for penalties for non-compliance, which could result in fines up to $1,500 per offense.
 
 ## Minnesota
-**Next Steps:**
-- Coordinate with hotel, motel, and short-term rental managers to schedule the training within 90 days of hire.
-- Ensure all staff complete the required annual refresher training.
-
-**Immediate Market Entry States:**
-- None (Training requirement is in place since January 1, 2026)
-
-**Approval/Outreach Required States:**
-- None (Minnesota provides the mandatory training package at no cost; no additional action required from Harbor Alliance)
+- **Next Steps:** Employers must ensure all required employees complete the Minnesota Lodging Sex Trafficking Prevention and Response Training within the specified timelines.
+- **Immediate Market Entry:** Not applicable as the training requirement has been established.
+- **Special Handling:** Provide necessary resources for staff, such as virtual presentations and training materials, through MDH.
 
 ## Connecticut
-**Next Steps:**
-- Develop a plan to provide training for all employees within hotels and motels.
-- Ensure new employees receive the required training within 90 days of joining their roles.
+- **Next Steps:** Employers in the hospitality industry must ensure all employees receive annual human trafficking awareness training. Engage with specific trainings provided by DCF, law enforcement agencies, and healthcare providers.
+- **Immediate Market Entry:** Not applicable as the training requirement has been established.
+- **Special Handling:** Ensure compliance with mandatory data reporting to state authorities for human trafficking cases.
 
-**Immediate Market Entry States:**
-- None (Training requirement is in place since 2010 with subsequent updates)
-
-**Approval/Outreach Required States:**
-- None (Connecticut has provided detailed resources and support for human trafficking awareness; no additional action required from Harbor Alliance)
+## NEEDS REVIEW
+- States where regulations are unclear or require additional clarification.

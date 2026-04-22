@@ -2,25 +2,22 @@
   "state": "California",
   "state_code": "CA",
   "industry": "commercial lodging",
-  "source_file": "2026-04-21_California_lodging_compliance.md",
+  "source_file": "2026-04-22_California_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": 20,
   "training_frequency": null,
-  "new_hire_deadline_days": 180,
-  "new_hire_deadline_text": "within six months of their start date",
+  "new_hire_deadline_days": null,
+  "new_hire_deadline_text": null,
   "signage_required": true,
   "provider_approval_required": false,
   "provider_approval_type": null,
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "California Department of Justice (DOJ)",
-    "California Attorney General\u2019s Office"
+    "California Attorney General"
   ],
   "applicable_to": [
-    "hotels",
-    "motels",
-    "bed and breakfast inns"
+    "employees who are likely to interact or come into contact with victims of human trafficking"
   ],
   "required_topics": [],
   "reporting_contacts_required": [],
@@ -28,29 +25,31 @@
     "languages_required": [
       "English",
       "Spanish",
-      "Additional languages as required by federal law"
+      "additional languages as needed"
     ],
     "minimum_size": null,
     "font_size": null,
     "posting_location": null,
     "required_content": [
-      "Model Notice for human trafficking hotline numbers"
+      "information about available resources, including hotline numbers"
     ]
   },
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    "California State Requirement (SB 970)",
-    "California's Human Trafficking Model Notice"
+    {
+      "statute_name": "California SB 970",
+      "code_section": "NEEDS REVIEW",
+      "public_act": "Passed in 2018"
+    }
   ],
   "source_urls": [
-    "https://oag.ca.gov/human-trafficking/model-notice",
-    "NEEDS REVIEW"
+    "<https://oag.ca.gov/human-trafficking/model-notice>"
   ],
   "harbor_alliance_posture": "approval-required",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "Failure to comply with requirements can result in fines or other legal consequences"
+    "need for new hires to receive additional training if initially trained before January 1, 2019"
   ],
   "notes": [],
   "needs_review": []

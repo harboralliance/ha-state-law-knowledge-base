@@ -1,0 +1,27 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 1",
+      "relevancy": "100% - 100%",
+      "count": 1,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zcommerci:(pos=1) AND Zlodg:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "CO",
+      "bill_number": "SB146",
+      "bill_id": 2137505,
+      "change_hash": "588aa523eed4e506d369f6aa35a09f18",
+      "url": "https://legiscan.com/CO/bill/SB146/2026",
+      "text_url": "https://legiscan.com/CO/text/SB146/2026",
+      "research_url": "https://legiscan.com/CO/research/SB146/2026",
+      "last_action_date": "2026-03-24",
+      "last_action": "Introduced In Senate - Assigned to Health & Human Services",
+      "title": "Restrict Single-Use Food Serviceware Distribution"
+    }
+  }
+}

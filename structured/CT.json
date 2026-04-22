@@ -2,67 +2,66 @@
   "state": "Connecticut",
   "state_code": "CT",
   "industry": "commercial lodging",
-  "source_file": "2026-04-21_Connecticut_lodging_compliance.md",
+  "source_file": "2026-04-22_Connecticut_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
   "training_frequency": "annually",
   "new_hire_deadline_days": null,
   "new_hire_deadline_text": null,
-  "signage_required": false,
+  "signage_required": true,
   "provider_approval_required": false,
   "provider_approval_type": null,
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "Connecticut Department of Children and Families"
+    "Office of Victim Services (OVS)"
   ],
   "applicable_to": [
     "hotels",
     "motels",
-    "inns",
-    "similar lodging businesses"
+    "lodging businesses"
   ],
   "required_topics": [
-    "Introduction to Child Trafficking in Connecticut",
-    "Introduction to Human Trafficking in Connecticut for Law Enforcement (POST Certified)",
-    "Emergency Medical Services (EMS) training",
-    "Child Trafficking Training for Medical Providers/Emergency Medicine",
-    "Introduction to Human Trafficking in Connecticut for Hotels, Motels, and Lodging",
-    "Child Trafficking of Boys",
-    "Trafficking of LGBQIA individuals"
+    "human trafficking",
+    "trafficking training and awareness campaigns"
   ],
-  "reporting_contacts_required": [
-    "Connecticut Department of Children and Families"
-  ],
+  "reporting_contacts_required": [],
   "signage_details": {
-    "languages_required": [],
+    "languages_required": null,
     "minimum_size": null,
     "font_size": null,
-    "posting_location": null,
-    "required_content": []
+    "posting_location": "NEEDS REVIEW",
+    "required_content": [
+      "human trafficking training and awareness campaigns"
+    ]
   },
   "recordkeeping_requirements": [
-    "mandatory data reporting to state agencies"
+    {
+      "description": "retain guest transactions and receipts for at least six months"
+    }
   ],
   "certificate_requirements": [],
   "law_references": [
-    "2017 Public Act 17-32",
-    "2016 Public Act 16-71",
-    "2015 Public Act 15-195",
-    "2014 Public Act 14-186",
-    "2013 Public Act 13-166",
-    "2012 Public Act 12-141",
-    "2011 Public Act 11-180",
-    "2010 Public Act 10-115"
+    "Human and sex trafficking legislation",
+    "Introduction to Child Trafficking in Connecticut",
+    "Introduction to Human Trafficking in Connecticut for Law Enforcement"
   ],
   "source_urls": [
     "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/trainings-for-providers",
     "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/human-and-sex-trafficking-legislation"
   ],
-  "harbor_alliance_posture": "immediate-entry",
-  "harbor_alliance_actions": [],
+  "harbor_alliance_posture": "approval-required",
+  "harbor_alliance_actions": [
+    {
+      "description": "Ensure annual training for relevant personnel, including DCF staff, foster parents, service providers, schools, law enforcement, hospitals, and medical staff."
+    },
+    {
+      "description": "Require hotels, motels, and lodging businesses to provide trafficking training and awareness campaigns annually."
+    }
+  ],
   "risks_or_constraints": [
-    "need for comprehensive training and legislative measures to combat human trafficking"
+    "Lodging businesses must adhere to annual training requirements.",
+    "Training frequency is specified as annually, which may affect compliance."
   ],
   "notes": [],
   "needs_review": []

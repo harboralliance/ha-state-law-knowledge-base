@@ -1,0 +1,131 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 9",
+      "relevancy": "100% - 89%",
+      "count": 9,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zhospit:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "AR",
+      "bill_number": "SB42",
+      "bill_id": 2140560,
+      "change_hash": "3b23835be7c68168d573388de67f2106",
+      "url": "https://legiscan.com/AR/bill/SB42/2026",
+      "text_url": "https://legiscan.com/AR/text/SB42/2026",
+      "research_url": "https://legiscan.com/AR/research/SB42/2026",
+      "last_action_date": "2026-04-21",
+      "last_action": "Returned by the Committee, with the recommendation that it Do Pass",
+      "title": "An Act For The University Of Arkansas For Medical Sciences Appropriation For The 2026-2027 Fiscal Year. "
+    },
+    "1": {
+      "relevance": 99,
+      "state": "AR",
+      "bill_number": "HR1036",
+      "bill_id": 2143604,
+      "change_hash": "7d87fa0bcd5365ce7c0f85cfc089293c",
+      "url": "https://legiscan.com/AR/bill/HR1036/2026",
+      "text_url": "https://legiscan.com/AR/text/HR1036/2026",
+      "research_url": "https://legiscan.com/AR/research/HR1036/2026",
+      "last_action_date": "2026-04-21",
+      "last_action": "Returned by the Committee Do Pass",
+      "title": "To Commemorate The Centennial Of The Junior League Of Texarkana, Inc. On May 19, 2026."
+    },
+    "2": {
+      "relevance": 99,
+      "state": "AR",
+      "bill_number": "HB1058",
+      "bill_id": 2140557,
+      "change_hash": "f6bdce0b3b379677c67445ea18428e8c",
+      "url": "https://legiscan.com/AR/bill/HB1058/2026",
+      "text_url": "https://legiscan.com/AR/text/HB1058/2026",
+      "research_url": "https://legiscan.com/AR/research/HB1058/2026",
+      "last_action_date": "2026-04-16",
+      "last_action": "Correctly enrolled and ordered transmitted to the Governor's Office.",
+      "title": "An Act For The Uams - Reynolds Center On Aging, Boozman College Of Public Health, Ark. Biosciences Institute, &amp; The Area Health Ed. Center In Helena Appropriation For The 2026-2027 Fiscal Year. "
+    },
+    "3": {
+      "relevance": 97,
+      "state": "AR",
+      "bill_number": "HB1064",
+      "bill_id": 2140483,
+      "change_hash": "6fe943a93327950ddb98931de47058d1",
+      "url": "https://legiscan.com/AR/bill/HB1064/2026",
+      "text_url": "https://legiscan.com/AR/text/HB1064/2026",
+      "research_url": "https://legiscan.com/AR/research/HB1064/2026",
+      "last_action_date": "2026-04-08",
+      "last_action": "Read the first time, rules suspended, read the second time and referred to the Committee on JOINT BUDGET COMMITTEE",
+      "title": "An Act For The Department Of Finance And Administration - Disbursing Officer Appropriation For The 2026-2027 Fiscal Year. "
+    },
+    "4": {
+      "relevance": 96,
+      "state": "AR",
+      "bill_number": "HB1023",
+      "bill_id": 2140421,
+      "change_hash": "31b4a670f821cb50e69d26c1ebf16f0a",
+      "url": "https://legiscan.com/AR/bill/HB1023/2026",
+      "text_url": "https://legiscan.com/AR/text/HB1023/2026",
+      "research_url": "https://legiscan.com/AR/research/HB1023/2026",
+      "last_action_date": "2026-04-21",
+      "last_action": "REPORTED CORRECTLY ENGROSSED",
+      "title": "An Act For The Department Of Human Services - Secretary&#x27;s Office Appropriation For The 2026-2027 Fiscal Year. "
+    },
+    "5": {
+      "relevance": 94,
+      "state": "AR",
+      "bill_number": "SB20",
+      "bill_id": 2140616,
+      "change_hash": "20cf533cf54b199d041c1733599cf60b",
+      "url": "https://legiscan.com/AR/bill/SB20/2026",
+      "text_url": "https://legiscan.com/AR/text/SB20/2026",
+      "research_url": "https://legiscan.com/AR/research/SB20/2026",
+      "last_action_date": "2026-04-08",
+      "last_action": "Read first time, rules suspended, read second time, referred to JOINT BUDGET COMMITTEE",
+      "title": "An Act For The Department Of Human Services - Division Of Medical Services Appropriation For The 2026-2027 Fiscal Year. "
+    },
+    "6": {
+      "relevance": 93,
+      "state": "AR",
+      "bill_number": "HB1062",
+      "bill_id": 2140468,
+      "change_hash": "1c836ef4c5725655d90e5ecd1b161b86",
+      "url": "https://legiscan.com/AR/bill/HB1062/2026",
+      "text_url": "https://legiscan.com/AR/text/HB1062/2026",
+      "research_url": "https://legiscan.com/AR/research/HB1062/2026",
+      "last_action_date": "2026-04-21",
+      "last_action": "Correctly enrolled and ordered transmitted to the Governor's Office.",
+      "title": "An Act For The Department Of Human Services - Medicaid Tobacco Settlement Program Appropriation For The 2026-2027 Fiscal Year. "
+    },
+    "7": {
+      "relevance": 92,
+      "state": "AR",
+      "bill_number": "SB21",
+      "bill_id": 2140642,
+      "change_hash": "57e9ff4ce2d92ee6a10cf966fc66b283",
+      "url": "https://legiscan.com/AR/bill/SB21/2026",
+      "text_url": "https://legiscan.com/AR/text/SB21/2026",
+      "research_url": "https://legiscan.com/AR/research/SB21/2026",
+      "last_action_date": "2026-04-21",
+      "last_action": "Re-referred to JOINT BUDGET COMMITTEE",
+      "title": "An Act For The Department Of Human Services - Division Of Aging, Adult, And Behavioral Health Services Appropriation For The 2026-2027 Fiscal Year. "
+    },
+    "8": {
+      "relevance": 89,
+      "state": "AR",
+      "bill_number": "HB1095",
+      "bill_id": 2143097,
+      "change_hash": "3bded47211091227d14f0f4db2e9ee54",
+      "url": "https://legiscan.com/AR/bill/HB1095/2026",
+      "text_url": "https://legiscan.com/AR/text/HB1095/2026",
+      "research_url": "https://legiscan.com/AR/research/HB1095/2026",
+      "last_action_date": "2026-04-21",
+      "last_action": "Returned by the Committee Do Pass",
+      "title": "An Act For The Department Of Human Services - Division Of Aging, Adult, And Behavioral Health Services Reappropriation."
+    }
+  }
+}

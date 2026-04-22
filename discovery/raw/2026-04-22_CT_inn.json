@@ -1,0 +1,40 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 2",
+      "relevancy": "100% - 83%",
+      "count": 2,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zinn:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "CT",
+      "bill_number": "SB00116",
+      "bill_id": 2112076,
+      "change_hash": "a788cd43ca9d49901aeca4e0ba904d19",
+      "url": "https://legiscan.com/CT/bill/SB00116/2026",
+      "text_url": "https://legiscan.com/CT/text/SB00116/2026",
+      "research_url": "https://legiscan.com/CT/research/SB00116/2026",
+      "last_action_date": "2026-04-20",
+      "last_action": "Favorable Report, Tabled for the Calendar, Senate",
+      "title": "An Act Concerning The Prevention Of Human Trafficking."
+    },
+    "1": {
+      "relevance": 83,
+      "state": "CT",
+      "bill_number": "HB05563",
+      "bill_id": 2132494,
+      "change_hash": "fe399a17380f2f9c51accbfa6f7cd52e",
+      "url": "https://legiscan.com/CT/bill/HB05563/2026",
+      "text_url": "https://legiscan.com/CT/text/HB05563/2026",
+      "research_url": "https://legiscan.com/CT/research/HB05563/2026",
+      "last_action_date": "2026-04-08",
+      "last_action": "File Number 527",
+      "title": "An Act Concerning Various Criminal Law Proposals."
+    }
+  }
+}

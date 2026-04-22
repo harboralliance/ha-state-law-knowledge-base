@@ -1,0 +1,40 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 2",
+      "relevancy": "100% - 97%",
+      "count": 2,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zbed:(pos=1) AND Zbreakfast:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "FL",
+      "bill_number": "S2500",
+      "bill_id": 2117014,
+      "change_hash": "e1b1a6e2bc6f31820520bbf88ffbacca",
+      "url": "https://legiscan.com/FL/bill/S2500/2026",
+      "text_url": "https://legiscan.com/FL/text/S2500/2026",
+      "research_url": "https://legiscan.com/FL/research/S2500/2026",
+      "last_action_date": "2026-02-20",
+      "last_action": "Laid on Table, refer to HB 5001",
+      "title": "Appropriations"
+    },
+    "1": {
+      "relevance": 97,
+      "state": "FL",
+      "bill_number": "H5001",
+      "bill_id": 2117701,
+      "change_hash": "4c15ae3e5ab362ce3f96cce8fd8539a2",
+      "url": "https://legiscan.com/FL/bill/H5001/2026",
+      "text_url": "https://legiscan.com/FL/text/H5001/2026",
+      "research_url": "https://legiscan.com/FL/research/H5001/2026",
+      "last_action_date": "2026-03-13",
+      "last_action": "Died in Conference Committee",
+      "title": "General Appropriations Act"
+    }
+  }
+}
