@@ -1,0 +1,92 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 6",
+      "relevancy": "100% - 52%",
+      "count": 6,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zmotel:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "CT",
+      "bill_number": "SB00116",
+      "bill_id": 2112076,
+      "change_hash": "44133d2137d484d5b39a1b790c289a59",
+      "url": "https://legiscan.com/CT/bill/SB00116/2026",
+      "text_url": "https://legiscan.com/CT/text/SB00116/2026",
+      "research_url": "https://legiscan.com/CT/research/SB00116/2026",
+      "last_action_date": "2026-04-22",
+      "last_action": "Immediate Transmittal",
+      "title": "An Act Concerning The Prevention Of Human Trafficking."
+    },
+    "1": {
+      "relevance": 95,
+      "state": "CT",
+      "bill_number": "SB00228",
+      "bill_id": 2118280,
+      "change_hash": "9bd37c234e8203949b64895235407cc2",
+      "url": "https://legiscan.com/CT/bill/SB00228/2026",
+      "text_url": "https://legiscan.com/CT/text/SB00228/2026",
+      "research_url": "https://legiscan.com/CT/research/SB00228/2026",
+      "last_action_date": "2026-03-25",
+      "last_action": "File Number 172",
+      "title": "An Act Concerning Liquor Permits And Tobacco Bars."
+    },
+    "2": {
+      "relevance": 88,
+      "state": "CT",
+      "bill_number": "SB00436",
+      "bill_id": 2129410,
+      "change_hash": "92a7fff65a565cbe0dc32995483a1db5",
+      "url": "https://legiscan.com/CT/bill/SB00436/2026",
+      "text_url": "https://legiscan.com/CT/text/SB00436/2026",
+      "research_url": "https://legiscan.com/CT/research/SB00436/2026",
+      "last_action_date": "2026-03-26",
+      "last_action": "File Number 212",
+      "title": "An Act Concerning Advanced Notice Of An Employee's Work Schedule By An Employer."
+    },
+    "3": {
+      "relevance": 83,
+      "state": "CT",
+      "bill_number": "HB05563",
+      "bill_id": 2132494,
+      "change_hash": "6055004a52215076db5921ba4a265fd6",
+      "url": "https://legiscan.com/CT/bill/HB05563/2026",
+      "text_url": "https://legiscan.com/CT/text/HB05563/2026",
+      "research_url": "https://legiscan.com/CT/research/HB05563/2026",
+      "last_action_date": "2026-04-08",
+      "last_action": "File Number 527",
+      "title": "An Act Concerning Various Criminal Law Proposals."
+    },
+    "4": {
+      "relevance": 75,
+      "state": "CT",
+      "bill_number": "HB05518",
+      "bill_id": 2129159,
+      "change_hash": "ee562fe7db73518e477597de76d5fb6f",
+      "url": "https://legiscan.com/CT/bill/HB05518/2026",
+      "text_url": "https://legiscan.com/CT/text/HB05518/2026",
+      "research_url": "https://legiscan.com/CT/research/HB05518/2026",
+      "last_action_date": "2026-04-09",
+      "last_action": "File Number 543",
+      "title": "An Act Concerning The Department Of Public Health's Recommendations Regarding Various Revisions To The Environmental Health And Drinking Water Statutes."
+    },
+    "5": {
+      "relevance": 52,
+      "state": "CT",
+      "bill_number": "HB05350",
+      "bill_id": 2124296,
+      "change_hash": "0845574f8814fdba37992528b078cdc7",
+      "url": "https://legiscan.com/CT/bill/HB05350/2026",
+      "text_url": "https://legiscan.com/CT/text/HB05350/2026",
+      "research_url": "https://legiscan.com/CT/research/HB05350/2026",
+      "last_action_date": "2026-04-22",
+      "last_action": "File Number 716",
+      "title": "An Act Concerning Cannabis, Hemp And Infused Beverage Regulation."
+    }
+  }
+}

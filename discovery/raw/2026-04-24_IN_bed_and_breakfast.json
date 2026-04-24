@@ -1,0 +1,40 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 2",
+      "relevancy": "100% - 84%",
+      "count": 2,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zbed:(pos=1) AND Zbreakfast:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "IN",
+      "bill_number": "HB1003",
+      "bill_id": 2068336,
+      "change_hash": "5c42163c738da688a18b276d5eb29495",
+      "url": "https://legiscan.com/IN/bill/HB1003/2026",
+      "text_url": "https://legiscan.com/IN/text/HB1003/2026",
+      "research_url": "https://legiscan.com/IN/research/HB1003/2026",
+      "last_action_date": "2026-03-12",
+      "last_action": "Public Law 152",
+      "title": "Boards and commissions."
+    },
+    "1": {
+      "relevance": 84,
+      "state": "IN",
+      "bill_number": "SB0080",
+      "bill_id": 2056460,
+      "change_hash": "9db4a5f1001779ac2b5b9d9dc11ad264",
+      "url": "https://legiscan.com/IN/bill/SB0080/2026",
+      "text_url": "https://legiscan.com/IN/text/SB0080/2026",
+      "research_url": "https://legiscan.com/IN/research/SB0080/2026",
+      "last_action_date": "2026-03-12",
+      "last_action": "Public Law 145",
+      "title": "Code publication."
+    }
+  }
+}

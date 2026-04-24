@@ -1,32 +1,30 @@
 {
   "state": "Illinois",
   "state_code": "IL",
-  "industry": "commercial lodging",
-  "source_file": "2026-04-22_Illinois_lodging_compliance.md",
+  "industry": "commercial lodging, restaurants, truck stops",
+  "source_file": "2026-04-24_Illinois_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": 20,
   "training_frequency": "every 2 years",
   "new_hire_deadline_days": null,
-  "new_hire_deadline_text": null,
+  "new_hire_deadline_text": "within 6 months of employment",
   "signage_required": false,
-  "provider_approval_required": false,
-  "provider_approval_type": null,
-  "approval_authority": null,
-  "approval_contact": null,
+  "provider_approval_required": true,
+  "provider_approval_type": "standardized curriculum",
+  "approval_authority": "Department of Human Services",
+  "approval_contact": "NEEDS REVIEW",
   "enforcing_agencies": [
-    "local government or law enforcement agency"
+    "Local government units",
+    "Law enforcement agencies"
   ],
   "applicable_to": [
-    "lodging establishments",
-    "restaurants",
-    "truck stops"
+    "lodging establishments, restaurants, truck stops"
   ],
   "required_topics": [
-    "human trafficking recognition",
-    "reporting observed human trafficking",
-    "identifying individuals at risk for human trafficking",
+    "definition of human trafficking and commercial exploitation of children",
+    "identification of individuals most at risk for human trafficking",
     "differences between labor and sex trafficking",
-    "employees' roles in reporting and responding to instances of human trafficking"
+    "employees' roles in reporting and responding to human trafficking"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
@@ -39,14 +37,14 @@
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    "Act No. 102-324",
-    "Effective Date: January 1, 2026"
+    "Human Trafficking Recognition Training Act",
+    "Public Act 102-643"
   ],
   "source_urls": [],
-  "harbor_alliance_posture": "immediate-entry",
+  "harbor_alliance_posture": "approval-required",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "non-compliance can result in fines up to $1,500 per offense"
+    "non-compliance with training requirements can result in fines up to $1,500 per offense"
   ],
   "notes": [],
   "needs_review": []

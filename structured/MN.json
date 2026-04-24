@@ -2,7 +2,7 @@
   "state": "Minnesota",
   "state_code": "MN",
   "industry": "commercial lodging",
-  "source_file": "2026-04-22_Minnesota_lodging_compliance.md",
+  "source_file": "2026-04-24_Minnesota_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
   "training_frequency": "annual",
@@ -14,42 +14,57 @@
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "Minnesota Department of Health"
+    "Minnesota Department of Public Safety"
   ],
   "applicable_to": [
-    "hotels",
-    "motels",
-    "short-term rentals"
+    "hotel owners",
+    "motel managers",
+    "short-term rental owners",
+    "on-site employees"
   ],
   "required_topics": [
-    "sex trafficking prevention and response"
+    "sex trafficking prevention",
+    "response to sex trafficking incidents"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
     "languages_required": [
       "English",
       "Spanish",
-      "Somali",
-      "Hmong"
+      "Hmong",
+      "Somali"
     ],
     "minimum_size": null,
     "font_size": null,
-    "posting_location": "back-of-house poster",
-    "required_content": []
+    "posting_location": [
+      "back of house",
+      "housekeeping",
+      "restaurant/bar",
+      "front desk/lobby",
+      "security"
+    ],
+    "required_content": [
+      "sex trafficking prevention information"
+    ]
   },
-  "recordkeeping_requirements": [],
+  "recordkeeping_requirements": [
+    "roster of employees who completed training along with the date of completion"
+  ],
   "certificate_requirements": [],
   "law_references": [
-    "Minnesota Statutes, sections 627.114 to 627.119"
+    "Minnesota Statutes section 173F.56"
   ],
   "source_urls": [
-    "https://www.health.state.mn.us/divs/eh/documents/sex-trafficking-prevention-training"
+    "https://www.dhhs.mn.gov/Health-Safety-Harbor-Safe/index.html"
   ],
   "harbor_alliance_posture": "approval-required",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "additional costs for displaying posters"
+    "training costs",
+    "language availability for non-English speakers"
   ],
-  "notes": [],
+  "notes": [
+    "Managers and owners must complete a pre-training survey before accessing the training package."
+  ],
   "needs_review": []
 }
