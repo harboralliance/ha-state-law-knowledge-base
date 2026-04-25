@@ -2,7 +2,7 @@
   "state": "Connecticut",
   "state_code": "CT",
   "industry": "commercial lodging",
-  "source_file": "2026-04-24_Connecticut_lodging_compliance.md",
+  "source_file": "2026-04-25_Connecticut_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
   "training_frequency": "annual",
@@ -14,23 +14,26 @@
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "State attorneys",
-    "Local law enforcement"
+    "state attorneys",
+    "local law enforcement"
   ],
   "applicable_to": [
-    "Child protective services",
-    "foster care",
-    "education",
+    "DCF staff",
+    "foster parents",
+    "service providers",
+    "schools",
     "law enforcement",
-    "healthcare",
-    "hospital and medical staff",
-    "hospitable industry professionals",
-    "other relevant professionals"
+    "emergency medical services",
+    "hotels",
+    "motels",
+    "lodging businesses"
   ],
   "required_topics": [
-    "Introduction to Child Trafficking in Connecticut",
-    "Child Trafficking Training for Medical Providers/Emergency Medicine",
-    "other aspects of identifying, responding to, and preventing human trafficking"
+    "human trafficking definitions",
+    "federal and state laws",
+    "warning signs",
+    "impacts",
+    "buyers/exploiters"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
@@ -45,17 +48,16 @@
   ],
   "certificate_requirements": [],
   "law_references": [
-    "Human and sex trafficking legislation",
-    "Trainings for providers"
+    "Multiple public acts to address human trafficking"
   ],
   "source_urls": [
     "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/trainings-for-providers",
     "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/human-and-sex-trafficking-legislation"
   ],
-  "harbor_alliance_posture": null,
+  "harbor_alliance_posture": "needs-review",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "need for robust legislative measures and comprehensive training programs"
+    "state-controlled training requirement"
   ],
   "notes": [],
   "needs_review": []

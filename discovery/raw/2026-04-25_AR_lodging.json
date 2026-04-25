@@ -1,0 +1,53 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 3",
+      "relevancy": "100% - 84%",
+      "count": 3,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zlodg:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "AR",
+      "bill_number": "SB15",
+      "bill_id": 2140457,
+      "change_hash": "8196a4ce937797e71560143e6bd8800e",
+      "url": "https://legiscan.com/AR/bill/SB15/2026",
+      "text_url": "https://legiscan.com/AR/text/SB15/2026",
+      "research_url": "https://legiscan.com/AR/research/SB15/2026",
+      "last_action_date": "2026-04-23",
+      "last_action": "Returned by the Committee with the recommendation that it Do Pass as amended, Amendment # 1",
+      "title": "An Act For The Department Of Parks, Heritage, And Tourism - State Parks And Tourism Divisions Appropriation For The 2026-2027 Fiscal Year. "
+    },
+    "1": {
+      "relevance": 93,
+      "state": "AR",
+      "bill_number": "HR1020",
+      "bill_id": 2142124,
+      "change_hash": "79ede6855ec2b101bb66de133862ccd1",
+      "url": "https://legiscan.com/AR/bill/HR1020/2026",
+      "text_url": "https://legiscan.com/AR/text/HR1020/2026",
+      "research_url": "https://legiscan.com/AR/research/HR1020/2026",
+      "last_action_date": "2026-04-14",
+      "last_action": "Returned by the Committee Do Pass",
+      "title": "To Honor Frederick Henry Middleton, Assistant Superintendent Of The Street Department, Upon His Retirement From The City Of Arkadelphia."
+    },
+    "2": {
+      "relevance": 84,
+      "state": "AR",
+      "bill_number": "SB41",
+      "bill_id": 2140661,
+      "change_hash": "7f0e5622a971518c93228f322cade93c",
+      "url": "https://legiscan.com/AR/bill/SB41/2026",
+      "text_url": "https://legiscan.com/AR/text/SB41/2026",
+      "research_url": "https://legiscan.com/AR/research/SB41/2026",
+      "last_action_date": "2026-04-23",
+      "last_action": "Read the first time, rules suspended, read the second time and placed on the CALENDAR.",
+      "title": "An Act For The University Of Arkansas - Fayetteville Appropriation For The 2026-2027 Fiscal Year. "
+    }
+  }
+}

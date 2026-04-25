@@ -2,40 +2,28 @@
   "state": "Texas",
   "state_code": "TX",
   "industry": "commercial lodging",
-  "source_file": "2026-04-24_Texas_lodging_compliance.md",
+  "source_file": "2026-04-25_Texas_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
-  "training_frequency": "annually",
-  "new_hire_deadline_days": 90,
-  "new_hire_deadline_text": "employees must complete approved training by their 90th day after hire",
-  "signage_required": true,
+  "training_frequency": "annual",
+  "new_hire_deadline_days": null,
+  "new_hire_deadline_text": null,
+  "signage_required": false,
   "provider_approval_required": true,
-  "provider_approval_type": "approved trainings only",
-  "approval_authority": "Office of the Attorney General",
-  "approval_contact": null,
+  "provider_approval_type": "state-approved training provider",
+  "approval_authority": "Office of the Attorney General (OAG)",
+  "approval_contact": "[email\u00a0protected]",
   "enforcing_agencies": [
-    "National Human Trafficking Hotline",
-    "local law enforcement agencies"
+    "Texas Department of Licensing and Regulation"
   ],
   "applicable_to": [
-    "commercial lodging establishments with ten or more rooms"
+    "commercial lodging establishments of 10 or more rooms",
+    "all lodging establishments in the State of Texas regardless of size"
   ],
   "required_topics": [
-    "identifying risk factors",
-    "reporting suspected incidents of human trafficking",
-    "understanding the importance of not retaliating against individuals who report such activities in good faith"
+    "human trafficking prevention and response in the hospitality industry"
   ],
-  "reporting_contacts_required": [
-    {
-      "contact_type": "National Human Trafficking Hotline",
-      "phone_number": "1-833-727-3888",
-      "website": "https://www.humantraffickinghotline.org/"
-    },
-    {
-      "contact_type": "local law enforcement agencies",
-      "details": null
-    }
-  ],
+  "reporting_contacts_required": [],
   "signage_details": {
     "languages_required": [
       "English",
@@ -43,35 +31,25 @@
     ],
     "minimum_size": null,
     "font_size": null,
-    "posting_location": "prominently in the workplace",
-    "required_content": [
-      "policy on human trafficking prevention"
-    ]
+    "posting_location": null,
+    "required_content": []
   },
   "recordkeeping_requirements": [
-    {
-      "type": "training completion records",
-      "storage_period": "available for review by the Attorney General and other relevant authorities"
-    }
+    "records of training completion by employees",
+    "compliance logs"
   ],
-  "certificate_requirements": [
-    {
-      "required_by": "employees",
-      "issue_date": "90th day after hire",
-      "frequency": "annual refresher course"
-    }
-  ],
+  "certificate_requirements": [],
   "law_references": [
-    {
-      "statute_name": "House Bill 390 (87th Regular Session)"
-    }
+    "House Bill 390",
+    "Texas Penal Code, Section 42.07 - Human trafficking"
   ],
-  "source_urls": [],
+  "source_urls": [
+    "https://www.tslr.texas.gov/"
+  ],
   "harbor_alliance_posture": "approval-required",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "training costs can vary",
-    "methods include online, in-person, or via internal company websites"
+    "non-compliance with training requirements can result in penalties and fines"
   ],
   "notes": [],
   "needs_review": []

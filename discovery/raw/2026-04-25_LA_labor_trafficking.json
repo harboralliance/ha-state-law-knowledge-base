@@ -1,0 +1,131 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 9",
+      "relevancy": "100% - 40%",
+      "count": 9,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zlabor:(pos=1) AND Ztraffick:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "LA",
+      "bill_number": "HB98",
+      "bill_id": 2111886,
+      "change_hash": "9ebb2d3154f7d8923403365c3e30fffd",
+      "url": "https://legiscan.com/LA/bill/HB98/2026",
+      "text_url": "https://legiscan.com/LA/text/HB98/2026",
+      "research_url": "https://legiscan.com/LA/research/HB98/2026",
+      "last_action_date": "2026-04-22",
+      "last_action": "Committee amendments read and adopted. Read by title and referred to the Legislative Bureau.",
+      "title": "Provides a penalty for the unlawful disclosure of confidential information relating to victims of domestic violence, sexual assault, and human trafficking (EG SEE FISC NOTE GF EX)"
+    },
+    "1": {
+      "relevance": 98,
+      "state": "LA",
+      "bill_number": "SB83",
+      "bill_id": 2121260,
+      "change_hash": "7d38a6c08831db35419e02612362325a",
+      "url": "https://legiscan.com/LA/bill/SB83/2026",
+      "text_url": "https://legiscan.com/LA/text/SB83/2026",
+      "research_url": "https://legiscan.com/LA/research/SB83/2026",
+      "last_action_date": "2026-04-20",
+      "last_action": "Read by title. Committee amendments read and adopted; ordered engrossed and recommitted to the Committee on Finance.",
+      "title": "Provides for training to prevent human trafficking at public elementary and secondary schools and provides for victims' services. (gov sig) (EG +$1,781,043 GF EX See Note)"
+    },
+    "2": {
+      "relevance": 98,
+      "state": "LA",
+      "bill_number": "HB321",
+      "bill_id": 2122883,
+      "change_hash": "97275478517aed05b6e1b85a34f74f16",
+      "url": "https://legiscan.com/LA/bill/HB321/2026",
+      "text_url": "https://legiscan.com/LA/text/HB321/2026",
+      "research_url": "https://legiscan.com/LA/research/HB321/2026",
+      "last_action_date": "2026-04-23",
+      "last_action": "Reported favorably (8-0).",
+      "title": "Provides relative to victims of human trafficking and prostitution offenses (OR NO IMPACT See Note)"
+    },
+    "3": {
+      "relevance": 98,
+      "state": "LA",
+      "bill_number": "HB320",
+      "bill_id": 2122751,
+      "change_hash": "f287884ba15570d1c60085133b19618f",
+      "url": "https://legiscan.com/LA/bill/HB320/2026",
+      "text_url": "https://legiscan.com/LA/text/HB320/2026",
+      "research_url": "https://legiscan.com/LA/research/HB320/2026",
+      "last_action_date": "2026-04-14",
+      "last_action": "Read second time by title and referred to the Committee on Judiciary C.",
+      "title": "Creates the crime of unlawful exposure by an inmate (EG SEE FISC NOTE GF EX)"
+    },
+    "4": {
+      "relevance": 91,
+      "state": "LA",
+      "bill_number": "HB808",
+      "bill_id": 2126683,
+      "change_hash": "3f37ff29ef21cdb926d7b1e685578064",
+      "url": "https://legiscan.com/LA/bill/HB808/2026",
+      "text_url": "https://legiscan.com/LA/text/HB808/2026",
+      "research_url": "https://legiscan.com/LA/research/HB808/2026",
+      "last_action_date": "2026-04-20",
+      "last_action": "Read second time by title and referred to the Committee on Judiciary C.",
+      "title": "Provides relative to the intentional exposure to HIV (RE NO IMPACT See Note)"
+    },
+    "5": {
+      "relevance": 88,
+      "state": "LA",
+      "bill_number": "SB399",
+      "bill_id": 2127121,
+      "change_hash": "31cded5168552eaae7e46471a5000c96",
+      "url": "https://legiscan.com/LA/bill/SB399/2026",
+      "text_url": "https://legiscan.com/LA/text/SB399/2026",
+      "research_url": "https://legiscan.com/LA/research/SB399/2026",
+      "last_action_date": "2026-04-16",
+      "last_action": "Read by title, under the rules, referred to the Committee on Education.",
+      "title": "Creates the Louisiana Higher Education Research Security Council. (1/1/27) (EG NO IMPACT See Note)"
+    },
+    "6": {
+      "relevance": 87,
+      "state": "LA",
+      "bill_number": "HB784",
+      "bill_id": 2126438,
+      "change_hash": "99ae44341342cd612c73cec59dd39d6f",
+      "url": "https://legiscan.com/LA/bill/HB784/2026",
+      "text_url": "https://legiscan.com/LA/text/HB784/2026",
+      "research_url": "https://legiscan.com/LA/research/HB784/2026",
+      "last_action_date": "2026-03-30",
+      "last_action": "Read second time by title and referred to the Committee on Judiciary C.",
+      "title": "Provides relative to sex offender registration and notification requirements"
+    },
+    "7": {
+      "relevance": 86,
+      "state": "LA",
+      "bill_number": "SB265",
+      "bill_id": 2126184,
+      "change_hash": "da2df9357ea05519be14f34f6efdd46c",
+      "url": "https://legiscan.com/LA/bill/SB265/2026",
+      "text_url": "https://legiscan.com/LA/text/SB265/2026",
+      "research_url": "https://legiscan.com/LA/research/SB265/2026",
+      "last_action_date": "2026-03-09",
+      "last_action": "Introduced in the Senate; read by title. Rules suspended. Read second time and referred to the Committee on Health and Welfare.",
+      "title": "Abolishes the Department of Children and Family Services. (10/1/26) (OR DECREASE GF EX See Note)"
+    },
+    "8": {
+      "relevance": 40,
+      "state": "LA",
+      "bill_number": "HB1",
+      "bill_id": 2121126,
+      "change_hash": "eeee70d5b993285cba621fe0692ea41a",
+      "url": "https://legiscan.com/LA/bill/HB1/2026",
+      "text_url": "https://legiscan.com/LA/text/HB1/2026",
+      "research_url": "https://legiscan.com/LA/research/HB1/2026",
+      "last_action_date": "2026-04-21",
+      "last_action": "Read second time by title and referred to the Committee on Finance.",
+      "title": "Provides for the ordinary operating expenses of state government for Fiscal Year 2026-2027"
+    }
+  }
+}
