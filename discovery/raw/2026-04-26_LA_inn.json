@@ -1,0 +1,53 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 3",
+      "relevancy": "100% - 62%",
+      "count": 3,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zinn:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "LA",
+      "bill_number": "SB136",
+      "bill_id": 2123137,
+      "change_hash": "5335bebc3744823507ecebdf7f6901ff",
+      "url": "https://legiscan.com/LA/bill/SB136/2026",
+      "text_url": "https://legiscan.com/LA/text/SB136/2026",
+      "research_url": "https://legiscan.com/LA/research/SB136/2026",
+      "last_action_date": "2026-03-09",
+      "last_action": "Introduced in the Senate; read by title. Rules suspended. Read second time and referred to the Committee on Senate and Governmental Affairs.",
+      "title": "Provides for redistricting of the Louisiana Senate. (See Act) (OR +$2,934,660 GF EX See Note)"
+    },
+    "1": {
+      "relevance": 99,
+      "state": "LA",
+      "bill_number": "SB282",
+      "bill_id": 2126243,
+      "change_hash": "0e697f56fb56505a3faad9da94baf989",
+      "url": "https://legiscan.com/LA/bill/SB282/2026",
+      "text_url": "https://legiscan.com/LA/text/SB282/2026",
+      "research_url": "https://legiscan.com/LA/research/SB282/2026",
+      "last_action_date": "2026-04-21",
+      "last_action": "Read by title and returned to the Calendar, subject to call.",
+      "title": "Authorizes the creation of a cooperative economic development district affiliated with Baton Rouge Community College in East Baton Rouge Parish. (gov sig)"
+    },
+    "2": {
+      "relevance": 62,
+      "state": "LA",
+      "bill_number": "HB312",
+      "bill_id": 2122946,
+      "change_hash": "0744a0a022cd1d16b154e4e4281f4027",
+      "url": "https://legiscan.com/LA/bill/HB312/2026",
+      "text_url": "https://legiscan.com/LA/text/HB312/2026",
+      "research_url": "https://legiscan.com/LA/research/HB312/2026",
+      "last_action_date": "2026-04-21",
+      "last_action": "Read second time by title and referred to the Committee on Finance.",
+      "title": "Makes supplemental appropriations for Fiscal Year 2025-2026"
+    }
+  }
+}

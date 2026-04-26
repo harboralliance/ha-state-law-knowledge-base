@@ -1,38 +1,21 @@
 # Harbor Alliance Action Items
 
 ## Texas
-
-**Immediate Market Entry:** NOT APPLICABLE  
-**Next Steps:**
-- Ensure all employees of commercial lodging establishments with 10 or more rooms complete the required annual human trafficking training provided by approved videos. 
-- Distribute anti-trafficking signage as per the requirements.
+- **Action Item:** Ensure compliance with House Bill 390 by providing annual human trafficking training for all employees in commercial lodging establishments with 10 or more rooms, and to all lodging establishment employees regardless of size.
+- **Status:** Immediate market entry is allowed as long as the required training is completed.
 
 ## California
-
-**Immediate Market Entry:** Yes  
-**Next Steps:**
-- Provide initial human trafficking awareness training to hotel and motel employees within 20 minutes of classroom or other effective interactive training.
-- Ensure compliance with all mandated reporting procedures for suspected cases.
+- **Action Item:** Implement Senate Bill 970 (SB 970) by providing at least 20 minutes of classroom or other effective interactive training on human trafficking awareness for employees in hotels and motels who are likely to interact with victims of human trafficking.
+- **Status:** Immediate market entry is allowed as long as the required training is completed.
 
 ## Illinois
-
-**Immediate Market Entry:** NOT APPLICABLE  
-**Next Steps:**
-- Provide annual human trafficking recognition training to employees starting relevant roles within six months of hire and every two years thereafter.
-- Use the model curriculum developed by the Department of Human Services or third-party approved programs.
+- **Action Item:** Provide annual human trafficking recognition training within 6 months of starting employment in a relevant role and every 2 years thereafter for all employees in lodging establishments, restaurants, and truck stops.
+- **Status:** Immediate market entry is allowed as long as the required training is completed.
 
 ## Minnesota
-
-**Immediate Market Entry:** Yes  
-**Next Steps:**
-- Ensure all hotel, motel, and short-term rental staff complete the required human trafficking prevention training within 90 days of hire and annually thereafter.
-- Display the required back-of-house poster in a location that all employees will see.
+- **Action Item:** Ensure compliance with the Minnesota Sex Trafficking Prevention Training Requirement by completing the mandatory training within 90 days of hire and retaking it annually for all owners, managers, and on-site employees.
+- **Status:** Immediate market entry is allowed as long as the required training is completed.
 
 ## Connecticut
-
-**Immediate Market Entry:** NOT APPLICABLE  
-**Next Steps:**
-- Provide mandatory annual human trafficking training for hotel and motel industry employees.
-- Ensure compliance with reporting requirements as part of human trafficking legislation.
-
-**NEEDS REVIEW**: Specific enforcement mechanisms and penalties are unclear. Review state resources for detailed information on potential fines and criminal penalties.
+- **Action Item:** Provide annual human trafficking training for hotel and motel employees and consider additional trainings for foster parents, law enforcement, healthcare providers, and other relevant industries.
+- **Status:** Immediate market entry is allowed as long as the required training is completed.

@@ -1,0 +1,27 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 1",
+      "relevancy": "100% - 100%",
+      "count": 1,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Ztraffick:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "WY",
+      "bill_number": "HB0132",
+      "bill_id": 2112313,
+      "change_hash": "1151d1ba55209ba23aa5a0a98c5bed79",
+      "url": "https://legiscan.com/WY/bill/HB0132/2026",
+      "text_url": "https://legiscan.com/WY/text/HB0132/2026",
+      "research_url": "https://legiscan.com/WY/research/HB0132/2026",
+      "last_action_date": "2026-02-11",
+      "last_action": "Failed Introduction 29-32-1-0-0",
+      "title": "Nicotine products manufacturer licensing and reporting."
+    }
+  }
+}
