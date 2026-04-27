@@ -1,0 +1,118 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 8",
+      "relevancy": "100% - 77%",
+      "count": 8,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Ztraffick:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "NH",
+      "bill_number": "HB1458",
+      "bill_id": 2056698,
+      "change_hash": "218735a876632a87222a82486aa03d91",
+      "url": "https://legiscan.com/NH/bill/HB1458/2026",
+      "text_url": "https://legiscan.com/NH/text/HB1458/2026",
+      "research_url": "https://legiscan.com/NH/research/HB1458/2026",
+      "last_action_date": "2026-04-02",
+      "last_action": "Hearing: 04/15/2026, Room 103, State House, 09:00 am; Senate Calendar  13",
+      "title": "Relative to the licensing of massage establishments and massage, reflexology, structural integration, and Asian bodywork facilities."
+    },
+    "1": {
+      "relevance": 98,
+      "state": "NH",
+      "bill_number": "HB359",
+      "bill_id": 2064455,
+      "change_hash": "e99334d883f79e5814631dcaf41f7367",
+      "url": "https://legiscan.com/NH/bill/HB359/2026",
+      "text_url": "https://legiscan.com/NH/text/HB359/2026",
+      "research_url": "https://legiscan.com/NH/research/HB359/2026",
+      "last_action_date": "2026-01-07",
+      "last_action": "Refer for Interim Study: Motion Adopted Voice Vote 01/07/2026 House Journal  1 P. 45",
+      "title": "Prohibiting denial of banking and insurance services based on any factor that is not quantitative, impartial, and risk-based as measured by an objective standard."
+    },
+    "2": {
+      "relevance": 92,
+      "state": "NH",
+      "bill_number": "HB1801",
+      "bill_id": 2059218,
+      "change_hash": "ff95c15d8a123c658725171a8fb60c71",
+      "url": "https://legiscan.com/NH/bill/HB1801/2026",
+      "text_url": "https://legiscan.com/NH/text/HB1801/2026",
+      "research_url": "https://legiscan.com/NH/research/HB1801/2026",
+      "last_action_date": "2026-03-05",
+      "last_action": "Inexpedient to Legislate: Motion Adopted Voice Vote 03/05/2026 House Journal  6",
+      "title": "Relative to causes of action for wrongful detention, drug forfeiture proceedings, the regulation of law enforcement officers, and the offense of unsworn falsification."
+    },
+    "3": {
+      "relevance": 89,
+      "state": "NH",
+      "bill_number": "HR47",
+      "bill_id": 2056225,
+      "change_hash": "a1a6bfc9f4913a572fef61937e12390a",
+      "url": "https://legiscan.com/NH/bill/HR47/2026",
+      "text_url": "https://legiscan.com/NH/text/HR47/2026",
+      "research_url": "https://legiscan.com/NH/research/HR47/2026",
+      "last_action_date": "2026-02-05",
+      "last_action": "Inexpedient to Legislate: Motion Adopted Voice Vote 02/05/2026 House Journal  3 P. 21",
+      "title": "Urging the release of all federal documents relating to Jeffrey Epstein."
+    },
+    "4": {
+      "relevance": 88,
+      "state": "NH",
+      "bill_number": "HB1469",
+      "bill_id": 2056751,
+      "change_hash": "947fa845f3ac2e1824f7810fd58776e0",
+      "url": "https://legiscan.com/NH/bill/HB1469/2026",
+      "text_url": "https://legiscan.com/NH/text/HB1469/2026",
+      "research_url": "https://legiscan.com/NH/research/HB1469/2026",
+      "last_action_date": "2026-04-02",
+      "last_action": "Hearing: 04/15/2026, Room 103, State House, 09:10 am; Senate Calendar  13",
+      "title": "Relative to the licensing requirements for massage therapy establishments."
+    },
+    "5": {
+      "relevance": 86,
+      "state": "NH",
+      "bill_number": "HB1675",
+      "bill_id": 2058479,
+      "change_hash": "4d74b985da78ddbbc9b42b35a0c3f36d",
+      "url": "https://legiscan.com/NH/bill/HB1675/2026",
+      "text_url": "https://legiscan.com/NH/text/HB1675/2026",
+      "research_url": "https://legiscan.com/NH/research/HB1675/2026",
+      "last_action_date": "2026-03-13",
+      "last_action": "Remove from Table (Rep. Love): Motion Failed Regular Calendar 148-186 03/12/2026 House Journal  8",
+      "title": "Establishing a commission to investigate the New Hampshire Coalition Against Sexual and Domestic Violence and requiring funding only be provided for the direct services materially benefitting survivors of sexual and domestic assault."
+    },
+    "6": {
+      "relevance": 84,
+      "state": "NH",
+      "bill_number": "HB348",
+      "bill_id": 2064436,
+      "change_hash": "bccdf16af23cf1fbf8108a7dc4b50482",
+      "url": "https://legiscan.com/NH/bill/HB348/2026",
+      "text_url": "https://legiscan.com/NH/text/HB348/2026",
+      "research_url": "https://legiscan.com/NH/research/HB348/2026",
+      "last_action_date": "2026-04-09",
+      "last_action": "House Concurs with Senate Amendment 2026-1207s (Rep. Pauer): Motion Adopted Voice Vote 04/09/2026 House Journal  10",
+      "title": "Relative to eligibility for local assistance."
+    },
+    "7": {
+      "relevance": 77,
+      "state": "NH",
+      "bill_number": "HB1595",
+      "bill_id": 2057557,
+      "change_hash": "19a7f9caf1b1b3c0b0a0b4ddd1c307b0",
+      "url": "https://legiscan.com/NH/bill/HB1595/2026",
+      "text_url": "https://legiscan.com/NH/text/HB1595/2026",
+      "research_url": "https://legiscan.com/NH/research/HB1595/2026",
+      "last_action_date": "2026-02-19",
+      "last_action": "Inexpedient to Legislate: Motion Adopted Voice Vote 02/19/2026 House Journal  5",
+      "title": "Establishing a domestic violence program and relative to orders of protection, stalking offenses, and annulment of criminal records."
+    }
+  }
+}

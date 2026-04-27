@@ -2,7 +2,6 @@
 
 **State:** WY  
 **Keyword:** hotline  
-
 **Page:** 1 of 1  
 **Range:** 1 - 2  
 **Relevancy:** 100% - 83%  
@@ -23,7 +22,3 @@
 - **Last Action Date:** February 10, 2026
 - **Action:** Failed Introduction
 - **Title:** Education savings accounts.
-
----
-
-These two bills related to the state of Wyoming are summarized above.

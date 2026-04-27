@@ -2,12 +2,12 @@
   "state": "Minnesota",
   "state_code": "MN",
   "industry": "commercial lodging",
-  "source_file": "2026-04-26_Minnesota_lodging_compliance.md",
+  "source_file": "2026-04-27_Minnesota_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
-  "training_frequency": "annual",
+  "training_frequency": "annually",
   "new_hire_deadline_days": 90,
-  "new_hire_deadline_text": "within 90 days of hire",
+  "new_hire_deadline_text": null,
   "signage_required": true,
   "provider_approval_required": false,
   "provider_approval_type": null,
@@ -17,13 +17,14 @@
     "Minnesota Department of Health (MDH)"
   ],
   "applicable_to": [
-    "hotel, motel, and short-term rental staff",
-    "owners, managers, and on-site employees"
+    "owners",
+    "managers",
+    "on-site employees",
+    "new hires"
   ],
   "required_topics": [
-    "signs of sex trafficking",
-    "response protocol",
-    "compliance with the law"
+    "sex trafficking prevention",
+    "response to sex trafficking incidents"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
@@ -35,27 +36,31 @@
     ],
     "minimum_size": null,
     "font_size": null,
-    "posting_location": "back-of-house",
+    "posting_location": "all staff will see",
     "required_content": [
-      "Signs of sex trafficking",
-      "Response protocol"
+      "sex trafficking prevention training information"
     ]
   },
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    "Minnesota Statutes, Section 260C.18"
+    "Minnesota Statute, section 626A.01 (Human trafficking)",
+    "Minnesota Statute, section 343F.51 (License requirements for lodging establishments)"
   ],
   "source_urls": [
-    "https://www.health.state.mn.us/divisions/lifeprotection/trafficking-prevention"
+    "health.safeharbor@state.mn.us",
+    "651-201-4500"
   ],
-  "harbor_alliance_posture": null,
+  "harbor_alliance_posture": "approval-required",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "employees must complete training annually",
-    "replacement of MDH training materials is not allowed",
-    "seasonal employees are required to receive the training"
+    "training must be completed within 90 days of hire for new employees",
+    "annual retaking of training required",
+    "employees under 16 may need to complete training unless they clean rooms"
   ],
   "notes": [],
-  "needs_review": []
+  "needs_review": [
+    "approval_required",
+    "harbor_alliance_posture"
+  ]
 }

@@ -2,45 +2,53 @@
   "state": "Connecticut",
   "state_code": "CT",
   "industry": "commercial lodging",
-  "source_file": "2026-04-26_Connecticut_lodging_compliance.md",
+  "source_file": "2026-04-27_Connecticut_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
   "training_frequency": null,
   "new_hire_deadline_days": null,
   "new_hire_deadline_text": null,
-  "signage_required": false,
+  "signage_required": true,
   "provider_approval_required": false,
   "provider_approval_type": null,
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "DCF",
-    "local law enforcement"
+    "Department of Public Health (DPH)",
+    "Office of Victim Services (OVS)"
   ],
   "applicable_to": [
-    "hotel employees",
-    "emergency medical services"
+    "hotels",
+    "motels",
+    "inns"
   ],
-  "required_topics": [
-    "Introduction to Child Trafficking in Connecticut",
-    "Introduction to Human Trafficking in Connecticut for Emergency Medical Services",
-    "Child Trafficking Training for Medical Providers/Emergency Medicine"
+  "required_topics": [],
+  "reporting_contacts_required": [
+    "state attorneys",
+    "local law enforcement"
   ],
-  "reporting_contacts_required": [],
   "signage_details": {
-    "languages_required": [],
+    "languages_required": null,
     "minimum_size": null,
     "font_size": null,
     "posting_location": null,
-    "required_content": []
+    "required_content": [
+      "Guest transactions and receipts for at least 6 months"
+    ]
   },
   "recordkeeping_requirements": [
     "guest transactions and receipts for at least 6 months"
   ],
   "certificate_requirements": [],
   "law_references": [
-    "Human and Sex Trafficking Legislation",
-    "Expansion of Protections for Victims of Human Trafficking"
+    "Public Act 17-32",
+    "Public Act 16-71",
+    "Public Act 15-195",
+    "Public Act 14-186",
+    "Public Act 13-166",
+    "Public Act 12-141",
+    "Public Act 11-180",
+    "Public Act 10-115"
   ],
   "source_urls": [
     "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/trainings-for-providers",
@@ -49,11 +57,15 @@
   "harbor_alliance_posture": "needs-review",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "need for comprehensive training and reporting"
+    "Training requirements for various groups may impact the state's ability to train all necessary personnel.",
+    "Signage requirement for lodging establishments may require additional resources and oversight."
   ],
   "notes": [
-    "Training requirements are specific to various industries, not just lodging.",
-    "No signage requirements mentioned."
+    "The research note indicates a need for further review due to the complexity of training requirements and signage specifics."
   ],
-  "needs_review": []
+  "needs_review": [
+    "Training duration and frequency",
+    "Signage language requirements",
+    "Exact wording for posting location"
+  ]
 }
