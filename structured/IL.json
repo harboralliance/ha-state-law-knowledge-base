@@ -1,31 +1,27 @@
 {
   "state": "Illinois",
   "state_code": "IL",
-  "industry": "commercial lodging, restaurants, truck stops",
-  "source_file": "2026-04-27_Illinois_lodging_compliance.md",
+  "industry": "commercial lodging",
+  "source_file": "2026-04-28_Illinois_lodging_compliance.md",
   "training_required": true,
-  "training_duration_minutes": null,
-  "training_frequency": "every 2 years after initial completion within 6 months of starting the role",
-  "new_hire_deadline_days": 180,
-  "new_hire_deadline_text": "Within 6 months of starting their role",
+  "training_duration_minutes": 20,
+  "training_frequency": "every two years if still employed",
+  "new_hire_deadline_days": null,
+  "new_hire_deadline_text": null,
   "signage_required": false,
   "provider_approval_required": false,
   "provider_approval_type": null,
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "Illinois Department of Human Services"
+    "Local government units or law enforcement agencies"
   ],
-  "applicable_to": [
-    "lodging establishments",
-    "restaurants",
-    "truck stops"
-  ],
+  "applicable_to": [],
   "required_topics": [
-    "definition of human trafficking and commercial exploitation of children",
-    "guidance on identifying individuals at risk for trafficking",
-    "differences between labor and sex trafficking in the lodging/restaurant/truck stop industry",
-    "role of employees in reporting and responding to trafficking"
+    "Definition of human trafficking and commercial exploitation of children",
+    "Guidance on identifying individuals most at risk for human trafficking",
+    "Difference between labor and sex trafficking relevant to lodging, restaurants, and truck stops",
+    "Role of employees in reporting and responding to instances of human trafficking"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
@@ -38,22 +34,15 @@
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    "Human Trafficking Prevention Act of 2019",
-    "Section 8.355 ILCS"
+    "SB1422"
   ],
-  "source_urls": [
-    "https://www.ilga.gov/legislation/ilcs/docs/8.355"
-  ],
-  "harbor_alliance_posture": "needs-review",
+  "source_urls": [],
+  "harbor_alliance_posture": "approval-required",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    {
-      "risk": "Non-compliance with the training requirements",
-      "constraint": "Potential fines up to $1,500 per offense"
-    }
+    "Employers must provide ongoing training every two years if still employed.",
+    "Non-compliance can lead to fines up to $1,500 per offense."
   ],
-  "notes": [
-    "The law applies to all public-facing roles such as receptionists, housekeeping, customer transportation, etc."
-  ],
+  "notes": [],
   "needs_review": []
 }

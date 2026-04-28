@@ -2,30 +2,60 @@
 
 ## Texas
 
-- **Action Item:** Ensure all employees of commercial lodging establishments with 10 or more rooms complete annual human trafficking training as per HB 390 requirements. Use approved training videos available online or in-person at specified organizations.
-- **Status:** Immediate market entry allowed.
+**Next Steps:**
+- Provide annual human trafficking training to all employees at commercial lodging establishments with 10 or more rooms and all employees in smaller establishments.
+- Ensure compliance by reviewing records of completed training.
+
+**Immediate Market Entry:**
+- States allowing immediate market entry: NONE
+
+**Approval/Outreach/Special Handling Required:**
+- NONE
 
 ## California
 
-- **Action Item:** Provide annual human trafficking awareness training to hotel and motel employees by January 1, 2023. Training must cover identifying and responding to signs of trafficking.
-- **Status:** Immediate market entry allowed.
+**Next Steps:**
+- Provide at least 20 minutes of classroom or other effective interactive training to hotel and motel employees regarding human trafficking awareness.
+- Ensure compliance by reviewing records of completed training.
+
+**Immediate Market Entry:**
+- States allowing immediate market entry: NONE
+
+**Approval/Outreach/Special Handling Required:**
+- NONE
 
 ## Illinois
 
-- **Action Item:** Implement annual human trafficking recognition training for all relevant staff within six months of employment and every two years thereafter as per Act 2026 requirements.
-- **Status:** Approval needed from the Department of Human Services.
+**Next Steps:**
+- Provide annual human trafficking recognition training within 6 months of employment and every 2 years thereafter for employees in lodging establishments, restaurants, and truck stops.
+- Ensure compliance by reviewing records of completed training.
+
+**Immediate Market Entry:**
+- States allowing immediate market entry: NONE
+
+**Approval/Outreach/Special Handling Required:**
+- NONE
 
 ## Minnesota
 
-- **Action Item:** Complete the required Minnesota Lodging Sex Trafficking Prevention and Response Training by December 31, 2022. Retake training annually.
-- **Status:** Immediate market entry allowed.
+**Next Steps:**
+- Provide annual sex trafficking prevention training to all owners, managers, on-site employees, and new employees within 90 days of hire.
+- Ensure compliance by reviewing records of completed training.
+
+**Immediate Market Entry:**
+- States allowing immediate market entry: NONE
+
+**Approval/Outreach/Special Handling Required:**
+- NONE
 
 ## Connecticut
 
-- **Action Item:** Provide annual human trafficking awareness training to all employees in hotels and motels as per state requirements.
-- **Status:** Approval needed from the Department of Children and Families (DCF) or relevant enforcement agency.
+**Next Steps:**
+- Provide annual human trafficking training for all employees in the hospitality industry, including hotel and motel staff.
+- Ensure compliance by reviewing records of completed training.
 
-### States Requiring Special Handling
+**Immediate Market Entry:**
+- States allowing immediate market entry: NONE
 
-- **Illinois:** Waiting for approval from the Department of Human Services.
-- **Connecticut:** Waiting for approval from the Department of Children and Families (DCF) or relevant enforcement agency.
+**Approval/Outreach/Special Handling Required:**
+- NONE
