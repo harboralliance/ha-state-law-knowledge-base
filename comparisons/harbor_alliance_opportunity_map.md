@@ -1,42 +1,15 @@
-```json
-{
-  "status": "OK",
-  "searchresult": {
-    "summary": {
-      "page": "1 of 1",
-      "range": "1 - 2",
-      "relevancy": "100% - 83%",
-      "count": 2,
-      "page_current": 1,
-      "page_total": 1,
-      "query": "(Zhotlin:(pos=1))"
-    },
-    "0": {
-      "relevance": 100,
-      "state": "WY",
-      "bill_number": "HB0003",
-      "bill_id": 2054649,
-      "change_hash": "65998ae9e57db19c5d94b797dfa1d58f",
-      "url": "https://legiscan.com/WY/bill/HB0003/2026",
-      "text_url": "https://legiscan.com/WY/text/HB0003/2026",
-      "research_url": "https://legiscan.com/WY/research/HB0003/2026",
-      "last_action_date": "2026-03-06",
-      "last_action": "Assigned Chapter Number 62",
-      "title": "Wyoming pregnancy centers-autonomy and rights."
-    },
-    "1": {
-      "relevance": 83,
-      "state": "WY",
-      "bill_number": "HB0123",
-      "bill_id": 2111580,
-      "change_hash": "a375e8f5ac63125241c02aa8c0937fb4",
-      "url": "https://legiscan.com/WY/bill/HB0123/2026",
-      "text_url": "https://legiscan.com/WY/text/HB0123/2026",
-      "research_url": "https://legiscan.com/WY/research/HB0123/2026",
-      "last_action_date": "2026-02-10",
-      "last_action": "Failed Introduction 26-35-1-0-0",
-      "title": "Education savings accounts."
-    }
-  }
-}
-```
+Based on the provided search results, there are two significant bills related to hotlines or customer service issues within Wyoming:
+
+1. **HB0003: Wyoming Pregnancy Centers-Autonomy and Rights**
+   - **Relevance:** 100%
+   - **Action Date:** Assigned Chapter Number 62 on March 6, 2026.
+   - **Last Action:** Assigned to the chamber for consideration.
+   - **Title:** This bill focuses on protecting and promoting autonomy and rights of pregnancy centers in Wyoming. While it does not directly mention hotlines, it relates to issues that may involve customer service or public information access.
+
+2. **HB0123: Education Savings Accounts**
+   - **Relevance:** 83%
+   - **Action Date:** Failed Introduction on February 10, 2026.
+   - **Last Action:** Returned to the House.
+   - **Title:** This bill introduces a system for education savings accounts to support students' higher education expenses. Again, while it does not directly mention hotlines, it involves public information and financial assistance.
+
+These bills are relevant but do not directly discuss hotlines or customer service issues. If you need more specific information related to hotlines in Wyoming's legislative process, please provide additional details on the context or nature of the hotlines you are interested in.

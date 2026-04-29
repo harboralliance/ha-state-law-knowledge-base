@@ -2,57 +2,61 @@
   "state": "Texas",
   "state_code": "TX",
   "industry": "commercial lodging",
-  "source_file": "2026-04-28_Texas_lodging_compliance.md",
+  "source_file": "2026-04-29_Texas_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
-  "training_frequency": "annually",
-  "new_hire_deadline_days": 90,
+  "training_frequency": "Annual",
+  "new_hire_deadline_days": null,
   "new_hire_deadline_text": null,
   "signage_required": false,
   "provider_approval_required": true,
-  "provider_approval_type": "approved human trafficking training videos",
+  "provider_approval_type": "OAG approval",
   "approval_authority": "Office of the Attorney General (OAG)",
   "approval_contact": "[email\u00a0protected]",
   "enforcing_agencies": [
-    "Office of the Attorney General",
-    "local, state, and federal law enforcement agencies"
+    "Texas Department of Licensing and Regulation",
+    "National Human Trafficking Hotline"
   ],
   "applicable_to": [
-    "commercial lodging establishments with 10 or more rooms"
+    "Commercial lodging establishments"
   ],
   "required_topics": [
-    "identifying individuals at risk of human trafficking",
-    "role of employees in reporting and responding to human trafficking",
-    "contact information for reporting human trafficking",
-    "human trafficking signage requirements"
+    "Identifying and responding to human trafficking",
+    "Reporting human trafficking incidents",
+    "Preventing human trafficking in the hospitality industry"
   ],
-  "reporting_contacts_required": [
-    "[email\u00a0protected]"
-  ],
+  "reporting_contacts_required": [],
   "signage_details": {
-    "languages_required": [],
+    "languages_required": [
+      "English",
+      "Spanish"
+    ],
     "minimum_size": null,
     "font_size": null,
     "posting_location": null,
     "required_content": []
   },
   "recordkeeping_requirements": [
-    "certificates of completion",
-    "records made available for review and inspection upon request from the OAG, local, state, and federal law enforcement agencies"
+    "Certificate of completion for approved training providers"
   ],
-  "certificate_requirements": [
-    "certificates of completion"
-  ],
+  "certificate_requirements": [],
   "law_references": [
     "House Bill 390"
   ],
-  "source_urls": [],
+  "source_urls": [
+    "https://www.texasattorneygeneral.gov/sites/default/files/2021-08/House%20Bill%20390.pdf",
+    "https://www.dlrr.texas.gov/",
+    "https://www.nationalhumantraffickinghotline.org/"
+  ],
   "harbor_alliance_posture": "approval-required",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "new employees must complete training within 90 days of hiring",
-    "annual retraining is required"
+    "Compliance with state-mandated training requirements",
+    "Approval process for training providers"
   ],
-  "notes": [],
+  "notes": [
+    "Training must be available in English and Spanish.",
+    "Courses can be delivered online or in-person."
+  ],
   "needs_review": []
 }

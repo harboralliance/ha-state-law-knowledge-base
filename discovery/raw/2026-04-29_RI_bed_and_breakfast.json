@@ -1,0 +1,27 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 1",
+      "relevancy": "100% - 100%",
+      "count": 1,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zbed:(pos=1) AND Zbreakfast:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "RI",
+      "bill_number": "H7362",
+      "bill_id": 2096285,
+      "change_hash": "77727e9331d80f08ae65477632490766",
+      "url": "https://legiscan.com/RI/bill/H7362/2026",
+      "text_url": "https://legiscan.com/RI/text/H7362/2026",
+      "research_url": "https://legiscan.com/RI/research/H7362/2026",
+      "last_action_date": "2026-02-05",
+      "last_action": "Committee recommended measure be held for further study",
+      "title": "Mandates the workweek be reduced to 32 hrs. Rate of pay for a 32 hr workweek remains the same as the rate of pay for 40 hrs. Work in excess of 32 hrs in any one workweek qualify for overtime pay. Does not apply to employers with less than 500 employees."
+    }
+  }
+}

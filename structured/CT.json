@@ -1,56 +1,46 @@
 {
   "state": "Connecticut",
   "state_code": "CT",
-  "industry": "commercial lodging",
-  "source_file": "2026-04-28_Connecticut_lodging_compliance.md",
+  "industry": "commercial lodging, hotels, motels, inns, law enforcement, emergency medical services (EMS), healthcare providers, hospitality industry",
+  "source_file": "2026-04-29_Connecticut_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
-  "training_frequency": "annual",
+  "training_frequency": "annually",
   "new_hire_deadline_days": null,
   "new_hire_deadline_text": null,
-  "signage_required": false,
-  "provider_approval_required": true,
-  "provider_approval_type": "annual training completion",
-  "approval_authority": "state",
+  "signage_required": true,
+  "provider_approval_required": false,
+  "provider_approval_type": null,
+  "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "state attorneys",
+    "State attorneys",
     "local law enforcement"
   ],
   "applicable_to": [
-    "Child Protective Services staff",
-    "foster parents",
-    "service providers",
-    "schools",
-    "law enforcement",
-    "hospital and medical staff",
-    "hospitable industry",
-    "other professionals"
+    "hotels, motels, inns, and similar lodging; law enforcement; emergency medical services (EMS); healthcare providers; hospitality industry professionals"
   ],
   "required_topics": [
-    "child trafficking in Connecticut",
-    "labor trafficking",
-    "multidisciplinary team handling such cases"
+    "human trafficking",
+    "commercial sexual exploitation of minors"
   ],
-  "reporting_contacts_required": [
-    "state attorneys",
-    "local law enforcement"
-  ],
+  "reporting_contacts_required": [],
   "signage_details": {
-    "languages_required": [],
+    "languages_required": null,
     "minimum_size": null,
     "font_size": null,
     "posting_location": null,
-    "required_content": []
+    "required_content": [
+      "trafficking training and awareness campaigns"
+    ]
   },
   "recordkeeping_requirements": [
     "guest transactions and receipts for at least 6 months"
   ],
   "certificate_requirements": [],
   "law_references": [
-    "Human trafficking legislation (effective dates: 2010-2017)",
-    "Public acts addressing human trafficking",
-    "Expanding protections for victims of human trafficking"
+    "Public Act 17-32",
+    "Public Act 16-71"
   ],
   "source_urls": [
     "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/trainings-for-providers",
@@ -59,9 +49,10 @@
   "harbor_alliance_posture": null,
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "Lack of explicit signage requirements",
-    "Need for annual training and provider approval"
+    "needs-review"
   ],
-  "notes": [],
+  "notes": [
+    "NEEDS REVIEW: Specific requirements for Harbor Alliance posture and actions not explicitly stated in the research note."
+  ],
   "needs_review": []
 }

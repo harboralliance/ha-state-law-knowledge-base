@@ -2,10 +2,10 @@
   "state": "Minnesota",
   "state_code": "MN",
   "industry": "commercial lodging",
-  "source_file": "2026-04-28_Minnesota_lodging_compliance.md",
+  "source_file": "2026-04-29_Minnesota_lodging_compliance.md",
   "training_required": true,
-  "training_duration_minutes": 45,
-  "training_frequency": "annually",
+  "training_duration_minutes": null,
+  "training_frequency": "yearly",
   "new_hire_deadline_days": 90,
   "new_hire_deadline_text": "within 90 days of hire",
   "signage_required": true,
@@ -14,42 +14,41 @@
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "Minnesota Department of Human Rights (MDH)"
+    "Minnesota Department of Health (MDH)"
   ],
   "applicable_to": [
-    "hotel/motel/short-term rental staff"
+    "hotels",
+    "motels",
+    "short-term rentals"
   ],
   "required_topics": [
-    "sex trafficking prevention",
-    "employee training"
+    "signs of sex trafficking",
+    "how to recognize it",
+    "what actions to take if a suspicion arises"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
-    "languages_required": [
-      "English",
-      "Spanish",
-      "Somali",
-      "Hmong"
-    ],
+    "languages_required": [],
     "minimum_size": null,
     "font_size": null,
-    "posting_location": "back-of-house",
+    "posting_location": "back of house",
     "required_content": [
-      "sex trafficking prevention information"
+      "important information about sex trafficking prevention and response"
     ]
   },
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    "Minnesota Statute (MSA) section 168.205, subdivision 4"
+    {
+      "name": "Minnesota Statutes, chapter 246B.535"
+    }
   ],
-  "source_urls": [],
-  "harbor_alliance_posture": null,
+  "source_urls": [
+    "https://www.health.state.mn.us/divpmmh/trafficking/"
+  ],
+  "harbor_alliance_posture": "immediate-entry",
   "harbor_alliance_actions": [],
-  "risks_or_constraints": [
-    "exceptions for certain employees and businesses",
-    "costs associated with printing additional materials"
-  ],
+  "risks_or_constraints": [],
   "notes": [],
   "needs_review": []
 }
