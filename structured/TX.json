@@ -2,28 +2,32 @@
   "state": "Texas",
   "state_code": "TX",
   "industry": "commercial lodging",
-  "source_file": "2026-04-29_Texas_lodging_compliance.md",
+  "source_file": "2026-04-30_Texas_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
-  "training_frequency": "Annual",
+  "training_frequency": null,
   "new_hire_deadline_days": null,
   "new_hire_deadline_text": null,
   "signage_required": false,
   "provider_approval_required": true,
-  "provider_approval_type": "OAG approval",
+  "provider_approval_type": "OAG",
   "approval_authority": "Office of the Attorney General (OAG)",
-  "approval_contact": "[email\u00a0protected]",
+  "approval_contact": "Texas Attorney General's website or email address provided in the article",
   "enforcing_agencies": [
-    "Texas Department of Licensing and Regulation",
-    "National Human Trafficking Hotline"
+    "Office of the Attorney General (OAG)"
   ],
-  "applicable_to": [
-    "Commercial lodging establishments"
-  ],
+  "applicable_to": [],
   "required_topics": [
-    "Identifying and responding to human trafficking",
-    "Reporting human trafficking incidents",
-    "Preventing human trafficking in the hospitality industry"
+    "Human Trafficking Hotel Training",
+    "Human Trafficking - Texas",
+    "Identifying and Responding to Human Trafficking: Commercial Lodging & Hospitality Industry",
+    "Inhospitable to Human Trafficking Training",
+    "Human Trafficking Training",
+    "Recognize and Respond: Addressing Human Trafficking in the Hospitality Industry",
+    "Your Role in Preventing Human Trafficking: Recognize the Signs",
+    "Survivor Services/HT101",
+    "Human Trafficking Essentials: Texas Hospitality Awareness HB 390",
+    "Combating Human Trafficking in the Hospitality Industry"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
@@ -36,27 +40,19 @@
     "posting_location": null,
     "required_content": []
   },
-  "recordkeeping_requirements": [
-    "Certificate of completion for approved training providers"
-  ],
+  "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
     "House Bill 390"
   ],
   "source_urls": [
-    "https://www.texasattorneygeneral.gov/sites/default/files/2021-08/House%20Bill%20390.pdf",
-    "https://www.dlrr.texas.gov/",
-    "https://www.nationalhumantraffickinghotline.org/"
+    "Texas Attorney General's website"
   ],
   "harbor_alliance_posture": "approval-required",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "Compliance with state-mandated training requirements",
-    "Approval process for training providers"
+    "Potential for human trafficking in the hospitality industry"
   ],
-  "notes": [
-    "Training must be available in English and Spanish.",
-    "Courses can be delivered online or in-person."
-  ],
+  "notes": [],
   "needs_review": []
 }

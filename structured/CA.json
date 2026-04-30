@@ -2,71 +2,59 @@
   "state": "California",
   "state_code": "CA",
   "industry": "commercial lodging",
-  "source_file": "2026-04-29_California_lodging_compliance.md",
+  "source_file": "2026-04-30_California_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": 20,
   "training_frequency": null,
-  "new_hire_deadline_days": null,
-  "new_hire_deadline_text": null,
+  "new_hire_deadline_days": 180,
+  "new_hire_deadline_text": "six months of employment",
   "signage_required": true,
   "provider_approval_required": false,
   "provider_approval_type": null,
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "California Attorney General's Office",
-    "National Human Trafficking Resource Center",
-    "State of California Department of Justice"
+    "California Attorney General's office",
+    "Local law enforcement agencies"
   ],
   "applicable_to": [
-    "employees who are likely to interact with victims of human trafficking"
+    "Employees employed as of July 1, 2019",
+    "New employees within six months of their employment"
   ],
   "required_topics": [
-    "identifying signs of human trafficking",
-    "understanding the victims' experiences",
-    "knowing how to report suspicious activities"
+    "Understanding of human trafficking",
+    "Identification of victims of human trafficking",
+    "Awareness of resources available for assistance (e.g., national hotline numbers)"
   ],
-  "reporting_contacts_required": [
-    {
-      "agency": "California Attorney General's Office",
-      "contact": null
-    },
-    {
-      "agency": "National Human Trafficking Resource Center",
-      "contact": null
-    },
-    {
-      "agency": "State of California Department of Justice",
-      "contact": null
-    }
-  ],
+  "reporting_contacts_required": [],
   "signage_details": {
     "languages_required": [
-      "English"
+      "English",
+      "Spanish"
     ],
     "minimum_size": null,
     "font_size": null,
-    "posting_location": "hotel and motel premises",
+    "posting_location": null,
     "required_content": [
-      "human trafficking hotline numbers"
+      "Notice informing the public and employees about the human trafficking hotline"
     ]
   },
-  "recordkeeping_requirements": [],
+  "recordkeeping_requirements": [
+    "Keep records of training provided, including dates and documentation of completion."
+  ],
   "certificate_requirements": [],
   "law_references": [
-    {
-      "statute_name": "SB 970",
-      "code_section": null,
-      "public_act": "2018-01-31 SB 970"
-    }
+    "Senate Bill 970 (SB 970)"
   ],
-  "source_urls": [],
-  "harbor_alliance_posture": "immediate-entry",
-  "harbor_alliance_actions": [
-    "Ensure compliance with SB 970 requirements for employee training and signage."
+  "source_urls": [
+    "SOURCE 1: The California legislature passed Senate Bill 970 (SB 970)",
+    "SOURCE 2: The California Attorney General's office provides detailed information on this requirement, including a model notice that businesses must post",
+    "SOURCE 3: The California Department of Justice offers additional resources and guidelines for compliance with the human trafficking awareness training requirement"
   ],
+  "harbor_alliance_posture": null,
+  "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "Failure to comply with the training requirement may result in legal penalties or public scrutiny."
+    "Non-compliance with this requirement may result in fines and penalties as outlined in the relevant state laws."
   ],
   "notes": [],
   "needs_review": []

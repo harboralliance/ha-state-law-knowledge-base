@@ -1,0 +1,27 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 1",
+      "relevancy": "100% - 100%",
+      "count": 1,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zhotlin:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "AR",
+      "bill_number": "HB1009",
+      "bill_id": 2140443,
+      "change_hash": "f8481c5111521f7adb7e972835ccd711",
+      "url": "https://legiscan.com/AR/bill/HB1009/2026",
+      "text_url": "https://legiscan.com/AR/text/HB1009/2026",
+      "research_url": "https://legiscan.com/AR/research/HB1009/2026",
+      "last_action_date": "2026-04-29",
+      "last_action": "Notification that HB1009 is now Act 118",
+      "title": "An Act For The Department Of Public Safety Appropriation For The 2026-2027 Fiscal Year. "
+    }
+  }
+}

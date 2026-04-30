@@ -2,53 +2,65 @@
   "state": "Minnesota",
   "state_code": "MN",
   "industry": "commercial lodging",
-  "source_file": "2026-04-29_Minnesota_lodging_compliance.md",
+  "source_file": "2026-04-30_Minnesota_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
-  "training_frequency": "yearly",
+  "training_frequency": "annually",
   "new_hire_deadline_days": 90,
-  "new_hire_deadline_text": "within 90 days of hire",
+  "new_hire_deadline_text": "within 90 days of hire date",
   "signage_required": true,
   "provider_approval_required": false,
   "provider_approval_type": null,
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "Minnesota Department of Health (MDH)"
+    "Minnesota Department of Health"
   ],
   "applicable_to": [
-    "hotels",
-    "motels",
-    "short-term rentals"
+    "hotel",
+    "motel",
+    "short-term rental owners",
+    "managers",
+    "on-site employees"
   ],
   "required_topics": [
-    "signs of sex trafficking",
-    "how to recognize it",
-    "what actions to take if a suspicion arises"
+    "nature of sex trafficking",
+    "risks associated with being employed in a hotel, motel, or short-term rental",
+    "how to identify potential victims of sex trafficking",
+    "what actions to take if an employee suspects or witnesses suspicious activity"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
-    "languages_required": [],
+    "languages_required": [
+      "English",
+      "Spanish",
+      "Somali",
+      "Hmong"
+    ],
     "minimum_size": null,
     "font_size": null,
-    "posting_location": "back of house",
+    "posting_location": "all areas where employees work",
     "required_content": [
-      "important information about sex trafficking prevention and response"
+      "virtual presentation (video with guided exercises)",
+      "Training Companion Guide (PDF)",
+      "Manager & Owner Training Toolkit (PDF)"
     ]
   },
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    {
-      "name": "Minnesota Statutes, chapter 246B.535"
-    }
+    "Minn. Stat. \u00a7 268C.405"
   ],
   "source_urls": [
-    "https://www.health.state.mn.us/divpmmh/trafficking/"
+    "https://www.health.state.mn.us/lodging/sex-trafficking-prevention-training"
   ],
   "harbor_alliance_posture": "immediate-entry",
   "harbor_alliance_actions": [],
-  "risks_or_constraints": [],
-  "notes": [],
+  "risks_or_constraints": [
+    "non-compliance can lead to potential penalties"
+  ],
+  "notes": [
+    "Training materials are available in multiple languages, including English, Spanish, Somali, and Hmong."
+  ],
   "needs_review": []
 }

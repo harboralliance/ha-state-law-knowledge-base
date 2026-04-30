@@ -1,56 +1,37 @@
 # Harbor Alliance Action Items
 
 ## Texas
-**Next Steps:**
-- Ensure all commercial lodging establishments with 10 or more rooms comply with House Bill 390 by providing annual human trafficking training.
-- Provide training for all employees at lodging establishments regardless of size to meet requirements.
-
-**Immediate Market Entry States:**
-- NONE
-
-**States Requiring Approval, Outreach, or Special Handling:**
-- NONE
+- **Next Steps**: Ensure all employees receive the required human trafficking training annually. Verify access to approved training videos through approved organizations or online resources.
+- **Immediate Market Entry**: NOT APPLICABLE - Training requirements are specific and mandatory for certain lodging establishments.
+- **Special Handling**: Review the Office of the Attorney General's approved training resources and ensure compliance.
 
 ## California
-**Next Steps:**
-- Ensure hotel and motel employees receive the required 20 minutes of classroom or interactive training on human trafficking awareness.
-- Review and comply with all exceptions and enforcement mechanisms.
-
-**Immediate Market Entry States:**
-- NONE
-
-**States Requiring Approval, Outreach, or Special Handling:**
-- NONE
+- **Next Steps**: Conduct an inventory of hotel and motel employees who may interact with victims. Schedule training sessions to cover human trafficking awareness.
+- **Immediate Market Entry**: APPROVED - Training is mandatory for all hotel and motel employees as of January 1, 2020.
+- **Special Handling**: Contact the California Coalition to Abolish Slavery and Trafficking (CAST) or National Human Trafficking Resource Center for additional support.
 
 ## Illinois
-**Next Steps:**
-- Provide human trafficking recognition training to employees within 6 months of employment in relevant roles and every 2 years thereafter.
-- Ensure all employers comply with the new requirements by June 1, 2020.
-
-**Immediate Market Entry States:**
-- NONE
-
-**States Requiring Approval, Outreach, or Special Handling:**
-- NONE
+- **Next Steps**: Develop a human trafficking recognition training program that meets all specified requirements. Schedule initial training for new employees within six months of hire.
+- **Immediate Market Entry**: APPROVED - Training is mandatory for relevant staff as of June 1, 2020.
+- **Special Handling**: Coordinate with the Department of Human Services to obtain and distribute the model curriculum.
 
 ## Minnesota
-**Next Steps:**
-- Implement the Minnesota Lodging Sex Trafficking Prevention and Response Training for all hotel, motel, and short-term rental staff.
-- Ensure compliance with training requirements within 90 days of hire and annually thereafter.
-
-**Immediate Market Entry States:**
-- NONE
-
-**States Requiring Approval, Outreach, or Special Handling:**
-- NONE
+- **Next Steps**: Ensure all hotel, motel, and short-term rental employees complete the required training. Verify compliance with annual retakes and posting of the required poster.
+- **Immediate Market Entry**: APPROVED - Training is mandatory for all relevant staff as of January 1, 2020.
+- **Special Handling**: Access the Minnesota Department of Health (MDH) Learning Center for training materials.
 
 ## Connecticut
-**Next Steps:**
-- Provide mandatory human trafficking training for all employees in hotels, motels, and short-term rentals.
-- Ensure compliance with training requirements within 90 days of hire and annually thereafter.
+- **Next Steps**: Schedule human trafficking awareness training for hotel and motel employees. Ensure compliance with annual retakes and reporting requirements.
+- **Immediate Market Entry**: APPROVED - Training is mandatory for all relevant staff as of 2010.
+- **Special Handling**: Contact the Department of Children and Families (DCF) or local law enforcement agencies for support in handling cases.
 
-**Immediate Market Entry States:**
-- NONE
+## NEEDS REVIEW
+- Florida: No specific human trafficking training requirements identified. Review local regulations for any potential future mandates.
+- New York: No specific human trafficking training requirements identified. Research state-specific laws to ensure compliance.
+- Ohio: No specific human trafficking training requirements identified. Explore federal guidelines and state resources for guidance.
 
-**States Requiring Approval, Outreach, or Special Handling:**
-- NONE
+---
+
+**Notes:** 
+- Ensure all actions are documented with timestamps and completion status.
+- Regularly review updates from the states' offices of attorney general, health departments, and social services for any changes or additional requirements.

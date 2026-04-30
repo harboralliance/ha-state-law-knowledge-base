@@ -1,0 +1,66 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 4",
+      "relevancy": "100% - 94%",
+      "count": 4,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zawar:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "WY",
+      "bill_number": "HB0142",
+      "bill_id": 2112417,
+      "change_hash": "9005a9c2ff0b6031414ebc3f404c65a8",
+      "url": "https://legiscan.com/WY/bill/HB0142/2026",
+      "text_url": "https://legiscan.com/WY/text/HB0142/2026",
+      "research_url": "https://legiscan.com/WY/research/HB0142/2026",
+      "last_action_date": "2026-02-11",
+      "last_action": "Failed Introduction 30-30-2-0-0",
+      "title": "Literacy screening assessment and intervention."
+    },
+    "1": {
+      "relevance": 99,
+      "state": "WY",
+      "bill_number": "HB0081",
+      "bill_id": 2103752,
+      "change_hash": "169297ea9f6db54c3f078215a40df183",
+      "url": "https://legiscan.com/WY/bill/HB0081/2026",
+      "text_url": "https://legiscan.com/WY/text/HB0081/2026",
+      "research_url": "https://legiscan.com/WY/research/HB0081/2026",
+      "last_action_date": "2026-02-10",
+      "last_action": "Failed Introduction 38-23-1-0-0",
+      "title": "Less is More Plate Act."
+    },
+    "2": {
+      "relevance": 95,
+      "state": "WY",
+      "bill_number": "SF0059",
+      "bill_id": 2101000,
+      "change_hash": "69a80e6271716e966c90d9d8a47341d9",
+      "url": "https://legiscan.com/WY/bill/SF0059/2026",
+      "text_url": "https://legiscan.com/WY/text/SF0059/2026",
+      "research_url": "https://legiscan.com/WY/research/SF0059/2026",
+      "last_action_date": "2026-03-06",
+      "last_action": "Assigned Chapter Number 66",
+      "title": "K-12 language and literacy program."
+    },
+    "3": {
+      "relevance": 94,
+      "state": "WY",
+      "bill_number": "HB0050",
+      "bill_id": 2087451,
+      "change_hash": "5f450150dd7fbf6775ca5a130f46742c",
+      "url": "https://legiscan.com/WY/bill/HB0050/2026",
+      "text_url": "https://legiscan.com/WY/text/HB0050/2026",
+      "research_url": "https://legiscan.com/WY/research/HB0050/2026",
+      "last_action_date": "2026-02-09",
+      "last_action": "Failed Introduction 39-23-0-0-0",
+      "title": "Ballot harvesting-prohibition."
+    }
+  }
+}

@@ -1,31 +1,29 @@
 {
   "state": "Illinois",
   "state_code": "IL",
-  "industry": "commercial lodging",
-  "source_file": "2026-04-29_Illinois_lodging_compliance.md",
+  "industry": "commercial lodging, restaurants, truck stops",
+  "source_file": "2026-04-30_Illinois_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
-  "training_frequency": "every 2 years after initial training",
-  "new_hire_deadline_days": null,
-  "new_hire_deadline_text": null,
+  "training_frequency": "every 2 years",
+  "new_hire_deadline_days": 180,
+  "new_hire_deadline_text": "6 months of starting the job role",
   "signage_required": false,
   "provider_approval_required": true,
-  "provider_approval_type": "third-party program that meets minimum requirements",
+  "provider_approval_type": null,
   "approval_authority": "Department of Human Services",
   "approval_contact": null,
   "enforcing_agencies": [
-    "local governments"
+    "Department of Human Services"
   ],
   "applicable_to": [
-    "hotels/motels",
-    "restaurants",
-    "truck stops"
+    "lodging establishments, restaurants, truck stops"
   ],
   "required_topics": [
-    "definitions (human trafficking, employee)",
-    "risk identification",
-    "labor vs. sex trafficking differentiation",
-    "reporting procedures"
+    "definition of human trafficking and commercial exploitation of children",
+    "how to identify individuals at risk for human trafficking",
+    "difference between labor and sex trafficking in lodging establishments, restaurants, and truck stops",
+    "role of employees in reporting and responding to human trafficking instances"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
@@ -38,17 +36,13 @@
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    "Human Trafficking Prevention Act of 2020",
-    "IL Statutes, Section 14.3"
+    "Public Act 102-815"
   ],
   "source_urls": [],
   "harbor_alliance_posture": "approval-required",
-  "harbor_alliance_actions": [
-    "implement training programs",
-    "ensure third-party approval"
-  ],
+  "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "non-compliance may lead to fines up to $1,500 per offense"
+    "penalties for non-compliance"
   ],
   "notes": [],
   "needs_review": []
