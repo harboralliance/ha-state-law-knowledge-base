@@ -2,7 +2,7 @@
   "state": "Connecticut",
   "state_code": "CT",
   "industry": "commercial lodging",
-  "source_file": "2026-04-30_Connecticut_lodging_compliance.md",
+  "source_file": "2026-05-01_Connecticut_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
   "training_frequency": "annual",
@@ -14,31 +14,33 @@
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "Department of Children and Families (DCF)"
+    "Connecticut Department of Children and Families (DCF)",
+    "Law Enforcement Agencies",
+    "Hotel and Motel Operators"
   ],
   "applicable_to": [
-    "hotels",
-    "motels",
-    "inns",
-    "similar lodging businesses",
-    "Child Protective Services staff",
-    "foster parents",
-    "service providers",
-    "schools",
-    "law enforcement",
-    "hospital and medical staff",
-    "emergency medical services (EMS)",
-    "medical providers/emergency medicine"
+    "Foster care services",
+    "Service providers",
+    "Schools",
+    "Law enforcement",
+    "Healthcare (emergency medicine)",
+    "Hospital and medical staff",
+    " Hospitality industry professionals",
+    "Other relevant sectors"
   ],
   "required_topics": [
-    "human trafficking definitions",
-    "federal and state laws",
-    "warning signs",
-    "impacts",
-    "buyer/exploiters"
+    "Introduction to Child Trafficking in Connecticut",
+    "Introduction to Human Trafficking in Connecticut for Law Enforcement",
+    "Emergency Medical Services (EMS) training",
+    "Child Trafficking Training for Medical Providers/Emergency Medicine",
+    "Introduction to Human Trafficking in Connecticut for Hotels, Motels, and Lodging",
+    "Introduction to Labor Trafficking in Connecticut",
+    "Introduction to Labor Trafficking in Connecticut for Law Enforcement"
   ],
   "reporting_contacts_required": [
-    "state-wide oversight and monitoring body"
+    "Hotels and motels",
+    "Child Protective Services",
+    "Law enforcement"
   ],
   "signage_details": {
     "languages_required": [],
@@ -47,31 +49,28 @@
     "posting_location": null,
     "required_content": []
   },
-  "recordkeeping_requirements": [
-    "guest transactions",
-    "receipts for at least six months"
+  "recordkeeping_requirements": [],
+  "certificate_requirements": [
+    "Mandatory annual training certificates for hotel employees",
+    "Training completion certificates for other relevant sectors"
   ],
-  "certificate_requirements": [],
   "law_references": [
-    "Public Act 17-32 (PDF)",
-    "Public Act 16-71 (PDF)",
-    "Public Act 15-195 (PDF)",
-    "Public Act 14-186 (PDF)",
-    "Public Act 13-166 (PDF)",
-    "Public Act 12-141 (PDF)",
-    "Public Act 11-180 (PDF)",
-    "Public Act 10-115 (PDF)"
+    "Human and Sex Trafficking Legislation",
+    "Commercial Sexual Exploitation of a Minor is a class C felony"
   ],
   "source_urls": [
     "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/trainings-for-providers",
     "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/human-and-sex-trafficking-legislation"
   ],
-  "harbor_alliance_posture": "immediate-entry",
+  "harbor_alliance_posture": "approval-required",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "no signage required",
-    "not explicitly stated training duration/frequency"
+    "Lack of specific signage requirements",
+    "Potential risks associated with failing to meet reporting requirements"
   ],
-  "notes": [],
+  "notes": [
+    "Signage is recommended but not mandatory as per the research note",
+    "State application or approval path not explicitly mentioned"
+  ],
   "needs_review": []
 }

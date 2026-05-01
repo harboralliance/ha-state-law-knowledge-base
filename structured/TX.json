@@ -2,32 +2,30 @@
   "state": "Texas",
   "state_code": "TX",
   "industry": "commercial lodging",
-  "source_file": "2026-04-30_Texas_lodging_compliance.md",
+  "source_file": "2026-05-01_Texas_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
-  "training_frequency": null,
+  "training_frequency": "annual",
   "new_hire_deadline_days": null,
   "new_hire_deadline_text": null,
   "signage_required": false,
   "provider_approval_required": true,
-  "provider_approval_type": "OAG",
+  "provider_approval_type": "OAG approved training videos and resources",
   "approval_authority": "Office of the Attorney General (OAG)",
-  "approval_contact": "Texas Attorney General's website or email address provided in the article",
+  "approval_contact": "[email\u00a0protected]",
   "enforcing_agencies": [
-    "Office of the Attorney General (OAG)"
+    "Texas Department of Licensing and Regulation"
   ],
-  "applicable_to": [],
+  "applicable_to": [
+    {
+      "establishment_type": "commercial lodging establishments",
+      "room_count_min": 10
+    }
+  ],
   "required_topics": [
-    "Human Trafficking Hotel Training",
-    "Human Trafficking - Texas",
-    "Identifying and Responding to Human Trafficking: Commercial Lodging & Hospitality Industry",
-    "Inhospitable to Human Trafficking Training",
-    "Human Trafficking Training",
-    "Recognize and Respond: Addressing Human Trafficking in the Hospitality Industry",
-    "Your Role in Preventing Human Trafficking: Recognize the Signs",
-    "Survivor Services/HT101",
-    "Human Trafficking Essentials: Texas Hospitality Awareness HB 390",
-    "Combating Human Trafficking in the Hospitality Industry"
+    "human trafficking recognition",
+    "reporting procedures",
+    "response strategies"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
@@ -46,13 +44,17 @@
     "House Bill 390"
   ],
   "source_urls": [
-    "Texas Attorney General's website"
+    "https://www.texasattorneygeneral.gov/human-trafficking-training",
+    "http://www.etactics.com/training/corporate-training/human-trafficking-hotel-training-2/",
+    "https://unboundnow.com/products/identifying-and-responding-to-human-trafficking-commercial-lodging-hospitality-industry/"
   ],
   "harbor_alliance_posture": "approval-required",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "Potential for human trafficking in the hospitality industry"
+    "Cost of paid training options"
   ],
-  "notes": [],
+  "notes": [
+    "Training is required annually for workers in lodging establishments with 10 or more rooms."
+  ],
   "needs_review": []
 }
