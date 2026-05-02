@@ -1,4 +1,4 @@
-### Summary of Search Results for WY State with Keyword "hotline"
+### Search Results for WY State with Keyword "hotline"
 
 #### Summary:
 - **Page:** 1 of 1
@@ -23,15 +23,15 @@
 #### Bill: HB0123 (Relevance: 83%)
 - **Title:** Education savings accounts.
 - **Last Action Date:** February 10, 2026
-- **Last Action:** Failed Introduction 26-35-1-0-0
+- **Last Action:** Failed Introduction (26-35-1-0-0)
 - **URL:** [legiscan.com/WY/bill/HB0123/2026](https://legiscan.com/WY/bill/HB0123/2026)
 
 ---
 
 These bills are the only results for "hotline" within the state of Wyoming according to your query. The first bill, HB0003, deals with autonomy and rights for pregnancy centers in Wyoming, while the second, HB0123, is about education savings accounts.
 
-### Additional Notes:
-- **HB0003** focuses on protecting and promoting the autonomy and rights of pregnancy centers.
-- **HB0123** aims to establish a system for education savings accounts to support students' higher education expenses.
+### Notes:
+- **HB0003** is highly relevant with a 100% relevancy score.
+- **HB0123** has a lower relevancy score of 83%.
 
-If you have any further questions or need additional information, feel free to ask!
+If you need more details or further assistance with these bills, feel free to ask!

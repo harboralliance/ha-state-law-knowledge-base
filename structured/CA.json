@@ -2,67 +2,67 @@
   "state": "California",
   "state_code": "CA",
   "industry": "commercial lodging",
-  "source_file": "2026-05-01_California_lodging_compliance.md",
+  "source_file": "2026-05-02_California_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": 20,
   "training_frequency": null,
-  "new_hire_deadline_days": null,
-  "new_hire_deadline_text": "within six months of employment",
+  "new_hire_deadline_days": 180,
+  "new_hire_deadline_text": "within six months of their employment",
   "signage_required": true,
   "provider_approval_required": false,
   "provider_approval_type": null,
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "California Attorney General"
+    "California Department of Labor and Employment",
+    "Local law enforcement"
   ],
   "applicable_to": [
-    "hotel and motel employers",
-    "employees likely to interact with victims of human trafficking"
+    "employees already employed as of July 1, 2019",
+    "new hires within six months of their employment"
   ],
   "required_topics": [
     "human trafficking awareness",
-    "effective interactive training"
+    "signs of human trafficking",
+    "potential risks",
+    "how to respond appropriately",
+    "legal obligations of employers to report suspected trafficking",
+    "resources available for victims"
   ],
   "reporting_contacts_required": [
-    {
-      "contact_name": "National Human Trafficking Hotline",
-      "contact_details": "1-888-373-7888"
-    }
+    "the appropriate authorities, such as local law enforcement or the Department of Justice"
   ],
   "signage_details": {
-    "languages_required": [
-      "English",
-      "Spanish"
-    ],
+    "languages_required": null,
     "minimum_size": null,
     "font_size": null,
     "posting_location": null,
     "required_content": [
-      "Model notice for posting in hotel and motel establishments available on the California Attorney General's website"
+      "information on how to recognize potential victims",
+      "what services are available",
+      "where to report suspicious activity"
     ]
   },
-  "recordkeeping_requirements": [],
+  "recordkeeping_requirements": [
+    "records of the training provided, including attendance sheets, course materials, and completion certificates. These records should be retained for at least three years."
+  ],
   "certificate_requirements": [],
   "law_references": [
-    {
-      "statute_name": "Senate Bill 970",
-      "code_section": null,
-      "public_act": "Public Act No. 1528"
-    }
+    "California State Law (SB 970)",
+    "California's Human Trafficking Civil Rights Act",
+    "Criminal Law"
   ],
   "source_urls": [
-    "https://www.ca.gov/2019/canbills/sb-970/",
-    "https://oag.ca.gov/sites/all/files/agweb/pdfs/training/humantrafficking.pdf"
+    "NEEDS REVIEW"
   ],
-  "harbor_alliance_posture": "immediate-entry",
+  "harbor_alliance_posture": "needs-review",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "Failure to comply with this law can result in penalties and legal consequences for the business."
+    "penalties for non-compliance",
+    "reporting requirements to appropriate authorities"
   ],
-  "notes": [
-    "The training must be conducted in a way that is effective and interactive.",
-    "For businesses located in specific counties, a third language posting may be required."
-  ],
-  "needs_review": []
+  "notes": [],
+  "needs_review": [
+    "source URLs"
+  ]
 }
