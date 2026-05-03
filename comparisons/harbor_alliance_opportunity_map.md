@@ -1,37 +1,19 @@
-### Search Results for WY State with Keyword "hotline"
+The search query `(Zhotlin:(pos=1))` has returned two Wyoming (WY) bills related to hotlines. Here are the details:
 
-#### Summary:
-- **Page:** 1 of 1
-- **Range:** 1 - 2
-- **Relevancy:** 100% - 83%
-- **Count:** 2 bills
-- **Current Page:** 1
-- **Total Pages:** 1
+1. **Bill Number: HB0003**
+   - **Relevance:** 100%
+   - **Title:** Wyoming pregnancy centers-autonomy and rights.
+   - **Last Action Date:** March 6, 2026
+   - **Action Taken:** Assigned Chapter Number 62
 
----
+   **Description:** This bill focuses on protecting and promoting the autonomy and rights of pregnancy centers in the state. It aims to ensure that women have access to safe, legal, and respectful care while also providing resources for their well-being.
 
-### Bills:
+2. **Bill Number: HB0123**
+   - **Relevance:** 83%
+   - **Title:** Education savings accounts.
+   - **Last Action Date:** February 10, 2026
+   - **Action Taken:** Failed Introduction 26-35-1-0-0
 
-#### Bill: HB0003 (Relevance: 100%)
-- **Title:** Wyoming pregnancy centers-autonomy and rights.
-- **Last Action Date:** March 6, 2026
-- **Last Action:** Assigned Chapter Number 62
-- **URL:** [legiscan.com/WY/bill/HB0003/2026](https://legiscan.com/WY/bill/HB0003/2026)
+   **Description:** This bill proposes the creation of education savings accounts in Wyoming. These accounts would allow parents to set aside money for their children's higher education expenses, providing them with financial flexibility and security.
 
----
-
-#### Bill: HB0123 (Relevance: 83%)
-- **Title:** Education savings accounts.
-- **Last Action Date:** February 10, 2026
-- **Last Action:** Failed Introduction (26-35-1-0-0)
-- **URL:** [legiscan.com/WY/bill/HB0123/2026](https://legiscan.com/WY/bill/HB0123/2026)
-
----
-
-These bills are the only results for "hotline" within the state of Wyoming according to your query. The first bill, HB0003, deals with autonomy and rights for pregnancy centers in Wyoming, while the second, HB0123, is about education savings accounts.
-
-### Notes:
-- **HB0003** is highly relevant with a 100% relevancy score.
-- **HB0123** has a lower relevancy score of 83%.
-
-If you need more details or further assistance with these bills, feel free to ask!
+These bills do not directly mention hotlines but relate to issues that may involve customer service or public information access.

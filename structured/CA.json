@@ -2,67 +2,49 @@
   "state": "California",
   "state_code": "CA",
   "industry": "commercial lodging",
-  "source_file": "2026-05-02_California_lodging_compliance.md",
+  "source_file": "2026-05-03_California_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": 20,
   "training_frequency": null,
-  "new_hire_deadline_days": 180,
-  "new_hire_deadline_text": "within six months of their employment",
-  "signage_required": true,
+  "new_hire_deadline_days": null,
+  "new_hire_deadline_text": null,
+  "signage_required": false,
   "provider_approval_required": false,
   "provider_approval_type": null,
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "California Department of Labor and Employment",
-    "Local law enforcement"
+    "California Department of Justice"
   ],
   "applicable_to": [
-    "employees already employed as of July 1, 2019",
-    "new hires within six months of their employment"
+    "employees likely to interact with victims of human trafficking"
   ],
   "required_topics": [
-    "human trafficking awareness",
-    "signs of human trafficking",
-    "potential risks",
-    "how to respond appropriately",
-    "legal obligations of employers to report suspected trafficking",
-    "resources available for victims"
+    "human trafficking awareness"
   ],
-  "reporting_contacts_required": [
-    "the appropriate authorities, such as local law enforcement or the Department of Justice"
-  ],
+  "reporting_contacts_required": [],
   "signage_details": {
-    "languages_required": null,
+    "languages_required": [],
     "minimum_size": null,
     "font_size": null,
     "posting_location": null,
-    "required_content": [
-      "information on how to recognize potential victims",
-      "what services are available",
-      "where to report suspicious activity"
-    ]
+    "required_content": []
   },
-  "recordkeeping_requirements": [
-    "records of the training provided, including attendance sheets, course materials, and completion certificates. These records should be retained for at least three years."
-  ],
+  "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    "California State Law (SB 970)",
-    "California's Human Trafficking Civil Rights Act",
-    "Criminal Law"
+    "SB 970"
   ],
   "source_urls": [
-    "NEEDS REVIEW"
+    "https://www.leginfo.ca.gov/bill/ca/sb_970.html",
+    "https://www.californiacoalition.org/resources/",
+    "https://www.doj.ca.gov/news/releases/2013/14-568"
   ],
-  "harbor_alliance_posture": "needs-review",
+  "harbor_alliance_posture": "approval-required",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "penalties for non-compliance",
-    "reporting requirements to appropriate authorities"
+    "Potential for penalties if not compliant with SB 970"
   ],
   "notes": [],
-  "needs_review": [
-    "source URLs"
-  ]
+  "needs_review": []
 }
