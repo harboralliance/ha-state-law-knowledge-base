@@ -2,10 +2,10 @@
   "state": "Connecticut",
   "state_code": "CT",
   "industry": "commercial lodging",
-  "source_file": "2026-05-03_Connecticut_lodging_compliance.md",
+  "source_file": "2026-05-04_Connecticut_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
-  "training_frequency": "annually for DCF staff",
+  "training_frequency": "annual",
   "new_hire_deadline_days": null,
   "new_hire_deadline_text": null,
   "signage_required": false,
@@ -14,18 +14,17 @@
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "DCF",
-    "Local law enforcement"
+    "Department of Children and Families (DCF)",
+    "local law enforcement"
   ],
   "applicable_to": [
-    "hotels, motels, inns, and similar lodging"
+    "hotels",
+    "motels",
+    "inns",
+    "similar lodging; Hospitality industry professionals"
   ],
   "required_topics": [
-    "human trafficking definitions",
-    "legal requirements",
-    "warning signs",
-    "impacts",
-    "victim support"
+    "trafficking training and awareness campaigns"
   ],
   "reporting_contacts_required": [
     "state attorneys",
@@ -38,25 +37,25 @@
     "posting_location": null,
     "required_content": []
   },
-  "recordkeeping_requirements": [
-    "guest transactions and receipts for at least 6 months"
-  ],
+  "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    "Human and sex trafficking legislation",
-    "Hart Act"
+    "Hart-Act",
+    "Human and Sex Trafficking Legislation"
   ],
   "source_urls": [
     "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/trainings-for-providers",
     "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/human-and-sex-trafficking-legislation"
   ],
-  "harbor_alliance_posture": "needs-review",
+  "harbor_alliance_posture": null,
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "Lodging facilities must provide annual trafficking training and awareness campaigns, which may be a burden for some operators."
+    "annual reporting requirements",
+    "potential penalties for non-compliance"
   ],
   "notes": [
-    "Training is mandatory for DCF staff but optional for others. Various training programs are available covering human trafficking definitions, legal requirements, warning signs, impacts, and victim support."
+    "Training is required annually for various groups including hospitality industry professionals.",
+    "Reporting of specific activities (e.g., training, investigations) to state attorneys and local law enforcement."
   ],
   "needs_review": []
 }

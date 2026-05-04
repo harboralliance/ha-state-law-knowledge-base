@@ -1,0 +1,40 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 2",
+      "relevancy": "100% - 93%",
+      "count": 2,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zcommerci:(pos=1) AND Zlodg:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "ND",
+      "bill_number": "HB1351",
+      "bill_id": 1916832,
+      "change_hash": "6ce94480c8133cb50bd032e8eda27741",
+      "url": "https://legiscan.com/ND/bill/HB1351/2025",
+      "text_url": "https://legiscan.com/ND/text/HB1351/2025",
+      "research_url": "https://legiscan.com/ND/research/HB1351/2025",
+      "last_action_date": "2025-04-24",
+      "last_action": "Filed with Secretary Of State 04/22",
+      "title": "Sexually expressive images; and to provide a penalty."
+    },
+    "1": {
+      "relevance": 93,
+      "state": "ND",
+      "bill_number": "SB2037",
+      "bill_id": 1899369,
+      "change_hash": "ea515eff79d9b644a9bf9247e61c3b51",
+      "url": "https://legiscan.com/ND/bill/SB2037/2025",
+      "text_url": "https://legiscan.com/ND/text/SB2037/2025",
+      "research_url": "https://legiscan.com/ND/research/SB2037/2025",
+      "last_action_date": "2025-04-24",
+      "last_action": "Filed with Secretary Of State 04/22",
+      "title": "Delinquency; to provide an appropriation; and to provide a penalty."
+    }
+  }
+}

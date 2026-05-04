@@ -1,32 +1,33 @@
 {
   "state": "Illinois",
   "state_code": "IL",
-  "industry": "commercial lodging, restaurants, truck stops",
-  "source_file": "2026-05-03_Illinois_lodging_compliance.md",
+  "industry": "commercial lodging",
+  "source_file": "2026-05-04_Illinois_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": 20,
-  "training_frequency": "within 6 months of employment and every 2 years thereafter",
+  "training_frequency": "every two years thereafter if still employed, within six months of employment initially",
   "new_hire_deadline_days": null,
   "new_hire_deadline_text": null,
   "signage_required": false,
   "provider_approval_required": true,
-  "provider_approval_type": "third-party program",
+  "provider_approval_type": "approved programs",
   "approval_authority": "Department of Human Services",
   "approval_contact": null,
   "enforcing_agencies": [
-    "local governments",
-    "law enforcement agencies"
+    "Local government or law enforcement"
   ],
-  "applicable_to": [],
+  "applicable_to": [
+    "lodging establishments",
+    "restaurants",
+    "truck stops"
+  ],
   "required_topics": [
     "definition of human trafficking and commercial exploitation of children",
-    "guidance on identifying individuals at risk for human trafficking",
-    "difference between labor and sex trafficking relevant to lodging, restaurants, and truck stops",
-    "role of employees in reporting and responding to human trafficking instances"
+    "guidance on identifying individuals most at risk for human trafficking",
+    "difference between labor and sex trafficking as it relates to lodging establishments, restaurants, and truck stops",
+    "role of employees in reporting and responding to human trafficking"
   ],
-  "reporting_contacts_required": [
-    "Attorney General or State\u2019s Attorney"
-  ],
+  "reporting_contacts_required": [],
   "signage_details": {
     "languages_required": [],
     "minimum_size": null,
@@ -34,33 +35,20 @@
     "posting_location": null,
     "required_content": []
   },
-  "recordkeeping_requirements": [
-    {
-      "type": "training records",
-      "frequency": "every 2 years"
-    }
-  ],
+  "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    {
-      "name": "SB1422 - Human Trafficking Recognition Training for Employees in Lodging Establishments, Restaurants, and Truck Stops",
-      "code_section": "Section 10: Human Trafficking Recognition Training",
-      "public_act": "Public Act 98-1347"
-    }
+    "P.A. 101-18, eff. 6-20-19",
+    "P.A. 101-499, eff. 8-23-19",
+    "P.A. 102-324, eff. 1-1-22"
   ],
-  "source_urls": [
-    "https://www.ilga.gov/legislation/ilcs/docs/425/425-5.htm",
-    "https://www.ilga.gov/legislation/ilcs/docs/425/425-10.htm",
-    "https://www.ilga.gov/legislation/ilcs/docs/425/425-15.htm",
-    "https://www.ilga.gov/legislation/ilcs/docs/425/425-20.htm"
+  "source_urls": [],
+  "harbor_alliance_posture": "approval-required",
+  "harbor_alliance_actions": [
+    "Develop a curriculum for approved programs"
   ],
-  "harbor_alliance_posture": "immediate-entry",
-  "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    {
-      "risk": "non-compliance with training requirements",
-      "impact": "potential civil penalties up to $1,500 per offense"
-    }
+    "Employers must provide training on recognizing human trafficking and reporting it, or face civil penalties of up to $1,500 per offense if violations are discovered"
   ],
   "notes": [],
   "needs_review": []
