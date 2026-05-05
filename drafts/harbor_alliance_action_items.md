@@ -1,51 +1,42 @@
 # Harbor Alliance Action Items
 
 ## Texas
-
 **Next Steps:**
-- Ensure that all employees of commercial lodging establishments with 10 or more rooms complete the required annual human trafficking training.
-- Make available the approved training videos provided by the Office of the Attorney General.
+- Provide annual human trafficking training for all employees in commercial lodging establishments with 10 or more rooms by December 31, 2026.
+- Ensure that employees at all lodging establishments are informed of the required training and signage.
 
-**States Allowing Immediate Market Entry:** NEEDS REVIEW
-
-**States Requiring Approval, Outreach, or Special Handling:** NEEDS REVIEW
+**Market Entry:**
+- Immediate market entry possible after compliance with Texas requirements.
 
 ## California
-
 **Next Steps:**
-- Ensure that hotel and motel employees receive at least 20 minutes of classroom or other effective interactive training on human trafficking awareness.
-- Promote the use of resources such as CAST and the National Human Trafficking Resource Center for additional support.
+- Provide annual human trafficking training to all hotel and motel employees by December 31, 2026.
+- Ensure that the training is at least 20 minutes long and covers identifying and responding to signs of human trafficking.
 
-**States Allowing Immediate Market Entry:** NEEDS REVIEW
-
-**States Requiring Approval, Outreach, or Special Handling:** NEEDS REVIEW
+**Market Entry:**
+- Immediate market entry possible after compliance with California requirements.
 
 ## Illinois
-
 **Next Steps:**
-- Provide annual human trafficking recognition training to all relevant staff within six months of their employment and every two years thereafter.
-- Ensure that employees complete the required 20-minute training.
+- Provide annual human trafficking recognition training within 6 months of employment and every 2 years thereafter for all relevant staff.
+- Ensure that the training includes a definition of human trafficking, identifying individuals at risk, distinguishing between labor and sex trafficking, and guidance on reporting and responding to instances.
 
-**States Allowing Immediate Market Entry:** NEEDS REVIEW
-
-**States Requiring Approval, Outreach, or Special Handling:** NEEDS REVIEW
+**Market Entry:**
+- Immediate market entry possible after compliance with Illinois requirements.
 
 ## Minnesota
-
 **Next Steps:**
-- Ensure all hotel, motel, and short-term rental staff complete the Minnesota Lodging Sex Trafficking Prevention and Response Training.
-- Provide regular training updates every year and ensure proper signage placement.
+- Provide annual human trafficking prevention training within 90 days of hire for all relevant staff.
+- Ensure that the training covers identifying and addressing human trafficking, including virtual presentations and a companion guide.
+- Display the required back-of-house poster in all locations where staff will see it.
 
-**States Allowing Immediate Market Entry:** NEEDS REVIEW
-
-**States Requiring Approval, Outreach, or Special Handling:** NEEDS REVIEW
+**Market Entry:**
+- Immediate market entry possible after compliance with Minnesota requirements.
 
 ## Connecticut
-
 **Next Steps:**
-- Ensure that all employees in hotels and motels receive annual trafficking training and awareness campaigns.
-- Promote the use of specific trainings for foster parents, law enforcement, healthcare providers, and other industry professionals.
+- Provide annual human trafficking training for hotel and motel employees by December 31, 2026.
+- Ensure that the training covers identifying and responding to signs of human trafficking and includes specific trainings for foster parents, law enforcement, healthcare providers, and other relevant service providers.
 
-**States Allowing Immediate Market Entry:** NEEDS REVIEW
-
-**States Requiring Approval, Outreach, or Special Handling:** NEEDS REVIEW
+**Market Entry:**
+- Immediate market entry possible after compliance with Connecticut requirements.

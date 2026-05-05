@@ -1,0 +1,40 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 2",
+      "relevancy": "100% - 97%",
+      "count": 2,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zbed:(pos=1) AND Zbreakfast:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "AZ",
+      "bill_number": "SB1831",
+      "bill_id": 2145971,
+      "change_hash": "0acb8b2c57443b4fbc861bda9547cafb",
+      "url": "https://legiscan.com/AZ/bill/SB1831/2026",
+      "text_url": "https://legiscan.com/AZ/text/SB1831/2026",
+      "research_url": "https://legiscan.com/AZ/research/SB1831/2026",
+      "last_action_date": "2026-05-04",
+      "last_action": "Senate Committee of the Whole action: Do Pass",
+      "title": "2026-2027; general appropriations act"
+    },
+    "1": {
+      "relevance": 97,
+      "state": "AZ",
+      "bill_number": "HB4138",
+      "bill_id": 2145985,
+      "change_hash": "6a13849dd8f10371c2c8bba5f675f52c",
+      "url": "https://legiscan.com/AZ/bill/HB4138/2026",
+      "text_url": "https://legiscan.com/AZ/text/HB4138/2026",
+      "research_url": "https://legiscan.com/AZ/research/HB4138/2026",
+      "last_action_date": "2026-05-04",
+      "last_action": "Transmit to House",
+      "title": "2026-2027; general appropriations act."
+    }
+  }
+}

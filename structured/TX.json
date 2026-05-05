@@ -2,30 +2,31 @@
   "state": "Texas",
   "state_code": "TX",
   "industry": "commercial lodging",
-  "source_file": "2026-05-04_Texas_lodging_compliance.md",
+  "source_file": "2026-05-05_Texas_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
-  "training_frequency": "annually",
-  "new_hire_deadline_days": 90,
-  "new_hire_deadline_text": "New employees must complete the training within 90 days of hire.",
+  "training_frequency": "annual",
+  "new_hire_deadline_days": null,
+  "new_hire_deadline_text": null,
   "signage_required": true,
   "provider_approval_required": true,
-  "provider_approval_type": "approved training provider",
-  "approval_authority": "Office of the Attorney General",
-  "approval_contact": null,
+  "provider_approval_type": "approved training providers",
+  "approval_authority": "Office of the Attorney General (OAG)",
+  "approval_contact": "[email\u00a0protected]",
   "enforcing_agencies": [
-    "Texas Department of Public Safety",
-    "Federal Bureau of Investigation",
-    "United States Marshals Service"
+    "Texas Department of Licensing and Regulation",
+    "Office of the Attorney General"
   ],
   "applicable_to": [
-    "commercial lodging establishments with 10 or more rooms"
+    {
+      "establishment_type": "commercial lodging establishments",
+      "minimum_rooms": 10
+    }
   ],
   "required_topics": [
-    "How human trafficking occurs in the hospitality industry",
-    "Red flags indicating potential victims of human trafficking",
-    "Procedures for identifying and reporting suspected human trafficking incidents",
-    "Role of employees in preventing human trafficking"
+    "identifying individuals at risk of human trafficking",
+    "guidance on reporting suspected cases",
+    "information on the required human trafficking signage for commercial lodging establishments"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
@@ -37,28 +38,29 @@
     "font_size": null,
     "posting_location": null,
     "required_content": [
-      "Human trafficking information and reporting procedures"
+      "information on how to identify individuals at risk of human trafficking",
+      "guidance on reporting suspected cases"
     ]
   },
-  "recordkeeping_requirements": [
-    "Retain records of employee training completions",
-    "Records must be available for review and inspection by the Office of the Attorney General, local, state, and federal law enforcement agencies"
-  ],
+  "recordkeeping_requirements": [],
   "certificate_requirements": [
-    "Each employee must receive a certificate of completion from an approved training provider",
-    "The certification must include the date of the course and the title of the course"
+    {
+      "requirement": "certification upon completing the training",
+      "duration": null
+    }
   ],
   "law_references": [
-    "House Bill 390, Texas Legislature"
+    "House Bill 390"
   ],
-  "source_urls": [],
-  "harbor_alliance_posture": "needs-review",
+  "source_urls": [
+    "https://www.texasattorneygeneral.gov/human-trafficking-training-videos"
+  ],
+  "harbor_alliance_posture": "approval-required",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "State-controlled training requirement, may affect operational costs and employee compliance"
+    "need for approved training providers",
+    "potential costs associated with training"
   ],
-  "notes": [
-    "Training providers and videos are listed for reference, actual implementation details need verification from the state"
-  ],
+  "notes": [],
   "needs_review": []
 }

@@ -1,0 +1,53 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 3",
+      "relevancy": "100% - 46%",
+      "count": 3,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zbed:(pos=1) AND Zbreakfast:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "TN",
+      "bill_number": "HJR0057",
+      "bill_id": 1937947,
+      "change_hash": "b10576449b8dc4d3b31ba42e786ad18a",
+      "url": "https://legiscan.com/TN/bill/HJR0057/2025",
+      "text_url": "https://legiscan.com/TN/text/HJR0057/2025",
+      "research_url": "https://legiscan.com/TN/research/HJR0057/2025",
+      "last_action_date": "2025-02-21",
+      "last_action": "Signed by Governor.",
+      "title": "A RESOLUTION to honor and congratulate Jessie Lee Coppock on the celebration of her 104th birthday."
+    },
+    "1": {
+      "relevance": 46,
+      "state": "TN",
+      "bill_number": "SB0308",
+      "bill_id": 1942764,
+      "change_hash": "08c2bf9e853053bb87d8400a36818da2",
+      "url": "https://legiscan.com/TN/bill/SB0308/2025",
+      "text_url": "https://legiscan.com/TN/text/SB0308/2025",
+      "research_url": "https://legiscan.com/TN/research/SB0308/2025",
+      "last_action_date": "2025-05-13",
+      "last_action": "Effective date(s) 05/05/2025",
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 57, relative to consumption of alcoholic beverages on premises."
+    },
+    "2": {
+      "relevance": 46,
+      "state": "TN",
+      "bill_number": "HB0381",
+      "bill_id": 1942449,
+      "change_hash": "0c4f9e249bb723d989eab0a9afcde062",
+      "url": "https://legiscan.com/TN/bill/HB0381/2025",
+      "text_url": "https://legiscan.com/TN/text/HB0381/2025",
+      "research_url": "https://legiscan.com/TN/research/HB0381/2025",
+      "last_action_date": "2025-05-13",
+      "last_action": "Comp. became Pub. Ch. 362",
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 57, relative to consumption of alcoholic beverages on premises."
+    }
+  }
+}

@@ -2,66 +2,58 @@
   "state": "Minnesota",
   "state_code": "MN",
   "industry": "commercial lodging",
-  "source_file": "2026-05-04_Minnesota_lodging_compliance.md",
+  "source_file": "2026-05-05_Minnesota_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
-  "training_frequency": "annually",
+  "training_frequency": "annual",
   "new_hire_deadline_days": 90,
-  "new_hire_deadline_text": "within 90 days of hiring",
-  "signage_required": true,
+  "new_hire_deadline_text": "within 90 days of hire date",
+  "signage_required": false,
   "provider_approval_required": false,
   "provider_approval_type": null,
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "Minnesota Department of Health (MDH)"
+    "Minnesota Department of Health"
   ],
   "applicable_to": [
-    "hotel",
-    "motel",
-    "short-term rental"
+    "hotels",
+    "motels",
+    "short-term rentals"
   ],
   "required_topics": [
-    "virtual presentation with guided exercises",
-    "Training Companion Guide",
-    "Manager & Owner Training Toolkit",
-    "Back of House posters",
-    "housekeeping staff",
-    "restaurant/bar staff",
-    "front desk/lobby staff",
-    "security staff"
+    "recognizing signs of sex trafficking",
+    "how to respond appropriately"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
-    "languages_required": [
-      "English",
-      "Spanish",
-      "Somali",
-      "Hmong"
-    ],
+    "languages_required": [],
     "minimum_size": null,
     "font_size": null,
-    "posting_location": "back of house",
-    "required_content": [
-      "MNHTPRN logo",
-      "contact information"
-    ]
+    "posting_location": null,
+    "required_content": []
   },
-  "recordkeeping_requirements": [],
+  "recordkeeping_requirements": [
+    "roster of names along with the date of completion"
+  ],
   "certificate_requirements": [],
   "law_references": [
-    "Minnesota Statutes, Section 609.274"
+    {
+      "name": "Minnesota Statutes",
+      "section": "169.237",
+      "public_act": null
+    }
   ],
   "source_urls": [
-    "https://www.health.state.mn.us/divs/ldh/safeharbor/training.html"
+    "https://www.health.state.mn.us/communities-locations/safeharbor-center/resources"
   ],
   "harbor_alliance_posture": "approval-required",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "seasonal employees may need training within 90 days of starting work"
+    "new employees must complete the training within 90 days"
   ],
   "notes": [
-    "The law does not explicitly exempt seasonal employees, but MDH recommends training them within 90 days of starting work."
+    "Training materials include a virtual presentation, a Training Companion Guide (PDF), and a Manager & Owner Training Toolkit (PDF)."
   ],
   "needs_review": []
 }

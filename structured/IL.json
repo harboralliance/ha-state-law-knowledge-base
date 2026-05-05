@@ -2,19 +2,20 @@
   "state": "Illinois",
   "state_code": "IL",
   "industry": "commercial lodging",
-  "source_file": "2026-05-04_Illinois_lodging_compliance.md",
+  "source_file": "2026-05-05_Illinois_lodging_compliance.md",
   "training_required": true,
-  "training_duration_minutes": 20,
-  "training_frequency": "every two years thereafter if still employed, within six months of employment initially",
-  "new_hire_deadline_days": null,
-  "new_hire_deadline_text": null,
+  "training_duration_minutes": null,
+  "training_frequency": "every two years",
+  "new_hire_deadline_days": 180,
+  "new_hire_deadline_text": "within six months of beginning employment",
   "signage_required": false,
   "provider_approval_required": true,
-  "provider_approval_type": "approved programs",
+  "provider_approval_type": "standardized curriculum by Department of Human Services",
   "approval_authority": "Department of Human Services",
   "approval_contact": null,
   "enforcing_agencies": [
-    "Local government or law enforcement"
+    "Local governments",
+    "Law enforcement agencies"
   ],
   "applicable_to": [
     "lodging establishments",
@@ -22,10 +23,10 @@
     "truck stops"
   ],
   "required_topics": [
-    "definition of human trafficking and commercial exploitation of children",
-    "guidance on identifying individuals most at risk for human trafficking",
-    "difference between labor and sex trafficking as it relates to lodging establishments, restaurants, and truck stops",
-    "role of employees in reporting and responding to human trafficking"
+    "definition of human trafficking",
+    "identifying individuals at risk for human trafficking",
+    "difference between labor and sex trafficking in relation to lodging establishments, restaurants, and truck stops",
+    "employee roles in reporting and responding to human trafficking incidents"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
@@ -38,18 +39,18 @@
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    "P.A. 101-18, eff. 6-20-19",
-    "P.A. 101-499, eff. 8-23-19",
-    "P.A. 102-324, eff. 1-1-22"
+    "Public Act 101-18"
   ],
   "source_urls": [],
   "harbor_alliance_posture": "approval-required",
-  "harbor_alliance_actions": [
-    "Develop a curriculum for approved programs"
-  ],
+  "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "Employers must provide training on recognizing human trafficking and reporting it, or face civil penalties of up to $1,500 per offense if violations are discovered"
+    "non-compliance penalties",
+    "need for standardized training"
   ],
-  "notes": [],
+  "notes": [
+    "Training must be completed within six months of employment and every two years thereafter.",
+    "Employers can use their own program or the one provided by the Department of Human Services."
+  ],
   "needs_review": []
 }

@@ -2,7 +2,7 @@
   "state": "Connecticut",
   "state_code": "CT",
   "industry": "commercial lodging",
-  "source_file": "2026-05-04_Connecticut_lodging_compliance.md",
+  "source_file": "2026-05-05_Connecticut_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
   "training_frequency": "annual",
@@ -14,18 +14,21 @@
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "Department of Children and Families (DCF)",
+    "state attorneys",
     "local law enforcement"
   ],
   "applicable_to": [
+    "child protective services staff",
+    "foster parents",
+    "service providers",
+    "schools",
+    "law enforcement",
+    "hospital and medical staff",
     "hotels",
     "motels",
-    "inns",
-    "similar lodging; Hospitality industry professionals"
+    "lodging businesses"
   ],
-  "required_topics": [
-    "trafficking training and awareness campaigns"
-  ],
+  "required_topics": [],
   "reporting_contacts_required": [
     "state attorneys",
     "local law enforcement"
@@ -37,25 +40,27 @@
     "posting_location": null,
     "required_content": []
   },
-  "recordkeeping_requirements": [],
+  "recordkeeping_requirements": [
+    {
+      "lodging_businesses": {
+        "guest_transactions_and_receipts": "6 months"
+      }
+    }
+  ],
   "certificate_requirements": [],
   "law_references": [
-    "Hart-Act",
+    "Public Act 17-32",
     "Human and Sex Trafficking Legislation"
   ],
   "source_urls": [
     "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/trainings-for-providers",
     "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/human-and-sex-trafficking-legislation"
   ],
-  "harbor_alliance_posture": null,
+  "harbor_alliance_posture": "needs-review",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "annual reporting requirements",
-    "potential penalties for non-compliance"
+    "State-controlled training requirement for mandatory human trafficking training"
   ],
-  "notes": [
-    "Training is required annually for various groups including hospitality industry professionals.",
-    "Reporting of specific activities (e.g., training, investigations) to state attorneys and local law enforcement."
-  ],
+  "notes": [],
   "needs_review": []
 }
