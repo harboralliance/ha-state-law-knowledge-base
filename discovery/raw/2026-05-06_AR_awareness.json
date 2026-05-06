@@ -1,0 +1,131 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 9",
+      "relevancy": "100% - 64%",
+      "count": 9,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zawar:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "AR",
+      "bill_number": "HR1017",
+      "bill_id": 2141961,
+      "change_hash": "7c3d623ef34b0615c60c06706e2c8a80",
+      "url": "https://legiscan.com/AR/bill/HR1017/2026",
+      "text_url": "https://legiscan.com/AR/text/HR1017/2026",
+      "research_url": "https://legiscan.com/AR/research/HR1017/2026",
+      "last_action_date": "2026-04-16",
+      "last_action": "READ AND ADOPTED.",
+      "title": "To Recognize And Celebrate May 2026 As Amyotrophic Lateral Sclerosis Awareness Month In This State."
+    },
+    "1": {
+      "relevance": 100,
+      "state": "AR",
+      "bill_number": "HR1021",
+      "bill_id": 2142164,
+      "change_hash": "055146e6ee2b4ecb2ab68923e3fb878c",
+      "url": "https://legiscan.com/AR/bill/HR1021/2026",
+      "text_url": "https://legiscan.com/AR/text/HR1021/2026",
+      "research_url": "https://legiscan.com/AR/research/HR1021/2026",
+      "last_action_date": "2026-04-29",
+      "last_action": "READ AND ADOPTED.",
+      "title": "To Designate May 2026 As Skin Cancer Awareness Month."
+    },
+    "2": {
+      "relevance": 95,
+      "state": "AR",
+      "bill_number": "SR13",
+      "bill_id": 2141672,
+      "change_hash": "f56fcfb03c4224c10f05e53505550fea",
+      "url": "https://legiscan.com/AR/bill/SR13/2026",
+      "text_url": "https://legiscan.com/AR/text/SR13/2026",
+      "research_url": "https://legiscan.com/AR/research/SR13/2026",
+      "last_action_date": "2026-04-29",
+      "last_action": "Sine Die adjournment",
+      "title": "To Recognize April As Child Abuse Prevention Month In Arkansas And To Commend The Court Appointed Special Advocate (casa) Programs."
+    },
+    "3": {
+      "relevance": 95,
+      "state": "AR",
+      "bill_number": "HR1038",
+      "bill_id": 2144596,
+      "change_hash": "6096dddc1445cf3ec1ec6238fe171229",
+      "url": "https://legiscan.com/AR/bill/HR1038/2026",
+      "text_url": "https://legiscan.com/AR/text/HR1038/2026",
+      "research_url": "https://legiscan.com/AR/research/HR1038/2026",
+      "last_action_date": "2026-04-29",
+      "last_action": "READ AND ADOPTED.",
+      "title": "To Recognize April As Child Abuse Prevention Month In Arkansas And To Commend The Court Appointed Special Advocate (casa) Programs."
+    },
+    "4": {
+      "relevance": 93,
+      "state": "AR",
+      "bill_number": "HB1051",
+      "bill_id": 2140508,
+      "change_hash": "3d8e5ecd67853aeb2cfb9cc0b0f21219",
+      "url": "https://legiscan.com/AR/bill/HB1051/2026",
+      "text_url": "https://legiscan.com/AR/text/HB1051/2026",
+      "research_url": "https://legiscan.com/AR/research/HB1051/2026",
+      "last_action_date": "2026-04-28",
+      "last_action": "Correctly enrolled and ordered transmitted to the Governor's Office.",
+      "title": "An Act For The Department Of Finance &amp; Administration - Regulatory Division Appropriation For The 2026-2027 Fiscal Year. "
+    },
+    "5": {
+      "relevance": 90,
+      "state": "AR",
+      "bill_number": "SB58",
+      "bill_id": 2141132,
+      "change_hash": "49cd4cbcabaa7712b075091d4f032358",
+      "url": "https://legiscan.com/AR/bill/SB58/2026",
+      "text_url": "https://legiscan.com/AR/text/SB58/2026",
+      "research_url": "https://legiscan.com/AR/research/SB58/2026",
+      "last_action_date": "2026-04-29",
+      "last_action": "Notification that SB58 is now Act 138",
+      "title": "An Act For The Department Of Education - Division Of Higher Education Appropriation For The 2026-2027 Fiscal Year. "
+    },
+    "6": {
+      "relevance": 88,
+      "state": "AR",
+      "bill_number": "HR1023",
+      "bill_id": 2142778,
+      "change_hash": "0fdd74ff9195a573a904dfb9cba07fe7",
+      "url": "https://legiscan.com/AR/bill/HR1023/2026",
+      "text_url": "https://legiscan.com/AR/text/HR1023/2026",
+      "research_url": "https://legiscan.com/AR/research/HR1023/2026",
+      "last_action_date": "2026-04-23",
+      "last_action": "READ AND ADOPTED.",
+      "title": "To Congratulate Mr. Justin Tate On His Accomplishments."
+    },
+    "7": {
+      "relevance": 88,
+      "state": "AR",
+      "bill_number": "SR26",
+      "bill_id": 2143297,
+      "change_hash": "1d1a88e8c4f9c7404cb27c9dfaf54f48",
+      "url": "https://legiscan.com/AR/bill/SR26/2026",
+      "text_url": "https://legiscan.com/AR/text/SR26/2026",
+      "research_url": "https://legiscan.com/AR/research/SR26/2026",
+      "last_action_date": "2026-04-29",
+      "last_action": "Sine Die adjournment",
+      "title": "To Congratulate Mr. Justin Tate On His Accomplishments."
+    },
+    "8": {
+      "relevance": 64,
+      "state": "AR",
+      "bill_number": "HB1064",
+      "bill_id": 2140483,
+      "change_hash": "be66578de1b157b9bb26f41b1413c2f2",
+      "url": "https://legiscan.com/AR/bill/HB1064/2026",
+      "text_url": "https://legiscan.com/AR/text/HB1064/2026",
+      "research_url": "https://legiscan.com/AR/research/HB1064/2026",
+      "last_action_date": "2026-04-29",
+      "last_action": "Correctly enrolled and ordered transmitted to the Governor's Office.",
+      "title": "An Act For The Department Of Finance And Administration - Disbursing Officer Appropriation For The 2026-2027 Fiscal Year. "
+    }
+  }
+}

@@ -2,61 +2,59 @@
   "state": "California",
   "state_code": "CA",
   "industry": "commercial lodging",
-  "source_file": "2026-05-05_California_lodging_compliance.md",
+  "source_file": "2026-05-06_California_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": 20,
   "training_frequency": null,
-  "new_hire_deadline_days": null,
-  "new_hire_deadline_text": null,
-  "signage_required": false,
+  "new_hire_deadline_days": 180,
+  "new_hire_deadline_text": "within six months of employment in that role",
+  "signage_required": true,
   "provider_approval_required": false,
   "provider_approval_type": null,
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "California Attorney General's Office",
-    "Department of Labor and Employment"
+    "California Department of Justice"
   ],
   "applicable_to": [
-    "hotel and motel employees"
+    "hotels",
+    "motels"
   ],
   "required_topics": [
-    "human trafficking",
-    "identifying potential signs",
-    "reporting suspected cases to the appropriate authorities"
+    "human trafficking awareness"
   ],
-  "reporting_contacts_required": [
-    "National Human Trafficking Resource Center (1-888-373-7888)"
-  ],
+  "reporting_contacts_required": [],
   "signage_details": {
-    "languages_required": [],
+    "languages_required": [
+      "English",
+      "Spanish",
+      "additional languages as needed"
+    ],
     "minimum_size": null,
     "font_size": null,
     "posting_location": null,
-    "required_content": []
+    "required_content": [
+      "telephone hotline numbers for help or reporting unlawful activity"
+    ]
   },
-  "recordkeeping_requirements": [
-    "records of completed training sessions for each employee"
-  ],
+  "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    {
-      "statute_name": "SB 970",
-      "effective_date": "January 1, 2020"
-    }
+    "Senate Bill 970 (SB 970)",
+    "[California Department of Justice Human Trafficking Model Notice](https://oag.ca.gov/human-trafficking/model-notice)"
   ],
   "source_urls": [
-    "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?billCode=SB970",
-    "https://www.nationalhumantrafficking.org/",
-    "https://www.castonline.org/"
+    "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=20192020_01_Senate_970",
+    "https://oag.ca.gov/human-trafficking/model-notice"
   ],
-  "harbor_alliance_posture": "approval-required",
+  "harbor_alliance_posture": "needs-review",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "non-compliance with training requirements can result in legal penalties"
+    "penalties for non-compliance"
   ],
   "notes": [
-    "Training must be provided by January 1, 2020 for employees hired on or after July 1, 2019"
+    "The training requirement must be provided to employees who will interact with victims of human trafficking as of July 1, 2019.",
+    "Some businesses may need to post notices in a third language if located in certain counties subject to federal Voting Rights Act provisions."
   ],
   "needs_review": []
 }

@@ -2,7 +2,7 @@
   "state": "Texas",
   "state_code": "TX",
   "industry": "commercial lodging",
-  "source_file": "2026-05-05_Texas_lodging_compliance.md",
+  "source_file": "2026-05-06_Texas_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
   "training_frequency": "annual",
@@ -10,56 +10,44 @@
   "new_hire_deadline_text": null,
   "signage_required": true,
   "provider_approval_required": true,
-  "provider_approval_type": "approved training providers",
-  "approval_authority": "Office of the Attorney General (OAG)",
-  "approval_contact": "[email\u00a0protected]",
+  "provider_approval_type": "OAG-approved",
+  "approval_authority": "Texas Attorney General's Office (OAG)",
+  "approval_contact": "NEEDS REVIEW",
   "enforcing_agencies": [
-    "Texas Department of Licensing and Regulation",
-    "Office of the Attorney General"
+    "Department of Public Safety"
   ],
   "applicable_to": [
-    {
-      "establishment_type": "commercial lodging establishments",
-      "minimum_rooms": 10
-    }
+    "commercial lodging employers"
   ],
   "required_topics": [
-    "identifying individuals at risk of human trafficking",
-    "guidance on reporting suspected cases",
-    "information on the required human trafficking signage for commercial lodging establishments"
+    "identifying and responding to human trafficking",
+    "role of hospitality industry staff in reporting trafficking"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
     "languages_required": [
-      "English",
-      "Spanish"
+      "English"
     ],
     "minimum_size": null,
     "font_size": null,
     "posting_location": null,
     "required_content": [
-      "information on how to identify individuals at risk of human trafficking",
-      "guidance on reporting suspected cases"
+      "human trafficking awareness",
+      "role of staff in reporting trafficking"
     ]
   },
   "recordkeeping_requirements": [],
-  "certificate_requirements": [
-    {
-      "requirement": "certification upon completing the training",
-      "duration": null
-    }
-  ],
+  "certificate_requirements": [],
   "law_references": [
-    "House Bill 390"
+    "HB 390"
   ],
-  "source_urls": [
-    "https://www.texasattorneygeneral.gov/human-trafficking-training-videos"
+  "source_urls": [],
+  "harbor_alliance_posture": "supplement-only",
+  "harbor_alliance_actions": [
+    "NEEDS REVIEW"
   ],
-  "harbor_alliance_posture": "approval-required",
-  "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "need for approved training providers",
-    "potential costs associated with training"
+    "training frequency and duration not specified"
   ],
   "notes": [],
   "needs_review": []

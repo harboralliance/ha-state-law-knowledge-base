@@ -1,66 +1,61 @@
 {
   "state": "Connecticut",
   "state_code": "CT",
-  "industry": "commercial lodging",
-  "source_file": "2026-05-05_Connecticut_lodging_compliance.md",
+  "industry": "commercial lodging; schools; law enforcement; emergency medical services; healthcare providers",
+  "source_file": "2026-05-06_Connecticut_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
-  "training_frequency": "annual",
+  "training_frequency": "yearly",
   "new_hire_deadline_days": null,
   "new_hire_deadline_text": null,
-  "signage_required": false,
+  "signage_required": true,
   "provider_approval_required": false,
   "provider_approval_type": null,
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "state attorneys",
-    "local law enforcement"
+    "Department of Public Health (DPH)"
   ],
   "applicable_to": [
-    "child protective services staff",
-    "foster parents",
-    "service providers",
-    "schools",
-    "law enforcement",
-    "hospital and medical staff",
-    "hotels",
-    "motels",
-    "lodging businesses"
+    "hotels, motels, inns; schools; law enforcement; emergency medical services; healthcare providers"
   ],
-  "required_topics": [],
+  "required_topics": [
+    "human trafficking training"
+  ],
   "reporting_contacts_required": [
-    "state attorneys",
+    "State attorneys",
     "local law enforcement"
   ],
   "signage_details": {
     "languages_required": [],
     "minimum_size": null,
     "font_size": null,
-    "posting_location": null,
-    "required_content": []
+    "posting_location": "annually",
+    "required_content": [
+      "awareness campaigns and trainings"
+    ]
   },
   "recordkeeping_requirements": [
-    {
-      "lodging_businesses": {
-        "guest_transactions_and_receipts": "6 months"
-      }
-    }
+    "guest transactions and receipts for six months"
   ],
   "certificate_requirements": [],
   "law_references": [
     "Public Act 17-32",
-    "Human and Sex Trafficking Legislation"
+    "Human and sex trafficking legislation"
   ],
   "source_urls": [
     "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/trainings-for-providers",
     "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/human-and-sex-trafficking-legislation"
   ],
-  "harbor_alliance_posture": "needs-review",
+  "harbor_alliance_posture": null,
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "State-controlled training requirement for mandatory human trafficking training"
+    "need for further enhancements in penalties",
+    "potential gaps in community engagement and partnerships",
+    "improvement needed in data reporting mechanisms"
   ],
-  "notes": [],
+  "notes": [
+    "Training frequency is every year for hotel staff."
+  ],
   "needs_review": []
 }
