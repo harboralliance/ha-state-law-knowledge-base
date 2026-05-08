@@ -1,61 +1,68 @@
 {
   "state": "Connecticut",
   "state_code": "CT",
-  "industry": "commercial lodging; schools; law enforcement; emergency medical services; healthcare providers",
-  "source_file": "2026-05-06_Connecticut_lodging_compliance.md",
+  "industry": "commercial lodging, foster care services, Child Protective Services, hotels, motels, law enforcement, healthcare providers",
+  "source_file": "2026-05-08_Connecticut_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
-  "training_frequency": "yearly",
+  "training_frequency": "annual",
   "new_hire_deadline_days": null,
   "new_hire_deadline_text": null,
-  "signage_required": true,
+  "signage_required": false,
   "provider_approval_required": false,
   "provider_approval_type": null,
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "Department of Public Health (DPH)"
+    "State attorneys",
+    "Local law enforcement"
   ],
   "applicable_to": [
-    "hotels, motels, inns; schools; law enforcement; emergency medical services; healthcare providers"
+    "Hotels and motels",
+    "Foster parents",
+    "Child Protective Services staff",
+    "Law enforcement",
+    "Healthcare providers",
+    "Other professionals (youth, community)"
   ],
   "required_topics": [
-    "human trafficking training"
+    "Introduction to Child Trafficking in Connecticut",
+    "Introduction to Human Trafficking in Connecticut for Law Enforcement",
+    "Child Trafficking Training for Medical Providers/Emergency Medicine"
   ],
   "reporting_contacts_required": [
     "State attorneys",
-    "local law enforcement"
+    "Local law enforcement"
   ],
   "signage_details": {
     "languages_required": [],
     "minimum_size": null,
     "font_size": null,
-    "posting_location": "annually",
-    "required_content": [
-      "awareness campaigns and trainings"
-    ]
+    "posting_location": null,
+    "required_content": []
   },
   "recordkeeping_requirements": [
-    "guest transactions and receipts for six months"
+    "Guest transactions and receipts to be kept for at least 6 months"
   ],
   "certificate_requirements": [],
   "law_references": [
-    "Public Act 17-32",
-    "Human and sex trafficking legislation"
+    "Human and sex trafficking legislation",
+    "Trainings for providers"
   ],
   "source_urls": [
     "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/trainings-for-providers",
     "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/human-and-sex-trafficking-legislation"
   ],
-  "harbor_alliance_posture": null,
+  "harbor_alliance_posture": "needs-review",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "need for further enhancements in penalties",
-    "potential gaps in community engagement and partnerships",
-    "improvement needed in data reporting mechanisms"
+    "State-controlled training requirement",
+    "Need for documentation and recordkeeping of guest transactions and trafficking cases"
   ],
   "notes": [
-    "Training frequency is every year for hotel staff."
+    "Requires annual training for various professionals",
+    "Mandatory recordkeeping for hotels and motels",
+    "Training topics include child trafficking, human trafficking, and medical provider responses"
   ],
   "needs_review": []
 }

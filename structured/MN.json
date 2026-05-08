@@ -2,29 +2,33 @@
   "state": "Minnesota",
   "state_code": "MN",
   "industry": "commercial lodging",
-  "source_file": "2026-05-06_Minnesota_lodging_compliance.md",
+  "source_file": "2026-05-08_Minnesota_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
   "training_frequency": "annual",
   "new_hire_deadline_days": 90,
-  "new_hire_deadline_text": "within 90 days of hire",
+  "new_hire_deadline_text": "within 90 days of their start date",
   "signage_required": true,
   "provider_approval_required": false,
   "provider_approval_type": null,
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "Minnesota Department of Health (MDH)"
+    "Minnesota Department of Health"
   ],
   "applicable_to": [
-    "all employees",
-    "managers and owners",
-    "those who do not have direct contact with guests (exemptions apply)"
+    "hotels",
+    "motels",
+    "short-term rentals"
   ],
   "required_topics": [
-    "preventing and responding to sex trafficking"
+    "identifying signs of sex trafficking",
+    "responding to potential situations",
+    "reporting any incidents"
   ],
-  "reporting_contacts_required": [],
+  "reporting_contacts_required": [
+    "health.safeharbor@state.mn.us"
+  ],
   "signage_details": {
     "languages_required": [
       "English",
@@ -36,23 +40,24 @@
     "font_size": null,
     "posting_location": "back-of-house",
     "required_content": [
-      "mandatory poster"
+      "displaying the required back-of-house poster"
     ]
   },
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    "Minnesota Statutes, section 609.14"
+    "Minnesota Statutes, section 609.21"
   ],
   "source_urls": [
-    "https://www.mndh.gov/learningcenter"
+    "https://www.health.state.mn.us/lc/lsc/training-and-materials/sex-trafficking-prevention-training"
   ],
-  "harbor_alliance_posture": "immediate-entry",
+  "harbor_alliance_posture": "needs-review",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "costs associated with printing and displaying posters",
-    "updates to the training package by November 1st each year"
+    "exceptions for employees under 16 and those working exclusively in restaurants providing catering services with no direct contact with guests or guest rooms"
   ],
-  "notes": [],
+  "notes": [
+    "Training materials are provided by the Minnesota Department of Health"
+  ],
   "needs_review": []
 }
