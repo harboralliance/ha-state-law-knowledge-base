@@ -1,15 +1,27 @@
-Thank you for the comprehensive summary of the legislative search results. It appears that there are two bills related to hotlines in Wyoming:
+The search results for the keyword "hotline" in Wyoming bills indicate that there are two relevant bills:
 
-1. **HB0003: Wyoming Pregnancy Centers-Autonomy and Rights**
+1. **HB0003 - Wyoming Pregnancy Centers Autonomy and Rights**
    - **Relevance:** 100%
-   - **Title:** This bill focuses on providing autonomy and rights for pregnancy centers in Wyoming.
-   - **Last Action Date:** March 6, 2026
-   - **Action Taken:** Assigned Chapter Number 62
+   - **State:** WY
+   - **Bill ID:** 2054649
+   - **Change Hash:** 65998ae9e57db19c5d94b797dfa1d58f
+   - **URL:** [legiscan.com/WY/bill/HB0003/2026](https://legiscan.com/WY/bill/HB0003/2026)
+   - **Text URL:** [legiscan.com/WY/text/HB0003/2026](https://legiscan.com/WY/text/HB0003/2026)
+   - **Research URL:** [legiscan.com/WY/research/HB0003/2026](https://legiscan.com/WY/research/HB0003/2026)
+   - **Last Action Date:** 2026-03-06
+   - **Last Action:** Assigned Chapter Number 62
+   - **Title:** Wyoming pregnancy centers-autonomy and rights.
 
-2. **HB0123: Education Savings Accounts**
+2. **HB0123 - Education Savings Accounts**
    - **Relevance:** 83%
-   - **Title:** This bill proposes the creation of education savings accounts in Wyoming.
-   - **Last Action Date:** February 10, 2026
-   - **Action Taken:** Failed Introduction
+   - **State:** WY
+   - **Bill ID:** 2111580
+   - **Change Hash:** a375e8f5ac63125241c02aa8c0937fb4
+   - **URL:** [legiscan.com/WY/bill/HB0123/2026](https://legiscan.com/WY/bill/HB0123/2026)
+   - **Text URL:** [legiscan.com/WY/text/HB0123/2026](https://legiscan.com/WY/text/HB0123/2026)
+   - **Research URL:** [legiscan.com/WY/research/HB0123/2026](https://legiscan.com/WY/research/HB0123/2026)
+   - **Last Action Date:** 2026-02-10
+   - **Last Action:** Failed Introduction 26-35-1-0-0
+   - **Title:** Education savings accounts.
 
-If you need more detailed information on either of these bills, please let me know!
+If you require more detailed information on either of these bills or have any other questions, please let me know!

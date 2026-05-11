@@ -1,68 +1,57 @@
 {
   "state": "Connecticut",
   "state_code": "CT",
-  "industry": "commercial lodging, foster care services, Child Protective Services, hotels, motels, law enforcement, healthcare providers",
-  "source_file": "2026-05-08_Connecticut_lodging_compliance.md",
+  "industry": "commercial lodging",
+  "source_file": "2026-05-11_Connecticut_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
   "training_frequency": "annual",
   "new_hire_deadline_days": null,
   "new_hire_deadline_text": null,
-  "signage_required": false,
+  "signage_required": true,
   "provider_approval_required": false,
   "provider_approval_type": null,
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "State attorneys",
-    "Local law enforcement"
+    "Office of Victim Services (OVS)",
+    "local law enforcement"
   ],
   "applicable_to": [
-    "Hotels and motels",
-    "Foster parents",
-    "Child Protective Services staff",
-    "Law enforcement",
-    "Healthcare providers",
-    "Other professionals (youth, community)"
+    "hotel staff",
+    "motels",
+    "inns",
+    "other lodging establishments"
   ],
   "required_topics": [
-    "Introduction to Child Trafficking in Connecticut",
-    "Introduction to Human Trafficking in Connecticut for Law Enforcement",
-    "Child Trafficking Training for Medical Providers/Emergency Medicine"
+    "human trafficking",
+    "trafficking awareness"
   ],
-  "reporting_contacts_required": [
-    "State attorneys",
-    "Local law enforcement"
-  ],
+  "reporting_contacts_required": true,
   "signage_details": {
-    "languages_required": [],
+    "languages_required": null,
     "minimum_size": null,
     "font_size": null,
     "posting_location": null,
-    "required_content": []
+    "required_content": [
+      "human trafficking training and awareness campaigns"
+    ]
   },
-  "recordkeeping_requirements": [
-    "Guest transactions and receipts to be kept for at least 6 months"
-  ],
+  "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    "Human and sex trafficking legislation",
-    "Trainings for providers"
+    "17-32",
+    "16-71"
   ],
   "source_urls": [
     "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/trainings-for-providers",
     "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/human-and-sex-trafficking-legislation"
   ],
-  "harbor_alliance_posture": "needs-review",
+  "harbor_alliance_posture": "approval-required",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "State-controlled training requirement",
-    "Need for documentation and recordkeeping of guest transactions and trafficking cases"
+    "need for annual training and signage compliance"
   ],
-  "notes": [
-    "Requires annual training for various professionals",
-    "Mandatory recordkeeping for hotels and motels",
-    "Training topics include child trafficking, human trafficking, and medical provider responses"
-  ],
+  "notes": [],
   "needs_review": []
 }

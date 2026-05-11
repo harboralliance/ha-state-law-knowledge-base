@@ -2,30 +2,46 @@
   "state": "Texas",
   "state_code": "TX",
   "industry": "commercial lodging",
-  "source_file": "2026-05-08_Texas_lodging_compliance.md",
+  "source_file": "2026-05-11_Texas_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
   "training_frequency": "annual",
-  "new_hire_deadline_days": null,
-  "new_hire_deadline_text": null,
+  "new_hire_deadline_days": 90,
+  "new_hire_deadline_text": "within 90 days of hire",
   "signage_required": false,
   "provider_approval_required": true,
-  "provider_approval_type": "approved by the Office of the Attorney General (OAG)",
-  "approval_authority": "Office of the Attorney General (OAG)",
-  "approval_contact": "[email\u00a0protected]",
+  "provider_approval_type": "approved by the Office of the Attorney General",
+  "approval_authority": "Office of the Attorney General",
+  "approval_contact": null,
   "enforcing_agencies": [
-    "Texas Department of Public Safety"
+    "Office of the Attorney General",
+    "local law enforcement",
+    "state law enforcement",
+    "federal law enforcement"
   ],
   "applicable_to": [
-    "commercial lodging establishments with 10 or more rooms",
-    "all lodging establishments in the state"
+    {
+      "establishment_type": "commercial lodging",
+      "minimum_rooms": 10
+    }
   ],
   "required_topics": [
-    "identifying red flags",
-    "reporting procedures",
-    "importance of not retaliating against employees who report suspected human trafficking incidents"
+    "understanding human trafficking",
+    "identifying risks associated with human trafficking",
+    "reporting procedures for suspected human trafficking incidents"
   ],
-  "reporting_contacts_required": [],
+  "reporting_contacts_required": [
+    {
+      "contact_type": "National Human Trafficking Hotline",
+      "phone_number": "888-373-7888",
+      "website": "NEEDS REVIEW"
+    },
+    {
+      "contact_type": "iWatchTX",
+      "phone_number": "844-643-2251",
+      "website": "iWatchTX.org"
+    }
+  ],
   "signage_details": {
     "languages_required": [],
     "minimum_size": null,
@@ -34,27 +50,29 @@
     "required_content": []
   },
   "recordkeeping_requirements": [
-    "training records",
-    "certificates of completion"
+    {
+      "type": "training certificates",
+      "retention_period": "retain copies of all certificates for review by the Office of the Attorney General, local, state, and federal law enforcement"
+    }
   ],
   "certificate_requirements": [
-    "training provider must issue a certificate to each employee upon completion"
+    {
+      "provider": "approved by the Office of the Attorney General",
+      "format": "certificate of completion including the date of the course and the title of the course"
+    }
   ],
   "law_references": [
     "House Bill 390 (87th Regular Session)"
   ],
   "source_urls": [
-    "https://www.tsl.texas.gov/law/codifiedlaws/",
-    "https://oag.texas.gov/training"
+    "https://www.texasattorneygeneral.gov/law-enforcement/criminal-justice/human-trafficking-training",
+    "https://www.etactics.com/products/identify-and-respond-to-human-trafficking-commercial-lodging-hospitality-industry"
   ],
-  "harbor_alliance_posture": "approval-required",
-  "harbor_alliance_actions": [],
-  "risks_or_constraints": [
-    "potential risks associated with human trafficking incidents"
+  "harbor_alliance_posture": "immediate-entry",
+  "harbor_alliance_actions": [
+    "Ensure compliance with annual human trafficking training requirements for employees at commercial lodging establishments with 10 or more rooms."
   ],
-  "notes": [
-    "The requirement applies to commercial lodging establishments with 10 or more rooms and all lodging establishments in the state.",
-    "Training materials must be approved by the Office of the Attorney General (OAG) before they can be considered for approval."
-  ],
+  "risks_or_constraints": [],
+  "notes": [],
   "needs_review": []
 }

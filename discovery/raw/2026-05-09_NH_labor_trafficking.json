@@ -1,0 +1,27 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 1",
+      "relevancy": "100% - 100%",
+      "count": 1,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zlabor:(pos=1) AND Ztraffick:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "NH",
+      "bill_number": "HB1469",
+      "bill_id": 2056751,
+      "change_hash": "c1022771f7ac9ad6807bf01c43a75af0",
+      "url": "https://legiscan.com/NH/bill/HB1469/2026",
+      "text_url": "https://legiscan.com/NH/text/HB1469/2026",
+      "research_url": "https://legiscan.com/NH/research/HB1469/2026",
+      "last_action_date": "2026-05-06",
+      "last_action": "Committee Report: Ought to Pass with Amendment # 2026-1865s, 05/14/2026; Vote 5-0; Consent Calendar; Senate Calendar  18",
+      "title": "Relative to the licensing requirements for massage therapy establishments."
+    }
+  }
+}
