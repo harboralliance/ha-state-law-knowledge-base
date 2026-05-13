@@ -2,55 +2,59 @@
   "state": "Connecticut",
   "state_code": "CT",
   "industry": "commercial lodging",
-  "source_file": "2026-05-11_Connecticut_lodging_compliance.md",
+  "source_file": "2026-05-13_Connecticut_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
   "training_frequency": "annual",
   "new_hire_deadline_days": null,
   "new_hire_deadline_text": null,
-  "signage_required": true,
+  "signage_required": false,
   "provider_approval_required": false,
   "provider_approval_type": null,
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "Office of Victim Services (OVS)",
-    "local law enforcement"
+    "HART (Human and Sex Trafficking)"
   ],
   "applicable_to": [
-    "hotel staff",
+    "hotels",
     "motels",
-    "inns",
-    "other lodging establishments"
+    "lodging businesses",
+    "Child Protective Services staff",
+    "foster care services",
+    "service providers"
   ],
   "required_topics": [
     "human trafficking",
-    "trafficking awareness"
+    "sex trafficking",
+    "labor trafficking"
   ],
-  "reporting_contacts_required": true,
+  "reporting_contacts_required": [],
   "signage_details": {
-    "languages_required": null,
+    "languages_required": [],
     "minimum_size": null,
     "font_size": null,
     "posting_location": null,
-    "required_content": [
-      "human trafficking training and awareness campaigns"
-    ]
+    "required_content": []
   },
-  "recordkeeping_requirements": [],
+  "recordkeeping_requirements": [
+    "publicly mandated data reporting on trafficking cases"
+  ],
   "certificate_requirements": [],
   "law_references": [
-    "17-32",
-    "16-71"
+    "human and sex trafficking legislation",
+    "Public Act"
   ],
   "source_urls": [
     "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/trainings-for-providers",
     "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/human-and-sex-trafficking-legislation"
   ],
-  "harbor_alliance_posture": "approval-required",
+  "harbor_alliance_posture": "immediate-entry",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "need for annual training and signage compliance"
+    "Resource Allocation",
+    "Coordination",
+    "Monitoring Compliance"
   ],
   "notes": [],
   "needs_review": []

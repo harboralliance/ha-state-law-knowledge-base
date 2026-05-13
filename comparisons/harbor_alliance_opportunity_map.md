@@ -1,27 +1,9 @@
-The search results for the keyword "hotline" in Wyoming bills indicate that there are two relevant bills:
+Based on the search results, there are two bills in Wyoming related to a "hotline":
 
-1. **HB0003 - Wyoming Pregnancy Centers Autonomy and Rights**
-   - **Relevance:** 100%
-   - **State:** WY
-   - **Bill ID:** 2054649
-   - **Change Hash:** 65998ae9e57db19c5d94b797dfa1d58f
-   - **URL:** [legiscan.com/WY/bill/HB0003/2026](https://legiscan.com/WY/bill/HB0003/2026)
-   - **Text URL:** [legiscan.com/WY/text/HB0003/2026](https://legiscan.com/WY/text/HB0003/2026)
-   - **Research URL:** [legiscan.com/WY/research/HB0003/2026](https://legiscan.com/WY/research/HB0003/2026)
-   - **Last Action Date:** 2026-03-06
-   - **Last Action:** Assigned Chapter Number 62
-   - **Title:** Wyoming pregnancy centers-autonomy and rights.
+1. **HB0003**: This bill, which was assigned chapter number 62 and passed into law, is titled "Wyoming pregnancy centers-autonomy and rights." It deals with issues related to autonomy and rights of women regarding pregnancy centers.
 
-2. **HB0123 - Education Savings Accounts**
-   - **Relevance:** 83%
-   - **State:** WY
-   - **Bill ID:** 2111580
-   - **Change Hash:** a375e8f5ac63125241c02aa8c0937fb4
-   - **URL:** [legiscan.com/WY/bill/HB0123/2026](https://legiscan.com/WY/bill/HB0123/2026)
-   - **Text URL:** [legiscan.com/WY/text/HB0123/2026](https://legiscan.com/WY/text/HB0123/2026)
-   - **Research URL:** [legiscan.com/WY/research/HB0123/2026](https://legiscan.com/WY/research/HB0123/2026)
-   - **Last Action Date:** 2026-02-10
-   - **Last Action:** Failed Introduction 26-35-1-0-0
-   - **Title:** Education savings accounts.
+2. **HB0123**: This bill, which failed introduction on February 10th, 2026, has the title "Education savings accounts." However, it does not explicitly mention a hotline in its title or summary.
 
-If you require more detailed information on either of these bills or have any other questions, please let me know!
+The second bill seems more directly related to a hotline as its title suggests education savings accounts. If you're looking for a specific type of hotline related to education, this might be the one you're interested in.
+
+If you need more detailed information on either of these bills or any other assistance, please let me know!

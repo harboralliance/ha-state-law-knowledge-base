@@ -2,13 +2,13 @@
   "state": "Minnesota",
   "state_code": "MN",
   "industry": "commercial lodging",
-  "source_file": "2026-05-11_Minnesota_lodging_compliance.md",
+  "source_file": "2026-05-13_Minnesota_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
-  "training_frequency": "annual",
+  "training_frequency": "annually",
   "new_hire_deadline_days": 90,
-  "new_hire_deadline_text": "within 90 days of hire",
-  "signage_required": false,
+  "new_hire_deadline_text": null,
+  "signage_required": true,
   "provider_approval_required": false,
   "provider_approval_type": null,
   "approval_authority": null,
@@ -17,39 +17,50 @@
     "Minnesota Department of Health (MDH)"
   ],
   "applicable_to": [
-    "hotel",
-    "motel",
-    "short-term rental operators"
+    "owners",
+    "managers",
+    "on-site employees"
   ],
   "required_topics": [
-    "sex trafficking prevention and response"
+    "recognizing signs of sex trafficking",
+    "understanding the legal requirements",
+    "knowing how to respond"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
     "languages_required": [
       "English",
-      "multiple languages"
+      "Spanish/Espa\u00f1ol",
+      "Somali",
+      "Hmong"
     ],
     "minimum_size": null,
     "font_size": null,
-    "posting_location": null,
+    "posting_location": "back-of-house",
     "required_content": [
-      "posters"
+      "Sex Trafficking Prevention Training Required"
     ]
   },
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    "Minnesota Statutes, Section 626E.01"
+    "Minnesota Statutes \u00a7 298E.01"
   ],
   "source_urls": [
-    "https://www.health.state.mn.us/divs/ldh/training/safeharbor/"
+    "NEEDS REVIEW"
   ],
-  "harbor_alliance_posture": "approval-required",
-  "harbor_alliance_actions": [],
+  "harbor_alliance_posture": "needs-review",
+  "harbor_alliance_actions": [
+    "Review and ensure compliance with the state's requirements",
+    "Provide additional resources for employees with specific language needs"
+  ],
   "risks_or_constraints": [
-    "Exemptions for employees under 16 and those working exclusively in restaurants without direct contact with guests"
+    "Costs associated with printing posters",
+    "Exceptions to training requirements"
   ],
   "notes": [],
-  "needs_review": []
+  "needs_review": [
+    "Exact source URLs need confirmation",
+    "MDH approval process details are not fully specified"
+  ]
 }

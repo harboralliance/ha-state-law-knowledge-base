@@ -2,57 +2,61 @@
   "state": "California",
   "state_code": "CA",
   "industry": "commercial lodging",
-  "source_file": "2026-05-11_California_lodging_compliance.md",
+  "source_file": "2026-05-13_California_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": 20,
-  "training_frequency": null,
-  "new_hire_deadline_days": 180,
-  "new_hire_deadline_text": "Within six months of hire date for new hires",
+  "training_frequency": "initial training by January 1, 2020; ongoing training within six months of employment for new hires",
+  "new_hire_deadline_days": null,
+  "new_hire_deadline_text": null,
   "signage_required": true,
   "provider_approval_required": false,
   "provider_approval_type": null,
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "California's Office of Attorney General"
+    "California Attorney General's Office",
+    "National Human Trafficking Hotline"
   ],
-  "applicable_to": [
-    "hotels",
-    "motels",
-    "bed and breakfast inns"
-  ],
+  "applicable_to": [],
   "required_topics": [
-    "human trafficking awareness"
+    "human trafficking awareness",
+    "identifying potential victims of human trafficking",
+    "rights of these victims",
+    "steps to take if such a situation is observed"
   ],
-  "reporting_contacts_required": [],
+  "reporting_contacts_required": [
+    "National Human Trafficking Hotline",
+    "California Coalition to Abolish Slavery and Trafficking (CAST)"
+  ],
   "signage_details": {
     "languages_required": [
       "English",
-      "Spanish"
+      "Spanish",
+      "additional languages as needed based on county language assistance provisions"
     ],
     "minimum_size": null,
     "font_size": null,
     "posting_location": null,
     "required_content": [
-      "Human Trafficking Model Notice"
+      "telephone hotline numbers for seeking help or reporting unlawful activity",
+      "information about human trafficking"
     ]
   },
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    "Senate Bill 970"
+    "Human Trafficking Prevention Act"
   ],
   "source_urls": [
-    "https://oag.ca.gov/news/requiring-hotels-motels-provide-human-trafficking-awareness-training-and-posting-model-notice",
-    "https://www.justice.gov/tracking/human-trafficking-model-notice"
+    "https://www.attorneygeneral.ca.gov/news/press-releases/ca-attorney-general-launches-new-model-human-trafficking-prevention-signage"
   ],
   "harbor_alliance_posture": "needs-review",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "Penalties for non-compliance"
+    "non-compliance with training requirements could lead to legal penalties"
   ],
   "notes": [
-    "Training deadline may need to be updated as per the source references."
+    "Prior training provided on or before January 1, 2019, does not require additional training for those employees unless a new position is assumed."
   ],
   "needs_review": []
 }

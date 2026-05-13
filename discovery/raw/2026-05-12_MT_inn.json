@@ -1,0 +1,105 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 7",
+      "relevancy": "100% - 61%",
+      "count": 7,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zinn:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "MT",
+      "bill_number": "SB336",
+      "bill_id": 1972895,
+      "change_hash": "8576e46d7a379227e3ac423392ab04e7",
+      "url": "https://legiscan.com/MT/bill/SB336/2025",
+      "text_url": "https://legiscan.com/MT/text/SB336/2025",
+      "research_url": "https://legiscan.com/MT/research/SB336/2025",
+      "last_action_date": "2025-05-23",
+      "last_action": "(H) Died in Standing Committee",
+      "title": "Revise laws related to short-term rentals"
+    },
+    "1": {
+      "relevance": 99,
+      "state": "MT",
+      "bill_number": "HB319",
+      "bill_id": 1942684,
+      "change_hash": "9a056a7baff37585a575cd938549329c",
+      "url": "https://legiscan.com/MT/bill/HB319/2025",
+      "text_url": "https://legiscan.com/MT/text/HB319/2025",
+      "research_url": "https://legiscan.com/MT/research/HB319/2025",
+      "last_action_date": "2025-05-20",
+      "last_action": "(H) Died in Process",
+      "title": "Prohibiting employer requirements for employees to attend controversial social vision training"
+    },
+    "2": {
+      "relevance": 99,
+      "state": "MT",
+      "bill_number": "SB363",
+      "bill_id": 1974827,
+      "change_hash": "ec51753aa542064bf9b03633f4dc6658",
+      "url": "https://legiscan.com/MT/bill/SB363/2025",
+      "text_url": "https://legiscan.com/MT/text/SB363/2025",
+      "research_url": "https://legiscan.com/MT/research/SB363/2025",
+      "last_action_date": "2025-05-23",
+      "last_action": "(H) Died in Standing Committee",
+      "title": "Revising the definition of a tourist home"
+    },
+    "3": {
+      "relevance": 98,
+      "state": "MT",
+      "bill_number": "HB524",
+      "bill_id": 1972706,
+      "change_hash": "89aaa115b893702d7737aa55ae4e92f4",
+      "url": "https://legiscan.com/MT/bill/HB524/2025",
+      "text_url": "https://legiscan.com/MT/text/HB524/2025",
+      "research_url": "https://legiscan.com/MT/research/HB524/2025",
+      "last_action_date": "2025-05-20",
+      "last_action": "(H) Died in Process",
+      "title": "Remove boarding and rooming houses from lodging requirements"
+    },
+    "4": {
+      "relevance": 86,
+      "state": "MT",
+      "bill_number": "SB386",
+      "bill_id": 1977175,
+      "change_hash": "6c639d3d12fa449b548095dd450a781e",
+      "url": "https://legiscan.com/MT/bill/SB386/2025",
+      "text_url": "https://legiscan.com/MT/text/SB386/2025",
+      "research_url": "https://legiscan.com/MT/research/SB386/2025",
+      "last_action_date": "2025-05-23",
+      "last_action": "(S) Died in Process",
+      "title": "Provide for the Montana Local Meat Act"
+    },
+    "5": {
+      "relevance": 67,
+      "state": "MT",
+      "bill_number": "SB437",
+      "bill_id": 1981663,
+      "change_hash": "cdc05963261d811ee17d6070a78441fe",
+      "url": "https://legiscan.com/MT/bill/SB437/2025",
+      "text_url": "https://legiscan.com/MT/text/SB437/2025",
+      "research_url": "https://legiscan.com/MT/research/SB437/2025",
+      "last_action_date": "2025-04-21",
+      "last_action": "(S) Signed by President",
+      "title": "Revise definition of sex in Montana law"
+    },
+    "6": {
+      "relevance": 61,
+      "state": "MT",
+      "bill_number": "HB99",
+      "bill_id": 1897043,
+      "change_hash": "5040e8f5bc709e0b6ded00ceedb52e66",
+      "url": "https://legiscan.com/MT/bill/HB99/2025",
+      "text_url": "https://legiscan.com/MT/text/HB99/2025",
+      "research_url": "https://legiscan.com/MT/research/HB99/2025",
+      "last_action_date": "2025-04-03",
+      "last_action": "(H) Signed by Governor",
+      "title": "Revise laws related to motor vehicle laws for clarity and consistency"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 5",
+      "relevancy": "100% - 84%",
+      "count": 5,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zsex:(pos=1) AND Ztraffick:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "RI",
+      "bill_number": "S2145",
+      "bill_id": 2084232,
+      "change_hash": "eccd67cf8f84d3e5a4a27c6a5572dc54",
+      "url": "https://legiscan.com/RI/bill/S2145/2026",
+      "text_url": "https://legiscan.com/RI/text/S2145/2026",
+      "research_url": "https://legiscan.com/RI/research/S2145/2026",
+      "last_action_date": "2026-04-01",
+      "last_action": "Referred to House Judiciary",
+      "title": "Establishes the commercial sex buyer\u2019s accountability program which consists of an instructional program on prostitution and human trafficking schemes."
+    },
+    "1": {
+      "relevance": 99,
+      "state": "RI",
+      "bill_number": "H7201",
+      "bill_id": 2088350,
+      "change_hash": "02e02ac902d6525a8f006993bbd1d0d5",
+      "url": "https://legiscan.com/RI/bill/H7201/2026",
+      "text_url": "https://legiscan.com/RI/text/H7201/2026",
+      "research_url": "https://legiscan.com/RI/research/H7201/2026",
+      "last_action_date": "2026-04-09",
+      "last_action": "Committee recommended measure be held for further study",
+      "title": "Establishes the commercial sex buyer\u2019s accountability program which consists of an instructional program on prostitution and human trafficking schemes."
+    },
+    "2": {
+      "relevance": 96,
+      "state": "RI",
+      "bill_number": "S2399",
+      "bill_id": 2102803,
+      "change_hash": "03157f79d3aecf7af8435c2c3c2b727e",
+      "url": "https://legiscan.com/RI/bill/S2399/2026",
+      "text_url": "https://legiscan.com/RI/text/S2399/2026",
+      "research_url": "https://legiscan.com/RI/research/S2399/2026",
+      "last_action_date": "2026-04-30",
+      "last_action": "Committee recommended measure be held for further study",
+      "title": "Decriminalizes certain commercial sexual activity. It would also include human trafficking as a racketeering activity and would allow expungements of certain convictions in \u00a7 11-34.1 after one year."
+    },
+    "3": {
+      "relevance": 96,
+      "state": "RI",
+      "bill_number": "H8057",
+      "bill_id": 2126192,
+      "change_hash": "9344b712d206206eae54fce02d17842f",
+      "url": "https://legiscan.com/RI/bill/H8057/2026",
+      "text_url": "https://legiscan.com/RI/text/H8057/2026",
+      "research_url": "https://legiscan.com/RI/research/H8057/2026",
+      "last_action_date": "2026-04-09",
+      "last_action": "Committee recommended measure be held for further study",
+      "title": "Decriminalizes certain commercial sexual activity. It would also include human trafficking as a racketeering activity and would allow expungements of certain convictions in \u00a7 11-34.1 after one year."
+    },
+    "4": {
+      "relevance": 84,
+      "state": "RI",
+      "bill_number": "S2591",
+      "bill_id": 2116886,
+      "change_hash": "e9a2650dbaf927fd30991018f36f9694",
+      "url": "https://legiscan.com/RI/bill/S2591/2026",
+      "text_url": "https://legiscan.com/RI/text/S2591/2026",
+      "research_url": "https://legiscan.com/RI/research/S2591/2026",
+      "last_action_date": "2026-04-28",
+      "last_action": "Committee recommended measure be held for further study",
+      "title": "Limits how landlords use criminal history in rental decisions by delaying background checks until after a conditional offer has been made, restricting which records may be considered, banning discriminatory ads, and providing enforcement and penalties."
+    }
+  }
+}
