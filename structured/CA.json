@@ -2,10 +2,10 @@
   "state": "California",
   "state_code": "CA",
   "industry": "commercial lodging",
-  "source_file": "2026-05-13_California_lodging_compliance.md",
-  "training_required": true,
-  "training_duration_minutes": 20,
-  "training_frequency": "initial training by January 1, 2020; ongoing training within six months of employment for new hires",
+  "source_file": "2026-05-14_California_lodging_compliance.md",
+  "training_required": false,
+  "training_duration_minutes": null,
+  "training_frequency": null,
   "new_hire_deadline_days": null,
   "new_hire_deadline_text": null,
   "signage_required": true,
@@ -14,49 +14,42 @@
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "California Attorney General's Office",
-    "National Human Trafficking Hotline"
+    "Department of Justice"
   ],
-  "applicable_to": [],
+  "applicable_to": [
+    "hotels",
+    "motels",
+    "bed and breakfast inns"
+  ],
   "required_topics": [
-    "human trafficking awareness",
-    "identifying potential victims of human trafficking",
-    "rights of these victims",
-    "steps to take if such a situation is observed"
+    "human trafficking prevention notice"
   ],
-  "reporting_contacts_required": [
-    "National Human Trafficking Hotline",
-    "California Coalition to Abolish Slavery and Trafficking (CAST)"
-  ],
+  "reporting_contacts_required": [],
   "signage_details": {
     "languages_required": [
       "English",
-      "Spanish",
-      "additional languages as needed based on county language assistance provisions"
+      "Spanish"
     ],
     "minimum_size": null,
     "font_size": null,
     "posting_location": null,
     "required_content": [
-      "telephone hotline numbers for seeking help or reporting unlawful activity",
-      "information about human trafficking"
+      "telephone hotline numbers for help or reporting unlawful activity"
     ]
   },
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    "Human Trafficking Prevention Act"
+    "California law requiring posting of human trafficking prevention notices"
   ],
   "source_urls": [
-    "https://www.attorneygeneral.ca.gov/news/press-releases/ca-attorney-general-launches-new-model-human-trafficking-prevention-signage"
+    "https://www.doj.ca.gov/victimservices/humantrafficking/prevention-notice.html"
   ],
-  "harbor_alliance_posture": "needs-review",
+  "harbor_alliance_posture": "immediate-entry",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "non-compliance with training requirements could lead to legal penalties"
+    "Failure to post the required notice can result in penalties."
   ],
-  "notes": [
-    "Prior training provided on or before January 1, 2019, does not require additional training for those employees unless a new position is assumed."
-  ],
+  "notes": [],
   "needs_review": []
 }

@@ -1,0 +1,131 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 9",
+      "relevancy": "100% - 65%",
+      "count": 9,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zsignag:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "MT",
+      "bill_number": "SB309",
+      "bill_id": 1967438,
+      "change_hash": "ae75d978f217e1b6117b96784098d836",
+      "url": "https://legiscan.com/MT/bill/SB309/2025",
+      "text_url": "https://legiscan.com/MT/text/SB309/2025",
+      "research_url": "https://legiscan.com/MT/research/SB309/2025",
+      "last_action_date": "2025-04-18",
+      "last_action": "Chapter Number Assigned",
+      "title": "Eliminate the Scenic-Historic Byways Advisory Council"
+    },
+    "1": {
+      "relevance": 98,
+      "state": "MT",
+      "bill_number": "HB331",
+      "bill_id": 1945002,
+      "change_hash": "36727cee989be9b6cfac034b7ebc6140",
+      "url": "https://legiscan.com/MT/bill/HB331/2025",
+      "text_url": "https://legiscan.com/MT/text/HB331/2025",
+      "research_url": "https://legiscan.com/MT/research/HB331/2025",
+      "last_action_date": "2025-05-20",
+      "last_action": "(H) Died in Process",
+      "title": "Generally revise laws relating to marijuana advertising"
+    },
+    "2": {
+      "relevance": 95,
+      "state": "MT",
+      "bill_number": "HB242",
+      "bill_id": 1927086,
+      "change_hash": "3ca2425fe4bc6e1e635164ed7da6c6d0",
+      "url": "https://legiscan.com/MT/bill/HB242/2025",
+      "text_url": "https://legiscan.com/MT/text/HB242/2025",
+      "research_url": "https://legiscan.com/MT/research/HB242/2025",
+      "last_action_date": "2025-05-08",
+      "last_action": "Chapter Number Assigned",
+      "title": "Revise fines related to aquatic invasive species"
+    },
+    "3": {
+      "relevance": 94,
+      "state": "MT",
+      "bill_number": "SB409",
+      "bill_id": 1979585,
+      "change_hash": "d776933c17a2414af92f85f53c1f6258",
+      "url": "https://legiscan.com/MT/bill/SB409/2025",
+      "text_url": "https://legiscan.com/MT/text/SB409/2025",
+      "research_url": "https://legiscan.com/MT/research/SB409/2025",
+      "last_action_date": "2025-05-16",
+      "last_action": "Chapter Number Assigned",
+      "title": "Generally revise laws related to the department of commerce"
+    },
+    "4": {
+      "relevance": 89,
+      "state": "MT",
+      "bill_number": "HB436",
+      "bill_id": 1962922,
+      "change_hash": "7838b65ecc9fff46a5e08d4f634576a9",
+      "url": "https://legiscan.com/MT/bill/HB436/2025",
+      "text_url": "https://legiscan.com/MT/text/HB436/2025",
+      "research_url": "https://legiscan.com/MT/research/HB436/2025",
+      "last_action_date": "2025-05-20",
+      "last_action": "(H) Died in Process",
+      "title": "Require trappers to post notice signs near trails on public lands"
+    },
+    "5": {
+      "relevance": 89,
+      "state": "MT",
+      "bill_number": "HB673",
+      "bill_id": 1980908,
+      "change_hash": "6e6ea53198c18346d50487c911bd3d6f",
+      "url": "https://legiscan.com/MT/bill/HB673/2025",
+      "text_url": "https://legiscan.com/MT/text/HB673/2025",
+      "research_url": "https://legiscan.com/MT/research/HB673/2025",
+      "last_action_date": "2025-05-20",
+      "last_action": "(H) Died in Process",
+      "title": "Revise donor privacy laws for certain political contributions"
+    },
+    "6": {
+      "relevance": 89,
+      "state": "MT",
+      "bill_number": "HB887",
+      "bill_id": 2015568,
+      "change_hash": "636003fb969e72aa1f15b20f3fc64be4",
+      "url": "https://legiscan.com/MT/bill/HB887/2025",
+      "text_url": "https://legiscan.com/MT/text/HB887/2025",
+      "research_url": "https://legiscan.com/MT/research/HB887/2025",
+      "last_action_date": "2025-05-20",
+      "last_action": "(H) Died in Process",
+      "title": "Provide property tax relief funded with lodging tax revenue"
+    },
+    "7": {
+      "relevance": 86,
+      "state": "MT",
+      "bill_number": "HB794",
+      "bill_id": 1984053,
+      "change_hash": "1fd7bab7fc5a5922825eb8887eea3028",
+      "url": "https://legiscan.com/MT/bill/HB794/2025",
+      "text_url": "https://legiscan.com/MT/text/HB794/2025",
+      "research_url": "https://legiscan.com/MT/research/HB794/2025",
+      "last_action_date": "2025-05-19",
+      "last_action": "Chapter Number Assigned",
+      "title": "Revise pharmacy laws"
+    },
+    "8": {
+      "relevance": 65,
+      "state": "MT",
+      "bill_number": "SB558",
+      "bill_id": 2016882,
+      "change_hash": "2926dc85e40e551a5e288330391b87fc",
+      "url": "https://legiscan.com/MT/bill/SB558/2025",
+      "text_url": "https://legiscan.com/MT/text/SB558/2025",
+      "research_url": "https://legiscan.com/MT/research/SB558/2025",
+      "last_action_date": "2025-05-23",
+      "last_action": "(S) Died in Process",
+      "title": "Provide a general statewide sales tax to replace school property taxes"
+    }
+  }
+}

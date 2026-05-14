@@ -2,12 +2,12 @@
   "state": "Minnesota",
   "state_code": "MN",
   "industry": "commercial lodging",
-  "source_file": "2026-05-13_Minnesota_lodging_compliance.md",
+  "source_file": "2026-05-14_Minnesota_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
-  "training_frequency": "annually",
+  "training_frequency": "every year",
   "new_hire_deadline_days": 90,
-  "new_hire_deadline_text": null,
+  "new_hire_deadline_text": "within 90 days of hire",
   "signage_required": true,
   "provider_approval_required": false,
   "provider_approval_type": null,
@@ -17,50 +17,60 @@
     "Minnesota Department of Health (MDH)"
   ],
   "applicable_to": [
-    "owners",
-    "managers",
-    "on-site employees"
+    "hotels",
+    "motels",
+    "short-term rentals"
   ],
   "required_topics": [
-    "recognizing signs of sex trafficking",
-    "understanding the legal requirements",
-    "knowing how to respond"
+    "sex trafficking prevention and response"
   ],
-  "reporting_contacts_required": [],
+  "reporting_contacts_required": [
+    {
+      "contact_name": "health.safeharbor@state.mn.us",
+      "role": "for questions or assistance with accessing the training"
+    }
+  ],
   "signage_details": {
     "languages_required": [
       "English",
-      "Spanish/Espa\u00f1ol",
+      "Spanish",
       "Somali",
       "Hmong"
     ],
     "minimum_size": null,
     "font_size": null,
-    "posting_location": "back-of-house",
+    "posting_location": "in a location where all employees will see it",
     "required_content": [
-      "Sex Trafficking Prevention Training Required"
+      "back-of-house poster"
     ]
   },
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    "Minnesota Statutes \u00a7 298E.01"
+    {
+      "statute_name": "Minnesota Sex Trafficking Prevention and Response Act",
+      "code_section": "Chapter 260, Minnesota Statutes",
+      "public_act": null
+    }
   ],
   "source_urls": [
-    "NEEDS REVIEW"
+    "http://www.health.state.mn.us/divisions/labs/health-safety/trafficking-prevention"
   ],
-  "harbor_alliance_posture": "needs-review",
-  "harbor_alliance_actions": [
-    "Review and ensure compliance with the state's requirements",
-    "Provide additional resources for employees with specific language needs"
-  ],
+  "harbor_alliance_posture": "immediate-entry",
+  "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "Costs associated with printing posters",
-    "Exceptions to training requirements"
+    {
+      "risk": "Exceptions for employees under 16 and restaurant staff",
+      "constraint": "May not be required to complete the training"
+    },
+    {
+      "risk": "No direct contact with guests or guest rooms",
+      "constraint": "May not need to complete the training"
+    }
   ],
-  "notes": [],
-  "needs_review": [
-    "Exact source URLs need confirmation",
-    "MDH approval process details are not fully specified"
-  ]
+  "notes": [
+    "The training package is available in multiple languages.",
+    "MDH does not charge a fee for the mandatory training package but may not assist with printing posters."
+  ],
+  "needs_review": []
 }

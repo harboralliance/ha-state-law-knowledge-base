@@ -1,9 +1,40 @@
-Based on the search results, there are two bills in Wyoming related to a "hotline":
+### Summary of Relevant Bills
 
-1. **HB0003**: This bill, which was assigned chapter number 62 and passed into law, is titled "Wyoming pregnancy centers-autonomy and rights." It deals with issues related to autonomy and rights of women regarding pregnancy centers.
+Based on your search query for "hotline" in Wyoming bills, there are two notable pieces of legislation:
 
-2. **HB0123**: This bill, which failed introduction on February 10th, 2026, has the title "Education savings accounts." However, it does not explicitly mention a hotline in its title or summary.
+1. **HB0003: Wyoming Pregnancy Centers - Autonomy and Rights**
+   - **Relevance:** 100%
+   - **Last Action Date:** March 6, 2026
+   - **Last Action:** Assigned Chapter Number 62 (Passed into law)
+   - **Title:** This bill aims to ensure autonomy and rights for women regarding pregnancy centers in Wyoming. It likely includes provisions that protect and support pregnant individuals.
 
-The second bill seems more directly related to a hotline as its title suggests education savings accounts. If you're looking for a specific type of hotline related to education, this might be the one you're interested in.
+2. **HB0123: Education Savings Accounts**
+   - **Relevance:** 83%
+   - **Last Action Date:** February 10, 2026
+   - **Last Action:** Failed Introduction (specifically, it failed to pass the first committee)
+   - **Title:** This bill is focused on education savings accounts. While this title does not explicitly mention a hotline, the concept of an education savings account could involve hotlines for parents or students seeking information and assistance regarding educational resources and financial support.
 
-If you need more detailed information on either of these bills or any other assistance, please let me know!
+### Detailed Information
+
+For each bill, you can access detailed information including:
+
+- **URLs:**
+  - HB0003: https://legiscan.com/WY/bill/HB0003/2026
+  - HB0123: https://legiscan.com/WY/bill/HB0123/2026
+
+- **Text URLs:**
+  - HB0003: https://legiscan.com/WY/text/HB0003/2026
+  - HB0123: https://legiscan.com/WY/text/HB0123/2026
+
+- **Research URLs:**
+  - HB0003: https://legiscan.com/WY/research/HB0003/2026
+  - HB0123: https://legiscan.com/WY/research/HB0123/2026
+
+These URLs provide comprehensive details, including the bill text, committee hearings, votes, and related legislation.
+
+### Recommendations
+
+- If you need specific provisions or details regarding a particular issue related to pregnancy centers, focus on HB0003.
+- If you are interested in education savings accounts and their potential role in providing financial support and educational assistance, investigate HB0123.
+
+By accessing the provided URLs, you can gain deeper insights into each bill and understand how they address various aspects of healthcare and education in Wyoming.

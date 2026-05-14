@@ -1,0 +1,118 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 8",
+      "relevancy": "100% - 54%",
+      "count": 8,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zbed:(pos=1) AND Zbreakfast:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "MT",
+      "bill_number": "HB524",
+      "bill_id": 1972706,
+      "change_hash": "89aaa115b893702d7737aa55ae4e92f4",
+      "url": "https://legiscan.com/MT/bill/HB524/2025",
+      "text_url": "https://legiscan.com/MT/text/HB524/2025",
+      "research_url": "https://legiscan.com/MT/research/HB524/2025",
+      "last_action_date": "2025-05-20",
+      "last_action": "(H) Died in Process",
+      "title": "Remove boarding and rooming houses from lodging requirements"
+    },
+    "1": {
+      "relevance": 98,
+      "state": "MT",
+      "bill_number": "SB363",
+      "bill_id": 1974827,
+      "change_hash": "ec51753aa542064bf9b03633f4dc6658",
+      "url": "https://legiscan.com/MT/bill/SB363/2025",
+      "text_url": "https://legiscan.com/MT/text/SB363/2025",
+      "research_url": "https://legiscan.com/MT/research/SB363/2025",
+      "last_action_date": "2025-05-23",
+      "last_action": "(H) Died in Standing Committee",
+      "title": "Revising the definition of a tourist home"
+    },
+    "2": {
+      "relevance": 94,
+      "state": "MT",
+      "bill_number": "SB161",
+      "bill_id": 1921748,
+      "change_hash": "ca155318c963da1abe439422a5bb29ce",
+      "url": "https://legiscan.com/MT/bill/SB161/2025",
+      "text_url": "https://legiscan.com/MT/text/SB161/2025",
+      "research_url": "https://legiscan.com/MT/research/SB161/2025",
+      "last_action_date": "2025-05-05",
+      "last_action": "Chapter Number Assigned",
+      "title": "Provide for regulation and sale of aquaculture"
+    },
+    "3": {
+      "relevance": 91,
+      "state": "MT",
+      "bill_number": "HB853",
+      "bill_id": 2012448,
+      "change_hash": "e26e96aaa19243dee0a8fb8f27ca27e5",
+      "url": "https://legiscan.com/MT/bill/HB853/2025",
+      "text_url": "https://legiscan.com/MT/text/HB853/2025",
+      "research_url": "https://legiscan.com/MT/research/HB853/2025",
+      "last_action_date": "2025-05-19",
+      "last_action": "Chapter Number Assigned",
+      "title": "Revise fees for licensed establishments"
+    },
+    "4": {
+      "relevance": 89,
+      "state": "MT",
+      "bill_number": "SB336",
+      "bill_id": 1972895,
+      "change_hash": "8576e46d7a379227e3ac423392ab04e7",
+      "url": "https://legiscan.com/MT/bill/SB336/2025",
+      "text_url": "https://legiscan.com/MT/text/SB336/2025",
+      "research_url": "https://legiscan.com/MT/research/SB336/2025",
+      "last_action_date": "2025-05-23",
+      "last_action": "(H) Died in Standing Committee",
+      "title": "Revise laws related to short-term rentals"
+    },
+    "5": {
+      "relevance": 85,
+      "state": "MT",
+      "bill_number": "SB285",
+      "bill_id": 1962515,
+      "change_hash": "9c3188ce642ef8679a486aa18e40e40c",
+      "url": "https://legiscan.com/MT/bill/SB285/2025",
+      "text_url": "https://legiscan.com/MT/text/SB285/2025",
+      "research_url": "https://legiscan.com/MT/research/SB285/2025",
+      "last_action_date": "2025-05-23",
+      "last_action": "(S) Died in Process",
+      "title": "Generally revise child care administrative rules"
+    },
+    "6": {
+      "relevance": 77,
+      "state": "MT",
+      "bill_number": "SB386",
+      "bill_id": 1977175,
+      "change_hash": "6c639d3d12fa449b548095dd450a781e",
+      "url": "https://legiscan.com/MT/bill/SB386/2025",
+      "text_url": "https://legiscan.com/MT/text/SB386/2025",
+      "research_url": "https://legiscan.com/MT/research/SB386/2025",
+      "last_action_date": "2025-05-23",
+      "last_action": "(S) Died in Process",
+      "title": "Provide for the Montana Local Meat Act"
+    },
+    "7": {
+      "relevance": 54,
+      "state": "MT",
+      "bill_number": "HB99",
+      "bill_id": 1897043,
+      "change_hash": "5040e8f5bc709e0b6ded00ceedb52e66",
+      "url": "https://legiscan.com/MT/bill/HB99/2025",
+      "text_url": "https://legiscan.com/MT/text/HB99/2025",
+      "research_url": "https://legiscan.com/MT/research/HB99/2025",
+      "last_action_date": "2025-04-03",
+      "last_action": "(H) Signed by Governor",
+      "title": "Revise laws related to motor vehicle laws for clarity and consistency"
+    }
+  }
+}
