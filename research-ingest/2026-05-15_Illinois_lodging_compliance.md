@@ -1,0 +1,1 @@
+The Illinois General Assembly has passed a new law that requires employers in lodging establishments, restaurants, and truck stops to provide their employees with training on human trafficking recognition and protocols for reporting it. The law, which goes into effect on January 1, 2026, also establishes penalties for violations of the law.

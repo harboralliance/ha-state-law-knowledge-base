@@ -1,38 +1,40 @@
 # Harbor Alliance Action Items
 
 ## Texas
-- **Action Items**: Ensure all employees of commercial lodging establishments with 10 or more rooms receive annual human trafficking training on identifying and responding to human trafficking.
-- **Immediate Market Entry States**: NONE
-- **States Requiring Approval/Outreach/Special Handling**: Review local compliance requirements and ensure online training options are accessible.
+**Immediate Market Entry:** NO
+
+**Action Items:**
+- Ensure compliance with HB 390 by providing annual human trafficking training to all employees, including those at establishments with fewer than 10 rooms.
+- Utilize approved training videos from the Office of the Attorney General and make them accessible online or in-person.
+- Verify that the anti-trafficking signage requirements are met.
 
 ## California
-- **Action Items**:
-  - Ensure all hotel and motel employees who interact with the public complete the required 20-minute classroom or interactive training on human trafficking.
-  - Promote outreach to hotels and motels that have not yet provided training.
-- **Immediate Market Entry States**: NONE
-- **States Requiring Approval/Outreach/Special Handling**: Review training completion records and provide support where necessary.
+**Immediate Market Entry:** YES
+
+**Action Items:**
+- Conduct initial human trafficking awareness training for all hotel and motel employees within 20 minutes, ensuring compliance with SB 970.
+- Encourage employees to participate in additional resources like the CAST hotline (1-888-373-7888) for further assistance.
 
 ## Illinois
-- **Action Items**:
-  - Provide training to all employees in lodging establishments, restaurants, and truck stops within six months of employment and every two years thereafter.
-  - Ensure compliance with the model curriculum developed by the Department of Human Services.
-- **Immediate Market Entry States**: NONE
-- **States Requiring Approval/Outreach/Special Handling**: Monitor for non-compliance and enforce penalties as necessary.
+**Immediate Market Entry:** NO
+
+**Action Items:**
+- Ensure all relevant employees complete human trafficking recognition training within six months of employment and every two years thereafter.
+- Utilize the model curriculum developed by the Department of Human Services or an approved third-party program.
+- Monitor compliance and address any non-compliance within 30 days as required.
 
 ## Minnesota
-- **Action Items**:
-  - Ensure all owners, managers, and on-site employees complete the required training within 90 days of hire and annually thereafter.
-  - Provide resources to facilitate training completion, such as virtual presentations and training companion guides.
-- **Immediate Market Entry States**: NONE
-- **States Requiring Approval/Outreach/Special Handling**: Review training records and ensure adherence to compliance requirements.
+**Immediate Market Entry:** YES
+
+**Action Items:**
+- Provide all hotel, motel, and short-term rental staff with the MN Lodging Sex Trafficking Prevention and Response Training.
+- Ensure new employees receive training within 90 days of hire and complete the requirement annually.
+- Maintain compliance by accessing the training package through MDH Learning Center.
 
 ## Connecticut
-- **Action Items**:
-  - Ensure all hotel and motel employees receive annual human trafficking training and awareness campaigns.
-  - Promote outreach to hotels and motels that have not yet provided training.
-- **Immediate Market Entry States**: NONE
-- **States Requiring Approval/Outreach/Special Handling**: Review training completion records and provide support where necessary.
+**Immediate Market Entry:** YES
 
-## Need for Review
-- **Illinois**: Needs additional details on enforcement mechanisms from the Department of Human Services.
-- **Minnesota**: Needs confirmation of resources provided by MDH and any additional costs for compliance.
+**Action Items:**
+- Provide mandatory human trafficking training for foster parents, law enforcement, healthcare providers, and hotel and motel employees.
+- Implement an ongoing awareness campaign to reinforce training and ensure continuous education.
+- Ensure all staff are compliant with reporting requirements as mandated by state legislation.

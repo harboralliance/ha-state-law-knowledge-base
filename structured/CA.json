@@ -2,54 +2,58 @@
   "state": "California",
   "state_code": "CA",
   "industry": "commercial lodging",
-  "source_file": "2026-05-14_California_lodging_compliance.md",
-  "training_required": false,
-  "training_duration_minutes": null,
+  "source_file": "2026-05-15_California_lodging_compliance.md",
+  "training_required": true,
+  "training_duration_minutes": 20,
   "training_frequency": null,
   "new_hire_deadline_days": null,
-  "new_hire_deadline_text": null,
+  "new_hire_deadline_text": "NEEDS REVIEW",
   "signage_required": true,
   "provider_approval_required": false,
   "provider_approval_type": null,
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "Department of Justice"
+    "California Attorney General's Office"
   ],
   "applicable_to": [
     "hotels",
     "motels",
-    "bed and breakfast inns"
+    "bed and breakfasts"
   ],
   "required_topics": [
-    "human trafficking prevention notice"
+    "human trafficking awareness"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
     "languages_required": [
       "English",
-      "Spanish"
+      "Spanish",
+      "additional Asian, African, and Middle Eastern languages"
     ],
     "minimum_size": null,
     "font_size": null,
-    "posting_location": null,
+    "posting_location": "NEEDS REVIEW",
     "required_content": [
-      "telephone hotline numbers for help or reporting unlawful activity"
+      "telephone hotline numbers for help or reporting human trafficking activity"
     ]
   },
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    "California law requiring posting of human trafficking prevention notices"
+    "California Civil Code Section 52.6 (Senate Bill 970, 2018)"
   ],
   "source_urls": [
-    "https://www.doj.ca.gov/victimservices/humantrafficking/prevention-notice.html"
+    "https://oag.ca.gov/human-trafficking/model-notice"
   ],
-  "harbor_alliance_posture": "immediate-entry",
+  "harbor_alliance_posture": "needs-review",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "Failure to post the required notice can result in penalties."
+    "employees must receive new training by January 1, 2020",
+    "post signage in multiple languages"
   ],
-  "notes": [],
+  "notes": [
+    "Employees who provided the required training before or on January 1, 2020, do not need to repeat it."
+  ],
   "needs_review": []
 }

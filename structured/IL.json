@@ -2,10 +2,10 @@
   "state": "Illinois",
   "state_code": "IL",
   "industry": "commercial lodging",
-  "source_file": "2026-05-14_Illinois_lodging_compliance.md",
+  "source_file": "2026-05-15_Illinois_lodging_compliance.md",
   "training_required": true,
-  "training_duration_minutes": 20,
-  "training_frequency": "every two years",
+  "training_duration_minutes": null,
+  "training_frequency": null,
   "new_hire_deadline_days": null,
   "new_hire_deadline_text": null,
   "signage_required": false,
@@ -14,8 +14,7 @@
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "local governments",
-    "law enforcement agencies"
+    "Illinois Attorney General's Office"
   ],
   "applicable_to": [
     "lodging establishments",
@@ -23,10 +22,8 @@
     "truck stops"
   ],
   "required_topics": [
-    "human trafficking definitions",
-    "identifying individuals at risk",
-    "differences between labor and sex trafficking",
-    "reporting responsibilities"
+    "human trafficking recognition",
+    "protocols for reporting it"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
@@ -39,19 +36,16 @@
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    "Human Trafficking Recognition Training Act (P.A. 101-18)"
+    "Statute: Public Act 98-0476"
   ],
   "source_urls": [
-    "https://www.ilga.gov/legislation/ilcs/pdf/825_101.pdf"
+    "https://www.ilga.gov/legislation/publicacts/2023/PubAct98-0476.pdf"
   ],
-  "harbor_alliance_posture": "needs-review",
+  "harbor_alliance_posture": "approval-required",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "compliance monitoring by local governments and law enforcement"
+    "Employers must provide required training by January 1, 2026."
   ],
-  "notes": [
-    "Initial training must be completed within six months of employment.",
-    "Ongoing training every two years if still employed."
-  ],
+  "notes": [],
   "needs_review": []
 }
