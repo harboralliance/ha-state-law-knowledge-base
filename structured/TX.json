@@ -2,45 +2,55 @@
   "state": "Texas",
   "state_code": "TX",
   "industry": "commercial lodging",
-  "source_file": "2026-05-15_Texas_lodging_compliance.md",
+  "source_file": "2026-05-17_Texas_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
   "training_frequency": "annual",
   "new_hire_deadline_days": 90,
-  "new_hire_deadline_text": "within 90 days of being hired",
-  "signage_required": false,
+  "new_hire_deadline_text": "by their 90th day of employment",
+  "signage_required": true,
   "provider_approval_required": true,
-  "provider_approval_type": "OAG approval",
-  "approval_authority": "Office of the Attorney General (OAG)",
+  "provider_approval_type": "approved providers listed in the note",
+  "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "Texas Department of Licensing and Regulation"
+    "OAG",
+    "law enforcement agencies"
   ],
-  "applicable_to": [],
+  "applicable_to": [
+    "commercial lodging establishments with 10 or more rooms"
+  ],
   "required_topics": [
-    "human trafficking reporting"
+    "Identifying individuals at risk for human trafficking",
+    "Reporting and responding to suspected human trafficking"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
-    "languages_required": [],
+    "languages_required": null,
     "minimum_size": null,
     "font_size": null,
-    "posting_location": null,
+    "posting_location": "Approved commercial lodging establishments must display specific human trafficking awareness signage",
     "required_content": []
   },
-  "recordkeeping_requirements": [],
+  "recordkeeping_requirements": [
+    "Employees must retain proof of completion for review by the OAG and law enforcement agencies"
+  ],
   "certificate_requirements": [],
   "law_references": [
     "House Bill 390"
   ],
   "source_urls": [
-    "https://www.texastribune.org/2023/10/24/texas-house-bill-390/"
+    "NEEDS REVIEW"
   ],
-  "harbor_alliance_posture": "approval-required",
+  "harbor_alliance_posture": "needs-review",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "cost variability of training"
+    "Cost varies depending on the provider and course",
+    "Some courses may require payment"
   ],
   "notes": [],
-  "needs_review": []
+  "needs_review": [
+    "Source URLs",
+    "Specific signage requirements details"
+  ]
 }

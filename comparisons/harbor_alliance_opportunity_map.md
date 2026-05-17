@@ -1,15 +1,15 @@
-The search results indicate that there are two bills related to the keyword "hotline" in Wyoming:
+Based on the search results provided, there are two key bills in Wyoming related to hotlines or healthcare issues:
 
-1. **HB0003**: 
-   - Title: Wyoming pregnancy centers-autonomy and rights.
-   - Last Action Date: March 6, 2026
-   - Status: Assigned Chapter Number 62
+1. **HB0003 - Wyoming Pregnancy Centers-Autonomy and Rights**
+   - **Relevance**: 100%
+   - **Status**: Assigned Chapter Number 62
+   - **Last Action Date**: March 6, 2026
+   - **Title**: This bill appears to be focused on protecting the autonomy and rights of pregnancy centers in Wyoming. It likely includes provisions that support healthcare providers and women’s reproductive choices.
 
-2. **HB0123**: 
-   - Title: Education savings accounts.
-   - Last Action Date: February 10, 2026
-   - Status: Failed Introduction (specifically, it failed to pass the first committee)
+2. **HB0123 - Education Savings Accounts**
+   - **Relevance**: 83%
+   - **Status**: Failed Introduction (26-35-1-0-0)
+   - **Last Action Date**: February 10, 2026
+   - **Title**: This bill is about creating education savings accounts. While it does not explicitly mention a hotline in its title or summary, it could involve establishing systems that support educational planning and potentially include resources for parents seeking information and assistance.
 
-The first bill seems to be related to the rights and autonomy of pregnancy centers in Wyoming. The second bill pertains to education savings accounts, which might involve creating or modifying systems that allow parents to save money for their children's future educational needs.
-
-If you have any specific questions about these bills or need further information, feel free to ask!
+For more detailed information on each bill, you can visit the provided URLs. These bills are currently in different stages of consideration by the Wyoming legislature, with HB0003 being closer to becoming law.

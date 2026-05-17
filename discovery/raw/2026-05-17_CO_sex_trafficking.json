@@ -1,0 +1,79 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 5",
+      "relevancy": "100% - 97%",
+      "count": 5,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zsex:(pos=1) AND Ztraffick:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "CO",
+      "bill_number": "HB1257",
+      "bill_id": 2119895,
+      "change_hash": "fd0695a0e67c160abe3c3f117f97f562",
+      "url": "https://legiscan.com/CO/bill/HB1257/2026",
+      "text_url": "https://legiscan.com/CO/text/HB1257/2026",
+      "research_url": "https://legiscan.com/CO/research/HB1257/2026",
+      "last_action_date": "2026-03-30",
+      "last_action": "Senate Second Reading Passed - No Amendments",
+      "title": "Local Regulation of Massage Facilities"
+    },
+    "1": {
+      "relevance": 99,
+      "state": "CO",
+      "bill_number": "SB097",
+      "bill_id": 2114865,
+      "change_hash": "4c797ae9c418a5690f59d4bbb1273417",
+      "url": "https://legiscan.com/CO/bill/SB097/2026",
+      "text_url": "https://legiscan.com/CO/text/SB097/2026",
+      "research_url": "https://legiscan.com/CO/research/SB097/2026",
+      "last_action_date": "2026-03-11",
+      "last_action": "Senate Committee on Judiciary Postpone Indefinitely",
+      "title": "Decriminalize Adult Commercial Sexual Activity"
+    },
+    "2": {
+      "relevance": 99,
+      "state": "CO",
+      "bill_number": "SB075",
+      "bill_id": 2100595,
+      "change_hash": "af5693de0292d40d0c6ea09367fa487e",
+      "url": "https://legiscan.com/CO/bill/SB075/2026",
+      "text_url": "https://legiscan.com/CO/text/SB075/2026",
+      "research_url": "https://legiscan.com/CO/research/SB075/2026",
+      "last_action_date": "2026-05-14",
+      "last_action": "Senate Committee on Appropriations Lay Over Unamended - Amendment(s) Failed",
+      "title": "Trafficking &amp; Commercial Sexual Activity Offenses"
+    },
+    "3": {
+      "relevance": 99,
+      "state": "CO",
+      "bill_number": "SB015",
+      "bill_id": 2079671,
+      "change_hash": "3f49f16e3170d19390c9a5d4c9aa690f",
+      "url": "https://legiscan.com/CO/bill/SB015/2026",
+      "text_url": "https://legiscan.com/CO/text/SB015/2026",
+      "research_url": "https://legiscan.com/CO/research/SB015/2026",
+      "last_action_date": "2026-05-13",
+      "last_action": "Senate Considered House Amendments - Result was to Concur - Repass",
+      "title": "Commercial Sexual Activity with a Child Offenses"
+    },
+    "4": {
+      "relevance": 97,
+      "state": "CO",
+      "bill_number": "SB115",
+      "bill_id": 2118473,
+      "change_hash": "879e99f680d5f1479e9d5ce635c2918c",
+      "url": "https://legiscan.com/CO/bill/SB115/2026",
+      "text_url": "https://legiscan.com/CO/text/SB115/2026",
+      "research_url": "https://legiscan.com/CO/research/SB115/2026",
+      "last_action_date": "2026-05-13",
+      "last_action": "Senate Considered House Amendments - Result was to Concur - Repass",
+      "title": "Post-Conviction Relief for Certain Offenders"
+    }
+  }
+}

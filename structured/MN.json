@@ -2,12 +2,12 @@
   "state": "Minnesota",
   "state_code": "MN",
   "industry": "commercial lodging",
-  "source_file": "2026-05-15_Minnesota_lodging_compliance.md",
+  "source_file": "2026-05-17_Minnesota_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
-  "training_frequency": "annually",
+  "training_frequency": "annual",
   "new_hire_deadline_days": 90,
-  "new_hire_deadline_text": null,
+  "new_hire_deadline_text": "within 90 days of hire",
   "signage_required": true,
   "provider_approval_required": false,
   "provider_approval_type": null,
@@ -17,44 +17,42 @@
     "Minnesota Department of Health"
   ],
   "applicable_to": [
-    "owners",
-    "managers",
-    "on-site employees",
-    "new employees (within 90 days)"
+    "hotels",
+    "motels",
+    "short-term rentals"
   ],
   "required_topics": [
-    "sex trafficking prevention and response"
+    "recognizing signs of sex trafficking",
+    "responding effectively to sex trafficking"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
     "languages_required": [
+      "English",
       "Spanish",
-      "Hmong",
-      "Somali"
+      "Somali",
+      "Hmong"
     ],
     "minimum_size": null,
     "font_size": null,
-    "posting_location": [
-      "back of house",
-      "housekeeping",
-      "restaurant/bar",
-      "front desk/lobby",
-      "security"
-    ],
-    "required_content": []
+    "posting_location": "back of house",
+    "required_content": [
+      "trainings for staff"
+    ]
   },
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    "Minnesota Law"
+    "Minnesota Statutes, section 626.185"
   ],
-  "source_urls": [],
+  "source_urls": [
+    "https://www.health.state.mn.us/publications/7490.html"
+  ],
   "harbor_alliance_posture": "approval-required",
-  "harbor_alliance_actions": [
-    "NEEDS REVIEW"
-  ],
+  "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "costs associated with training and signage, employee exemptions based on age and job role"
+    "seasonal employees",
+    "contracted workers"
   ],
   "notes": [],
   "needs_review": []

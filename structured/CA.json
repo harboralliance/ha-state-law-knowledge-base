@@ -2,13 +2,13 @@
   "state": "California",
   "state_code": "CA",
   "industry": "commercial lodging",
-  "source_file": "2026-05-15_California_lodging_compliance.md",
+  "source_file": "2026-05-17_California_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": 20,
   "training_frequency": null,
   "new_hire_deadline_days": null,
-  "new_hire_deadline_text": "NEEDS REVIEW",
-  "signage_required": true,
+  "new_hire_deadline_text": null,
+  "signage_required": false,
   "provider_approval_required": false,
   "provider_approval_type": null,
   "approval_authority": null,
@@ -17,43 +17,29 @@
     "California Attorney General's Office"
   ],
   "applicable_to": [
-    "hotels",
-    "motels",
-    "bed and breakfasts"
+    "hotel and motel employers",
+    "employees who are likely to interact with victims"
   ],
-  "required_topics": [
-    "human trafficking awareness"
-  ],
+  "required_topics": [],
   "reporting_contacts_required": [],
   "signage_details": {
-    "languages_required": [
-      "English",
-      "Spanish",
-      "additional Asian, African, and Middle Eastern languages"
-    ],
+    "languages_required": [],
     "minimum_size": null,
     "font_size": null,
-    "posting_location": "NEEDS REVIEW",
-    "required_content": [
-      "telephone hotline numbers for help or reporting human trafficking activity"
-    ]
+    "posting_location": null,
+    "required_content": []
   },
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    "California Civil Code Section 52.6 (Senate Bill 970, 2018)"
+    "Human Trafficking Prevention Act"
   ],
   "source_urls": [
     "https://oag.ca.gov/human-trafficking/model-notice"
   ],
-  "harbor_alliance_posture": "needs-review",
+  "harbor_alliance_posture": null,
   "harbor_alliance_actions": [],
-  "risks_or_constraints": [
-    "employees must receive new training by January 1, 2020",
-    "post signage in multiple languages"
-  ],
-  "notes": [
-    "Employees who provided the required training before or on January 1, 2020, do not need to repeat it."
-  ],
+  "risks_or_constraints": [],
+  "notes": [],
   "needs_review": []
 }
