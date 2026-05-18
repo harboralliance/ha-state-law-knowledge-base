@@ -2,70 +2,73 @@
   "state": "Connecticut",
   "state_code": "CT",
   "industry": "commercial lodging",
-  "source_file": "2026-05-17_Connecticut_lodging_compliance.md",
+  "source_file": "2026-05-18_Connecticut_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
   "training_frequency": "annually",
   "new_hire_deadline_days": null,
   "new_hire_deadline_text": null,
-  "signage_required": false,
-  "provider_approval_required": true,
-  "provider_approval_type": "hotel training program",
-  "approval_authority": "Department of Children and Families (DCF)",
+  "signage_required": true,
+  "provider_approval_required": false,
+  "provider_approval_type": null,
+  "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "Department of Children and Families (DCF)",
-    "law enforcement agencies"
+    "Department of Public Health (DPH)"
   ],
   "applicable_to": [
-    "Child Protective Services staff",
-    "foster parents",
-    "service providers",
-    "schools",
-    "law enforcement",
-    "hospital and medical staff",
-    "hospitality industry professionals"
+    "Hotels",
+    "Motels",
+    "Inns",
+    "Similar lodging establishments"
   ],
   "required_topics": [
-    "Introduction to Child Trafficking in Connecticut",
-    "Introduction to Human Trafficking in Connecticut for Law Enforcement",
-    "Emergency Medical Services training"
+    "Human trafficking awareness",
+    "Child Protective Services training",
+    "Lodging business compliance",
+    "Law enforcement training",
+    "Emergency medical services personnel training",
+    "Healthcare providers training",
+    "Schools training",
+    "Foster parents training",
+    "Youth programs training"
   ],
-  "reporting_contacts_required": [],
+  "reporting_contacts_required": [
+    "State attorneys",
+    "Local law enforcement"
+  ],
   "signage_details": {
     "languages_required": [],
     "minimum_size": null,
     "font_size": null,
-    "posting_location": null,
-    "required_content": []
+    "posting_location": "Annually",
+    "required_content": [
+      "Human trafficking awareness signs"
+    ]
   },
   "recordkeeping_requirements": [
-    "Ongoing monitoring of efforts to combat trafficking",
-    "Mandatory data reporting"
+    "Guest transactions and receipts for at least six months"
   ],
   "certificate_requirements": [],
   "law_references": [
-    "Public Act 17-32",
-    "Public Act 16-71",
-    "Public Act 15-195",
-    "Public Act 14-186",
-    "Public Act 13-166",
-    "Public Act 12-141",
-    "Public Act 11-180",
-    "Public Act 10-115"
+    {
+      "name": "Human and Sex Trafficking Legislation",
+      "source_url": "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/human-and-sex-trafficking-legislation"
+    }
   ],
   "source_urls": [
     "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/trainings-for-providers",
     "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/human-and-sex-trafficking-legislation"
   ],
-  "harbor_alliance_posture": "approval-required",
-  "harbor_alliance_actions": [],
-  "risks_or_constraints": [
-    "Need for ongoing compliance and reporting",
-    "Potential legal penalties for non-compliance"
+  "harbor_alliance_posture": "immediate-entry",
+  "harbor_alliance_actions": [
+    "Training for Child Protective Services staff on human trafficking",
+    "Annual training for lodging businesses to provide awareness campaigns and keep guest transactions and receipts for at least six months",
+    "Signage requirements for hotels, motels, inns, and similar lodging establishments"
   ],
+  "risks_or_constraints": [],
   "notes": [
-    "Hotel training program is required annually by Public Act 16-71."
+    "Training programs are available for various professionals including Child Protective Services staff, foster parents, service providers, law enforcement, emergency medical services personnel, healthcare providers, schools, and youth prevention programs."
   ],
   "needs_review": []
 }

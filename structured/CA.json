@@ -2,44 +2,59 @@
   "state": "California",
   "state_code": "CA",
   "industry": "commercial lodging",
-  "source_file": "2026-05-17_California_lodging_compliance.md",
+  "source_file": "2026-05-18_California_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": 20,
   "training_frequency": null,
-  "new_hire_deadline_days": null,
-  "new_hire_deadline_text": null,
-  "signage_required": false,
+  "new_hire_deadline_days": 180,
+  "new_hire_deadline_text": "six months of their employment",
+  "signage_required": true,
   "provider_approval_required": false,
   "provider_approval_type": null,
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "California Attorney General's Office"
+    "California Department of Justice"
   ],
   "applicable_to": [
     "hotel and motel employers",
-    "employees who are likely to interact with victims"
+    "employees likely to interact with victims of trafficking",
+    "hotels, motels, and bed and breakfast inns"
   ],
-  "required_topics": [],
+  "required_topics": [
+    "human trafficking awareness",
+    "response to potential indicators of human trafficking"
+  ],
   "reporting_contacts_required": [],
   "signage_details": {
-    "languages_required": [],
+    "languages_required": [
+      "English",
+      "Spanish"
+    ],
     "minimum_size": null,
     "font_size": null,
     "posting_location": null,
-    "required_content": []
+    "required_content": [
+      "human trafficking hotline numbers",
+      "how victims can seek help or report unlawful activity"
+    ]
   },
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    "Human Trafficking Prevention Act"
+    "SB 970 (2019)",
+    "Senate Bill 1193 (2013)"
   ],
   "source_urls": [
-    "https://oag.ca.gov/human-trafficking/model-notice"
+    "https://www.legislature.ca.gov/billtext/2019_2020/senate/bill/970",
+    "https://www.legislature.ca.gov/billtext/2013_2014/senate/bill/1193"
   ],
   "harbor_alliance_posture": null,
   "harbor_alliance_actions": [],
-  "risks_or_constraints": [],
+  "risks_or_constraints": [
+    "non-compliance with training requirements can lead to legal consequences",
+    "non-compliance with signage requirements can lead to penalties from the California Department of Justice"
+  ],
   "notes": [],
   "needs_review": []
 }
