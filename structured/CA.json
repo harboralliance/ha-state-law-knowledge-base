@@ -2,28 +2,26 @@
   "state": "California",
   "state_code": "CA",
   "industry": "commercial lodging",
-  "source_file": "2026-05-18_California_lodging_compliance.md",
+  "source_file": "2026-05-19_California_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": 20,
   "training_frequency": null,
   "new_hire_deadline_days": 180,
-  "new_hire_deadline_text": "six months of their employment",
+  "new_hire_deadline_text": "within six months of employment",
   "signage_required": true,
   "provider_approval_required": false,
   "provider_approval_type": null,
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "California Department of Justice"
+    "California Attorney General's Office"
   ],
   "applicable_to": [
-    "hotel and motel employers",
-    "employees likely to interact with victims of trafficking",
-    "hotels, motels, and bed and breakfast inns"
+    "hotel and motel employees",
+    "employees likely to interact or come into contact with victims of human trafficking"
   ],
   "required_topics": [
-    "human trafficking awareness",
-    "response to potential indicators of human trafficking"
+    "human trafficking awareness"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
@@ -33,28 +31,30 @@
     ],
     "minimum_size": null,
     "font_size": null,
-    "posting_location": null,
+    "posting_location": "in all required languages",
     "required_content": [
-      "human trafficking hotline numbers",
-      "how victims can seek help or report unlawful activity"
+      "telephone hotline numbers for help or reporting unlawful activity"
     ]
   },
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    "SB 970 (2019)",
-    "Senate Bill 1193 (2013)"
+    "California Civil Code Section 52.6",
+    "SB 970",
+    "AB 260 (2017)"
   ],
   "source_urls": [
-    "https://www.legislature.ca.gov/billtext/2019_2020/senate/bill/970",
-    "https://www.legislature.ca.gov/billtext/2013_2014/senate/bill/1193"
+    "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=52.6.&loc=Civ%20Cod.&division=1.&part=2.&chapter=4.",
+    "http://www.nationalhumantrafficking.org/get-help",
+    "https://oag.ca.gov/human-trafficking/model-notice"
   ],
-  "harbor_alliance_posture": null,
+  "harbor_alliance_posture": "immediate-entry",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "non-compliance with training requirements can lead to legal consequences",
-    "non-compliance with signage requirements can lead to penalties from the California Department of Justice"
+    "non-compliance can result in fines or other legal actions"
   ],
-  "notes": [],
+  "notes": [
+    "For the most up-to-date and detailed information, please consult the California Office of Attorney General's website or contact their hotline directly."
+  ],
   "needs_review": []
 }

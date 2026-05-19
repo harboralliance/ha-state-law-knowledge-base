@@ -1,0 +1,40 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 2",
+      "relevancy": "100% - 95%",
+      "count": 2,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zcommerci:(pos=1) AND Zlodg:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "CO",
+      "bill_number": "SB146",
+      "bill_id": 2137505,
+      "change_hash": "e537b6b111695d52f7c89d378336b9be",
+      "url": "https://legiscan.com/CO/bill/SB146/2026",
+      "text_url": "https://legiscan.com/CO/text/SB146/2026",
+      "research_url": "https://legiscan.com/CO/research/SB146/2026",
+      "last_action_date": "2026-05-06",
+      "last_action": "House Third Reading Passed - No Amendments",
+      "title": "Restrict Single-Use Food Serviceware Distribution"
+    },
+    "1": {
+      "relevance": 95,
+      "state": "CO",
+      "bill_number": "HB1426",
+      "bill_id": 2146534,
+      "change_hash": "f12d73239701066c29c924c7b7ca7c3f",
+      "url": "https://legiscan.com/CO/bill/HB1426/2026",
+      "text_url": "https://legiscan.com/CO/text/HB1426/2026",
+      "research_url": "https://legiscan.com/CO/research/HB1426/2026",
+      "last_action_date": "2026-05-13",
+      "last_action": "House Considered Senate Amendments - Result was to Concur - Repass",
+      "title": "Department of Law Legislative Report"
+    }
+  }
+}

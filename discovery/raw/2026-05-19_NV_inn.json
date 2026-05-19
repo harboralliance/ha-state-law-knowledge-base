@@ -1,0 +1,53 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 3",
+      "relevancy": "100% - 77%",
+      "count": 3,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zinn:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "NV",
+      "bill_number": "AB266",
+      "bill_id": 1977678,
+      "change_hash": "cde7b2b67c722dff88380102702783d9",
+      "url": "https://legiscan.com/NV/bill/AB266/2025",
+      "text_url": "https://legiscan.com/NV/text/AB266/2025",
+      "research_url": "https://legiscan.com/NV/research/AB266/2025",
+      "last_action_date": "2025-05-30",
+      "last_action": "Chapter 121.",
+      "title": "Makes revisions relating to breastfeeding. (BDR 40-595)"
+    },
+    "1": {
+      "relevance": 96,
+      "state": "NV",
+      "bill_number": "SB264",
+      "bill_id": 1989833,
+      "change_hash": "68057361ec91582d70611b3d2232778f",
+      "url": "https://legiscan.com/NV/bill/SB264/2025",
+      "text_url": "https://legiscan.com/NV/text/SB264/2025",
+      "research_url": "https://legiscan.com/NV/research/SB264/2025",
+      "last_action_date": "2025-04-12",
+      "last_action": "(Pursuant to Joint Standing Rule No. 14.3.1, no further action allowed.)",
+      "title": "Revises provisions relating to crimes against property. (BDR 15-219)"
+    },
+    "2": {
+      "relevance": 77,
+      "state": "NV",
+      "bill_number": "SB457",
+      "bill_id": 2021134,
+      "change_hash": "e2e098b4c6684bd8459bb8fc31f0fc55",
+      "url": "https://legiscan.com/NV/bill/SB457/2025",
+      "text_url": "https://legiscan.com/NV/text/SB457/2025",
+      "research_url": "https://legiscan.com/NV/research/SB457/2025",
+      "last_action_date": "2025-06-04",
+      "last_action": "From printer. To reengrossment. Reengrossed. Second reprint.",
+      "title": "Revises provisions relating to public safety. (BDR 15-1038)"
+    }
+  }
+}

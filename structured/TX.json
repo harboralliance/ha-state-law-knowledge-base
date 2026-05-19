@@ -2,47 +2,54 @@
   "state": "Texas",
   "state_code": "TX",
   "industry": "commercial lodging",
-  "source_file": "2026-05-18_Texas_lodging_compliance.md",
+  "source_file": "2026-05-19_Texas_lodging_compliance.md",
   "training_required": true,
-  "training_duration_minutes": 22,
-  "training_frequency": "annual",
+  "training_duration_minutes": null,
+  "training_frequency": "annually",
   "new_hire_deadline_days": null,
   "new_hire_deadline_text": null,
   "signage_required": false,
-  "provider_approval_required": false,
-  "provider_approval_type": null,
-  "approval_authority": null,
-  "approval_contact": null,
+  "provider_approval_required": true,
+  "provider_approval_type": "approved training videos",
+  "approval_authority": "Office of the Attorney General (OAG)",
+  "approval_contact": "[email\u00a0protected]",
   "enforcing_agencies": [
-    "Texas Department of Public Safety",
-    "Office of the Attorney General"
+    "Office of the Attorney General (OAG)"
   ],
   "applicable_to": [
     "commercial lodging establishments with 10 or more rooms"
   ],
   "required_topics": [
-    "human trafficking training"
+    "human trafficking"
   ],
-  "reporting_contacts_required": true,
+  "reporting_contacts_required": [],
   "signage_details": {
-    "languages_required": [],
+    "languages_required": [
+      "English",
+      "Spanish"
+    ],
     "minimum_size": null,
     "font_size": null,
     "posting_location": null,
     "required_content": []
   },
-  "recordkeeping_requirements": [],
-  "certificate_requirements": [],
+  "recordkeeping_requirements": [
+    "retain copies of each annual certificate for review by the OAG and local, state, and federal law enforcement"
+  ],
+  "certificate_requirements": [
+    {
+      "provider": "approved training providers",
+      "content": "a certificate of completion to every employee who completes the training, including the date and title of the course"
+    }
+  ],
   "law_references": [
     "House Bill 390"
   ],
-  "source_urls": [
-    "https://www.texasattorneygeneral.gov/programs/human-trafficking-training"
-  ],
-  "harbor_alliance_posture": "needs-review",
+  "source_urls": [],
+  "harbor_alliance_posture": "approval-required",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "state-controlled training requirement may impact business operations and costs"
+    "the need for annual training and the requirement to retain certificates for review by law enforcement"
   ],
   "notes": [],
   "needs_review": []
