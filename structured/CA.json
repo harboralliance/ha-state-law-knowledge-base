@@ -2,59 +2,67 @@
   "state": "California",
   "state_code": "CA",
   "industry": "commercial lodging",
-  "source_file": "2026-05-19_California_lodging_compliance.md",
+  "source_file": "2026-05-25_California_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": 20,
   "training_frequency": null,
-  "new_hire_deadline_days": 180,
-  "new_hire_deadline_text": "within six months of employment",
+  "new_hire_deadline_days": null,
+  "new_hire_deadline_text": null,
   "signage_required": true,
   "provider_approval_required": false,
   "provider_approval_type": null,
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "California Attorney General's Office"
+    "Office of the Attorney General"
   ],
   "applicable_to": [
-    "hotel and motel employees",
-    "employees likely to interact or come into contact with victims of human trafficking"
+    "Hotels",
+    "Motels",
+    "Bed and Breakfast Inns"
   ],
-  "required_topics": [
-    "human trafficking awareness"
+  "required_topics": [],
+  "reporting_contacts_required": [
+    {
+      "name": "National Human Trafficking Resource Center",
+      "phone": "1-888-373-7888",
+      "text": "Be Free or 233733"
+    },
+    {
+      "name": "California Coalition to Abolish Slavery and Trafficking (CAST)",
+      "phone": "1-888-KEY-2FRE(EDOM) or 1-888-539-2373"
+    }
   ],
-  "reporting_contacts_required": [],
   "signage_details": {
     "languages_required": [
       "English",
-      "Spanish"
+      "Spanish",
+      "Arabic",
+      "Brazilian Portuguese",
+      "Cambodian",
+      "Chinese"
     ],
     "minimum_size": null,
     "font_size": null,
-    "posting_location": "in all required languages",
+    "posting_location": null,
     "required_content": [
-      "telephone hotline numbers for help or reporting unlawful activity"
+      "Model notice for download on the California Attorney General's website"
     ]
   },
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    "California Civil Code Section 52.6",
-    "SB 970",
-    "AB 260 (2017)"
+    "Human trafficking laws and regulations in California"
   ],
   "source_urls": [
-    "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=52.6.&loc=Civ%20Cod.&division=1.&part=2.&chapter=4.",
-    "http://www.nationalhumantrafficking.org/get-help",
-    "https://oag.ca.gov/human-trafficking/model-notice"
+    "https://www.oag.ca.gov/human-trafficking-resources",
+    "https://www.nationalhumantraffickinghotline.org/"
   ],
-  "harbor_alliance_posture": "immediate-entry",
+  "harbor_alliance_posture": "needs-review",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "non-compliance can result in fines or other legal actions"
+    "Failure to comply with posting requirements can result in penalties."
   ],
-  "notes": [
-    "For the most up-to-date and detailed information, please consult the California Office of Attorney General's website or contact their hotline directly."
-  ],
+  "notes": [],
   "needs_review": []
 }

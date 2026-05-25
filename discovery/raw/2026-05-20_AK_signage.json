@@ -1,0 +1,53 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 3",
+      "relevancy": "100% - 91%",
+      "count": 3,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zsignag:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "AK",
+      "bill_number": "SB9",
+      "bill_id": 1912501,
+      "change_hash": "58aad791967fda37ca417d4deb137da4",
+      "url": "https://legiscan.com/AK/bill/SB9/2025",
+      "text_url": "https://legiscan.com/AK/text/SB9/2025",
+      "research_url": "https://legiscan.com/AK/research/SB9/2025",
+      "last_action_date": "2026-05-19",
+      "last_action": "AWAITING TRANSMITTAL TO GOV",
+      "title": "Surrender Of Infants; Inf. Safety Device"
+    },
+    "1": {
+      "relevance": 91,
+      "state": "AK",
+      "bill_number": "HB64",
+      "bill_id": 1940616,
+      "change_hash": "b08aa3ae88c3a4f56d161e09153bba88",
+      "url": "https://legiscan.com/AK/bill/HB64/2025",
+      "text_url": "https://legiscan.com/AK/text/HB64/2025",
+      "research_url": "https://legiscan.com/AK/research/HB64/2025",
+      "last_action_date": "2026-02-04",
+      "last_action": "COSPONSOR(S): ALLARD",
+      "title": "Surrender Of Infants; Inf. Safety Device"
+    },
+    "2": {
+      "relevance": 91,
+      "state": "AK",
+      "bill_number": "HB79",
+      "bill_id": 1950508,
+      "change_hash": "47a5e7af68618b95c2423385b3d8ae66",
+      "url": "https://legiscan.com/AK/bill/HB79/2025",
+      "text_url": "https://legiscan.com/AK/text/HB79/2025",
+      "research_url": "https://legiscan.com/AK/research/HB79/2025",
+      "last_action_date": "2026-05-19",
+      "last_action": "CONCUR MESSAGE READ AND HELD",
+      "title": "Naming Vic Fischer Shoup Bay Marine Park"
+    }
+  }
+}

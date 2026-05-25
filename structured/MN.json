@@ -2,7 +2,7 @@
   "state": "Minnesota",
   "state_code": "MN",
   "industry": "commercial lodging",
-  "source_file": "2026-05-19_Minnesota_lodging_compliance.md",
+  "source_file": "2026-05-25_Minnesota_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
   "training_frequency": "annually",
@@ -17,43 +17,52 @@
     "Minnesota Department of Health (MDH)"
   ],
   "applicable_to": [
-    "hotel",
-    "motel",
-    "short-term rental staff"
+    "hotel owners",
+    "managers",
+    "on-site employees"
   ],
   "required_topics": [
-    "identification and prevention of sex trafficking",
-    "appropriate responses to potential incidents"
+    "identifying signs of sex trafficking",
+    "responding appropriately",
+    "understanding the legal obligations"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
     "languages_required": [
       "English",
       "Spanish",
-      "Somali",
-      "Hmong"
+      "Hmong",
+      "Somali"
     ],
     "minimum_size": null,
     "font_size": null,
-    "posting_location": "back-of-house",
-    "required_content": [
-      "Minnesota Lodging Sex Trafficking Prevention and Response Training Package"
-    ]
+    "posting_location": "prominent locations",
+    "required_content": []
   },
-  "recordkeeping_requirements": [],
+  "recordkeeping_requirements": [
+    "roster of names with dates of completion, kept on file for inspections"
+  ],
   "certificate_requirements": [],
   "law_references": [
-    "Minnesota Statutes, section 169.372"
+    {
+      "statute_name": "Minnesota Statutes section 627H.04"
+    }
   ],
   "source_urls": [
-    "https://www.health.state.mn.us/divs/ldh/hcr/cos/hrtprr.html"
+    "http://www.health.state.mn.us/divs/eh/sext/trafficking/training.html",
+    "https://www.dhs.mn.gov/dhs/covid19/resources-for-businesses"
   ],
-  "harbor_alliance_posture": "immediate-entry",
-  "harbor_alliance_actions": [],
+  "harbor_alliance_posture": "approval-required",
+  "harbor_alliance_actions": [
+    "implementing mandatory training and signage requirements"
+  ],
   "risks_or_constraints": [
-    "cost of compliance for licensees (printing posters)",
-    "need for annual retraining"
+    "employees under 16 years old unless they clean rooms may be exempt from direct contact requirements",
+    "printing posters must be paid for by licensees"
   ],
-  "notes": [],
+  "notes": [
+    "The Minnesota Department of Health provides the training package free of charge",
+    "Updates to the training materials are provided annually by November 1st"
+  ],
   "needs_review": []
 }

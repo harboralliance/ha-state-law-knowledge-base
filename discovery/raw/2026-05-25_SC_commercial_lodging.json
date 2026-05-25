@@ -1,0 +1,131 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 9",
+      "relevancy": "100% - 56%",
+      "count": 9,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zcommerci:(pos=1) AND Zlodg:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "SC",
+      "bill_number": "S0442",
+      "bill_id": 1999985,
+      "change_hash": "06df650aeaff21a465358e7bd3e65c4b",
+      "url": "https://legiscan.com/SC/bill/S0442/2025",
+      "text_url": "https://legiscan.com/SC/text/S0442/2025",
+      "research_url": "https://legiscan.com/SC/research/S0442/2025",
+      "last_action_date": "2025-03-19",
+      "last_action": "Scrivener's error corrected",
+      "title": "Short Term Rentals"
+    },
+    "1": {
+      "relevance": 94,
+      "state": "SC",
+      "bill_number": "S0632",
+      "bill_id": 2027945,
+      "change_hash": "a40ed862cba4cbcb57957bbb25dbc43f",
+      "url": "https://legiscan.com/SC/bill/S0632/2025",
+      "text_url": "https://legiscan.com/SC/text/S0632/2025",
+      "research_url": "https://legiscan.com/SC/research/S0632/2025",
+      "last_action_date": "2025-05-01",
+      "last_action": "Referred to Committee on Judiciary",
+      "title": "Ethics - Local Government Lobbying"
+    },
+    "2": {
+      "relevance": 94,
+      "state": "SC",
+      "bill_number": "H3876",
+      "bill_id": 1948382,
+      "change_hash": "db1c8fe165574f82bd8bfd195431bc8e",
+      "url": "https://legiscan.com/SC/bill/H3876/2025",
+      "text_url": "https://legiscan.com/SC/text/H3876/2025",
+      "research_url": "https://legiscan.com/SC/research/H3876/2025",
+      "last_action_date": "2026-05-05",
+      "last_action": "Committee report: Favorable with amendment Finance",
+      "title": "Accommodations"
+    },
+    "3": {
+      "relevance": 81,
+      "state": "SC",
+      "bill_number": "H5362",
+      "bill_id": 2132287,
+      "change_hash": "2b6c761f2a84e5bc189b987586de57d7",
+      "url": "https://legiscan.com/SC/bill/H5362/2025",
+      "text_url": "https://legiscan.com/SC/text/H5362/2025",
+      "research_url": "https://legiscan.com/SC/research/H5362/2025",
+      "last_action_date": "2026-04-21",
+      "last_action": "Member(s) request name added as sponsor: Harris",
+      "title": "Department of Transportation Commission dissolved"
+    },
+    "4": {
+      "relevance": 80,
+      "state": "SC",
+      "bill_number": "H3924",
+      "bill_id": 1959298,
+      "change_hash": "7da22f62f06cc08abd2cd3533683bc1e",
+      "url": "https://legiscan.com/SC/bill/H3924/2025",
+      "text_url": "https://legiscan.com/SC/text/H3924/2025",
+      "research_url": "https://legiscan.com/SC/research/H3924/2025",
+      "last_action_date": "2026-04-30",
+      "last_action": "Conference committee appointed Massey, Johnson, Ott",
+      "title": "Hemp-derived ingestible"
+    },
+    "5": {
+      "relevance": 70,
+      "state": "SC",
+      "bill_number": "H5071",
+      "bill_id": 2101776,
+      "change_hash": "e0fe67a72bef51d9bfee7e9c42c9557d",
+      "url": "https://legiscan.com/SC/bill/H5071/2025",
+      "text_url": "https://legiscan.com/SC/text/H5071/2025",
+      "research_url": "https://legiscan.com/SC/research/H5071/2025",
+      "last_action_date": "2026-04-29",
+      "last_action": "Recommitted to Committee on Ways and Means",
+      "title": "Department of Transportation"
+    },
+    "6": {
+      "relevance": 69,
+      "state": "SC",
+      "bill_number": "H4189",
+      "bill_id": 2011524,
+      "change_hash": "f6a8a3433f1b98498f80e326f2b621de",
+      "url": "https://legiscan.com/SC/bill/H4189/2025",
+      "text_url": "https://legiscan.com/SC/text/H4189/2025",
+      "research_url": "https://legiscan.com/SC/research/H4189/2025",
+      "last_action_date": "2026-05-15",
+      "last_action": "Signed By Governor",
+      "title": "DHEC Restructuring"
+    },
+    "7": {
+      "relevance": 66,
+      "state": "SC",
+      "bill_number": "H3843",
+      "bill_id": 1948399,
+      "change_hash": "0955f3b454d99261d8ed370910b040f4",
+      "url": "https://legiscan.com/SC/bill/H3843/2025",
+      "text_url": "https://legiscan.com/SC/text/H3843/2025",
+      "research_url": "https://legiscan.com/SC/research/H3843/2025",
+      "last_action_date": "2025-02-25",
+      "last_action": "Referred to Committee on Finance",
+      "title": "Budget Proviso Codification Act"
+    },
+    "8": {
+      "relevance": 56,
+      "state": "SC",
+      "bill_number": "S0831",
+      "bill_id": 2086627,
+      "change_hash": "e10dcb0ee0903e48c44abe09d9c6c3e7",
+      "url": "https://legiscan.com/SC/bill/S0831/2025",
+      "text_url": "https://legiscan.com/SC/text/S0831/2025",
+      "research_url": "https://legiscan.com/SC/research/S0831/2025",
+      "last_action_date": "2026-05-18",
+      "last_action": "Signed By Governor",
+      "title": "SCDOT Modernization"
+    }
+  }
+}

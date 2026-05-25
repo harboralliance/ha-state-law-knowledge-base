@@ -1,0 +1,79 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 5",
+      "relevancy": "100% - 76%",
+      "count": 5,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zhotlin:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "CT",
+      "bill_number": "HB05477",
+      "bill_id": 2129266,
+      "change_hash": "ea0682077729e3497d32ee6f8c955dc0",
+      "url": "https://legiscan.com/CT/bill/HB05477/2026",
+      "text_url": "https://legiscan.com/CT/text/HB05477/2026",
+      "research_url": "https://legiscan.com/CT/research/HB05477/2026",
+      "last_action_date": "2026-04-02",
+      "last_action": "File Number 390",
+      "title": "An Act Concerning The Well-being Of Employees Of The Department Of Correction And Persons Who Are Incarcerated In Correctional Institutions."
+    },
+    "1": {
+      "relevance": 95,
+      "state": "CT",
+      "bill_number": "HB05476",
+      "bill_id": 2129205,
+      "change_hash": "72293581d274ad1ed6d0acb9e7b64d18",
+      "url": "https://legiscan.com/CT/bill/HB05476/2026",
+      "text_url": "https://legiscan.com/CT/text/HB05476/2026",
+      "research_url": "https://legiscan.com/CT/research/HB05476/2026",
+      "last_action_date": "2026-05-19",
+      "last_action": "Public Act 26-70",
+      "title": "An Act Concerning Oversight Of Efforts To Prevent Human Trafficking And The Use Of Confidential Crisis Hotlines At Correctional Institutions."
+    },
+    "2": {
+      "relevance": 91,
+      "state": "CT",
+      "bill_number": "SB00086",
+      "bill_id": 2107947,
+      "change_hash": "923d96ac7100787114097fdcc25910c1",
+      "url": "https://legiscan.com/CT/bill/SB00086/2026",
+      "text_url": "https://legiscan.com/CT/text/SB00086/2026",
+      "research_url": "https://legiscan.com/CT/research/SB00086/2026",
+      "last_action_date": "2026-04-02",
+      "last_action": "File Number 339",
+      "title": "An Act Addressing Innovations In And The Responsible Use Of Artificial Intelligence."
+    },
+    "3": {
+      "relevance": 77,
+      "state": "CT",
+      "bill_number": "HB05567",
+      "bill_id": 2132537,
+      "change_hash": "60b436ae57e4849ec27280020f4946f6",
+      "url": "https://legiscan.com/CT/bill/HB05567/2026",
+      "text_url": "https://legiscan.com/CT/text/HB05567/2026",
+      "research_url": "https://legiscan.com/CT/research/HB05567/2026",
+      "last_action_date": "2026-05-15",
+      "last_action": "Transmitted by Secretary of the State to Governor",
+      "title": "An Act Concerning Health Care In The Department Of Correction Facilities."
+    },
+    "4": {
+      "relevance": 76,
+      "state": "CT",
+      "bill_number": "HB05474",
+      "bill_id": 2129390,
+      "change_hash": "c6f9385ae0a196cbceef73cff86bf6f9",
+      "url": "https://legiscan.com/CT/bill/HB05474/2026",
+      "text_url": "https://legiscan.com/CT/text/HB05474/2026",
+      "research_url": "https://legiscan.com/CT/research/HB05474/2026",
+      "last_action_date": "2026-04-01",
+      "last_action": "File Number 333",
+      "title": "An Act Concerning Oversight Of Medical Care For Persons Who Are Incarcerated At The Department Of Correction."
+    }
+  }
+}

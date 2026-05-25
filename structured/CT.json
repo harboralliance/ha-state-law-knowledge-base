@@ -2,35 +2,48 @@
   "state": "Connecticut",
   "state_code": "CT",
   "industry": "commercial lodging",
-  "source_file": "2026-05-19_Connecticut_lodging_compliance.md",
+  "source_file": "2026-05-25_Connecticut_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
-  "training_frequency": "annual",
+  "training_frequency": null,
   "new_hire_deadline_days": null,
   "new_hire_deadline_text": null,
   "signage_required": false,
-  "provider_approval_required": false,
-  "provider_approval_type": null,
-  "approval_authority": null,
-  "approval_contact": null,
+  "provider_approval_required": true,
+  "provider_approval_type": "state-controlled",
+  "approval_authority": "State attorneys and local law enforcement",
+  "approval_contact": "HART - Sex Trafficking at 505 Hudson Street, Hartford CT 06106\nDepartment of Children and Families at 1-800-842-2288",
   "enforcing_agencies": [
-    "state attorneys",
-    "local law enforcement"
+    "State attorneys",
+    "Local law enforcement"
   ],
   "applicable_to": [
-    "DCF staff",
-    "foster parents",
-    "service providers",
-    "schools",
+    "Child protective services",
+    "foster care",
+    "education",
     "law enforcement",
-    "hospital and medical staff",
-    "hotel and motel workers",
-    "lodge employees"
+    "healthcare",
+    "hospitality",
+    "other professionals",
+    "youth"
   ],
   "required_topics": [
-    "human trafficking"
+    "Introduction to Child Trafficking in Connecticut",
+    "Introduction to Child Trafficking in Connecticut for School Settings",
+    "Introduction to Human Trafficking in Connecticut for Law Enforcement",
+    "Introduction to Human Trafficking in Connecticut for Emergency Medical Services (EMS)",
+    "Child Trafficking Training for Medical Providers/Emergency Medicine",
+    "Introduction to Human Trafficking in Connecticut for Hotels, Motels, and Lodging",
+    "Child Trafficking of Boys",
+    "Trafficking of LGBQ/GNCT Children",
+    "Introduction to Labor Trafficking in Connecticut",
+    "Introduction to Labor Trafficking in Connecticut for Law Enforcement (POST Certified)",
+    "Child Trafficking: What It Is, How to Recognize It, and How to Respond"
   ],
-  "reporting_contacts_required": [],
+  "reporting_contacts_required": [
+    "HART - Sex Trafficking at 505 Hudson Street, Hartford CT 06106",
+    "Department of Children and Families at 1-800-842-2288"
+  ],
   "signage_details": {
     "languages_required": [],
     "minimum_size": null,
@@ -39,28 +52,20 @@
     "required_content": []
   },
   "recordkeeping_requirements": [
-    "guest transactions and receipts for at least six months"
+    "Hotels, motels, inns, and similar lodging must keep guest transactions and receipts for at least 6 months."
   ],
   "certificate_requirements": [],
   "law_references": [
-    "2017 Public Act 17-32",
-    "2016 Public Act 16-71",
-    "2015 Public Act 15-195",
-    "2014 Public Act 14-186",
-    "2013 Public Act 13-166",
-    "2012 Public Act 12-141",
-    "2011 Public Act 11-180",
-    "2010 Public Act 10-115"
+    "Human and sex trafficking legislation"
   ],
   "source_urls": [
     "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/trainings-for-providers",
     "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/human-and-sex-trafficking-legislation"
   ],
-  "harbor_alliance_posture": null,
+  "harbor_alliance_posture": "approval-required",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "annual training requirement for lodging establishments",
-    "state attorneys and local law enforcement documentation requirements"
+    "State-controlled training requirement"
   ],
   "notes": [],
   "needs_review": []

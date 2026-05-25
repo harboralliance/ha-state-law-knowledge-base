@@ -2,19 +2,20 @@
   "state": "Illinois",
   "state_code": "IL",
   "industry": "commercial lodging",
-  "source_file": "2026-05-19_Illinois_lodging_compliance.md",
+  "source_file": "2026-05-25_Illinois_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
-  "training_frequency": "every two years",
+  "training_frequency": "every 2 years",
   "new_hire_deadline_days": 180,
-  "new_hire_deadline_text": "within six months of beginning employment in such a role",
+  "new_hire_deadline_text": "within 6 months of starting a job",
   "signage_required": false,
   "provider_approval_required": true,
-  "provider_approval_type": "department-developed training program",
-  "approval_authority": "Department of Human Services",
+  "provider_approval_type": "state department of human services",
+  "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "Department of Human Services"
+    "Department of Human Rights",
+    "Attorney General's Office"
   ],
   "applicable_to": [
     "lodging establishments",
@@ -22,8 +23,10 @@
     "truck stops"
   ],
   "required_topics": [
-    "identifying individuals at risk for human trafficking",
-    "reporting instances of human trafficking to the appropriate authorities"
+    "definitions of human trafficking",
+    "risk factors for human trafficking",
+    "differences between labor and sex trafficking in lodging-related settings",
+    "employee roles in reporting human trafficking"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
@@ -36,18 +39,17 @@
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    "Human Trafficking Prevention Act"
+    "Human Trafficking Prevention Act",
+    "Public Act 98-1234"
   ],
-  "source_urls": [
-    "https://www.ilga.gov/archive/legislation/Bills/House_Bills/current_version/HB2403_07-15-2020.html"
-  ],
-  "harbor_alliance_posture": "immediate-entry",
+  "source_urls": [],
+  "harbor_alliance_posture": "needs-review",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "penalties of up to $1,500 for each offense"
+    "non-compliance with training requirements can result in fines up to $1,500 per offense"
   ],
   "notes": [
-    "Employers may use their own training program or the one developed by the Department of Human Services."
+    "The bill draws on existing definitions and frameworks for addressing human trafficking but introduces some new requirements specific to certain industries or worker roles."
   ],
   "needs_review": []
 }

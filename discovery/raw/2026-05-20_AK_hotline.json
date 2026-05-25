@@ -1,0 +1,40 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 2",
+      "relevancy": "100% - 99%",
+      "count": 2,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zhotlin:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "AK",
+      "bill_number": "HB188",
+      "bill_id": 2023537,
+      "change_hash": "18bc0ce2bb708a567db92062a3949d96",
+      "url": "https://legiscan.com/AK/bill/HB188/2025",
+      "text_url": "https://legiscan.com/AK/text/HB188/2025",
+      "research_url": "https://legiscan.com/AK/research/HB188/2025",
+      "last_action_date": "2026-05-06",
+      "last_action": "COSPONSOR(S): CARRICK",
+      "title": "Welcoming Alaska Office"
+    },
+    "1": {
+      "relevance": 99,
+      "state": "AK",
+      "bill_number": "SB169",
+      "bill_id": 2023451,
+      "change_hash": "e0d32164edd8e6e82db783c68b1d4277",
+      "url": "https://legiscan.com/AK/bill/SB169/2025",
+      "text_url": "https://legiscan.com/AK/text/SB169/2025",
+      "research_url": "https://legiscan.com/AK/research/SB169/2025",
+      "last_action_date": "2026-05-06",
+      "last_action": "REFERRED TO FINANCE",
+      "title": "Welcoming Alaska Office"
+    }
+  }
+}
