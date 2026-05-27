@@ -1,0 +1,105 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 7",
+      "relevancy": "100% - 35%",
+      "count": 7,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zmotel:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "CT",
+      "bill_number": "SB00116",
+      "bill_id": 2112076,
+      "change_hash": "ba46acb3672bc5b4b6fef0944fdc93c3",
+      "url": "https://legiscan.com/CT/bill/SB00116/2026",
+      "text_url": "https://legiscan.com/CT/text/SB00116/2026",
+      "research_url": "https://legiscan.com/CT/research/SB00116/2026",
+      "last_action_date": "2026-05-19",
+      "last_action": "Public Act 26-98",
+      "title": "An Act Concerning The Prevention Of Human Trafficking."
+    },
+    "1": {
+      "relevance": 95,
+      "state": "CT",
+      "bill_number": "SB00228",
+      "bill_id": 2118280,
+      "change_hash": "9bd37c234e8203949b64895235407cc2",
+      "url": "https://legiscan.com/CT/bill/SB00228/2026",
+      "text_url": "https://legiscan.com/CT/text/SB00228/2026",
+      "research_url": "https://legiscan.com/CT/research/SB00228/2026",
+      "last_action_date": "2026-03-25",
+      "last_action": "File Number 172",
+      "title": "An Act Concerning Liquor Permits And Tobacco Bars."
+    },
+    "2": {
+      "relevance": 89,
+      "state": "CT",
+      "bill_number": "SB00436",
+      "bill_id": 2129410,
+      "change_hash": "92a7fff65a565cbe0dc32995483a1db5",
+      "url": "https://legiscan.com/CT/bill/SB00436/2026",
+      "text_url": "https://legiscan.com/CT/text/SB00436/2026",
+      "research_url": "https://legiscan.com/CT/research/SB00436/2026",
+      "last_action_date": "2026-03-26",
+      "last_action": "File Number 212",
+      "title": "An Act Concerning Advanced Notice Of An Employee's Work Schedule By An Employer."
+    },
+    "3": {
+      "relevance": 83,
+      "state": "CT",
+      "bill_number": "HB05563",
+      "bill_id": 2132494,
+      "change_hash": "49c6bf9663451eba9ced86a18e96f957",
+      "url": "https://legiscan.com/CT/bill/HB05563/2026",
+      "text_url": "https://legiscan.com/CT/text/HB05563/2026",
+      "research_url": "https://legiscan.com/CT/research/HB05563/2026",
+      "last_action_date": "2026-05-20",
+      "last_action": "Public Act 26-130",
+      "title": "An Act Concerning Various Criminal Law And Criminal Justice Proposals, Certificates Of Approval For Airports, Heliports, Vertiports, Restricted Landing Areas And Other Air Navigation Facilities, Police Collaboration With Social Workers, Surveillance Pricing, Education Cost Sharing And Withholding Of Taxes From Lump Sum Payments."
+    },
+    "4": {
+      "relevance": 77,
+      "state": "CT",
+      "bill_number": "HB05518",
+      "bill_id": 2129159,
+      "change_hash": "d554badc318d7efb93c2d5be33f91309",
+      "url": "https://legiscan.com/CT/bill/HB05518/2026",
+      "text_url": "https://legiscan.com/CT/text/HB05518/2026",
+      "research_url": "https://legiscan.com/CT/research/HB05518/2026",
+      "last_action_date": "2026-05-20",
+      "last_action": "Public Act 26-142",
+      "title": "An Act Concerning The Department Of Public Health's Recommendations Regarding Subsurface Sewage Enforcement Officers, Water Operator Apprentices And Various Revisions To The Environmental Health And Drinking Water Statutes."
+    },
+    "5": {
+      "relevance": 55,
+      "state": "CT",
+      "bill_number": "HB05350",
+      "bill_id": 2124296,
+      "change_hash": "291b1db4b7e3249b78bceefac3491f45",
+      "url": "https://legiscan.com/CT/bill/HB05350/2026",
+      "text_url": "https://legiscan.com/CT/text/HB05350/2026",
+      "research_url": "https://legiscan.com/CT/research/HB05350/2026",
+      "last_action_date": "2026-05-20",
+      "last_action": "Signed by the Governor",
+      "title": "An Act Concerning Cannabis, Hemp And Infused Beverage Regulation."
+    },
+    "6": {
+      "relevance": 35,
+      "state": "CT",
+      "bill_number": "HB05222",
+      "bill_id": 2118487,
+      "change_hash": "437cc96888eb84bf90864ad2d1726989",
+      "url": "https://legiscan.com/CT/bill/HB05222/2026",
+      "text_url": "https://legiscan.com/CT/text/HB05222/2026",
+      "research_url": "https://legiscan.com/CT/research/HB05222/2026",
+      "last_action_date": "2026-05-26",
+      "last_action": "Transmitted by Secretary of the State to Governor",
+      "title": "An Act Concerning Consumer Protection, Cannabis, Data Privacy, Fire Inspections, Criminal Mischief And Artificial Intelligence."
+    }
+  }
+}

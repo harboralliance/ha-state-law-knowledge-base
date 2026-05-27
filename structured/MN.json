@@ -2,67 +2,60 @@
   "state": "Minnesota",
   "state_code": "MN",
   "industry": "commercial lodging",
-  "source_file": "2026-05-25_Minnesota_lodging_compliance.md",
+  "source_file": "2026-05-27_Minnesota_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
   "training_frequency": "annually",
   "new_hire_deadline_days": 90,
   "new_hire_deadline_text": "within 90 days of hire",
-  "signage_required": true,
+  "signage_required": false,
   "provider_approval_required": false,
   "provider_approval_type": null,
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "Minnesota Department of Health (MDH)"
+    "Minnesota Department of Health"
   ],
   "applicable_to": [
-    "hotel owners",
+    "owners",
     "managers",
-    "on-site employees"
+    "on-site employees",
+    "employees under 16 (except for room cleaning)",
+    "restaurant staff providing catering services (no direct contact with guests)"
   ],
   "required_topics": [
     "identifying signs of sex trafficking",
-    "responding appropriately",
-    "understanding the legal obligations"
+    "how to respond effectively"
   ],
-  "reporting_contacts_required": [],
+  "reporting_contacts_required": [
+    "contact MDH at health.safeharbor@state.mn.us if any questions arise"
+  ],
   "signage_details": {
     "languages_required": [
       "English",
-      "Spanish",
-      "Hmong",
-      "Somali"
+      "Spanish/Espa\u00f1ol",
+      "Somali",
+      "Hmong"
     ],
     "minimum_size": null,
     "font_size": null,
-    "posting_location": "prominent locations",
+    "posting_location": null,
     "required_content": []
   },
   "recordkeeping_requirements": [
-    "roster of names with dates of completion, kept on file for inspections"
+    "create a roster of names for all employees who completed the training, along with the date of completion",
+    "keep this roster on file for inspection"
   ],
   "certificate_requirements": [],
   "law_references": [
-    {
-      "statute_name": "Minnesota Statutes section 627H.04"
-    }
+    "Minnesota legislation"
   ],
   "source_urls": [
-    "http://www.health.state.mn.us/divs/eh/sext/trafficking/training.html",
-    "https://www.dhs.mn.gov/dhs/covid19/resources-for-businesses"
+    "https://www.health.state.mn.us/safeharbor/"
   ],
-  "harbor_alliance_posture": "approval-required",
-  "harbor_alliance_actions": [
-    "implementing mandatory training and signage requirements"
-  ],
-  "risks_or_constraints": [
-    "employees under 16 years old unless they clean rooms may be exempt from direct contact requirements",
-    "printing posters must be paid for by licensees"
-  ],
-  "notes": [
-    "The Minnesota Department of Health provides the training package free of charge",
-    "Updates to the training materials are provided annually by November 1st"
-  ],
+  "harbor_alliance_posture": "immediate-entry",
+  "harbor_alliance_actions": [],
+  "risks_or_constraints": [],
+  "notes": [],
   "needs_review": []
 }

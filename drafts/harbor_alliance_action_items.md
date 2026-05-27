@@ -2,45 +2,63 @@
 
 ## Texas
 
-**Immediate Market Entry:** Not applicable (Requires annual training)
+- **Next Steps:**
+  - Ensure all employees at commercial lodging establishments with 10 or more rooms receive annual human trafficking training by completing approved videos or in-person sessions.
+  - Develop a plan for outreach to smaller lodging establishments to encourage compliance and ensure they are aware of the requirement.
 
-**Next Steps:**
-1. Review House Bill 390 requirements.
-2. Coordinate with local lodging associations for training sessions.
-3. Provide resources and support to hotels and motels.
+- **States Allowing Immediate Market Entry:** None
+
+- **States Requiring Approval, Outreach, or Special Handling:**
+  - Small lodging establishments
+  - Non-profits and religious organizations (if applicable)
 
 ## California
 
-**Immediate Market Entry:** Yes, employees trained on or before January 1, 2020, do not need additional training this year.
+- **Next Steps:**
+  - Ensure all hotel and motel employees receive at least 20 minutes of classroom training on human trafficking by January 1, 2020.
+  - Develop a plan for ongoing compliance and ensure new employees receive required training within six months.
 
-**Next Steps:**
-1. Review Senate Bill 970 requirements.
-2. Ensure all new hotel and motel employees receive annual training starting from 2023.
-3. Collaborate with the California Coalition to Abolish Slavery and Trafficking (CAST) for ongoing support.
+- **States Allowing Immediate Market Entry:** None
+
+- **States Requiring Approval, Outreach, or Special Handling:**
+  - Hotels and motels
+  - Large corporations with existing training programs
 
 ## Illinois
 
-**Immediate Market Entry:** Yes, employees trained on or before June 1, 2020, do not need additional training this year.
+- **Next Steps:**
+  - Develop a plan to provide mandatory human trafficking recognition training for all relevant employees within six months of employment.
+  - Ensure that the curriculum meets the requirements outlined in the Act, including updates every two years.
 
-**Next Steps:**
-1. Review Act 2026 requirements.
-2. Ensure all new lodging establishment employees receive annual training starting from 2023.
-3. Monitor compliance and address any non-compliance issues within 30 days.
+- **States Allowing Immediate Market Entry:** None
+
+- **States Requiring Approval, Outreach, or Special Handling:**
+  - Lodging establishments
+  - Restaurants and truck stops
+  - Employers not providing training by June 1, 2020
 
 ## Minnesota
 
-**Immediate Market Entry:** Yes, employees trained on or before January 1, 2024, do not need additional training this year.
+- **Next Steps:**
+  - Ensure all hotel, motel, and short-term rental staff complete the Minnesota Lodging Sex Trafficking Prevention and Response Training within 90 days of hire.
+  - Develop a plan for annual refresher courses and compliance monitoring.
 
-**Next Steps:**
-1. Review sex trafficking prevention training requirements.
-2. Ensure all new hotel, motel, and short-term rental staff receive annual training starting from 2023.
-3. Collaborate with MDH for compliance support and resources.
+- **States Allowing Immediate Market Entry:** None
+
+- **States Requiring Approval, Outreach, or Special Handling:**
+  - Hotels, motels, and short-term rentals
+  - Employers with seasonal employees
 
 ## Connecticut
 
-**Immediate Market Entry:** Yes, employees trained on or before January 1, 2024, do not need additional training this year.
+- **Next Steps:**
+  - Ensure all hotel and motel employees receive annual human trafficking training.
+  - Develop a plan for mandatory reporting of suspected trafficking cases to the Department of Children and Families.
 
-**Next Steps:**
-1. Review human trafficking legislation requirements.
-2. Ensure all new hotel and motel staff receive annual training starting from 2023.
-3. Collaborate with the Department of Children and Families (DCF) for mandatory data reporting and support.
+- **States Allowing Immediate Market Entry:** None
+
+- **States Requiring Approval, Outreach, or Special Handling:**
+  - Hotels and motels
+  - Foster care providers
+  - Healthcare providers
+  - Law enforcement agencies
