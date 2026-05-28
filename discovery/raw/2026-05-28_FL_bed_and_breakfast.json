@@ -1,0 +1,66 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 4",
+      "relevancy": "100% - 97%",
+      "count": 4,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zbed:(pos=1) AND Zbreakfast:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "FL",
+      "bill_number": "S2500",
+      "bill_id": 2117014,
+      "change_hash": "e1b1a6e2bc6f31820520bbf88ffbacca",
+      "url": "https://legiscan.com/FL/bill/S2500/2026",
+      "text_url": "https://legiscan.com/FL/text/S2500/2026",
+      "research_url": "https://legiscan.com/FL/research/S2500/2026",
+      "last_action_date": "2026-02-20",
+      "last_action": "Laid on Table, refer to HB 5001",
+      "title": "Appropriations"
+    },
+    "1": {
+      "relevance": 99,
+      "state": "FL",
+      "bill_number": "S2500",
+      "bill_id": 2148548,
+      "change_hash": "506453349f2fbe5996adfa08ea9db906",
+      "url": "https://legiscan.com/FL/bill/S2500/2026/X5",
+      "text_url": "https://legiscan.com/FL/text/S2500/2026/X5",
+      "research_url": "https://legiscan.com/FL/research/S2500/2026/X5",
+      "last_action_date": "2026-05-12",
+      "last_action": "Laid on Table, refer to HB 5001-E",
+      "title": "Appropriations"
+    },
+    "2": {
+      "relevance": 97,
+      "state": "FL",
+      "bill_number": "H5001",
+      "bill_id": 2117701,
+      "change_hash": "4c15ae3e5ab362ce3f96cce8fd8539a2",
+      "url": "https://legiscan.com/FL/bill/H5001/2026",
+      "text_url": "https://legiscan.com/FL/text/H5001/2026",
+      "research_url": "https://legiscan.com/FL/research/H5001/2026",
+      "last_action_date": "2026-03-13",
+      "last_action": "Died in Conference Committee",
+      "title": "General Appropriations Act"
+    },
+    "3": {
+      "relevance": 97,
+      "state": "FL",
+      "bill_number": "H5001",
+      "bill_id": 2148556,
+      "change_hash": "1e2824576e33fc3365ee94aca549dc17",
+      "url": "https://legiscan.com/FL/bill/H5001/2026/X5",
+      "text_url": "https://legiscan.com/FL/text/H5001/2026/X5",
+      "research_url": "https://legiscan.com/FL/research/H5001/2026/X5",
+      "last_action_date": "2026-05-12",
+      "last_action": "Conference Committee appointed: Appropriations Conference Committee/Budget: Senator Hooper, Chair; Senators Berman, Boyd, Brodeur, Gruters, Passidomo, and Rouson, At Large; Appropriations Conference Committee on Agriculture, Environment, and General Government/Agriculture & Natural Resources: Senator Brodeur, Chair; Senators Arrington, Berman, DiCeglie, Grall, Massullo, McClain, Nathan, Pizzo, Rodriguez, Sharief, and Truenow; Appropriations Conference Committee on Agriculture, Environment, and General Government/State Administration: Senator Brodeur, Chair; Senators Arrington, Berman, DiCeglie, Grall, Massullo, McClain, Nathan, Pizzo, Rodriguez, Sharief, and Truenow; Appropriations Conference Committee on Criminal and Civil Justice/Justice: Senator Garcia, Chair; Senators Martin, Osgood, Polsky, Simon, Smith, Wright, and Yarborough; Appropriations Conference Committee on Health and Human Services/Health Care: Senator Trumbull, Chair; Senators Brodeur, Burton, Davis, Garcia, Harrell, Rodriguez, Rouson, and Sharief; Appropriations Conference Committee on Higher Education/Higher Education: Senator Harrell, Chair; Senators Bracy Davis, Bradley, Burgess, Calatayud, Davis, and Leek; Appropriations Conference Committee on Pre-K \u2013 12 Education/Pre-K \u2013 12: Senator Burgess, Chair; Senators Bradley, Calatayud, Gaetz, Jones, Massullo, Nathan, Osgood, Pizzo, Simon, and Yarborough; Appropriations Conference Committee on Transportation, Tourism, and Economic Development/Transportation & Economic Development: Senator DiCeglie, Chair; Senators Arrington, Avila, Bernard, Bracy Davis, Grall, Leek, Martin, Mayfield, McClain, Polsky, Smith, Truenow, and Wright.",
+      "title": "General Appropriations Act"
+    }
+  }
+}

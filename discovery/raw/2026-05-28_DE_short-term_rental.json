@@ -1,0 +1,40 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 2",
+      "relevancy": "100% - 88%",
+      "count": 2,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(((short:(pos=1) PHRASE 2 term:(pos=2)) AND Zrental:(pos=3)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "DE",
+      "bill_number": "SB310",
+      "bill_id": 2149189,
+      "change_hash": "8de69b4676e65420bf15fb07f6ed6483",
+      "url": "https://legiscan.com/DE/bill/SB310/2025",
+      "text_url": "https://legiscan.com/DE/text/SB310/2025",
+      "research_url": "https://legiscan.com/DE/research/SB310/2025",
+      "last_action_date": "2026-05-21",
+      "last_action": "Assigned to Administration Committee in House",
+      "title": "An Act To Amend Title 20 Of The Delaware Code Relating To The Delaware Disaster Recovery Fund."
+    },
+    "1": {
+      "relevance": 88,
+      "state": "DE",
+      "bill_number": "HB296",
+      "bill_id": 2130025,
+      "change_hash": "59b23cadb0e6c48c2454cad0eb14ec26",
+      "url": "https://legiscan.com/DE/bill/HB296/2025",
+      "text_url": "https://legiscan.com/DE/text/HB296/2025",
+      "research_url": "https://legiscan.com/DE/research/HB296/2025",
+      "last_action_date": "2026-05-20",
+      "last_action": "Reported Out of Committee (Elections & Government Affairs) in Senate with 3 Favorable, 4 On Its Merits",
+      "title": "An Act To Amend Title 6 And Title 30 Of The Delaware Code Relating To The Administrative Responsibilities Of The Department Of Finance."
+    }
+  }
+}

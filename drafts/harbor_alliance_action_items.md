@@ -1,64 +1,36 @@
 # Harbor Alliance Action Items
 
 ## Texas
+### Immediate Market Entry States:
+- NONE
 
-- **Next Steps:**
-  - Ensure all employees at commercial lodging establishments with 10 or more rooms receive annual human trafficking training by completing approved videos or in-person sessions.
-  - Develop a plan for outreach to smaller lodging establishments to encourage compliance and ensure they are aware of the requirement.
-
-- **States Allowing Immediate Market Entry:** None
-
-- **States Requiring Approval, Outreach, or Special Handling:**
-  - Small lodging establishments
-  - Non-profits and religious organizations (if applicable)
+### Require Approval, Outreach, or Special Handling:
+- **Texas**: House Bill 390 requires annual human trafficking training for all employees of commercial lodging establishments. Employers must ensure their employees complete the required annual training.
 
 ## California
+### Immediate Market Entry States:
+- NONE
 
-- **Next Steps:**
-  - Ensure all hotel and motel employees receive at least 20 minutes of classroom training on human trafficking by January 1, 2020.
-  - Develop a plan for ongoing compliance and ensure new employees receive required training within six months.
-
-- **States Allowing Immediate Market Entry:** None
-
-- **States Requiring Approval, Outreach, or Special Handling:**
-  - Hotels and motels
-  - Large corporations with existing training programs
+### Require Approval, Outreach, or Special Handling:
+- **California**: Senate Bill 970 mandates that hotel and motel employees receive at least 20 minutes of classroom or other effective interactive training on identifying and responding to human trafficking by January 1, 2020.
 
 ## Illinois
+### Immediate Market Entry States:
+- NONE
 
-- **Next Steps:**
-  - Develop a plan to provide mandatory human trafficking recognition training for all relevant employees within six months of employment.
-  - Ensure that the curriculum meets the requirements outlined in the Act, including updates every two years.
-
-- **States Allowing Immediate Market Entry:** None
-
-- **States Requiring Approval, Outreach, or Special Handling:**
-  - Lodging establishments
-  - Restaurants and truck stops
-  - Employers not providing training by June 1, 2020
+### Require Approval, Outreach, or Special Handling:
+- **Illinois**: Act 2026 requires annual human trafficking recognition training for employees in lodging establishments. Employers must provide this training to all relevant staff within six months of their employment and every two years thereafter.
 
 ## Minnesota
+### Immediate Market Entry States:
+- NONE
 
-- **Next Steps:**
-  - Ensure all hotel, motel, and short-term rental staff complete the Minnesota Lodging Sex Trafficking Prevention and Response Training within 90 days of hire.
-  - Develop a plan for annual refresher courses and compliance monitoring.
-
-- **States Allowing Immediate Market Entry:** None
-
-- **States Requiring Approval, Outreach, or Special Handling:**
-  - Hotels, motels, and short-term rentals
-  - Employers with seasonal employees
+### Require Approval, Outreach, or Special Handling:
+- **Minnesota**: Legislation requires hotel, motel, and short-term rental staff to complete the Minnesota Lodging Sex Trafficking Prevention and Response Training annually. All required staff must retake the training every year.
 
 ## Connecticut
+### Immediate Market Entry States:
+- NONE
 
-- **Next Steps:**
-  - Ensure all hotel and motel employees receive annual human trafficking training.
-  - Develop a plan for mandatory reporting of suspected trafficking cases to the Department of Children and Families.
-
-- **States Allowing Immediate Market Entry:** None
-
-- **States Requiring Approval, Outreach, or Special Handling:**
-  - Hotels and motels
-  - Foster care providers
-  - Healthcare providers
-  - Law enforcement agencies
+### Require Approval, Outreach, or Special Handling:
+- **Connecticut**: Legislation requires all hotel and motel employees to receive annual trafficking training and awareness campaigns. Additionally, mandatory data reporting is required for human trafficking cases.

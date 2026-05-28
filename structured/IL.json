@@ -1,32 +1,29 @@
 {
   "state": "Illinois",
   "state_code": "IL",
-  "industry": "commercial lodging, restaurants, truck stops",
-  "source_file": "2026-05-27_Illinois_lodging_compliance.md",
+  "industry": "commercial lodging",
+  "source_file": "2026-05-28_Illinois_lodging_compliance.md",
   "training_required": true,
-  "training_duration_minutes": 20,
+  "training_duration_minutes": null,
   "training_frequency": "every 2 years",
-  "new_hire_deadline_days": null,
-  "new_hire_deadline_text": null,
+  "new_hire_deadline_days": 180,
+  "new_hire_deadline_text": "within 6 months of starting a job in one of these roles",
   "signage_required": false,
   "provider_approval_required": false,
   "provider_approval_type": null,
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "Local government units",
-    "Law enforcement agencies"
+    "Department of Labor"
   ],
   "applicable_to": [
-    "Lodging establishments (hotel or motel)",
-    "Restaurants (51% of total sales from ready-to-eat food for immediate consumption)",
-    "Truck stops"
+    "lodging establishments",
+    "restaurants",
+    "truck stops"
   ],
   "required_topics": [
-    "Definition of human trafficking and commercial exploitation of children",
-    "Identification of individuals most at risk for human trafficking",
-    "Differences between human trafficking for labor and sex within the context of lodging establishments, restaurants, and truck stops",
-    "Employees' roles in reporting and responding to instances of human trafficking"
+    "recognizing human trafficking",
+    "reporting it to the appropriate authorities"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
@@ -39,13 +36,13 @@
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    "SB 102 (2026)"
+    "SB1422"
   ],
   "source_urls": [],
-  "harbor_alliance_posture": "approval-required",
+  "harbor_alliance_posture": "immediate-entry",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "Potential fines of up to $1,500 per offense if not corrected within 30 days"
+    "fines up to $1,500 per offense"
   ],
   "notes": [],
   "needs_review": []

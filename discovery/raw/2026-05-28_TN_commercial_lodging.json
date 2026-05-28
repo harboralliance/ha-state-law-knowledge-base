@@ -1,0 +1,118 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 8",
+      "relevancy": "100% - 16%",
+      "count": 8,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zcommerci:(pos=1) AND Zlodg:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "TN",
+      "bill_number": "HB2110",
+      "bill_id": 2106090,
+      "change_hash": "453121bbd62a4d41359866374b5fdef7",
+      "url": "https://legiscan.com/TN/bill/HB2110/2025",
+      "text_url": "https://legiscan.com/TN/text/HB2110/2025",
+      "research_url": "https://legiscan.com/TN/research/HB2110/2025",
+      "last_action_date": "2026-05-27",
+      "last_action": "Comp. became Pub. Ch. 1136",
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 33; Title 63 and Title 68, relative to health facility regulation."
+    },
+    "1": {
+      "relevance": 99,
+      "state": "TN",
+      "bill_number": "SB2431",
+      "bill_id": 2105855,
+      "change_hash": "b49d2f24ed86bd56c21f3493b4159be7",
+      "url": "https://legiscan.com/TN/bill/SB2431/2025",
+      "text_url": "https://legiscan.com/TN/text/SB2431/2025",
+      "research_url": "https://legiscan.com/TN/research/SB2431/2025",
+      "last_action_date": "2026-05-27",
+      "last_action": "Effective date(s) 05/22/2026, 07/01/2026",
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 33; Title 63 and Title 68, relative to health facility regulation."
+    },
+    "2": {
+      "relevance": 98,
+      "state": "TN",
+      "bill_number": "SB0308",
+      "bill_id": 1942764,
+      "change_hash": "08c2bf9e853053bb87d8400a36818da2",
+      "url": "https://legiscan.com/TN/bill/SB0308/2025",
+      "text_url": "https://legiscan.com/TN/text/SB0308/2025",
+      "research_url": "https://legiscan.com/TN/research/SB0308/2025",
+      "last_action_date": "2025-05-13",
+      "last_action": "Effective date(s) 05/05/2025",
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 57, relative to consumption of alcoholic beverages on premises."
+    },
+    "3": {
+      "relevance": 98,
+      "state": "TN",
+      "bill_number": "HB0381",
+      "bill_id": 1942449,
+      "change_hash": "0c4f9e249bb723d989eab0a9afcde062",
+      "url": "https://legiscan.com/TN/bill/HB0381/2025",
+      "text_url": "https://legiscan.com/TN/text/HB0381/2025",
+      "research_url": "https://legiscan.com/TN/research/HB0381/2025",
+      "last_action_date": "2025-05-13",
+      "last_action": "Comp. became Pub. Ch. 362",
+      "title": "AN ACT to amend Tennessee Code Annotated, Title 57, relative to consumption of alcoholic beverages on premises."
+    },
+    "4": {
+      "relevance": 25,
+      "state": "TN",
+      "bill_number": "HB2631",
+      "bill_id": 2112288,
+      "change_hash": "fc63440e99471dbc4cb5707b686440c5",
+      "url": "https://legiscan.com/TN/bill/HB2631/2025",
+      "text_url": "https://legiscan.com/TN/text/HB2631/2025",
+      "research_url": "https://legiscan.com/TN/research/HB2631/2025",
+      "last_action_date": "2026-05-27",
+      "last_action": "Comp. became Pub. Ch. 1142",
+      "title": "AN ACT to make appropriations for the purpose of defraying the expenses of the state government for the fiscal years beginning July 1, 2025, and July 1, 2026, in the administration, operation and maintenance of the legislative, executive and judicial branches of the various departments, institutions, offices and agencies of the state; for certain state aid and obligations; for capital outlay, for the service of the public debt, for emergency and contingency; to repeal certain appropriations and any acts inconsistent herewith; to provide provisional continuing appropriations; and to establish certain provisions, limitations and restrictions under which appropriations may be obligated and expended. This act makes appropriations for the purposes described above for the fiscal years beginning July 1, 2025, and July 1, 2026."
+    },
+    "5": {
+      "relevance": 25,
+      "state": "TN",
+      "bill_number": "SB2690",
+      "bill_id": 2112301,
+      "change_hash": "eef77ec117162183c8e56b91f68e82ce",
+      "url": "https://legiscan.com/TN/bill/SB2690/2025",
+      "text_url": "https://legiscan.com/TN/text/SB2690/2025",
+      "research_url": "https://legiscan.com/TN/research/SB2690/2025",
+      "last_action_date": "2026-05-27",
+      "last_action": "Effective date(s) 05/22/2026, 07/01/2026",
+      "title": "AN ACT to make appropriations for the purpose of defraying the expenses of the state government for the fiscal years beginning July 1, 2025, and July 1, 2026, in the administration, operation and maintenance of the legislative, executive and judicial branches of the various departments, institutions, offices and agencies of the state; for certain state aid and obligations; for capital outlay, for the service of the public debt, for emergency and contingency; to repeal certain appropriations and any acts inconsistent herewith; to provide provisional continuing appropriations; and to establish certain provisions, limitations and restrictions under which appropriations may be obligated and expended. This act makes appropriations for the purposes described above for the fiscal years beginning July 1, 2025, and July 1, 2026."
+    },
+    "6": {
+      "relevance": 16,
+      "state": "TN",
+      "bill_number": "SB1431",
+      "bill_id": 1971015,
+      "change_hash": "39da05fcf784bbf18bdb2b812cdc64eb",
+      "url": "https://legiscan.com/TN/bill/SB1431/2025",
+      "text_url": "https://legiscan.com/TN/text/SB1431/2025",
+      "research_url": "https://legiscan.com/TN/research/SB1431/2025",
+      "last_action_date": "2025-05-27",
+      "last_action": "Comp. became Pub. Ch. 530",
+      "title": "AN ACT to make appropriations for the purpose of defraying the expenses of the state government for the fiscal years beginning July 1, 2024, and July 1, 2025, in the administration, operation and maintenance of the legislative, executive and judicial branches of the various departments, institutions, offices and agencies of the state; for certain state aid and obligations; for capital outlay, for the service of the public debt, for emergency and contingency; to repeal certain appropriations and any acts inconsistent herewith; to provide provisional continuing appropriations; and to establish certain provisions, limitations and restrictions under which appropriations may be obligated and expended. This act makes appropriations for the purposes described above for the fiscal years beginning July 1, 2024, and July 1, 2025."
+    },
+    "7": {
+      "relevance": 16,
+      "state": "TN",
+      "bill_number": "HB1409",
+      "bill_id": 1971366,
+      "change_hash": "0ea6e67b3b0015071d2678a7380a3a40",
+      "url": "https://legiscan.com/TN/bill/HB1409/2025",
+      "text_url": "https://legiscan.com/TN/text/HB1409/2025",
+      "research_url": "https://legiscan.com/TN/research/HB1409/2025",
+      "last_action_date": "2025-05-27",
+      "last_action": "Effective date(s) 05/21/2025, 07/01/2025",
+      "title": "AN ACT to make appropriations for the purpose of defraying the expenses of the state government for the fiscal years beginning July 1, 2024, and July 1, 2025, in the administration, operation and maintenance of the legislative, executive and judicial branches of the various departments, institutions, offices and agencies of the state; for certain state aid and obligations; for capital outlay, for the service of the public debt, for emergency and contingency; to repeal certain appropriations and any acts inconsistent herewith; to provide provisional continuing appropriations; and to establish certain provisions, limitations and restrictions under which appropriations may be obligated and expended. This act makes appropriations for the purposes described above for the fiscal years beginning July 1, 2024, and July 1, 2025."
+    }
+  }
+}
