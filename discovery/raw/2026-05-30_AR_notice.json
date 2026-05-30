@@ -1,0 +1,27 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 1",
+      "relevancy": "100% - 100%",
+      "count": 1,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Znotic:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "AR",
+      "bill_number": "HB1007",
+      "bill_id": 2140377,
+      "change_hash": "532629bc9a0a1a09bdf2186dfda949f6",
+      "url": "https://legiscan.com/AR/bill/HB1007/2026",
+      "text_url": "https://legiscan.com/AR/text/HB1007/2026",
+      "research_url": "https://legiscan.com/AR/research/HB1007/2026",
+      "last_action_date": "2026-05-01",
+      "last_action": "Notification that HB1007 is now Act 157",
+      "title": "An Act For The Department Of Education - Division Of Elementary And Secondary Education - Public School Fund Appropriation For The 2026-2027 Fiscal Year. "
+    }
+  }
+}

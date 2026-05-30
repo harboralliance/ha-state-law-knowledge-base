@@ -2,60 +2,59 @@
   "state": "California",
   "state_code": "CA",
   "industry": "commercial lodging",
-  "source_file": "2026-05-28_California_lodging_compliance.md",
+  "source_file": "2026-05-30_California_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": 20,
-  "training_frequency": "new employees within six months of employment",
-  "new_hire_deadline_days": null,
-  "new_hire_deadline_text": null,
+  "training_frequency": null,
+  "new_hire_deadline_days": 180,
+  "new_hire_deadline_text": "six months of their start date",
   "signage_required": true,
   "provider_approval_required": false,
   "provider_approval_type": null,
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "California Department of Justice",
-    "Office of the Attorney General"
+    "California Civil Rights Commission",
+    "CalAGO"
   ],
   "applicable_to": [
-    "hotels",
-    "motels",
-    "bed and breakfast inns"
+    "hotels and motels"
   ],
   "required_topics": [
-    "human trafficking awareness"
+    "human trafficking awareness",
+    "identifying indicators of human trafficking",
+    "what employees can do to assist potential victims"
   ],
-  "reporting_contacts_required": [],
+  "reporting_contacts_required": [
+    "National Human Trafficking Hotline"
+  ],
   "signage_details": {
     "languages_required": [
       "English",
-      "Spanish",
-      "additional language if applicable"
+      "Spanish"
     ],
     "minimum_size": null,
     "font_size": null,
     "posting_location": null,
     "required_content": [
-      "telephone hotline numbers for human trafficking"
+      "contact numbers for the National Human Trafficking Hotline",
+      "any other relevant resources"
     ]
   },
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
     "SB 970",
-    "Civil Code Section 52.6"
+    "Senate Bill 1193"
   ],
   "source_urls": [
-    "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=SB-970-bonta-2019",
-    "https://www.justice.ca.gov/crime/human-trafficking/faq/",
-    "https://oag.ca.gov/human-trafficking/model-notice"
+    "https://www.calcivilrights.ca.gov/human-trafficking-faqs/",
+    "https://oag.ca.gov/human-trafficking/model-notice",
+    "1-888-373-7888"
   ],
-  "harbor_alliance_posture": "approval-required",
+  "harbor_alliance_posture": null,
   "harbor_alliance_actions": [],
-  "risks_or_constraints": [
-    "Failure to provide required training could result in penalties.",
-    "Businesses must ensure the notices are posted in multiple languages."
-  ],
+  "risks_or_constraints": [],
   "notes": [],
   "needs_review": []
 }

@@ -1,0 +1,131 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 9",
+      "relevancy": "100% - 68%",
+      "count": 9,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(((short:(pos=1) PHRASE 2 term:(pos=2)) AND Zrental:(pos=3)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "RI",
+      "bill_number": "H7657",
+      "bill_id": 2114357,
+      "change_hash": "04afcf4b190c09cbb96024ba2932ed93",
+      "url": "https://legiscan.com/RI/bill/H7657/2026",
+      "text_url": "https://legiscan.com/RI/text/H7657/2026",
+      "research_url": "https://legiscan.com/RI/research/H7657/2026",
+      "last_action_date": "2026-03-31",
+      "last_action": "Committee recommended measure be held for further study",
+      "title": "Distinguishes residential and commercial short-term rental properties for tax purposes."
+    },
+    "1": {
+      "relevance": 99,
+      "state": "RI",
+      "bill_number": "S2734",
+      "bill_id": 2126998,
+      "change_hash": "b716a5ff1441a80cf453860508d7723f",
+      "url": "https://legiscan.com/RI/bill/S2734/2026",
+      "text_url": "https://legiscan.com/RI/text/S2734/2026",
+      "research_url": "https://legiscan.com/RI/research/S2734/2026",
+      "last_action_date": "2026-05-29",
+      "last_action": "Referred to House Judiciary",
+      "title": "Requires landlords who rent shoreline property to provide their tenants, before the start of the tenancy, with a detailed, written disclosure regarding their shoreline access rights."
+    },
+    "2": {
+      "relevance": 98,
+      "state": "RI",
+      "bill_number": "H7301",
+      "bill_id": 2092205,
+      "change_hash": "c4bff0cce515a34561d3bc0fddfa000e",
+      "url": "https://legiscan.com/RI/bill/H7301/2026",
+      "text_url": "https://legiscan.com/RI/text/H7301/2026",
+      "research_url": "https://legiscan.com/RI/research/H7301/2026",
+      "last_action_date": "2026-02-11",
+      "last_action": "House read and passed",
+      "title": "HOUSE RESOLUTION REINSTATING THE LIFE OF AND EXTENDING THE REPORTING AND EXPIRATION DATES OF THE SPECIAL LEGISLATIVE COMMISSION TO REVIEW AND PROVIDE RECOMMENDATIONS FOR POLICIES THAT DEAL WITH NUMEROUS ECONOMIC AND SOCIAL SHORT-TERM RENTALS ISSUES (Reinstates the life, extends the reporting date of the Special Leg. Commission to Review/Provide Recommendations for Policies That Deal With Numerous Economic and Social Short-Term Rentals Issues from 9/30/25, to 9/30/26, the commission expires on 1/10/27)"
+    },
+    "3": {
+      "relevance": 97,
+      "state": "RI",
+      "bill_number": "H7003",
+      "bill_id": 2067172,
+      "change_hash": "6fb1733ffbc9c303de3d6b250edc8939",
+      "url": "https://legiscan.com/RI/bill/H7003/2026",
+      "text_url": "https://legiscan.com/RI/text/H7003/2026",
+      "research_url": "https://legiscan.com/RI/research/H7003/2026",
+      "last_action_date": "2026-05-28",
+      "last_action": "Committee recommends passage in concurrence",
+      "title": "Directs the state department of education to establish an anti-hazing policy in student athletics."
+    },
+    "4": {
+      "relevance": 90,
+      "state": "RI",
+      "bill_number": "S2664",
+      "bill_id": 2126702,
+      "change_hash": "7c89cfa31d41b15d8c2cf53ff66954ce",
+      "url": "https://legiscan.com/RI/bill/S2664/2026",
+      "text_url": "https://legiscan.com/RI/text/S2664/2026",
+      "research_url": "https://legiscan.com/RI/research/S2664/2026",
+      "last_action_date": "2026-05-11",
+      "last_action": "Meeting postponed (05/12/2026)",
+      "title": "Removes the requirement that 5% of the hotel tax generated from the South County tourism district be paid to the Greater Providence-Warwick Convention and Visitors Bureau."
+    },
+    "5": {
+      "relevance": 90,
+      "state": "RI",
+      "bill_number": "S2814",
+      "bill_id": 2129007,
+      "change_hash": "212b2f204046cf97e0ab58dd46e8f557",
+      "url": "https://legiscan.com/RI/bill/S2814/2026",
+      "text_url": "https://legiscan.com/RI/text/S2814/2026",
+      "research_url": "https://legiscan.com/RI/research/S2814/2026",
+      "last_action_date": "2026-05-21",
+      "last_action": "Committee recommended measure be held for further study",
+      "title": "Removes the requirement that 5% of the hotel tax generated from regional tourism districts be paid to the Greater Providence-Warwick Convention and Visitors Bureau, and adds that 5% of the hotel tax to the existing tax paid to the RI commerce corporation."
+    },
+    "6": {
+      "relevance": 90,
+      "state": "RI",
+      "bill_number": "H7467",
+      "bill_id": 2102846,
+      "change_hash": "3c3adc850cbe74c13f5e7ddc33ad2fed",
+      "url": "https://legiscan.com/RI/bill/H7467/2026",
+      "text_url": "https://legiscan.com/RI/text/H7467/2026",
+      "research_url": "https://legiscan.com/RI/research/H7467/2026",
+      "last_action_date": "2026-04-09",
+      "last_action": "Committee recommended measure be held for further study",
+      "title": "Removes the requirement that 5% of the hotel tax generated from regional tourism districts be paid to the Greater Providence-Warwick Convention and Visitors Bureau, and adds that 5% of the hotel tax to the existing tax paid to the RI commerce corporation."
+    },
+    "7": {
+      "relevance": 73,
+      "state": "RI",
+      "bill_number": "H8501",
+      "bill_id": 2147221,
+      "change_hash": "306ee78a7fb876bcb14e522249265340",
+      "url": "https://legiscan.com/RI/bill/H8501/2026",
+      "text_url": "https://legiscan.com/RI/text/H8501/2026",
+      "research_url": "https://legiscan.com/RI/research/H8501/2026",
+      "last_action_date": "2026-05-22",
+      "last_action": "Referred to Senate Judiciary",
+      "title": "Re-enacts certain chapters of title 45 relating to towns and cities and provides various technical statutory construction edits throughout the general laws."
+    },
+    "8": {
+      "relevance": 68,
+      "state": "RI",
+      "bill_number": "H7127",
+      "bill_id": 2082648,
+      "change_hash": "9a75269bf5b348cd3c322740c6868609",
+      "url": "https://legiscan.com/RI/bill/H7127/2026",
+      "text_url": "https://legiscan.com/RI/text/H7127/2026",
+      "research_url": "https://legiscan.com/RI/research/H7127/2026",
+      "last_action_date": "2026-05-29",
+      "last_action": "Placed on House Calendar (06/05/2026)",
+      "title": "MAKING APPROPRIATIONS FOR THE SUPPORT OF THE STATE FOR THE FISCAL YEAR ENDING JUNE 30, 2027"
+    }
+  }
+}

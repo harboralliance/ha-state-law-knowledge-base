@@ -1,0 +1,40 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 2",
+      "relevancy": "100% - 97%",
+      "count": 2,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zsex:(pos=1) AND Ztraffick:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "NH",
+      "bill_number": "HB1376",
+      "bill_id": 2055243,
+      "change_hash": "e57215ebb4e42ae0e0bd3a3f0e4e5df4",
+      "url": "https://legiscan.com/NH/bill/HB1376/2026",
+      "text_url": "https://legiscan.com/NH/text/HB1376/2026",
+      "research_url": "https://legiscan.com/NH/research/HB1376/2026",
+      "last_action_date": "2026-05-28",
+      "last_action": "Conference Committee Report Filed, # 2026-2073c; 06/04/2026",
+      "title": "Relative to a parent's ability to raise their child in a manner consistent with the child's biological sex and relative to breast surgeries for minors."
+    },
+    "1": {
+      "relevance": 97,
+      "state": "NH",
+      "bill_number": "HR47",
+      "bill_id": 2056225,
+      "change_hash": "a1a6bfc9f4913a572fef61937e12390a",
+      "url": "https://legiscan.com/NH/bill/HR47/2026",
+      "text_url": "https://legiscan.com/NH/text/HR47/2026",
+      "research_url": "https://legiscan.com/NH/research/HR47/2026",
+      "last_action_date": "2026-02-05",
+      "last_action": "Inexpedient to Legislate: Motion Adopted Voice Vote 02/05/2026 House Journal  3 P. 21",
+      "title": "Urging the release of all federal documents relating to Jeffrey Epstein."
+    }
+  }
+}

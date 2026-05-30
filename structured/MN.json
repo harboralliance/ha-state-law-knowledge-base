@@ -2,58 +2,73 @@
   "state": "Minnesota",
   "state_code": "MN",
   "industry": "commercial lodging",
-  "source_file": "2026-05-28_Minnesota_lodging_compliance.md",
+  "source_file": "2026-05-30_Minnesota_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
-  "training_frequency": "annual",
+  "training_frequency": "annually",
   "new_hire_deadline_days": 90,
-  "new_hire_deadline_text": "within 90 days of hire",
+  "new_hire_deadline_text": "90 days of hire",
   "signage_required": true,
   "provider_approval_required": false,
   "provider_approval_type": null,
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "Minnesota Department of Health (MDH)"
+    "Minnesota Department of Health"
   ],
   "applicable_to": [
-    "hotel license holders",
-    "managers",
-    "owners",
-    "on-site employees"
+    "hotels",
+    "motels",
+    "short-term rentals"
   ],
   "required_topics": [
-    "sex trafficking prevention and response training"
+    "sex trafficking awareness",
+    "effective response to sex trafficking"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
     "languages_required": [
-      "English"
+      "English",
+      "Spanish",
+      "Somali"
     ],
     "minimum_size": null,
     "font_size": null,
-    "posting_location": "back of house poster in all staff visible locations",
+    "posting_location": [
+      "Back of House",
+      "Housekeeping",
+      "Restaurant/Bar",
+      "Front desk/lobby",
+      "Security"
+    ],
     "required_content": [
-      "Minnesota Lodging Sex Trafficking Prevention and Response Training"
+      "Training completion required for all on-site employees, including managers."
     ]
   },
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    "Minnesota Statutes, section 173.246"
+    "Minnesota Statutes Section 609.547 (Sex Trafficking)",
+    "Public Act 287-2018"
   ],
   "source_urls": [
-    "https://www.health.state.mn.us/divisions/lab-clinical-lab/food-and-lodging-safety/lodging-sex-trafficking-prevention-response-training"
+    "NEEDS REVIEW"
   ],
-  "harbor_alliance_posture": "approval-required",
+  "harbor_alliance_posture": "immediate-entry",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "Non-compliance can lead to legal repercussions."
+    {
+      "risk_type": "exceptions to training requirements",
+      "details": "Employees under 16 unless they clean rooms, and employees who work exclusively in a restaurant providing catering services."
+    },
+    {
+      "risk_type": "language availability",
+      "details": "Training materials will be offered in Spanish, Hmong, and Somali starting late fall 2023/early 2024."
+    }
   ],
   "notes": [
-    "Employees under 16, those working exclusively in a restaurant providing catering services, or with no direct contact with guests are exempt.",
-    "MDH encourages tribal nations and seasonal employees to use the materials but does not explicitly exempt them from training requirements.",
-    "Training is mandatory for whole house vacation rental properties licensed as hotels/motels."
+    "There is no charge for the mandatory training package.",
+    "MDH encourages tribal nations to provide training and use MDH materials."
   ],
   "needs_review": []
 }
