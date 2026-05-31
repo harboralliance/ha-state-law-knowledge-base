@@ -2,31 +2,43 @@
   "state": "California",
   "state_code": "CA",
   "industry": "commercial lodging",
-  "source_file": "2026-05-30_California_lodging_compliance.md",
-  "training_required": true,
-  "training_duration_minutes": 20,
+  "source_file": "2026-05-31_California_lodging_compliance.md",
+  "training_required": false,
+  "training_duration_minutes": null,
   "training_frequency": null,
-  "new_hire_deadline_days": 180,
-  "new_hire_deadline_text": "six months of their start date",
+  "new_hire_deadline_days": null,
+  "new_hire_deadline_text": null,
   "signage_required": true,
   "provider_approval_required": false,
   "provider_approval_type": null,
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "California Civil Rights Commission",
-    "CalAGO"
+    "California Attorney General's Office"
   ],
   "applicable_to": [
-    "hotels and motels"
+    "hotels",
+    "motels"
   ],
   "required_topics": [
     "human trafficking awareness",
-    "identifying indicators of human trafficking",
-    "what employees can do to assist potential victims"
+    "telephone hotline numbers for seeking help or reporting unlawful activity",
+    "text number for services and support"
   ],
   "reporting_contacts_required": [
-    "National Human Trafficking Hotline"
+    {
+      "name": null,
+      "contact_info": [
+        {
+          "type": "telephone hotline numbers",
+          "value": null
+        },
+        {
+          "type": "text number",
+          "value": null
+        }
+      ]
+    }
   ],
   "signage_details": {
     "languages_required": [
@@ -37,24 +49,27 @@
     "font_size": null,
     "posting_location": null,
     "required_content": [
-      "contact numbers for the National Human Trafficking Hotline",
-      "any other relevant resources"
+      "telephone hotline numbers for seeking help or reporting unlawful activity",
+      "text number for services and support"
     ]
   },
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    "SB 970",
-    "Senate Bill 1193"
+    "Human Trafficking Model Notice",
+    "National Human Trafficking Hotline",
+    "California Coalition to Abolish Slavery and Trafficking (CAST)"
   ],
   "source_urls": [
-    "https://www.calcivilrights.ca.gov/human-trafficking-faqs/",
     "https://oag.ca.gov/human-trafficking/model-notice",
-    "1-888-373-7888"
+    "https://www.nationalhumantrafficking.org/get-help/",
+    "https://www.castonline.net/"
   ],
   "harbor_alliance_posture": null,
   "harbor_alliance_actions": [],
-  "risks_or_constraints": [],
+  "risks_or_constraints": [
+    "Failure to post the notice as required can result in penalties"
+  ],
   "notes": [],
   "needs_review": []
 }

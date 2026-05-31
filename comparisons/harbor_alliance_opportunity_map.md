@@ -1,15 +1,33 @@
-Thank you for providing such detailed summaries of Wyoming legislation related to hotlines and other topics. It's clear that legislators are actively considering various issues in the state, including reproductive rights and education savings accounts.
+### Summary of Wyoming Legislation Search Results for "Hotline"
 
-Here are a few key points from the recent summaries:
+#### Page Summary:
+- **Page:** 1 of 1
+- **Range:** 1 - 2
+- **Relevancy:** 100% - 83%
+- **Count:** 2
+- **Current Page:** 1
+- **Total Pages:** 1
 
-1. **HB0003 - Wyoming Pregnancy Centers-Autonomy and Rights**:
-   - **Status**: Assigned Chapter Number 62
-   - **Relevance**: 100%
-   - **Summary**: This bill aims to protect and support the autonomy and rights of women seeking reproductive health services. It is currently being acted upon in the legislature.
+---
 
-2. **HB0123 - Education Savings Accounts**:
-   - **Status**: Failed Introduction
-   - **Relevance**: 83%
-   - **Summary**: This bill proposes the creation of tax-advantaged education savings accounts for K-12 students in Wyoming, but it did not progress beyond being introduced.
+**Search Results:**
 
-If you are looking for more specific types of hotlines or have additional questions about these bills, please let me know!
+1. **Bill Number:** HB0003  
+   **Title:** Wyoming pregnancy centers-autonomy and rights.  
+   **Relevance:** 100%  
+   - **Action Date:** Assigned Chapter Number 62  
+   - **URL:** [Legiscan Link](https://legiscan.com/WY/bill/HB0003/2026)
+
+2. **Bill Number:** HB0123  
+   **Title:** Education savings accounts.  
+   **Relevance:** 83%  
+   - **Action Date:** Failed Introduction 26-35-1-0-0  
+   - **URL:** [Legiscan Link](https://legiscan.com/WY/bill/HB0123/2026)
+
+---
+
+**Note:** The search results are for the keyword "hotline" in the context of Wyoming legislation as of the current date (2026). Please check back periodically for updates and new developments.
+
+---
+
+If you need further details or have additional questions about these bills, feel free to ask!

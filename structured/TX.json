@@ -2,31 +2,34 @@
   "state": "Texas",
   "state_code": "TX",
   "industry": "commercial lodging",
-  "source_file": "2026-05-30_Texas_lodging_compliance.md",
+  "source_file": "2026-05-31_Texas_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
-  "training_frequency": "annually",
-  "new_hire_deadline_days": 90,
-  "new_hire_deadline_text": "within 90 days of hiring",
+  "training_frequency": "annual",
+  "new_hire_deadline_days": null,
+  "new_hire_deadline_text": null,
   "signage_required": false,
   "provider_approval_required": true,
-  "provider_approval_type": "approved by the Texas Attorney General's Office (OAG)",
-  "approval_authority": "Texas Attorney General\u2019s Office",
+  "provider_approval_type": "OAG approval",
+  "approval_authority": "Office of the Attorney General (OAG)",
   "approval_contact": "[email\u00a0protected]",
   "enforcing_agencies": [
-    "Texas Attorney General\u2019s Office"
+    "Texas Department of Public Safety"
   ],
   "applicable_to": [
     "commercial lodging establishments with 10 or more rooms"
   ],
   "required_topics": [
-    "human trafficking",
-    "prevalence in the hospitality industry",
-    "reporting suspected incidents"
+    "Identification of Human Trafficking",
+    "Reporting Procedures",
+    "Employee Support Policies"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
-    "languages_required": [],
+    "languages_required": [
+      "English",
+      "Spanish"
+    ],
     "minimum_size": null,
     "font_size": null,
     "posting_location": null,
@@ -35,16 +38,18 @@
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    "Human Trafficking Hotel Training",
-    "Human Trafficking \u2013 Texas",
-    "Texas Commercial Lodging Human Trafficking Awareness and Response"
+    "House Bill 390"
   ],
   "source_urls": [
-    "https://www.texasattorneygeneral.gov/human-trafficking-section/human-trafficking-training-and-signage/commercial-lodging-training-resources"
+    "https://www.texasattorneygeneral.gov/"
   ],
   "harbor_alliance_posture": null,
   "harbor_alliance_actions": [],
-  "risks_or_constraints": [],
-  "notes": [],
+  "risks_or_constraints": [
+    "Potential for non-compliance if training is not provided or approved"
+  ],
+  "notes": [
+    "Several reputable training resources are available but must be OAG-approved to comply with the law."
+  ],
   "needs_review": []
 }

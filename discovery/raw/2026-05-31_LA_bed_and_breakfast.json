@@ -1,0 +1,53 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 3",
+      "relevancy": "100% - 92%",
+      "count": 3,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zbed:(pos=1) AND Zbreakfast:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "LA",
+      "bill_number": "SCR67",
+      "bill_id": 2149152,
+      "change_hash": "393487e4ff8645027e50878e86dad14e",
+      "url": "https://legiscan.com/LA/bill/SCR67/2026",
+      "text_url": "https://legiscan.com/LA/text/SCR67/2026",
+      "research_url": "https://legiscan.com/LA/research/SCR67/2026",
+      "last_action_date": "2026-05-20",
+      "last_action": "Sent to the Secretary of State by the Secretary of the Senate.",
+      "title": "Proclaims May 5, 2026, as Chef John Folse Day and commends and congratulates him for his outstanding contributions to the culinary arts and for his role in promoting Louisiana's rich cultural heritage throughout the world."
+    },
+    "1": {
+      "relevance": 93,
+      "state": "LA",
+      "bill_number": "HB483",
+      "bill_id": 2125399,
+      "change_hash": "e3f408c988213f31ee4b287339330a2d",
+      "url": "https://legiscan.com/LA/bill/HB483/2026",
+      "text_url": "https://legiscan.com/LA/text/HB483/2026",
+      "research_url": "https://legiscan.com/LA/research/HB483/2026",
+      "last_action_date": "2026-04-01",
+      "last_action": "Read by title, under the rules, referred to the Committee on Municipal, Parochial and Cultural Affairs.",
+      "title": "Provides relative to the Faubourg Marigny Security and Improvement District in Orleans Parish"
+    },
+    "2": {
+      "relevance": 92,
+      "state": "LA",
+      "bill_number": "SB282",
+      "bill_id": 2126243,
+      "change_hash": "770cb275030d0c8feb0b439d93a7dc29",
+      "url": "https://legiscan.com/LA/bill/SB282/2026",
+      "text_url": "https://legiscan.com/LA/text/SB282/2026",
+      "research_url": "https://legiscan.com/LA/research/SB282/2026",
+      "last_action_date": "2026-04-21",
+      "last_action": "Read by title and returned to the Calendar, subject to call.",
+      "title": "Authorizes the creation of a cooperative economic development district affiliated with Baton Rouge Community College in East Baton Rouge Parish. (gov sig)"
+    }
+  }
+}
