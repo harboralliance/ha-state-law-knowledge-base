@@ -2,54 +2,61 @@
   "state": "Texas",
   "state_code": "TX",
   "industry": "commercial lodging",
-  "source_file": "2026-05-31_Texas_lodging_compliance.md",
+  "source_file": "2026-06-01_Texas_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
   "training_frequency": "annual",
-  "new_hire_deadline_days": null,
-  "new_hire_deadline_text": null,
+  "new_hire_deadline_days": 90,
+  "new_hire_deadline_text": "not later than 90 days after they are hired",
   "signage_required": false,
   "provider_approval_required": true,
-  "provider_approval_type": "OAG approval",
+  "provider_approval_type": "approved training videos provided by OAG",
   "approval_authority": "Office of the Attorney General (OAG)",
-  "approval_contact": "[email\u00a0protected]",
+  "approval_contact": null,
   "enforcing_agencies": [
-    "Texas Department of Public Safety"
+    "Office of the Attorney General (OAG)"
   ],
   "applicable_to": [
-    "commercial lodging establishments with 10 or more rooms"
+    {
+      "rooms_min": 10,
+      "rooms_max": null
+    }
   ],
   "required_topics": [
-    "Identification of Human Trafficking",
-    "Reporting Procedures",
-    "Employee Support Policies"
+    "identifying and responding to human trafficking",
+    "hospitality industry"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
-    "languages_required": [
-      "English",
-      "Spanish"
-    ],
+    "languages_required": [],
     "minimum_size": null,
     "font_size": null,
     "posting_location": null,
     "required_content": []
   },
-  "recordkeeping_requirements": [],
-  "certificate_requirements": [],
+  "recordkeeping_requirements": [
+    "certificate of completion from the approved training provider"
+  ],
+  "certificate_requirements": [
+    {
+      "type": "certificate of completion",
+      "from": "approved training provider"
+    }
+  ],
   "law_references": [
     "House Bill 390"
   ],
   "source_urls": [
-    "https://www.texasattorneygeneral.gov/"
+    "https://www.texasattorneygeneral.gov/human-trafficking-training-videos",
+    "https://etactics.com/products/human-trafficking-texas",
+    "https://nationalcourseportal.com/course/texas-commercial-lodging-human-trafficking-awareness-and-response"
   ],
-  "harbor_alliance_posture": null,
+  "harbor_alliance_posture": "approval-required",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "Potential for non-compliance if training is not provided or approved"
+    "need to comply with annual training requirements",
+    "new employees must complete training within 90 days of hire"
   ],
-  "notes": [
-    "Several reputable training resources are available but must be OAG-approved to comply with the law."
-  ],
+  "notes": [],
   "needs_review": []
 }

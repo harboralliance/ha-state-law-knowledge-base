@@ -2,73 +2,69 @@
   "state": "Connecticut",
   "state_code": "CT",
   "industry": "commercial lodging",
-  "source_file": "2026-05-31_Connecticut_lodging_compliance.md",
+  "source_file": "2026-06-01_Connecticut_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
-  "training_frequency": "Annual",
+  "training_frequency": null,
   "new_hire_deadline_days": null,
   "new_hire_deadline_text": null,
-  "signage_required": false,
+  "signage_required": true,
   "provider_approval_required": false,
   "provider_approval_type": null,
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "State attorneys",
-    "Local law enforcement"
+    "Office of Victim Services (OVS)",
+    "Department of Children and Families (DCF)"
   ],
   "applicable_to": [
-    "Hotels, motels, inns, and similar lodging"
+    "Hotels",
+    "Motels",
+    "Lodging",
+    "Child Protective Services staff",
+    "Foster parents",
+    "Service providers",
+    "Schools",
+    "Law enforcement",
+    "Hospitality industry",
+    "Medical staff"
   ],
   "required_topics": [
     "Introduction to Child Trafficking in Connecticut",
-    "Introduction to Human Trafficking in Connecticut for Law Enforcement (POST Certified)",
-    "Emergency Medical Services (EMS) training",
-    "Medical Providers/Emergency Medicine training",
-    "Hotels, Motels, and Lodging training",
-    "Child Trafficking of Boys",
-    "Trafficking of LGBQ/GNCT Children",
-    "Introduction to Labor Trafficking in Connecticut",
-    "Introduction to Labor Trafficking in Connecticut for Law Enforcement (POST Certified)",
-    "Child Trafficking: What It Is, How to Recognize It, and What to Do"
+    "Introduction to Human Trafficking in Connecticut for Law Enforcement"
   ],
-  "reporting_contacts_required": [],
+  "reporting_contacts_required": [
+    "State attorneys and local law enforcement"
+  ],
   "signage_details": {
     "languages_required": [],
     "minimum_size": null,
     "font_size": null,
     "posting_location": null,
-    "required_content": []
+    "required_content": [
+      "Training and awareness campaigns annually"
+    ]
   },
   "recordkeeping_requirements": [
-    {
-      "records_type": "Guest transaction records",
-      "retention_period": "6 months"
-    }
+    "Document training, investigations of missing children, trafficking referrals, and prosecution cases. Mandatory data reporting."
   ],
   "certificate_requirements": [],
   "law_references": [
-    "2017 Public Act 17-32",
-    "2016 Public Act 16-71",
-    "2015 Public Act 15-195",
-    "2014 Public Act 14-186",
-    "2013 Public Act 13-166",
-    "2012 Public Act 12-141",
-    "2011 Public Act 11-180",
-    "2010 Public Act 10-115"
+    "Public Act 17-32 (2017)",
+    "Public Act 16-71 (2016)",
+    "Public Act 15-195 (2015)",
+    "Public Act 14-186 (2014)",
+    "Public Act 13-166 (2013)"
   ],
   "source_urls": [
     "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/trainings-for-providers",
     "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/human-and-sex-trafficking-legislation"
   ],
-  "harbor_alliance_posture": "needs-review",
+  "harbor_alliance_posture": "approval-required",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "Needs comprehensive training for lodging industry staff to recognize and respond to trafficking incidents."
+    "Commercial sexual exploitation of a minor is a class C felony."
   ],
   "notes": [],
-  "needs_review": [
-    "Clarify the state-controlled training requirement posture",
-    "Review signage requirements if applicable"
-  ]
+  "needs_review": []
 }

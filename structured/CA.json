@@ -2,13 +2,13 @@
   "state": "California",
   "state_code": "CA",
   "industry": "commercial lodging",
-  "source_file": "2026-05-31_California_lodging_compliance.md",
-  "training_required": false,
-  "training_duration_minutes": null,
+  "source_file": "2026-06-01_California_lodging_compliance.md",
+  "training_required": true,
+  "training_duration_minutes": 20,
   "training_frequency": null,
-  "new_hire_deadline_days": null,
-  "new_hire_deadline_text": null,
-  "signage_required": true,
+  "new_hire_deadline_days": 180,
+  "new_hire_deadline_text": "Within six months of employment",
+  "signage_required": false,
   "provider_approval_required": false,
   "provider_approval_type": null,
   "approval_authority": null,
@@ -16,30 +16,13 @@
   "enforcing_agencies": [
     "California Attorney General's Office"
   ],
-  "applicable_to": [
-    "hotels",
-    "motels"
-  ],
+  "applicable_to": [],
   "required_topics": [
     "human trafficking awareness",
-    "telephone hotline numbers for seeking help or reporting unlawful activity",
-    "text number for services and support"
+    "identification of potential human trafficking scenarios",
+    "response procedures"
   ],
-  "reporting_contacts_required": [
-    {
-      "name": null,
-      "contact_info": [
-        {
-          "type": "telephone hotline numbers",
-          "value": null
-        },
-        {
-          "type": "text number",
-          "value": null
-        }
-      ]
-    }
-  ],
+  "reporting_contacts_required": [],
   "signage_details": {
     "languages_required": [
       "English",
@@ -48,27 +31,20 @@
     "minimum_size": null,
     "font_size": null,
     "posting_location": null,
-    "required_content": [
-      "telephone hotline numbers for seeking help or reporting unlawful activity",
-      "text number for services and support"
-    ]
+    "required_content": []
   },
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    "Human Trafficking Model Notice",
-    "National Human Trafficking Hotline",
-    "California Coalition to Abolish Slavery and Trafficking (CAST)"
+    "California Labor Code Section 226.1"
   ],
   "source_urls": [
-    "https://oag.ca.gov/human-trafficking/model-notice",
-    "https://www.nationalhumantrafficking.org/get-help/",
-    "https://www.castonline.net/"
+    "https://oag.ca.gov/human-trafficking-resources"
   ],
-  "harbor_alliance_posture": null,
+  "harbor_alliance_posture": "immediate-entry",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "Failure to post the notice as required can result in penalties"
+    "Training may require additional resources and time for employees"
   ],
   "notes": [],
   "needs_review": []
