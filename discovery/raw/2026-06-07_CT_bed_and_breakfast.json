@@ -1,0 +1,118 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 8",
+      "relevancy": "100% - 63%",
+      "count": 8,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zbed:(pos=1) AND Zbreakfast:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "CT",
+      "bill_number": "HB05114",
+      "bill_id": 2112124,
+      "change_hash": "e5ec7550f3eacc97745526f44fc0b998",
+      "url": "https://legiscan.com/CT/bill/HB05114/2026",
+      "text_url": "https://legiscan.com/CT/text/HB05114/2026",
+      "research_url": "https://legiscan.com/CT/research/HB05114/2026",
+      "last_action_date": "2026-04-16",
+      "last_action": "File Number 663",
+      "title": "An Act Establishing A Refundable Credit Against The Personal Income Tax For A Portion Of Annual Rent Payments Made By A Taxpayer For A Primary Residence In The State."
+    },
+    "1": {
+      "relevance": 99,
+      "state": "CT",
+      "bill_number": "SB00116",
+      "bill_id": 2112076,
+      "change_hash": "514250c65c9f01cd37f792969a41a97f",
+      "url": "https://legiscan.com/CT/bill/SB00116/2026",
+      "text_url": "https://legiscan.com/CT/text/SB00116/2026",
+      "research_url": "https://legiscan.com/CT/research/SB00116/2026",
+      "last_action_date": "2026-05-27",
+      "last_action": "Signed by the Governor",
+      "title": "An Act Concerning The Prevention Of Human Trafficking."
+    },
+    "2": {
+      "relevance": 95,
+      "state": "CT",
+      "bill_number": "HB05443",
+      "bill_id": 2127746,
+      "change_hash": "695670327d075c6e34132390d26baffb",
+      "url": "https://legiscan.com/CT/bill/HB05443/2026",
+      "text_url": "https://legiscan.com/CT/text/HB05443/2026",
+      "research_url": "https://legiscan.com/CT/research/HB05443/2026",
+      "last_action_date": "2026-04-20",
+      "last_action": "File Number 684",
+      "title": "An Act Concerning The Sales And Use Taxes Rate For And Applicability To Certain Motor Vehicles, Peer-to-peer Car Sharing And Certain Personal Property Used In Burials And Cremations, Dedicating Funding For The Tourism Fund And Increasing The Exemption Amount For Sales Tax-free Week."
+    },
+    "3": {
+      "relevance": 94,
+      "state": "CT",
+      "bill_number": "SB00002",
+      "bill_id": 2106816,
+      "change_hash": "58a17bcda0dce591093dbf9b758b566e",
+      "url": "https://legiscan.com/CT/bill/SB00002/2026",
+      "text_url": "https://legiscan.com/CT/text/SB00002/2026",
+      "research_url": "https://legiscan.com/CT/research/SB00002/2026",
+      "last_action_date": "2026-04-20",
+      "last_action": "File Number 693",
+      "title": "An Act Supporting Local Commerce."
+    },
+    "4": {
+      "relevance": 92,
+      "state": "CT",
+      "bill_number": "HB05418",
+      "bill_id": 2124530,
+      "change_hash": "4bd7b99bd2fdd291a560ef8d2a0659c2",
+      "url": "https://legiscan.com/CT/bill/HB05418/2026",
+      "text_url": "https://legiscan.com/CT/text/HB05418/2026",
+      "research_url": "https://legiscan.com/CT/research/HB05418/2026",
+      "last_action_date": "2026-04-16",
+      "last_action": "File Number 665",
+      "title": "An Act Concerning The Kirklyn M. Kerr Program At The University Of Connecticut."
+    },
+    "5": {
+      "relevance": 79,
+      "state": "CT",
+      "bill_number": "HB05032",
+      "bill_id": 2108000,
+      "change_hash": "e88ab3e3097f3503600fc0a82d40ef6d",
+      "url": "https://legiscan.com/CT/bill/HB05032/2026",
+      "text_url": "https://legiscan.com/CT/text/HB05032/2026",
+      "research_url": "https://legiscan.com/CT/research/HB05032/2026",
+      "last_action_date": "2026-04-16",
+      "last_action": "File Number 661",
+      "title": "An Act Adjusting The State Budget For The Biennium Ending June 30, 2027."
+    },
+    "6": {
+      "relevance": 66,
+      "state": "CT",
+      "bill_number": "SB00001",
+      "bill_id": 2106739,
+      "change_hash": "89b5cd87e9ee0addc9d32f5c48f426dd",
+      "url": "https://legiscan.com/CT/bill/SB00001/2026",
+      "text_url": "https://legiscan.com/CT/text/SB00001/2026",
+      "research_url": "https://legiscan.com/CT/research/SB00001/2026",
+      "last_action_date": "2026-05-26",
+      "last_action": "Signed by the Governor",
+      "title": "An Act Making Adjustments To The State Budget For The Biennium Ending June 30, 2027, Making Deficiency Appropriations For The Fiscal Year Ending June 30, 2026, Authorizing And Adjusting Bonds Of The State And Concerning Provisions Relating To Revenue, School Construction And Other Items To Implement The State Budget."
+    },
+    "7": {
+      "relevance": 63,
+      "state": "CT",
+      "bill_number": "SB00084",
+      "bill_id": 2107994,
+      "change_hash": "f503f201e772b093ede3339ca4df1c3a",
+      "url": "https://legiscan.com/CT/bill/SB00084/2026",
+      "text_url": "https://legiscan.com/CT/text/SB00084/2026",
+      "research_url": "https://legiscan.com/CT/research/SB00084/2026",
+      "last_action_date": "2026-04-20",
+      "last_action": "File Number 704",
+      "title": "An Act Concerning Adjustments To State Revenue."
+    }
+  }
+}

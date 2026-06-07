@@ -1,0 +1,27 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 1",
+      "relevancy": "100% - 100%",
+      "count": 1,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zbed:(pos=1) AND Zbreakfast:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "PA",
+      "bill_number": "SB1105",
+      "bill_id": 2057410,
+      "change_hash": "0f0dccc18d9e35da5db919a7d3a8e19f",
+      "url": "https://legiscan.com/PA/bill/SB1105/2025",
+      "text_url": "https://legiscan.com/PA/text/SB1105/2025",
+      "research_url": "https://legiscan.com/PA/research/SB1105/2025",
+      "last_action_date": "2026-06-02",
+      "last_action": "Re-referred to Appropriations",
+      "title": "In hotel tax, further providing for hotel room rental tax in third through eighth class counties."
+    }
+  }
+}

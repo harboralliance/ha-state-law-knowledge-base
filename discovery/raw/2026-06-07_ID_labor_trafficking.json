@@ -1,0 +1,27 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 1",
+      "relevancy": "100% - 100%",
+      "count": 1,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zlabor:(pos=1) AND Ztraffick:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "ID",
+      "bill_number": "H0757",
+      "bill_id": 2123084,
+      "change_hash": "9d6c004e4dd1b06ee107f4e61e952037",
+      "url": "https://legiscan.com/ID/bill/H0757/2026",
+      "text_url": "https://legiscan.com/ID/text/H0757/2026",
+      "research_url": "https://legiscan.com/ID/research/H0757/2026",
+      "last_action_date": "2026-02-25",
+      "last_action": "Reported Printed and Referred to Health & Welfare",
+      "title": "Amends and adds to existing law to establish provisions regarding medical neglect for children and vulnerable adults."
+    }
+  }
+}

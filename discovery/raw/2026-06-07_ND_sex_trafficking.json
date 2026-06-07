@@ -1,0 +1,66 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 4",
+      "relevancy": "100% - 86%",
+      "count": 4,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zsex:(pos=1) AND Ztraffick:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "ND",
+      "bill_number": "HB1569",
+      "bill_id": 1930434,
+      "change_hash": "ec5ed251ad93b019959bda306d297df9",
+      "url": "https://legiscan.com/ND/bill/HB1569/2025",
+      "text_url": "https://legiscan.com/ND/text/HB1569/2025",
+      "research_url": "https://legiscan.com/ND/research/HB1569/2025",
+      "last_action_date": "2025-02-21",
+      "last_action": "Second reading, failed to pass, yeas 25 nays 65",
+      "title": "Human trafficking awareness and prevention curriculum."
+    },
+    "1": {
+      "relevance": 99,
+      "state": "ND",
+      "bill_number": "SB2330",
+      "bill_id": 1930393,
+      "change_hash": "0ef472bb483ddec0d62d797a2c7326f2",
+      "url": "https://legiscan.com/ND/bill/SB2330/2025",
+      "text_url": "https://legiscan.com/ND/text/SB2330/2025",
+      "research_url": "https://legiscan.com/ND/research/SB2330/2025",
+      "last_action_date": "2025-06-11",
+      "last_action": "Filed with Secretary Of State 05/02",
+      "title": "Human trafficking and exploitation prevention and awareness education for students at public schools and tribal schools."
+    },
+    "2": {
+      "relevance": 97,
+      "state": "ND",
+      "bill_number": "SCR4017",
+      "bill_id": 1949197,
+      "change_hash": "4ddedafb9e88df983761b1746f61e4f7",
+      "url": "https://legiscan.com/ND/bill/SCR4017/2025",
+      "text_url": "https://legiscan.com/ND/text/SCR4017/2025",
+      "research_url": "https://legiscan.com/ND/research/SCR4017/2025",
+      "last_action_date": "2025-04-28",
+      "last_action": "Filed with Secretary Of State 04/28",
+      "title": "A concurrent resolution directing the Legislative Management to consider studying the detrimental impacts of pornography."
+    },
+    "3": {
+      "relevance": 86,
+      "state": "ND",
+      "bill_number": "SB2383",
+      "bill_id": 1943028,
+      "change_hash": "9d368f837f9510207013947c7a898174",
+      "url": "https://legiscan.com/ND/bill/SB2383/2025",
+      "text_url": "https://legiscan.com/ND/text/SB2383/2025",
+      "research_url": "https://legiscan.com/ND/research/SB2383/2025",
+      "last_action_date": "2025-02-19",
+      "last_action": "Second reading, failed to pass, yeas 12 nays 35",
+      "title": "The definition of equal decisionmaking responsibility and equal parenting time, the best interests of the child factors, and the residence of a child; and to provide for application."
+    }
+  }
+}

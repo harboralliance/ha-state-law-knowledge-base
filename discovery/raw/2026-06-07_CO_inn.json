@@ -1,0 +1,27 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 1",
+      "relevancy": "100% - 100%",
+      "count": 1,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zinn:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "CO",
+      "bill_number": "HB1426",
+      "bill_id": 2146534,
+      "change_hash": "1cfaa13ae0c66caee3a0c3f0b6880814",
+      "url": "https://legiscan.com/CO/bill/HB1426/2026",
+      "text_url": "https://legiscan.com/CO/text/HB1426/2026",
+      "research_url": "https://legiscan.com/CO/research/HB1426/2026",
+      "last_action_date": "2026-06-02",
+      "last_action": "Governor Signed",
+      "title": "Department of Law Legislative Report"
+    }
+  }
+}

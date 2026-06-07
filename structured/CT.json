@@ -2,59 +2,56 @@
   "state": "Connecticut",
   "state_code": "CT",
   "industry": "commercial lodging",
-  "source_file": "2026-06-01_Connecticut_lodging_compliance.md",
+  "source_file": "2026-06-07_Connecticut_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
-  "training_frequency": null,
+  "training_frequency": "annually",
   "new_hire_deadline_days": null,
   "new_hire_deadline_text": null,
-  "signage_required": true,
+  "signage_required": false,
   "provider_approval_required": false,
   "provider_approval_type": null,
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "Office of Victim Services (OVS)",
-    "Department of Children and Families (DCF)"
+    "State attorneys",
+    "local law enforcement"
   ],
   "applicable_to": [
-    "Hotels",
-    "Motels",
-    "Lodging",
-    "Child Protective Services staff",
-    "Foster parents",
-    "Service providers",
-    "Schools",
-    "Law enforcement",
-    "Hospitality industry",
-    "Medical staff"
+    "hotels, motels, inns, and similar lodging"
   ],
   "required_topics": [
     "Introduction to Child Trafficking in Connecticut",
-    "Introduction to Human Trafficking in Connecticut for Law Enforcement"
+    "Introduction to Child Trafficking in Connecticut for School Settings",
+    "Introduction to Human Trafficking in Connecticut for Law Enforcement - Police Officer's Standards and Training (POST) Certified",
+    "Introduction to Human Trafficking in Connecticut for Emergency Medical Services (EMS)",
+    "Child Trafficking Training for Medical Providers/Emergency Medical Services",
+    "MyLifeMyChoice curriculum for youth"
   ],
   "reporting_contacts_required": [
-    "State attorneys and local law enforcement"
+    "state attorneys",
+    "local law enforcement"
   ],
   "signage_details": {
     "languages_required": [],
     "minimum_size": null,
     "font_size": null,
     "posting_location": null,
-    "required_content": [
-      "Training and awareness campaigns annually"
-    ]
+    "required_content": []
   },
   "recordkeeping_requirements": [
-    "Document training, investigations of missing children, trafficking referrals, and prosecution cases. Mandatory data reporting."
+    "guest transactions and receipts for at least six months"
   ],
   "certificate_requirements": [],
   "law_references": [
-    "Public Act 17-32 (2017)",
-    "Public Act 16-71 (2016)",
-    "Public Act 15-195 (2015)",
-    "Public Act 14-186 (2014)",
-    "Public Act 13-166 (2013)"
+    "2017 Public Act 17-32",
+    "2016 Public Act 16-71",
+    "2015 Public Act 15-195",
+    "2014 Public Act 14-186",
+    "2013 Public Act 13-166",
+    "2012 Public Act 12-141",
+    "2011 Public Act 11-180",
+    "2010 Public Act 10-115"
   ],
   "source_urls": [
     "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/trainings-for-providers",
@@ -63,7 +60,7 @@
   "harbor_alliance_posture": "approval-required",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "Commercial sexual exploitation of a minor is a class C felony."
+    "state-controlled training requirement"
   ],
   "notes": [],
   "needs_review": []

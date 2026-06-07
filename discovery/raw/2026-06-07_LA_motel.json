@@ -1,0 +1,105 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 7",
+      "relevancy": "100% - 33%",
+      "count": 7,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zmotel:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "LA",
+      "bill_number": "SB430",
+      "bill_id": 2139574,
+      "change_hash": "69ccc90f8a5dc59d658825de456eb95f",
+      "url": "https://legiscan.com/LA/bill/SB430/2026",
+      "text_url": "https://legiscan.com/LA/text/SB430/2026",
+      "research_url": "https://legiscan.com/LA/research/SB430/2026",
+      "last_action_date": "2026-06-01",
+      "last_action": "Effective date 8/1/2026.",
+      "title": "Provides for the levy of hotel occupancy tax by the Shreveport-Bossier Convention and Tourist Bureau. (8/1/26)"
+    },
+    "1": {
+      "relevance": 89,
+      "state": "LA",
+      "bill_number": "HB247",
+      "bill_id": 2121122,
+      "change_hash": "67b1a6361164a9df2e101887eeb2601a",
+      "url": "https://legiscan.com/LA/bill/HB247/2026",
+      "text_url": "https://legiscan.com/LA/text/HB247/2026",
+      "research_url": "https://legiscan.com/LA/research/HB247/2026",
+      "last_action_date": "2026-05-27",
+      "last_action": "Effective date: 05/23/2026.",
+      "title": "Creates the Allen Parish Economic Development District and abolishes the Allen Parish Tourist Commission"
+    },
+    "2": {
+      "relevance": 89,
+      "state": "LA",
+      "bill_number": "HB483",
+      "bill_id": 2125399,
+      "change_hash": "e3f408c988213f31ee4b287339330a2d",
+      "url": "https://legiscan.com/LA/bill/HB483/2026",
+      "text_url": "https://legiscan.com/LA/text/HB483/2026",
+      "research_url": "https://legiscan.com/LA/research/HB483/2026",
+      "last_action_date": "2026-04-01",
+      "last_action": "Read by title, under the rules, referred to the Committee on Municipal, Parochial and Cultural Affairs.",
+      "title": "Provides relative to the Faubourg Marigny Security and Improvement District in Orleans Parish"
+    },
+    "3": {
+      "relevance": 85,
+      "state": "LA",
+      "bill_number": "SB282",
+      "bill_id": 2126243,
+      "change_hash": "770cb275030d0c8feb0b439d93a7dc29",
+      "url": "https://legiscan.com/LA/bill/SB282/2026",
+      "text_url": "https://legiscan.com/LA/text/SB282/2026",
+      "research_url": "https://legiscan.com/LA/research/SB282/2026",
+      "last_action_date": "2026-04-21",
+      "last_action": "Read by title and returned to the Calendar, subject to call.",
+      "title": "Authorizes the creation of a cooperative economic development district affiliated with Baton Rouge Community College in East Baton Rouge Parish. (gov sig)"
+    },
+    "4": {
+      "relevance": 85,
+      "state": "LA",
+      "bill_number": "SB283",
+      "bill_id": 2126365,
+      "change_hash": "7b5dcc3e3ba6984a762c17f722aae0d8",
+      "url": "https://legiscan.com/LA/bill/SB283/2026",
+      "text_url": "https://legiscan.com/LA/text/SB283/2026",
+      "research_url": "https://legiscan.com/LA/research/SB283/2026",
+      "last_action_date": "2026-06-01",
+      "last_action": "Sent to the Governor by the Secretary of the Senate on 6/2/2026.",
+      "title": "Creates the BLVD at Harding Area Special District in the city of Baton Rouge. (gov sig)"
+    },
+    "5": {
+      "relevance": 78,
+      "state": "LA",
+      "bill_number": "HB899",
+      "bill_id": 2127053,
+      "change_hash": "238f5098ef732bc6c416fb605306a285",
+      "url": "https://legiscan.com/LA/bill/HB899/2026",
+      "text_url": "https://legiscan.com/LA/text/HB899/2026",
+      "research_url": "https://legiscan.com/LA/research/HB899/2026",
+      "last_action_date": "2026-03-09",
+      "last_action": "Read by title, under the rules, referred to the Committee on Natural Resources and Environment.",
+      "title": "Provides with respect to land reclamation following non-coal mining (OR INCREASE GF EX See Note)"
+    },
+    "6": {
+      "relevance": 33,
+      "state": "LA",
+      "bill_number": "HB1",
+      "bill_id": 2121126,
+      "change_hash": "36f90b3b95df23725fbf5ebd23934527",
+      "url": "https://legiscan.com/LA/bill/HB1/2026",
+      "text_url": "https://legiscan.com/LA/text/HB1/2026",
+      "research_url": "https://legiscan.com/LA/research/HB1/2026",
+      "last_action_date": "2026-06-01",
+      "last_action": "Sent to the Governor for executive approval.",
+      "title": "Provides for the ordinary operating expenses of state government for Fiscal Year 2026-2027"
+    }
+  }
+}

@@ -1,16 +1,45 @@
-It seems that there may be an error in the query or search parameters. The keyword "hotline" was used to search for legislation related to hotlines in Wyoming, but no results were found. It is possible that there are no current bills related to hotlines in Wyoming's legislature. However, it could also be a mistake in the keyword or search parameters used. If you have any additional information or would like to try a different search term, please let me know and I will do my best to assist you further.
+### Summary of Search Results for Hotline Bills in Wyoming Legislation
 
-If you were looking for specific types of hotlines, such as mental health hotlines or emergency services, additional keywords or more detailed searches would be necessary. Here are a few steps you can take:
+#### State: WY  
+#### Keyword: hotline  
 
-1. **Refine Your Search:** Use more specific terms related to the type of hotline you're interested in.
-   - For example, if you're looking for a mental health hotline, try searching for "mental health hotline."
-   - If you're looking for an emergency services hotline, search for "emergency services hotline."
+**Page Summary:**  
+- **Current Page:** 1 of 1  
+- **Range:** 1 - 2  
+- **Relevancy Range:** 100% - 83%  
+- **Total Count:** 2  
 
-2. **Check Other Types of Legislation:** Sometimes hotlines are addressed through different types of legislation or regulatory actions rather than specific bills.
-   - Look into any recent regulations, executive orders, or policy statements that might address hotlines.
+**Search Query:** "(Zhotlin:(pos=1))"
 
-3. **Contact State Agencies:** Reach out to state agencies or departments related to the issue you're interested in. They may have information on existing hotlines or plans for establishing new ones.
+---
 
-4. **Community Resources:** Check with community organizations, non-profits, and local government offices. They often provide information on available resources and services, including hotlines.
+#### Bill Results
 
-If you can provide more context or specify the type of hotline you're looking for, I can assist you further in refining your search or exploring alternative resources.
+**Result 1: HB0003**  
+- **Relevance:** 100%  
+- **Title:** Wyoming pregnancy centers-autonomy and rights.  
+- **Last Action Date:** March 6, 2026  
+- **Action Status:** Assigned Chapter Number 62  
+- **URL:** [https://legiscan.com/WY/bill/HB0003/2026](https://legiscan.com/WY/bill/HB0003/2026)  
+
+**Result 2: HB0123**  
+- **Relevance:** 83%  
+- **Title:** Education savings accounts.  
+- **Last Action Date:** February 10, 2026  
+- **Action Status:** Failed Introduction  
+- **URL:** [https://legiscan.com/WY/bill/HB0123/2026](https://legiscan.com/WY/bill/HB0123/2026)  
+
+---
+
+**Notes:**
+- The search appears to have returned two bills, but none of them explicitly mention the term "hotline."
+- Bill HB0003 is focused on the autonomy and rights of pregnancy centers, which may include hotlines as part of their services.
+- Bill HB0123 deals with education savings accounts and does not directly mention a hotline but could potentially involve similar types of support services.
+
+---
+
+**Recommendations:**
+- If you are looking for specific legislation related to hotlines, consider refining your search terms or expanding the scope of your query.
+- For more accurate results, it may be helpful to consult additional sources such as legislative committee meetings, public statements from lawmakers, and advocacy groups focused on healthcare and education in Wyoming.
+
+If you need further assistance or have additional questions, feel free to ask!
