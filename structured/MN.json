@@ -2,12 +2,12 @@
   "state": "Minnesota",
   "state_code": "MN",
   "industry": "commercial lodging",
-  "source_file": "2026-06-07_Minnesota_lodging_compliance.md",
+  "source_file": "2026-06-14_Minnesota_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
-  "training_frequency": "yearly",
+  "training_frequency": "annual",
   "new_hire_deadline_days": 90,
-  "new_hire_deadline_text": "within 90 days of hire",
+  "new_hire_deadline_text": "New employees must take this training within 90 days of hire.",
   "signage_required": true,
   "provider_approval_required": false,
   "provider_approval_type": null,
@@ -17,40 +17,44 @@
     "Minnesota Department of Health (MDH)"
   ],
   "applicable_to": [
-    "hotels",
-    "motels",
-    "short-term rentals"
+    "hotel operators",
+    "motel owners",
+    "short-term rental managers"
   ],
-  "required_topics": [],
+  "required_topics": [
+    "recognizing the signs of sex trafficking",
+    "understanding legal requirements",
+    "knowing how to respond in an emergency"
+  ],
   "reporting_contacts_required": [],
   "signage_details": {
     "languages_required": [
       "English",
       "Spanish",
-      "Hmong",
-      "Somali"
+      "Somali",
+      "Hmong"
     ],
     "minimum_size": null,
     "font_size": null,
-    "posting_location": "all staff will see",
-    "required_content": [
-      "Back of House poster"
-    ]
+    "posting_location": "back-of-house posters",
+    "required_content": []
   },
-  "recordkeeping_requirements": [],
+  "recordkeeping_requirements": [
+    "maintain a roster of employees who have completed the training for inspection purposes"
+  ],
   "certificate_requirements": [],
   "law_references": [
-    "Minnesota Statutes, Section 645.1275"
+    "Minnesota Statutes, section 609B.151"
   ],
   "source_urls": [
-    "health.safeharbor@state.mn.us"
+    "https://www.health.state.mn.us/divisions/labor/employment-laws/hrd/training/sex-trafficking"
   ],
-  "harbor_alliance_posture": "approval-required",
+  "harbor_alliance_posture": "immediate-entry",
   "harbor_alliance_actions": [],
-  "risks_or_constraints": [],
-  "notes": [
-    "Training must be completed by new employees within 90 days and retaken annually.",
-    "Employees under 16, those working exclusively in restaurants or providing catering services, and those with no direct contact with guests are exempt."
+  "risks_or_constraints": [
+    "Employees under 16 who clean rooms are exempt.",
+    "Employees working exclusively in restaurants or providing catering services are also exempt."
   ],
+  "notes": [],
   "needs_review": []
 }

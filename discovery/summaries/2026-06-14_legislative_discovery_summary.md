@@ -1,0 +1,4 @@
+I understand that you're looking for information related to Wyoming and search results for the keyword "hotline". The provided response shows two search results:
+1. HB0003 - This bill, also known as the Wyoming Pregnancy Centers Autonomy and Rights bill, was introduced in 2026. It was assigned chapter number 62 and is currently under consideration.
+2. HB0123 - This bill, also known as the Education Savings Accounts bill, was introduced in 2026 but failed to pass and was returned to committee.
+Neither of these bills appear to be directly related to a "hotline" in Wyoming. If you have any other questions or need further assistance with search results for a different keyword related to Wyoming, feel free to ask!

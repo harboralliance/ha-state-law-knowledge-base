@@ -1,0 +1,66 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 4",
+      "relevancy": "100% - 89%",
+      "count": 4,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zbed:(pos=1) AND Zbreakfast:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "AZ",
+      "bill_number": "SB1847",
+      "bill_id": 2153431,
+      "change_hash": "4ce52199df50d08fb9e3f28d0717108f",
+      "url": "https://legiscan.com/AZ/bill/SB1847/2026",
+      "text_url": "https://legiscan.com/AZ/text/SB1847/2026",
+      "research_url": "https://legiscan.com/AZ/research/SB1847/2026",
+      "last_action_date": "2026-06-11",
+      "last_action": "Transmitted to Governor",
+      "title": "General appropriations act; 2026-2027."
+    },
+    "1": {
+      "relevance": 99,
+      "state": "AZ",
+      "bill_number": "HB4154",
+      "bill_id": 2153428,
+      "change_hash": "30566dfff04d95c1bdec205634c77b27",
+      "url": "https://legiscan.com/AZ/bill/HB4154/2026",
+      "text_url": "https://legiscan.com/AZ/text/HB4154/2026",
+      "research_url": "https://legiscan.com/AZ/research/HB4154/2026",
+      "last_action_date": "2026-06-11",
+      "last_action": "House Committee of the Whole action: Do Pass Amended",
+      "title": "General appropriations act; 2026-2027"
+    },
+    "2": {
+      "relevance": 90,
+      "state": "AZ",
+      "bill_number": "SB1831",
+      "bill_id": 2145971,
+      "change_hash": "847241de2e123c4d9d3158e3d1771f21",
+      "url": "https://legiscan.com/AZ/bill/SB1831/2026",
+      "text_url": "https://legiscan.com/AZ/text/SB1831/2026",
+      "research_url": "https://legiscan.com/AZ/research/SB1831/2026",
+      "last_action_date": "2026-05-04",
+      "last_action": "Senate Committee of the Whole action: Do Pass",
+      "title": "2026-2027; general appropriations act"
+    },
+    "3": {
+      "relevance": 89,
+      "state": "AZ",
+      "bill_number": "HB4138",
+      "bill_id": 2145985,
+      "change_hash": "4e2d52e6642d4a36805936f1962d2743",
+      "url": "https://legiscan.com/AZ/bill/HB4138/2026",
+      "text_url": "https://legiscan.com/AZ/text/HB4138/2026",
+      "research_url": "https://legiscan.com/AZ/research/HB4138/2026",
+      "last_action_date": "2026-05-05",
+      "last_action": "Governor Vetoed",
+      "title": "2026-2027; general appropriations act."
+    }
+  }
+}

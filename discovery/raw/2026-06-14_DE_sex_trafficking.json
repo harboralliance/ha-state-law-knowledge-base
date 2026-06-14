@@ -1,0 +1,118 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 8",
+      "relevancy": "100% - 54%",
+      "count": 8,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zsex:(pos=1) AND Ztraffick:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "DE",
+      "bill_number": "HB408",
+      "bill_id": 2148683,
+      "change_hash": "fca735cf78b8d40411e9b96ef1d9ba39",
+      "url": "https://legiscan.com/DE/bill/HB408/2025",
+      "text_url": "https://legiscan.com/DE/text/HB408/2025",
+      "research_url": "https://legiscan.com/DE/research/HB408/2025",
+      "last_action_date": "2026-06-09",
+      "last_action": "Assigned to Judiciary Committee in Senate",
+      "title": "An Act To Amend Title 11 Of The Delaware Code Relating To Trafficking An Individual, Forced Labor And Sexual Servitude."
+    },
+    "1": {
+      "relevance": 99,
+      "state": "DE",
+      "bill_number": "HB166",
+      "bill_id": 2031659,
+      "change_hash": "eee558dad7a4097039f31b6f2c9a8ff1",
+      "url": "https://legiscan.com/DE/bill/HB166/2025",
+      "text_url": "https://legiscan.com/DE/text/HB166/2025",
+      "research_url": "https://legiscan.com/DE/research/HB166/2025",
+      "last_action_date": "2026-05-06",
+      "last_action": "Reported Out of Committee (Judiciary) in Senate with 1 Favorable, 3 On Its Merits",
+      "title": "An Act To Amend Title 11 And Title 16 Of The Delaware Code Relating To Child Sexual Abuse Material."
+    },
+    "2": {
+      "relevance": 98,
+      "state": "DE",
+      "bill_number": "HB409",
+      "bill_id": 2148627,
+      "change_hash": "7d25f30cbabbd8bdf6a8f30a852a8eda",
+      "url": "https://legiscan.com/DE/bill/HB409/2025",
+      "text_url": "https://legiscan.com/DE/text/HB409/2025",
+      "research_url": "https://legiscan.com/DE/research/HB409/2025",
+      "last_action_date": "2026-06-09",
+      "last_action": "Assigned to Judiciary Committee in Senate",
+      "title": "An Act To Amend Title 11 Of The Delaware Code Relating To Prostitution."
+    },
+    "3": {
+      "relevance": 91,
+      "state": "DE",
+      "bill_number": "SB345",
+      "bill_id": 2153545,
+      "change_hash": "41c7a89b876f3ce11e9e203d9b3052b6",
+      "url": "https://legiscan.com/DE/bill/SB345/2025",
+      "text_url": "https://legiscan.com/DE/text/SB345/2025",
+      "research_url": "https://legiscan.com/DE/research/SB345/2025",
+      "last_action_date": "2026-06-10",
+      "last_action": "Introduced and Assigned to Judiciary Committee in Senate",
+      "title": "An Act To Amend Title 11 Of The Delaware Code Relating To Offenses Involving Public Indecency."
+    },
+    "4": {
+      "relevance": 78,
+      "state": "DE",
+      "bill_number": "SB300",
+      "bill_id": 2146922,
+      "change_hash": "8384a9b2b3b129280d31805fbce8bcce",
+      "url": "https://legiscan.com/DE/bill/SB300/2025",
+      "text_url": "https://legiscan.com/DE/text/SB300/2025",
+      "research_url": "https://legiscan.com/DE/research/SB300/2025",
+      "last_action_date": "2026-06-11",
+      "last_action": "Assigned to Appropriations Committee in House",
+      "title": "An Act To Amend Title 11, Title 16, And Title 24 Of The Delaware Code Relating To Deadly Weapons Dealers."
+    },
+    "5": {
+      "relevance": 64,
+      "state": "DE",
+      "bill_number": "SB17",
+      "bill_id": 1911260,
+      "change_hash": "b245fec850359917783fcaebaed098c2",
+      "url": "https://legiscan.com/DE/bill/SB17/2025",
+      "text_url": "https://legiscan.com/DE/text/SB17/2025",
+      "research_url": "https://legiscan.com/DE/research/SB17/2025",
+      "last_action_date": "2025-08-20",
+      "last_action": "Signed by Governor",
+      "title": "An Act To Amend Title 10, Title 11, And Title 19 Of The Delaware Code Relating To Crime Victims And Witnesses."
+    },
+    "6": {
+      "relevance": 59,
+      "state": "DE",
+      "bill_number": "HB225",
+      "bill_id": 2037575,
+      "change_hash": "d2b3aae68dfd6065793bfa297f94cfb8",
+      "url": "https://legiscan.com/DE/bill/HB225/2025",
+      "text_url": "https://legiscan.com/DE/text/HB225/2025",
+      "research_url": "https://legiscan.com/DE/research/HB225/2025",
+      "last_action_date": "2025-07-01",
+      "last_action": "Signed by Governor",
+      "title": "An Act Making Appropriations For The Expense Of The State Government For The Fiscal Year Ending June 30, 2026; Specifying Certain Procedures, Conditions And Limitations For The Expenditure Of Such Funds; And Amending Certain Pertinent Statutory Provisions."
+    },
+    "7": {
+      "relevance": 54,
+      "state": "DE",
+      "bill_number": "SB225",
+      "bill_id": 2101205,
+      "change_hash": "88768aaf9d41cf5e42617d4fa1117f64",
+      "url": "https://legiscan.com/DE/bill/SB225/2025",
+      "text_url": "https://legiscan.com/DE/text/SB225/2025",
+      "research_url": "https://legiscan.com/DE/research/SB225/2025",
+      "last_action_date": "2026-01-29",
+      "last_action": "Introduced and Assigned to Finance Committee in Senate",
+      "title": "An Act Making Appropriations For The Expense Of The State Government For The Fiscal Year Ending June 30, 2027; Specifying Certain Procedures, Conditions And Limitations For The Expenditure Of Such Funds; And Amending Certain Pertinent Statutory Provisions."
+    }
+  }
+}

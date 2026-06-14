@@ -3,67 +3,59 @@
 ## Texas
 
 **Next Steps:**
-1. Review and distribute approved training videos provided by the Office of the Attorney General.
-2. Ensure all employees complete the annual human trafficking training.
+- Review and ensure compliance with HB 390 requirements for annual human trafficking training.
+- Identify key employees who will be responsible for coordinating the training.
 
 **Immediate Market Entry States:**
-- NEEDS REVIEW
+- NONE (Texas requires all establishments to comply)
 
-**Approval/Outreach Required States:**
-- NEEDS REVIEW
-
----
+**States Requiring Approval, Outreach, or Special Handling:**
+- NONE
 
 ## California
 
 **Next Steps:**
-1. Distribute the 20-minute classroom or interactive training to all hotel and motel employees.
-2. Encourage employees who have already completed training before January 1, 2020, to refresh their knowledge.
+- Ensure that all hotel and motel employees receive the required 20-minute human trafficking awareness training.
+- Promote resources such as the CAST hotline (1-888-373-7888) for further assistance.
 
 **Immediate Market Entry States:**
-- NEEDS REVIEW
+- NONE (California requires all establishments to comply)
 
-**Approval/Outreach Required States:**
-- NEEDS REVIEW
-
----
+**States Requiring Approval, Outreach, or Special Handling:**
+- NONE
 
 ## Illinois
 
 **Next Steps:**
-1. Develop or utilize the Department’s model curriculum for human trafficking recognition training.
-2. Ensure all relevant employees complete the training within six months of employment and every two years thereafter.
+- Coordinate with employers and employees to ensure compliance with Act 2026 requirements.
+- Develop a plan for tracking employee training completion.
 
 **Immediate Market Entry States:**
-- NEEDS REVIEW
+- NONE (Illinois requires all establishments to comply)
 
-**Approval/Outreach Required States:**
-- NEEDS REVIEW
-
----
+**States Requiring Approval, Outreach, or Special Handling:**
+- NONE
 
 ## Minnesota
 
 **Next Steps:**
-1. Provide training to all owners, managers, and on-site employees in hotel, motel, and short-term rental establishments.
-2. Ensure new employees complete the training within 90 days of hire.
+- Ensure that all hotel, motel, and short-term rental staff receive the annual Minnesota Lodging Sex Trafficking Prevention and Response Training.
+- Coordinate with local authorities for monitoring and enforcement of compliance.
 
 **Immediate Market Entry States:**
-- NEEDS REVIEW
+- NONE (Minnesota requires all establishments to comply)
 
-**Approval/Outreach Required States:**
-- NEEDS REVIEW
-
----
+**States Requiring Approval, Outreach, or Special Handling:**
+- NONE
 
 ## Connecticut
 
 **Next Steps:**
-1. Provide comprehensive training for foster parents, law enforcement, healthcare providers, and hotel and motel industry employees.
-2. Ensure annual human trafficking awareness campaigns are conducted.
+- Ensure that all employees in the hospitality industry receive annual human trafficking awareness training.
+- Coordinate with local authorities for mandatory data reporting and victim assistance.
 
 **Immediate Market Entry States:**
-- NEEDS REVIEW
+- NONE (Connecticut requires all establishments to comply)
 
-**Approval/Outreach Required States:**
-- NEEDS REVIEW
+**States Requiring Approval, Outreach, or Special Handling:**
+- NONE
