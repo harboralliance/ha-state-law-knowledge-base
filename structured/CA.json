@@ -2,83 +2,57 @@
   "state": "California",
   "state_code": "CA",
   "industry": "commercial lodging",
-  "source_file": "2026-06-14_California_lodging_compliance.md",
+  "source_file": "2026-06-21_California_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": 20,
   "training_frequency": null,
-  "new_hire_deadline_days": null,
-  "new_hire_deadline_text": null,
+  "new_hire_deadline_days": 180,
+  "new_hire_deadline_text": "within six months of their employment",
   "signage_required": true,
   "provider_approval_required": false,
   "provider_approval_type": null,
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "Department of Consumer Affairs",
-    "Department of Justice"
+    "California Attorney General's Office"
   ],
   "applicable_to": [
-    "hotel and motel employers"
+    "motels",
+    "hotels",
+    "bed and breakfasts"
   ],
   "required_topics": [
-    "human trafficking laws",
-    "recognition of signs and indicators of potential human trafficking situations",
-    "responsibilities and obligations of employees regarding human trafficking",
-    "how to report suspected cases of human trafficking",
-    "strategies for supporting victims of human trafficking within the workplace"
+    "human trafficking awareness"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
     "languages_required": [
       "English",
       "Spanish",
-      "Arabic",
-      "Brazilian (Portuguese)",
-      "Cambodian",
-      "Chinese, Simplified",
-      "Chinese, Traditional",
-      "Eastern Armenian",
-      "Farsi",
-      "Haitian Creole",
-      "Hindi",
-      "Hmong",
-      "Italian",
-      "Japanese",
-      "Korean",
-      "Laotian",
-      "Pashto",
-      "Polish",
-      "Punjabi",
-      "Romanian",
-      "Russian",
-      "Tagalog",
-      "Thai",
-      "Vietnamese"
+      "additional languages in certain counties as specified by federal law"
     ],
     "minimum_size": null,
     "font_size": null,
-    "posting_location": null,
+    "posting_location": "in English and Spanish, with additional languages required in certain counties",
     "required_content": [
-      "telephone hotline numbers for seeking help",
-      "how to text for services and support (as required by SB 225)",
-      "contact information for the National Human Trafficking Hotline: 888-373-7888 or Text: 233-733 (Be Free)",
-      "contact information for local victims' service units"
+      "telephone hotline numbers for help or reporting unlawful activity"
     ]
   },
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    "SB 970",
-    "Senate Bill 1193"
+    "Section 1",
+    "Section 2",
+    "Section 3",
+    "Section 4"
   ],
   "source_urls": [
-    "External Link (for SB 970)",
-    "External Link (for Senate Bill 1193)"
+    "NEEDS REVIEW"
   ],
   "harbor_alliance_posture": "immediate-entry",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "penalties for non-compliance, fines or legal repercussions"
+    "non-compliance with posting or training requirements can result in penalties"
   ],
   "notes": [],
   "needs_review": []

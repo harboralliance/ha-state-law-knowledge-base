@@ -2,55 +2,56 @@
   "state": "Texas",
   "state_code": "TX",
   "industry": "commercial lodging",
-  "source_file": "2026-06-14_Texas_lodging_compliance.md",
+  "source_file": "2026-06-21_Texas_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
-  "training_frequency": "annual",
-  "new_hire_deadline_days": 90,
-  "new_hire_deadline_text": "within 90 days of hire",
-  "signage_required": true,
-  "provider_approval_required": false,
-  "provider_approval_type": null,
-  "approval_authority": null,
+  "training_frequency": "annually",
+  "new_hire_deadline_days": null,
+  "new_hire_deadline_text": null,
+  "signage_required": false,
+  "provider_approval_required": true,
+  "provider_approval_type": "approved by the OAG",
+  "approval_authority": "Office of the Attorney General (OAG)",
   "approval_contact": null,
   "enforcing_agencies": [
     "Office of the Attorney General (OAG)"
   ],
   "applicable_to": [
-    "commercial lodging establishments with 10 or more rooms",
-    "smaller establishments (voluntary)"
+    "hotels and commercial lodging establishments with 10 or more rooms",
+    "all lodging businesses"
   ],
   "required_topics": [
-    "Identification of human trafficking in the hospitality industry",
-    "Role of commercial lodging establishments in addressing sex trafficking",
-    "Different types of hotel contract workers vulnerable to labor trafficking",
-    "Reporting and responding to human trafficking incidents"
+    "recognizing the signs of human trafficking",
+    "reporting procedures",
+    "importance of employee safety and well-being"
   ],
-  "reporting_contacts_required": [
-    "employees"
-  ],
+  "reporting_contacts_required": [],
   "signage_details": {
-    "languages_required": [],
+    "languages_required": [
+      "English"
+    ],
     "minimum_size": null,
     "font_size": null,
-    "posting_location": "commercial lodging establishments",
+    "posting_location": null,
     "required_content": []
   },
-  "recordkeeping_requirements": [
-    "maintain records showing compliance with the law"
+  "recordkeeping_requirements": [],
+  "certificate_requirements": [
+    "completion of a certified course",
+    "receipt of a certificate showing they have been trained"
   ],
-  "certificate_requirements": [],
   "law_references": [
-    "House Bill 390 (2017)"
+    "Human Trafficking Prevention Act"
   ],
   "source_urls": [
-    "https://www.legislative.cps.gov/texas/2017-2018/session/bills/hb/390/",
-    "https://oag.texas.gov/law/training"
+    "[link]",
+    "[email]"
   ],
-  "harbor_alliance_posture": null,
+  "harbor_alliance_posture": "needs-review",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "Employees may not be disciplined, retaliated against, or discriminated against for making a good faith report of suspected human trafficking."
+    "need for approved training providers",
+    "certification requirement"
   ],
   "notes": [],
   "needs_review": []
