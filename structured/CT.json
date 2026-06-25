@@ -2,10 +2,10 @@
   "state": "Connecticut",
   "state_code": "CT",
   "industry": "commercial lodging",
-  "source_file": "2026-06-21_Connecticut_lodging_compliance.md",
+  "source_file": "2026-06-25_Connecticut_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
-  "training_frequency": null,
+  "training_frequency": "annual",
   "new_hire_deadline_days": null,
   "new_hire_deadline_text": null,
   "signage_required": false,
@@ -14,31 +14,30 @@
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "Department of Children and Families (DCF)",
-    "local law enforcement"
+    "State Attorney",
+    "Local law enforcement"
   ],
   "applicable_to": [
-    "child protective services",
-    "foster care",
+    "Child Protective Services staff",
+    "foster parents",
+    "service providers",
     "schools",
     "law enforcement",
-    "hospitals",
-    "hospitality industry",
-    "emergency medical services"
+    "hospital and medical staff",
+    "hotels, motels, inns, and similar lodging"
   ],
   "required_topics": [
     "Introduction to Child Trafficking in Connecticut",
-    "Introduction to Human Trafficking in Connecticut for Law Enforcement (POST Certified)",
-    "Introduction to Labor Trafficking in Connecticut"
+    "Introduction to Child Trafficking in Connecticut for School Settings",
+    "Introduction to Human Trafficking in Connecticut for Law Enforcement - Police Officer's Standards and Training (POST) Certified",
+    "Introduction to Human Trafficking in Connecticut for Emergency Medical Services (EMS)",
+    "Child Trafficking Training for Medical Providers/Emergency Medicine",
+    "Introduction to Human Trafficking in Connecticut for Hotels/Motels",
+    "Introduction to Human Trafficking in Connecticut for Out of Home Care Providers"
   ],
   "reporting_contacts_required": [
-    {
-      "type": "state attorneys and local law enforcement",
-      "contact": {
-        "name": "HART - Sex trafficking",
-        "address": "505 Hudson Street, Hartford CT 06106"
-      }
-    }
+    "State Attorney",
+    "Local law enforcement"
   ],
   "signage_details": {
     "languages_required": [],
@@ -48,24 +47,28 @@
     "required_content": []
   },
   "recordkeeping_requirements": [
-    "document training",
-    "investigations of missing children",
-    "trafficking referrals",
-    "trafficking cases referred for prosecution"
+    "guest transactions and receipts for at least six months"
   ],
   "certificate_requirements": [],
   "law_references": [
-    "human and sex trafficking legislation",
-    "public acts enacted from 2010 to 2017"
+    "Public Act 17-32",
+    "Public Act 16-71",
+    "Public Act 15-195",
+    "Public Act 14-186",
+    "Public Act 13-166",
+    "Public Act 12-141",
+    "Public Act 11-180",
+    "Public Act 10-115"
   ],
   "source_urls": [
     "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/trainings-for-providers",
     "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/human-and-sex-trafficking-legislation"
   ],
-  "harbor_alliance_posture": "needs-review",
+  "harbor_alliance_posture": "approval-required",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "penalties for non-compliance (class C felonies)"
+    "training requirements for lodging industry personnel",
+    "annual trafficking awareness campaigns"
   ],
   "notes": [],
   "needs_review": []

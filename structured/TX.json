@@ -2,57 +2,72 @@
   "state": "Texas",
   "state_code": "TX",
   "industry": "commercial lodging",
-  "source_file": "2026-06-21_Texas_lodging_compliance.md",
+  "source_file": "2026-06-25_Texas_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
-  "training_frequency": "annually",
-  "new_hire_deadline_days": null,
-  "new_hire_deadline_text": null,
-  "signage_required": false,
+  "training_frequency": "annual",
+  "new_hire_deadline_days": 90,
+  "new_hire_deadline_text": "not later than the 90th day after being hired",
+  "signage_required": true,
   "provider_approval_required": true,
-  "provider_approval_type": "approved by the OAG",
-  "approval_authority": "Office of the Attorney General (OAG)",
-  "approval_contact": null,
+  "provider_approval_type": "approved by Texas Attorney General's Office",
+  "approval_authority": null,
+  "approval_contact": "[email\u00a0protected]",
   "enforcing_agencies": [
-    "Office of the Attorney General (OAG)"
+    "Texas Attorney General's Office"
   ],
   "applicable_to": [
-    "hotels and commercial lodging establishments with 10 or more rooms",
-    "all lodging businesses"
+    "establishments with 10 or more rooms"
   ],
   "required_topics": [
-    "recognizing the signs of human trafficking",
-    "reporting procedures",
-    "importance of employee safety and well-being"
+    "recognizing signs of human trafficking",
+    "reporting suspected cases",
+    "compliance with signage requirements"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
-    "languages_required": [
-      "English"
-    ],
+    "languages_required": null,
     "minimum_size": null,
     "font_size": null,
     "posting_location": null,
     "required_content": []
   },
-  "recordkeeping_requirements": [],
+  "recordkeeping_requirements": [
+    {
+      "records_to_retain": "completion certificates",
+      "retention_period": "at least three years"
+    }
+  ],
   "certificate_requirements": [
-    "completion of a certified course",
-    "receipt of a certificate showing they have been trained"
+    {
+      "certificate_required": true,
+      "issuer": "approved providers",
+      "required_content": "date taken and course title"
+    }
   ],
   "law_references": [
-    "Human Trafficking Prevention Act"
+    "HB 390"
   ],
   "source_urls": [
-    "[link]",
-    "[email]"
+    "https://www.texasattorneygeneral.gov/training-resources/human-trafficking-training",
+    "https://www.etactics.com/products/human-traffic-texas",
+    "https://nationalcoursedev.org/texas-commercial-lodging-human-trafficking-awareness-response",
+    "https://businessending slaveryandtrafficking.org/training/",
+    "https://extendedstayamerica.com/human-trafficking-training/",
+    "https://www.marriott.com/training/human-traffic-recognition-response",
+    "https://ecpatusa.org/your-role-preventing-human-trafficking-recognize-signs",
+    "https://refugeeservicestexas.org/survivor-services-ht101",
+    "https://pbjlearning.com/courses/human-trafficking-essentials-texas-hospitality-awareness-hb390",
+    "https://compliancelearningsolutions.com/training/human-trafficking-combating-hospitality-industry"
   ],
   "harbor_alliance_posture": "needs-review",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "need for approved training providers",
-    "certification requirement"
+    "training requirement",
+    "provider approval required"
   ],
-  "notes": [],
+  "notes": [
+    "Encourages participation in all lodging businesses, not just those with 10 or more rooms."
+  ],
   "needs_review": []
 }

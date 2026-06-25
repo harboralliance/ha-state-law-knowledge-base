@@ -1,61 +1,46 @@
 # Harbor Alliance Action Items
 
 ## Texas
+**Next Steps:** 
+- Ensure all employees at lodging establishments with 10 or more rooms complete annual human trafficking training by accessing approved online or in-person resources provided by the Office of the Attorney General.
+- Review and update existing employee handbooks to include information on mandatory human trafficking training.
 
-**Next Steps:**
-1. Ensure all employees at commercial lodging establishments with 10 or more rooms complete annual human trafficking training.
-2. Provide training to all employees at lodging establishments regardless of size.
+**States Allowing Immediate Market Entry:** NONE
 
-**Immediate Market Entry States:**
-- NEEDS REVIEW
-
-**States Requiring Approval, Outreach, or Special Handling:**
-- NONE
+**States Requiring Approval, Outreach, or Special Handling:** NONE
 
 ## California
+**Next Steps:** 
+- Coordinate with hotel and motel owners and managers to ensure all required employees receive 20 minutes of classroom or other effective interactive training on human trafficking awareness by January 1, 2020.
+- Develop a plan for outreach to employers who may need additional support in providing the required training.
 
-**Next Steps:**
-1. Ensure all hotel and motel employees receive the required 20-minute classroom or interactive training on human trafficking awareness.
-2. Encourage compliance with the mandated effective date of January 1, 2020.
+**States Allowing Immediate Market Entry:** NONE
 
-**Immediate Market Entry States:**
-- NEEDS REVIEW
-
-**States Requiring Approval, Outreach, or Special Handling:**
-- NONE
+**States Requiring Approval, Outreach, or Special Handling:** NONE
 
 ## Illinois
+**Next Steps:** 
+- Work with lodging establishment owners and managers to ensure all relevant staff complete human trafficking recognition training within six months of starting employment and every 2 years thereafter.
+- Develop a strategy for monitoring compliance and providing ongoing support to employers in meeting the training requirements.
 
-**Next Steps:**
-1. Provide training in human trafficking recognition and protocols for reporting observed instances to all relevant employees within six months of employment.
-2. Conduct annual follow-up training every 2 years.
+**States Allowing Immediate Market Entry:** NONE
 
-**Immediate Market Entry States:**
-- NEEDS REVIEW
-
-**States Requiring Approval, Outreach, or Special Handling:**
-- NONE
+**States Requiring Approval, Outreach, or Special Handling:** NONE
 
 ## Minnesota
+**Next Steps:** 
+- Collaborate with hotel, motel, and short-term rental owners and managers to ensure all required employees complete the mandatory human trafficking prevention and response training by September 1, 2023.
+- Establish a system for tracking compliance and providing ongoing support and resources.
 
-**Next Steps:**
-1. Ensure all hotel, motel, and short-term rental staff complete the required human trafficking prevention and response training.
-2. Implement an ongoing awareness campaign for employees.
+**States Allowing Immediate Market Entry:** NONE
 
-**Immediate Market Entry States:**
-- NEEDS REVIEW
-
-**States Requiring Approval, Outreach, or Special Handling:**
-- NONE
+**States Requiring Approval, Outreach, or Special Handling:** NONE
 
 ## Connecticut
+**Next Steps:** 
+- Coordinate with hotel and motel owners and managers to ensure all employees receive annual human trafficking training.
+- Develop a plan for outreach and support to employers who may need additional resources in providing the required training.
 
-**Next Steps:**
-1. Ensure all relevant industry employees (foster parents, law enforcement, healthcare providers, hotel and motel employees) receive the required training.
-2. Establish a system for mandatory data reporting of human trafficking cases.
+**States Allowing Immediate Market Entry:** NONE
 
-**Immediate Market Entry States:**
-- NEEDS REVIEW
-
-**States Requiring Approval, Outreach, or Special Handling:**
-- NONE
+**States Requiring Approval, Outreach, or Special Handling:** NONE

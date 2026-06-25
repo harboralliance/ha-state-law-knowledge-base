@@ -2,24 +2,23 @@
   "state": "California",
   "state_code": "CA",
   "industry": "commercial lodging",
-  "source_file": "2026-06-21_California_lodging_compliance.md",
+  "source_file": "2026-06-25_California_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": 20,
   "training_frequency": null,
-  "new_hire_deadline_days": 180,
-  "new_hire_deadline_text": "within six months of their employment",
+  "new_hire_deadline_days": null,
+  "new_hire_deadline_text": null,
   "signage_required": true,
   "provider_approval_required": false,
   "provider_approval_type": null,
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "California Attorney General's Office"
+    "CRD"
   ],
   "applicable_to": [
-    "motels",
-    "hotels",
-    "bed and breakfasts"
+    "hotel and motel employers",
+    "specified businesses (including hotels and motels)"
   ],
   "required_topics": [
     "human trafficking awareness"
@@ -28,32 +27,40 @@
   "signage_details": {
     "languages_required": [
       "English",
-      "Spanish",
-      "additional languages in certain counties as specified by federal law"
+      "Spanish"
     ],
     "minimum_size": null,
     "font_size": null,
-    "posting_location": "in English and Spanish, with additional languages required in certain counties",
+    "posting_location": null,
     "required_content": [
-      "telephone hotline numbers for help or reporting unlawful activity"
+      "telephone hotline numbers for victims of human trafficking"
     ]
   },
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    "Section 1",
-    "Section 2",
-    "Section 3",
-    "Section 4"
+    {
+      "statute_name": "SB 970",
+      "code_sections": null
+    },
+    {
+      "statute_name": "Civil Code (Section 5184, et seq.)",
+      "code_sections": null
+    }
   ],
   "source_urls": [
-    "NEEDS REVIEW"
+    "http://www.legislature.ca.gov/freeside/2019-2020/billtext/ab/sb/970/",
+    "https://www.dol.gov/agencies/whd/human-trafficking",
+    "https://www.justice.ca.gov/civil/anti-human-trafficking"
   ],
-  "harbor_alliance_posture": "immediate-entry",
+  "harbor_alliance_posture": "needs-review",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "non-compliance with posting or training requirements can result in penalties"
+    "need for ongoing training to meet compliance requirements",
+    "potential need for signage in multiple languages"
   ],
-  "notes": [],
+  "notes": [
+    "Employees who received training on or before January 1, 2019, do not need additional training."
+  ],
   "needs_review": []
 }

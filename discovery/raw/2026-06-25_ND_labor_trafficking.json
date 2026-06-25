@@ -1,0 +1,27 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 1",
+      "relevancy": "100% - 100%",
+      "count": 1,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zlabor:(pos=1) AND Ztraffick:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "ND",
+      "bill_number": "HCR3028",
+      "bill_id": 1951235,
+      "change_hash": "3c779ffc26a9e9c5ce96fe7685a8aa11",
+      "url": "https://legiscan.com/ND/bill/HCR3028/2025",
+      "text_url": "https://legiscan.com/ND/text/HCR3028/2025",
+      "research_url": "https://legiscan.com/ND/research/HCR3028/2025",
+      "last_action_date": "2025-04-15",
+      "last_action": "Filed with Secretary Of State 04/15",
+      "title": "A concurrent resolution directing the Legislative Management to consider studying human trafficking victim service and re-entry programs."
+    }
+  }
+}

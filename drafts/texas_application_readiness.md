@@ -1,54 +1,31 @@
 # Texas Application Readiness
 
 ## Overview
-The Office of the Attorney General (OAG) in Texas has established requirements for human trafficking training for workers in commercial lodging establishments. Specifically, House Bill 390 mandates annual training for all employees with 10 or more rooms and employees at all lodging establishments regardless of size.
+
+The Office of the Attorney General (OAG) in Texas has established requirements for human trafficking training for workers in commercial lodging establishments. Specifically, House Bill 390 mandates that such training be provided annually to all employees of commercial lodging establishments with 10 or more rooms and to employees at all lodging establishments regardless of size.
 
 ## Materials Needed
-- Access to approved training videos from the Office of the Attorney General or other authorized organizations.
-- A record of each employee's completion of the required training.
-- Anti-trafficking signage as per OAG guidelines.
+
+1. **Training Video**: Employers are responsible for ensuring their employees complete the required annual training.
+2. **Anti-Trafficking Signage**: Employees must understand the requirements for posting anti-trafficking signage.
 
 ## Standards to Meet
-1. **Employee Training**:
-   - Provide annual human trafficking training to all employees at lodging establishments with 10 or more rooms.
-   - Ensure that all other employees receive the training, even those at smaller establishments.
 
-2. **Training Duration and Content**:
-   - The training must cover topics related to identifying and responding to human trafficking.
-   - Training videos approved by the OAG should be used.
-
-3. **Anti-Trafficking Signage**:
-   - Post anti-trafficking signage in a location accessible to all employees.
+- **Annual Training Requirement**: Employees must receive training every year.
+- **Signage Requirements**: Anti-trafficking signage must be posted in a location where all employees will see it.
 
 ## Likely Review Risks/Gaps
-1. **Employee Compliance**:
-   - Verify that all required training has been completed.
-   - Ensure new employees receive training within the required time frame.
 
-2. **Signage Placement**:
-   - Confirm that anti-trafficking signage is visible and in compliance with OAG guidelines.
+1. **Training Coverage**: Ensure that the training covers all required topics related to identifying and responding to human trafficking.
+2. **Signage Placement**: Verify that anti-trafficking signage is placed in a visible area within the lodging establishment.
+3. **Employee Awareness**: Confirm that employees understand the significance of the training and are prepared to respond appropriately if they encounter signs of trafficking.
+4. **Compliance Verification**: Check for documentation of completed training sessions and posted signage to ensure compliance with the requirements.
 
-3. **Training Frequency**:
-   - Ensure annual training is conducted, even for smaller establishments.
+## NEXT STEPS
 
-4. **Documentation**:
-   - Maintain records of employee training completion.
-   - Prepare for potential audits or inspections by the OAG.
+1. **Review Approved Training Videos**: Ensure availability and accessibility of approved training videos.
+2. **Prepare Anti-Trafficking Signage**: Obtain and post anti-trafficking signage in designated areas within your establishment.
+3. **Schedule Training Sessions**: Coordinate annual training sessions for all required employees.
+4. **Document Compliance**: Maintain records of completed training sessions and posted signage to demonstrate compliance with the requirements.
 
-## Action Plan
-1. **Training Development**:
-   - Schedule and conduct initial training for all relevant employees.
-   - Provide ongoing annual training to meet compliance requirements.
-
-2. **Signage Installation**:
-   - Obtain and post anti-trafficking signage in designated areas.
-
-3. **Documentation**:
-   - Maintain a record of each employee's completion of the required training.
-   - Ensure documentation is readily available for audit purposes.
-
-4. **Review and Compliance Check**:
-   - Regularly review compliance with the requirements.
-   - Address any gaps or issues promptly.
-
-By following these guidelines, Harbor Alliance can ensure readiness for Texas OAG application submission while meeting the necessary standards and mitigating potential risks.
+By following these guidelines, Harbor Alliance can ensure readiness for Texas OAG application submission.

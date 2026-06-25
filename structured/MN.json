@@ -2,55 +2,56 @@
   "state": "Minnesota",
   "state_code": "MN",
   "industry": "commercial lodging",
-  "source_file": "2026-06-21_Minnesota_lodging_compliance.md",
+  "source_file": "2026-06-25_Minnesota_lodging_compliance.md",
   "training_required": true,
-  "training_duration_minutes": 45,
-  "training_frequency": "annual",
+  "training_duration_minutes": null,
+  "training_frequency": "annually",
   "new_hire_deadline_days": 90,
-  "new_hire_deadline_text": null,
+  "new_hire_deadline_text": "within 90 days of hire",
   "signage_required": true,
   "provider_approval_required": false,
   "provider_approval_type": null,
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "Minnesota Department of Health (MDH)"
+    "Minnesota Department of Health"
   ],
   "applicable_to": [
-    "hotel owners, managers, and on-site employees",
-    "managers/owners"
+    "hotel, motel, and short-term rental owners",
+    "managers",
+    "on-site employees"
   ],
-  "required_topics": [
-    "signs and risks of sex trafficking",
-    "actionable steps to prevent it"
-  ],
+  "required_topics": [],
   "reporting_contacts_required": [],
   "signage_details": {
     "languages_required": [
       "English",
-      "Spanish",
+      "Spanish/Espa\u00f1ol",
       "Somali",
       "Hmong"
     ],
     "minimum_size": null,
     "font_size": null,
-    "posting_location": "all required locations",
+    "posting_location": "prominently within the establishment",
     "required_content": [
-      "back of house poster"
+      "training package materials"
     ]
   },
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    "Minnesota law, 18 USC \u00a7 245"
+    "Minnesota law (Section 240A)"
   ],
   "source_urls": [
-    "https://www.health.state.mn.us/mnhtprn/"
+    "health.safeharbor@state.mn.us",
+    "Minnesota Department of Health's website"
   ],
-  "harbor_alliance_posture": "immediate-entry",
+  "harbor_alliance_posture": "approval-required",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "costs associated with compliance"
+    "Non-Exempt Individuals still required to take the training",
+    "Seasonal Employees must receive training within 90 days of starting work",
+    "Contracted Workers, such as contracted cleaners, must also complete the training"
   ],
   "notes": [],
   "needs_review": []
