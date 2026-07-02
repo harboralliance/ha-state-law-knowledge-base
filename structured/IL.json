@@ -1,21 +1,21 @@
 {
   "state": "Illinois",
   "state_code": "IL",
-  "industry": "commercial lodging, restaurants, truck stops",
-  "source_file": "2026-06-25_Illinois_lodging_compliance.md",
+  "industry": "commercial lodging",
+  "source_file": "2026-07-02_Illinois_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": 20,
-  "training_frequency": "every 2 years after initial completion within 6 months",
-  "new_hire_deadline_days": 180,
-  "new_hire_deadline_text": "within 6 months of employment",
+  "training_frequency": "every 2 years",
+  "new_hire_deadline_days": null,
+  "new_hire_deadline_text": null,
   "signage_required": false,
-  "provider_approval_required": false,
-  "provider_approval_type": null,
-  "approval_authority": null,
-  "approval_contact": null,
+  "provider_approval_required": true,
+  "provider_approval_type": "departmental curriculum or third-party program",
+  "approval_authority": "Department of Labor",
+  "approval_contact": "NEEDS REVIEW",
   "enforcing_agencies": [
-    "local government units",
-    "law enforcement agencies"
+    "local government",
+    "law enforcement agency"
   ],
   "applicable_to": [
     "lodging establishments",
@@ -24,9 +24,9 @@
   ],
   "required_topics": [
     "definition of human trafficking and commercial exploitation of children",
-    "guidance on identifying individuals at risk for human trafficking",
-    "difference between labor and sex trafficking in the context of lodging establishments, restaurants, and truck stops",
-    "role of employees in reporting and responding to human trafficking instances"
+    "how to identify individuals at risk for human trafficking",
+    "difference between human trafficking for labor and sex in lodging, restaurants, and truck stops",
+    "role of employees in reporting and responding to human trafficking"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
@@ -39,19 +39,18 @@
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    "Human Trafficking Prevention Act"
+    "Human Trafficking Prevention and Awareness Act",
+    "Section 1 of the Human Trafficking Prevention and Awareness Act"
   ],
   "source_urls": [],
   "harbor_alliance_posture": "approval-required",
   "harbor_alliance_actions": [
-    "implement training program",
-    "report non-compliance"
+    "review and comply with departmental curriculum or third-party program"
   ],
   "risks_or_constraints": [
-    "fines up to $1,500 per offense"
+    "non-compliance penalties up to $1,500 per offense",
+    "need for local government or law enforcement agency involvement"
   ],
-  "notes": [
-    "The Act takes effect on January 1, 2026"
-  ],
+  "notes": [],
   "needs_review": []
 }

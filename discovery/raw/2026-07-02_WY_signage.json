@@ -1,0 +1,66 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 4",
+      "relevancy": "100% - 99%",
+      "count": 4,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zsignag:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "WY",
+      "bill_number": "SF0003",
+      "bill_id": 2054627,
+      "change_hash": "5c770775e9ec65855064704098461ad1",
+      "url": "https://legiscan.com/WY/bill/SF0003/2026",
+      "text_url": "https://legiscan.com/WY/text/SF0003/2026",
+      "research_url": "https://legiscan.com/WY/research/SF0003/2026",
+      "last_action_date": "2026-02-09",
+      "last_action": "Failed Introduction 0-31-0-0-0",
+      "title": "Protection of nuclear facilities."
+    },
+    "1": {
+      "relevance": 100,
+      "state": "WY",
+      "bill_number": "HB0020",
+      "bill_id": 2059104,
+      "change_hash": "f9000cdf2d550185000f49b36fb99ce5",
+      "url": "https://legiscan.com/WY/bill/HB0020/2026",
+      "text_url": "https://legiscan.com/WY/text/HB0020/2026",
+      "research_url": "https://legiscan.com/WY/research/HB0020/2026",
+      "last_action_date": "2026-02-09",
+      "last_action": "Failed Introduction 34-28-0-0-0",
+      "title": "State parks-nonmotorized recreational trail fees."
+    },
+    "2": {
+      "relevance": 100,
+      "state": "WY",
+      "bill_number": "HB0189",
+      "bill_id": 2114241,
+      "change_hash": "a98daff69cd50e33f88fa391dd2c987d",
+      "url": "https://legiscan.com/WY/bill/HB0189/2026",
+      "text_url": "https://legiscan.com/WY/text/HB0189/2026",
+      "research_url": "https://legiscan.com/WY/research/HB0189/2026",
+      "last_action_date": "2026-02-13",
+      "last_action": "Did not Consider for Introduction",
+      "title": "Homeowners associations-display of political campaign signs."
+    },
+    "3": {
+      "relevance": 99,
+      "state": "WY",
+      "bill_number": "HB0115",
+      "bill_id": 2111536,
+      "change_hash": "afc87cffe18613b1483e5fa1b5194dcb",
+      "url": "https://legiscan.com/WY/bill/HB0115/2026",
+      "text_url": "https://legiscan.com/WY/text/HB0115/2026",
+      "research_url": "https://legiscan.com/WY/research/HB0115/2026",
+      "last_action_date": "2026-02-23",
+      "last_action": "COW:H Did not consider for COW",
+      "title": "Cardiac events in schools-planning and training."
+    }
+  }
+}

@@ -2,9 +2,9 @@
   "state": "California",
   "state_code": "CA",
   "industry": "commercial lodging",
-  "source_file": "2026-06-25_California_lodging_compliance.md",
-  "training_required": true,
-  "training_duration_minutes": 20,
+  "source_file": "2026-07-02_California_lodging_compliance.md",
+  "training_required": false,
+  "training_duration_minutes": null,
   "training_frequency": null,
   "new_hire_deadline_days": null,
   "new_hire_deadline_text": null,
@@ -14,15 +14,15 @@
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "CRD"
+    "California Department of Justice (CRD)"
   ],
   "applicable_to": [
-    "hotel and motel employers",
-    "specified businesses (including hotels and motels)"
+    "hotels",
+    "motels",
+    "bed & breakfasts",
+    "other establishments"
   ],
-  "required_topics": [
-    "human trafficking awareness"
-  ],
+  "required_topics": [],
   "reporting_contacts_required": [],
   "signage_details": {
     "languages_required": [
@@ -31,36 +31,31 @@
     ],
     "minimum_size": null,
     "font_size": null,
-    "posting_location": null,
+    "posting_location": "premises",
     "required_content": [
-      "telephone hotline numbers for victims of human trafficking"
+      "hotline numbers for help/reporting",
+      "a number that victims can text for services/support (as required by SB 225)"
     ]
   },
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    {
-      "statute_name": "SB 970",
-      "code_sections": null
-    },
-    {
-      "statute_name": "Civil Code (Section 5184, et seq.)",
-      "code_sections": null
-    }
+    "Human trafficking laws",
+    "SB 225"
   ],
   "source_urls": [
-    "http://www.legislature.ca.gov/freeside/2019-2020/billtext/ab/sb/970/",
-    "https://www.dol.gov/agencies/whd/human-trafficking",
-    "https://www.justice.ca.gov/civil/anti-human-trafficking"
+    "https://www.oag.ca.gov/human-trafficking"
   ],
-  "harbor_alliance_posture": "needs-review",
+  "harbor_alliance_posture": null,
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "need for ongoing training to meet compliance requirements",
-    "potential need for signage in multiple languages"
+    "Non-compliance with posting requirements can result in fines."
   ],
   "notes": [
-    "Employees who received training on or before January 1, 2019, do not need additional training."
+    "Businesses need to ensure compliance, especially if they operate in multiple languages or serve diverse communities.",
+    "Specific language posting requirements for businesses located in certain counties due to federal voting rights laws."
   ],
-  "needs_review": []
+  "needs_review": [
+    "harbor_alliance_posture"
+  ]
 }
