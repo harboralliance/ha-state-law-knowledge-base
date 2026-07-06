@@ -2,12 +2,12 @@
   "state": "Minnesota",
   "state_code": "MN",
   "industry": "commercial lodging",
-  "source_file": "2026-07-02_Minnesota_lodging_compliance.md",
+  "source_file": "2026-07-06_Minnesota_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
   "training_frequency": "annually",
   "new_hire_deadline_days": 90,
-  "new_hire_deadline_text": "within 90 days of hire",
+  "new_hire_deadline_text": "New employees must take the training within 90 days of hire.",
   "signage_required": false,
   "provider_approval_required": false,
   "provider_approval_type": null,
@@ -17,34 +17,42 @@
     "Minnesota Department of Health (MDH)"
   ],
   "applicable_to": [
-    "hotel, motel, and short-term rental staff"
+    "hotels",
+    "motels",
+    "short-term rentals"
   ],
   "required_topics": [
-    "identifying signs of trafficking",
-    "understanding legal requirements",
-    "reporting obligations"
+    "identification and response to sex trafficking"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
-    "languages_required": [],
+    "languages_required": [
+      "English"
+    ],
     "minimum_size": null,
     "font_size": null,
     "posting_location": null,
     "required_content": []
   },
-  "recordkeeping_requirements": [],
+  "recordkeeping_requirements": [
+    "keep a roster of names with the date of completion"
+  ],
   "certificate_requirements": [],
   "law_references": [
-    "Minnesota law (specific section not provided)"
+    "Minnesota Statutes, section 626.801"
   ],
-  "source_urls": [],
-  "harbor_alliance_posture": "approval-required",
-  "harbor_alliance_actions": [
-    "Implement and maintain the required training program"
+  "source_urls": [
+    "https://www.health.state.mn.us/divs/ehd/lodging-sex-trafficking-prevention-response-training-package",
+    "https://www.health.state.mn.us/document/sex_trafficking_lodging_training_package_2023"
   ],
+  "harbor_alliance_posture": "immediate-entry",
+  "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "Non-compliance with training requirements can lead to legal consequences for employers and employees."
+    "exemptions for certain employees and facilities",
+    "training may not be offered in languages other than English"
   ],
-  "notes": [],
+  "notes": [
+    "Training materials will be offered in Spanish, Hmong, and Somali starting late fall 2023/early 2024."
+  ],
   "needs_review": []
 }

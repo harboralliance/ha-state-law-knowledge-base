@@ -1,69 +1,54 @@
 # Harbor Alliance Action Items
 
 ## Texas
-
 **Next Steps:**
-- Review and distribute approved human trafficking training videos provided by the Office of the Attorney General.
-- Schedule annual training for all employees in commercial lodging establishments with 10 or more rooms, starting in 2023.
+- Ensure all commercial lodging establishments with 10 or more rooms provide annual human trafficking training as mandated by HB 390.
 
-**Immediate Market Entry States:**
-- None identified. Immediate compliance is required.
+**Immediate Market Entry:** 
+- No immediate market entry restrictions identified.
 
-**States Requiring Approval/Outreach/Special Handling:**
-- None identified. Compliance is mandatory with no special handling required.
-
----
+**Special Handling:** 
+- Review and comply with approved training videos provided by the Office of the Attorney General.
 
 ## California
-
 **Next Steps:**
-- Ensure all hotel and motel employees receive the 20-minute human trafficking awareness training by January 1, 2023.
-- Distribute information about the resources provided by CAST and the National Human Trafficking Resource Center for additional support.
+- Provide initial training to hotel and motel employees within 20 minutes as mandated by Senate Bill 970.
+- Ensure that all new employees joining roles interacting with victims receive this training within six months.
 
-**Immediate Market Entry States:**
-- None identified. Immediate compliance is required.
+**Immediate Market Entry:** 
+- No immediate market entry restrictions identified.
 
-**States Requiring Approval/Outreach/Special Handling:**
-- None identified. Compliance is mandatory with no special handling required.
-
----
+**Special Handling:** 
+- Review the resources provided by CAST and NHTRC for additional support and reporting.
 
 ## Illinois
-
 **Next Steps:**
-- Develop a plan to ensure all employees in lodging establishments, restaurants, and truck stops receive the required 20-minute human trafficking recognition training within six months of starting employment and every two years thereafter.
-- Distribute the model curriculum developed by the Department of Human Services for approved training programs.
+- Provide initial human trafficking recognition training to employees within 6 months of employment and every 2 years thereafter as mandated by Act 2026.
 
-**Immediate Market Entry States:**
-- None identified. Immediate compliance is required.
+**Immediate Market Entry:** 
+- No immediate market entry restrictions identified.
 
-**States Requiring Approval/Outreach/Special Handling:**
-- None identified. Compliance is mandatory with no special handling required.
-
----
+**Special Handling:** 
+- Monitor and enforce compliance with penalties for non-compliance up to $1,500 per offense.
 
 ## Minnesota
-
 **Next Steps:**
-- Ensure all hotel, motel, and short-term rental staff receive the Minnesota Lodging Sex Trafficking Prevention and Response Training within 90 days of hire and annually thereafter.
-- Print and display the required back-of-house poster in a location all staff will see.
+- Ensure all hotel, motel, and short-term rental staff complete the required sex trafficking prevention training within 90 days of hire and annually thereafter.
 
-**Immediate Market Entry States:**
-- None identified. Immediate compliance is required.
+**Immediate Market Entry:** 
+- No immediate market entry restrictions identified.
 
-**States Requiring Approval/Outreach/Special Handling:**
-- None identified. Compliance is mandatory with no special handling required.
-
----
+**Special Handling:** 
+- Provide employees with access to MDH's learning center for training materials.
 
 ## Connecticut
-
 **Next Steps:**
-- Ensure all employees in hotels and motels receive annual human trafficking awareness training.
-- Distribute the specific trainings required for foster parents, law enforcement, healthcare providers, and other relevant industries.
+- Ensure all employees in hotels and motels receive annual trafficking training as mandated by the state.
 
-**Immediate Market Entry States:**
-- None identified. Immediate compliance is required.
+**Immediate Market Entry:** 
+- No immediate market entry restrictions identified.
 
-**States Requiring Approval/Outreach/Special Handling:**
-- None identified. Compliance is mandatory with no special handling required.
+**Special Handling:** 
+- Review mandatory data reporting requirements and ensure compliance with penalties for non-reporting.
+
+---

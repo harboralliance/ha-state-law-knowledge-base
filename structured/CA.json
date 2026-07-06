@@ -2,60 +2,52 @@
   "state": "California",
   "state_code": "CA",
   "industry": "commercial lodging",
-  "source_file": "2026-07-02_California_lodging_compliance.md",
-  "training_required": false,
+  "source_file": "2026-07-06_California_lodging_compliance.md",
+  "training_required": true,
   "training_duration_minutes": null,
   "training_frequency": null,
-  "new_hire_deadline_days": null,
-  "new_hire_deadline_text": null,
+  "new_hire_deadline_days": 180,
+  "new_hire_deadline_text": "Within six months for new hires; by January 1, 2020, for current employees",
   "signage_required": true,
   "provider_approval_required": false,
   "provider_approval_type": null,
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "California Department of Justice (CRD)"
+    "CRD (California Human Trafficking Task Force)"
   ],
-  "applicable_to": [
-    "hotels",
-    "motels",
-    "bed & breakfasts",
-    "other establishments"
+  "applicable_to": [],
+  "required_topics": [
+    "human trafficking awareness"
   ],
-  "required_topics": [],
   "reporting_contacts_required": [],
   "signage_details": {
     "languages_required": [
       "English",
-      "Spanish"
+      "Spanish",
+      "additional language if required"
     ],
     "minimum_size": null,
     "font_size": null,
-    "posting_location": "premises",
+    "posting_location": null,
     "required_content": [
-      "hotline numbers for help/reporting",
-      "a number that victims can text for services/support (as required by SB 225)"
+      "human trafficking hotline numbers",
+      "help or report unlawful activity"
     ]
   },
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    "Human trafficking laws",
-    "SB 225"
+    "SB 970"
   ],
   "source_urls": [
-    "https://www.oag.ca.gov/human-trafficking"
+    "https://www.nationalhumantrafficking.org/"
   ],
   "harbor_alliance_posture": null,
   "harbor_alliance_actions": [],
-  "risks_or_constraints": [
-    "Non-compliance with posting requirements can result in fines."
-  ],
+  "risks_or_constraints": [],
   "notes": [
-    "Businesses need to ensure compliance, especially if they operate in multiple languages or serve diverse communities.",
-    "Specific language posting requirements for businesses located in certain counties due to federal voting rights laws."
+    "Training deadline for current employees is January 1, 2020; for new hires within six months."
   ],
-  "needs_review": [
-    "harbor_alliance_posture"
-  ]
+  "needs_review": []
 }

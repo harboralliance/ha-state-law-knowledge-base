@@ -2,52 +2,61 @@
   "state": "Texas",
   "state_code": "TX",
   "industry": "commercial lodging",
-  "source_file": "2026-07-02_Texas_lodging_compliance.md",
+  "source_file": "2026-07-06_Texas_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
-  "training_frequency": "annually",
+  "training_frequency": "annual",
   "new_hire_deadline_days": 90,
-  "new_hire_deadline_text": "not later than 90 days after hire",
-  "signage_required": false,
+  "new_hire_deadline_text": "not later than 90 days after being hired",
+  "signage_required": true,
   "provider_approval_required": true,
-  "provider_approval_type": "list of approved training providers and materials on its website",
-  "approval_authority": "Office of the Attorney General",
-  "approval_contact": null,
+  "provider_approval_type": "approved training providers by the Office of the Attorney General (OAG)",
+  "approval_authority": "Office of the Attorney General (OAG)",
+  "approval_contact": "[email\u00a0protected]",
   "enforcing_agencies": [
-    "Texas Department of Licensing and Regulation",
-    "Local law enforcement agencies"
+    "Texas Department of Public Safety",
+    "Local, State, and Federal Law Enforcement"
   ],
   "applicable_to": [],
   "required_topics": [
-    "recognizing signs of human trafficking",
-    "reporting suspicions to law enforcement",
-    "implementing policies to prevent trafficking within the hospitality industry"
+    "how and why human trafficking occurs in the hospitality industry",
+    "commercial lodging's role in addressing sex trafficking",
+    "different types of hotel contract workers who are vulnerable to labor trafficking",
+    "roles in reporting and responding to human trafficking incidents"
   ],
-  "reporting_contacts_required": [
-    "National Human Trafficking Hotline",
-    "local law enforcement agencies"
-  ],
+  "reporting_contacts_required": [],
   "signage_details": {
-    "languages_required": [],
+    "languages_required": [
+      "English"
+    ],
     "minimum_size": null,
     "font_size": null,
-    "posting_location": null,
-    "required_content": []
+    "posting_location": "specific signage related to human trafficking",
+    "required_content": [
+      "the importance of recognizing and responding to human trafficking",
+      "information on reporting suspected human trafficking incidents"
+    ]
   },
-  "recordkeeping_requirements": [],
-  "certificate_requirements": [],
+  "recordkeeping_requirements": [
+    "retain copies of training certificates for each year's training"
+  ],
+  "certificate_requirements": [
+    "approved training providers must provide a certificate of completion to every employee who completes the training"
+  ],
   "law_references": [
-    "Human Trafficking Act"
+    "House Bill 390",
+    "Texas Human Trafficking Section"
   ],
-  "source_urls": [
-    "https://www.texasattorneygeneral.gov/office/training-resources",
-    "https://www.nationalhumantraffickinghotline.org/"
-  ],
-  "harbor_alliance_posture": "immediate-entry",
+  "source_urls": [],
+  "harbor_alliance_posture": "approval-required",
   "harbor_alliance_actions": [
-    "provide human trafficking training to all employees"
+    "NEEDS REVIEW"
   ],
-  "risks_or_constraints": [],
+  "risks_or_constraints": [
+    "employees may not be disciplined, retaliated against, or discriminated against for making a good faith report of suspected human trafficking"
+  ],
   "notes": [],
-  "needs_review": []
+  "needs_review": [
+    "Harbor Alliance actions need to be clarified or reviewed"
+  ]
 }
