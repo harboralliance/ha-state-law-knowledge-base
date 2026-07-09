@@ -1,66 +1,46 @@
 # Texas Application Readiness
 
-## Human Trafficking Training Requirement for Commercial Lodging Establishments
+## Overview
 
-### Summary
-The Office of the Attorney General (OAG) in Texas has established requirements for human trafficking training for workers in commercial lodging establishments. House Bill 390 mandates that all employees at lodging establishments, regardless of size, receive annual training on identifying and responding to human trafficking.
+The Texas Office of the Attorney General (OAG) requires commercial lodging establishments to comply with human trafficking training requirements. House Bill 390 mandates annual training for employees in establishments with 10 or more rooms and all employees at smaller lodging establishments.
 
-### Materials Needed
-1. **Training Videos:**
-   - Office-approved videos focusing on identifying signs of trafficking, reporting suspected incidents, and posting anti-trafficking signage.
-   - Available online or in-person at certain organizations.
+## Materials Needed
 
-2. **Training Certificate:**
-   - Employees must complete the training and receive a certificate confirming their completion.
+1. **Training Video Access**: Employers must ensure access to approved training videos from the Office of the Attorney General.
+2. **Anti-Trafficking Signage**: Employees need to be able to display anti-trafficking signage as required by law.
+3. **Employee Records**: Maintain records of completed training and signage placement for audit purposes.
 
-3. **Anti-Trafficking Signage:**
-   - Properly posted signs within the lodging establishment to comply with the requirements.
+## Standards to Meet
 
-### Standards to Meet
-1. **Annual Training for All Employees:**
-   - Employees in commercial lodging establishments with 10 or more rooms must complete annual training.
-   - All employees at all lodging establishments, regardless of size, must complete the required training annually.
+1. **Training Content**: Training must cover:
+   - Recognizing signs of human trafficking
+   - Reporting suspected incidents
+   - Understanding requirements for posting anti-trafficking signage
+2. **Frequency**: All employees must complete the annual training.
+3. **Signage**: Anti-trafficking signs must be displayed in a visible location.
 
-2. **Content and Duration:**
-   - Training must cover topics related to identifying and responding to human trafficking.
-   - The minimum duration of the training is not specified in the provided files but should be adequate for effective learning (e.g., 30 minutes or more).
+## Likely Review Risks/Gaps
 
-3. **Record Keeping:**
-   - Employers must maintain records of employee training completion, including dates and certificates.
+1. **Training Coverage**:
+   - Ensure that all required topics are covered in the training video or provided by an approved instructor.
+   - Verify that the video meets the OAG’s standards and is up-to-date.
 
-### Likely Review Risks/Gaps
-1. **Training Effectiveness:**
-   - Ensuring the training videos are up-to-date and cover all required topics effectively.
-   - Verifying that employees understand and can apply the training in real-world scenarios.
+2. **Signage Implementation**:
+   - Confirm that signs are displayed in a clearly visible area where all employees will see them.
+   - Ensure signage complies with local regulations, if applicable.
 
-2. **Compliance Documentation:**
-   - Maintaining accurate records of training completion to avoid any potential audits or penalties.
-   - Reviewing training programs for adherence to OAG-approved materials and standards.
+3. **Employee Compliance**:
+   - Maintain records of employee training completion to demonstrate adherence to the annual requirement.
+   - Monitor for any gaps or non-compliance during audits or reviews.
 
-3. **Signage Compliance:**
-   - Ensuring that all required signage is properly posted and visible within the establishment.
-   - Regularly reviewing signage to ensure it remains up-to-date and complies with local regulations.
+4. **Risk Management**:
+   - Identify potential risks and establish protocols for reporting suspected trafficking incidents effectively.
+   - Develop procedures for ensuring employee safety during training sessions if necessary.
 
-4. **Training Frequency:**
-   - Confirming that annual training is consistently provided each year, even for establishments with fewer than 10 rooms.
-   - Verifying that new employees receive initial training within the required timeframe.
+5. **Documentation**:
+   - Keep detailed records of all training sessions, including dates, participants, and completion status.
+   - Maintain copies of anti-trafficking signage for reference and audit purposes.
 
-### Next Steps
-1. **Access Training Materials:**
-   - Obtain and review approved human trafficking training videos from designated sources.
+## Conclusion
 
-2. **Develop a Training Plan:**
-   - Create a schedule for annual training sessions, ensuring all employees are covered.
-   - Provide necessary support for employee participation (e.g., scheduling conflicts, language barriers).
-
-3. **Prepare Documentation:**
-   - Develop templates for tracking employee training completion and maintaining records of certificates.
-
-4. **Review and Update Signage:**
-   - Ensure compliance with anti-trafficking signage requirements and update any existing signage as needed.
-
-5. **Ongoing Compliance:**
-   - Establish a process for reviewing the effectiveness of training programs and updating content as necessary.
-   - Prepare for potential audits or inspections by OAG or other regulatory bodies.
-
-By following these steps, Harbor Alliance can ensure that all required human trafficking training is provided to employees in compliance with Texas OAG regulations, minimizing risks and gaps in preparation.
+To ensure readiness for the Texas OAG application submission, Harbor Alliance must prepare by accessing approved human trafficking training videos, implementing required signage, and maintaining comprehensive records of employee training completion. By addressing potential risks and gaps proactively, Harbor Alliance can demonstrate compliance with the state’s requirements and support a safe working environment.

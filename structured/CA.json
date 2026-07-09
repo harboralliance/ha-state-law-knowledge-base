@@ -2,52 +2,71 @@
   "state": "California",
   "state_code": "CA",
   "industry": "commercial lodging",
-  "source_file": "2026-07-06_California_lodging_compliance.md",
-  "training_required": true,
+  "source_file": "2026-07-09_California_lodging_compliance.md",
+  "training_required": false,
   "training_duration_minutes": null,
   "training_frequency": null,
-  "new_hire_deadline_days": 180,
-  "new_hire_deadline_text": "Within six months for new hires; by January 1, 2020, for current employees",
+  "new_hire_deadline_days": null,
+  "new_hire_deadline_text": null,
   "signage_required": true,
   "provider_approval_required": false,
   "provider_approval_type": null,
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "CRD (California Human Trafficking Task Force)"
+    {
+      "agency_name": "California Attorney General",
+      "contact_info": null
+    }
   ],
-  "applicable_to": [],
+  "applicable_to": [
+    "hotels",
+    "motels",
+    "bed & breakfasts"
+  ],
   "required_topics": [
-    "human trafficking awareness"
+    "human trafficking victim protection notice"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
     "languages_required": [
       "English",
-      "Spanish",
-      "additional language if required"
+      "Spanish"
     ],
     "minimum_size": null,
     "font_size": null,
-    "posting_location": null,
+    "posting_location": "publicly accessible areas",
     "required_content": [
-      "human trafficking hotline numbers",
-      "help or report unlawful activity"
+      "Information on telephone hotline numbers for help and reporting trafficking"
     ]
   },
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    "SB 970"
+    {
+      "statute_name": "California Human Trafficking Victim Protection Act",
+      "code_section": null,
+      "public_act": "AB 260, SB 225"
+    }
   ],
-  "source_urls": [
-    "https://www.nationalhumantrafficking.org/"
+  "source_urls": [],
+  "harbor_alliance_posture": "immediate-entry",
+  "harbor_alliance_actions": [
+    {
+      "action": "implement human trafficking victim protection notice posting requirements",
+      "status": "NEEDS REVIEW"
+    },
+    {
+      "action": "review and update signage as necessary to comply with language and location requirements",
+      "status": "NEEDS REVIEW"
+    }
   ],
-  "harbor_alliance_posture": null,
-  "harbor_alliance_actions": [],
-  "risks_or_constraints": [],
-  "notes": [
-    "Training deadline for current employees is January 1, 2020; for new hires within six months."
+  "risks_or_constraints": [
+    {
+      "risk": "non-compliance penalties for failure to post the required notice",
+      "mitigation_strategy": "Ensure that all applicable businesses have posted the notice by the deadline and maintain records of compliance"
+    }
   ],
+  "notes": [],
   "needs_review": []
 }

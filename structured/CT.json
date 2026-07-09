@@ -1,11 +1,11 @@
 {
   "state": "Connecticut",
   "state_code": "CT",
-  "industry": "commercial lodging",
-  "source_file": "2026-07-06_Connecticut_lodging_compliance.md",
+  "industry": "commercial lodging, child protective services, foster parents, schools, law enforcement, hospital and medical staff, hospitality industry, other professionals",
+  "source_file": "2026-07-09_Connecticut_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
-  "training_frequency": "annually",
+  "training_frequency": "Annual for hotels, motels, inns, and similar lodging employees; bi-annual for Child Protective Services staff",
   "new_hire_deadline_days": null,
   "new_hire_deadline_text": null,
   "signage_required": false,
@@ -14,17 +14,19 @@
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "DCF (Department of Children and Families)",
-    "local law enforcement",
-    "Office of Victim Services"
+    "Child Protective Services",
+    "Law Enforcement",
+    "Emergency Medical Services"
   ],
   "applicable_to": [
-    "hotels, motels, inns, and similar lodging",
-    "child protection services"
+    "hotels, motels, inns, and similar lodging employees; Child Protective Services staff"
   ],
   "required_topics": [
-    "human trafficking",
-    "sex trafficking"
+    "Introduction to Human Trafficking in Connecticut",
+    "Introduction to Child Trafficking in Connecticut",
+    "Introduction to Human Trafficking in Connecticut for Law Enforcement",
+    "Introduction to Human Trafficking in Connecticut for Emergency Medical Services",
+    "Child Trafficking Training for Medical Providers/Emergency Medicine"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
@@ -35,31 +37,30 @@
     "required_content": []
   },
   "recordkeeping_requirements": [
-    "training documentation",
-    "investigations of missing children",
-    "trafficking referrals",
-    "trafficking cases referred for prosecution"
+    "6 months of records retention for awareness campaigns"
   ],
   "certificate_requirements": [],
   "law_references": [
-    "Public Act 17-32 (2017): An Act Concerning Human Trafficking",
-    "Public Act 16-71 (2016): An Act Concerning Human Trafficking",
-    "Public Act 15-195 (2015): An Act Strengthening Protections for Victims of Human Trafficking",
-    "Public Act 14-186 (2014): An Act Concerning the Department of Children and Families and the Protection of Children",
-    "Public Act 13-166 (2013): An Act Concerning Sexual Exploitation and Trafficking in Persons",
-    "Public Act 12-141 (2012): An Act Concerning Commercial Sexual Exploitation of a Minor",
-    "Public Act 11-180 (2011): An Act Concerning Notification by the Department of Children and Families When a Youth is Arrested for Prostitution and Out-of-State Placements of Children and Youth",
-    "Public Act 10-115 (2010): An Act Providing a Safe Harbor for Exploited Children"
+    "Public Act 17-32",
+    "Public Act 16-71",
+    "Public Act 15-195",
+    "Public Act 14-186",
+    "Public Act 13-166",
+    "Public Act 12-141",
+    "Public Act 11-180",
+    "Public Act 10-115"
   ],
   "source_urls": [
     "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/trainings-for-providers",
     "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/human-and-sex-trafficking-legislation"
   ],
-  "harbor_alliance_posture": "needs-review",
+  "harbor_alliance_posture": "immediate-entry",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "state-controlled training requirement for lodging industry"
+    "Lack of signage, potential for delays in training"
   ],
-  "notes": [],
+  "notes": [
+    "Annual training requirement for hotels, motels, inns, and similar lodging employees"
+  ],
   "needs_review": []
 }
