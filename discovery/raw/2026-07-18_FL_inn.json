@@ -1,0 +1,53 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 3",
+      "relevancy": "100% - 67%",
+      "count": 3,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zinn:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "FL",
+      "bill_number": "S2500",
+      "bill_id": 2117014,
+      "change_hash": "e1b1a6e2bc6f31820520bbf88ffbacca",
+      "url": "https://legiscan.com/FL/bill/S2500/2026",
+      "text_url": "https://legiscan.com/FL/text/S2500/2026",
+      "research_url": "https://legiscan.com/FL/research/S2500/2026",
+      "last_action_date": "2026-02-20",
+      "last_action": "Laid on Table, refer to HB 5001",
+      "title": "Appropriations"
+    },
+    "1": {
+      "relevance": 98,
+      "state": "FL",
+      "bill_number": "S2500",
+      "bill_id": 2148548,
+      "change_hash": "9729c3f00a4dea5f5cc98a41f1ae3a50",
+      "url": "https://legiscan.com/FL/bill/S2500/2026/X5",
+      "text_url": "https://legiscan.com/FL/text/S2500/2026/X5",
+      "research_url": "https://legiscan.com/FL/research/S2500/2026/X5",
+      "last_action_date": "2026-05-12",
+      "last_action": "Laid on Table, companion bill(s) passed, see HB 5001-E (Ch. 2026-232), HB 5003-E (Ch. 2026-233), HB 5201-E (Ch. 2026-234), HB 5205-E (Ch. 2026-235), HB 5301-E (Ch. 2026-236), HB 5601-E (Ch. 2026-237), HB 5701-E (Ch. 2026-238), SB 2506-E (Ch. 2026-230), SB 2508-E (Ch. 2026-231)",
+      "title": "Appropriations"
+    },
+    "2": {
+      "relevance": 67,
+      "state": "FL",
+      "bill_number": "H5001",
+      "bill_id": 2148556,
+      "change_hash": "48a66f0ca1a3c7a7360a92c12f3f8706",
+      "url": "https://legiscan.com/FL/bill/H5001/2026/X5",
+      "text_url": "https://legiscan.com/FL/text/H5001/2026/X5",
+      "research_url": "https://legiscan.com/FL/research/H5001/2026/X5",
+      "last_action_date": "2026-07-01",
+      "last_action": "Chapter No. 2026-232",
+      "title": "General Appropriations Act"
+    }
+  }
+}

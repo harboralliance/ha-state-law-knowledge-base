@@ -2,11 +2,11 @@
   "state": "California",
   "state_code": "CA",
   "industry": "commercial lodging",
-  "source_file": "2026-07-09_California_lodging_compliance.md",
-  "training_required": false,
-  "training_duration_minutes": null,
+  "source_file": "2026-07-18_California_lodging_compliance.md",
+  "training_required": true,
+  "training_duration_minutes": 20,
   "training_frequency": null,
-  "new_hire_deadline_days": null,
+  "new_hire_deadline_days": 180,
   "new_hire_deadline_text": null,
   "signage_required": true,
   "provider_approval_required": false,
@@ -14,18 +14,13 @@
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    {
-      "agency_name": "California Attorney General",
-      "contact_info": null
-    }
+    "California's Office of Civil Rights (CRD)"
   ],
   "applicable_to": [
-    "hotels",
-    "motels",
-    "bed & breakfasts"
+    "hotels/motels"
   ],
   "required_topics": [
-    "human trafficking victim protection notice"
+    "human trafficking awareness"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
@@ -35,38 +30,25 @@
     ],
     "minimum_size": null,
     "font_size": null,
-    "posting_location": "publicly accessible areas",
+    "posting_location": "public/victims",
     "required_content": [
-      "Information on telephone hotline numbers for help and reporting trafficking"
+      "human trafficking hotline numbers"
     ]
   },
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    {
-      "statute_name": "California Human Trafficking Victim Protection Act",
-      "code_section": null,
-      "public_act": "AB 260, SB 225"
-    }
+    "SB 970 regarding human trafficking training for hotel/motel employees"
   ],
-  "source_urls": [],
+  "source_urls": [
+    "California's Office of Civil Rights (CRD) webpage on Human Trafficking",
+    "CA Attorney General website on SB 970"
+  ],
   "harbor_alliance_posture": "immediate-entry",
-  "harbor_alliance_actions": [
-    {
-      "action": "implement human trafficking victim protection notice posting requirements",
-      "status": "NEEDS REVIEW"
-    },
-    {
-      "action": "review and update signage as necessary to comply with language and location requirements",
-      "status": "NEEDS REVIEW"
-    }
+  "harbor_alliance_actions": [],
+  "risks_or_constraints": [],
+  "notes": [
+    "Training must be provided by Jan 1, 2020 to employees who interact with victims. Existing employees as of July 1, 2019 and new employees within 6 months are covered."
   ],
-  "risks_or_constraints": [
-    {
-      "risk": "non-compliance penalties for failure to post the required notice",
-      "mitigation_strategy": "Ensure that all applicable businesses have posted the notice by the deadline and maintain records of compliance"
-    }
-  ],
-  "notes": [],
   "needs_review": []
 }

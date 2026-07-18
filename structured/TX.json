@@ -2,52 +2,58 @@
   "state": "Texas",
   "state_code": "TX",
   "industry": "commercial lodging",
-  "source_file": "2026-07-09_Texas_lodging_compliance.md",
+  "source_file": "2026-07-18_Texas_lodging_compliance.md",
   "training_required": true,
-  "training_duration_minutes": null,
-  "training_frequency": "annually",
+  "training_duration_minutes": 22,
+  "training_frequency": "annual",
   "new_hire_deadline_days": null,
   "new_hire_deadline_text": null,
   "signage_required": false,
-  "provider_approval_required": true,
-  "provider_approval_type": "approved videos by Office of the Attorney General",
-  "approval_authority": "Office of the Attorney General",
-  "approval_contact": "[email\u00a0protected], www.texasattorneygeneral.gov",
+  "provider_approval_required": false,
+  "provider_approval_type": null,
+  "approval_authority": null,
+  "approval_contact": null,
   "enforcing_agencies": [
-    "Office of the Attorney General",
-    "local, state, and federal law enforcement agencies"
+    "Texas Department of Licensing and Regulation"
   ],
   "applicable_to": [
-    ">=10 rooms"
+    "establishments with 10 or more rooms"
   ],
   "required_topics": [
-    "identifying human trafficking signs",
-    "reporting suspected acts",
-    "responding to victims"
+    "identifying vulnerable workers",
+    "recognizing signs of trafficking",
+    "reporting incidents"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
-    "languages_required": [],
+    "languages_required": [
+      "English",
+      "Spanish"
+    ],
     "minimum_size": null,
     "font_size": null,
     "posting_location": null,
     "required_content": []
   },
-  "recordkeeping_requirements": [
-    "maintain sufficient records to show compliance with Section 114.0051 of the Texas Business and Commerce Code"
-  ],
-  "certificate_requirements": [
-    "certificate of completion including date taken and course title from approved provider"
-  ],
+  "recordkeeping_requirements": [],
+  "certificate_requirements": [],
   "law_references": [
-    "Section 114.0051 of the Texas Business and Commerce Code"
+    "Texas Human Trafficking Prevention Act",
+    "Texas Penal Code \u00a7 22.014"
   ],
   "source_urls": [
-    "www.texasattorneygeneral.gov"
+    "https://www.texasattorneygeneral.gov/training-courses/human-trafficking-training-for-hotels/",
+    "https://nationalcourseportal.com/courses/texas-commercial-lodging-human-trafficking-awareness-and-response"
   ],
   "harbor_alliance_posture": "approval-required",
-  "harbor_alliance_actions": [],
-  "risks_or_constraints": [],
+  "harbor_alliance_actions": [
+    "Complete state-approved human trafficking training",
+    "Ensure annual compliance through required training"
+  ],
+  "risks_or_constraints": [
+    "Non-compliance with state laws can lead to legal consequences",
+    "Requires annual training for compliance"
+  ],
   "notes": [],
   "needs_review": []
 }
