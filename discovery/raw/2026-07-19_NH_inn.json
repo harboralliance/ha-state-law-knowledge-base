@@ -1,0 +1,40 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 2",
+      "relevancy": "100% - 100%",
+      "count": 2,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "(Zinn:(pos=1))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "NH",
+      "bill_number": "HB1450",
+      "bill_id": 2056400,
+      "change_hash": "cb886cbd9e71f447fbfa0a962466f6cc",
+      "url": "https://legiscan.com/NH/bill/HB1450/2026",
+      "text_url": "https://legiscan.com/NH/text/HB1450/2026",
+      "research_url": "https://legiscan.com/NH/research/HB1450/2026",
+      "last_action_date": "2026-03-11",
+      "last_action": "Refer for Interim Study: Motion Adopted Voice Vote 03/11/2026 House Journal  7 P. 50",
+      "title": "Relative to the designation and control of shared facilities in rental properties."
+    },
+    "1": {
+      "relevance": 100,
+      "state": "NH",
+      "bill_number": "HB1068",
+      "bill_id": 2052670,
+      "change_hash": "52bc1e55a559468ff42d11c4faccee51",
+      "url": "https://legiscan.com/NH/bill/HB1068/2026",
+      "text_url": "https://legiscan.com/NH/text/HB1068/2026",
+      "research_url": "https://legiscan.com/NH/research/HB1068/2026",
+      "last_action_date": "2026-04-03",
+      "last_action": "Refer to Interim Study, Motion Adopted, Voice Vote; 04/09/2026; Senate Journal 8",
+      "title": "Taxing certain occupants who have established permanent residences under the meals and rooms tax."
+    }
+  }
+}

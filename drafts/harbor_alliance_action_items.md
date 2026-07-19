@@ -1,61 +1,28 @@
 # Harbor Alliance Action Items
 
 ## Texas
-
-**Next Steps:**
-- Ensure all commercial lodging establishments with 10 or more rooms comply with the annual human trafficking training requirement by providing employees with the required training videos and materials.
-- Monitor compliance through periodic audits and inspections to ensure that the training is being effectively delivered.
-
-**States Allowing Immediate Market Entry:**
-- NEEDS REVIEW
-
-**States Requiring Approval, Outreach, or Special Handling:**
-- NONE
+- **Next Steps:** Ensure that all employees at commercial lodging establishments with 10 or more rooms complete the required annual human trafficking training.
+- **Immediate Market Entry:** NOT ALLOWED
+- **Approval/Outreach/Special Handling:** Coordinate with local training providers and organizations approved by the Office of the Attorney General to facilitate the training process.
 
 ## California
-
-**Next Steps:**
-- Provide hotel and motel employees with the required 20-minute human trafficking awareness training by January 1, 2024.
-- Ensure that all new employees joining roles in these establishments receive training within six months of their start date.
-
-**States Allowing Immediate Market Entry:**
-- NONE
-
-**States Requiring Approval, Outreach, or Special Handling:**
-- NONE
+- **Next Steps:** Ensure all hotel and motel employees receive at least 20 minutes of classroom or other effective interactive training on human trafficking awareness.
+- **Immediate Market Entry:** ALLOWED
+- **Approval/Outreach/Special Handling:** NONE REQUIRED
 
 ## Illinois
-
-**Next Steps:**
-- Provide human trafficking recognition and protocols training to all relevant staff at lodging establishments by June 1, 2023.
-- Ensure that the training is completed within six months of employment and every two years thereafter.
-
-**States Allowing Immediate Market Entry:**
-- NONE
-
-**States Requiring Approval, Outreach, or Special Handling:**
-- NONE
+- **Next Steps:** Provide annual human trafficking recognition training to all relevant staff within six months of their employment and every two years thereafter. Ensure that the training includes the key components outlined in the legislation.
+- **Immediate Market Entry:** NOT ALLOWED
+- **Approval/Outreach/Special Handling:** Contact the Department of Human Services for model curriculum and any additional support needed.
 
 ## Minnesota
-
-**Next Steps:**
-- Ensure all hotel, motel, and short-term rental staff complete the required sex trafficking prevention training.
-- Verify that new employees receive training within 90 days of hire and that existing staff retake the training annually.
-
-**States Allowing Immediate Market Entry:**
-- NONE
-
-**States Requiring Approval, Outreach, or Special Handling:**
-- NONE
+- **Next Steps:** Provide Minnesota Lodging Sex Trafficking Prevention and Response Training to all owners, managers, and on-site employees within 90 days of hire. Ensure new employees complete training within 90 days of hire.
+- **Immediate Market Entry:** NOT ALLOWED
+- **Approval/Outreach/Special Handling:** Access the training package through the Minnesota Department of Health Learning Center.
 
 ## Connecticut
+- **Next Steps:** Provide annual human trafficking training to all hotel and motel employees. Ensure that the training covers the introduction to child trafficking, labor trafficking, and the roles in reporting and responding to instances of human trafficking.
+- **Immediate Market Entry:** NOT ALLOWED
+- **Approval/Outreach/Special Handling:** Contact the Department of Children and Families for additional resources and support.
 
-**Next Steps:**
-- Provide annual human trafficking awareness training to all employees in hotels and motels.
-- Ensure mandatory reporting of suspected cases to state authorities.
-
-**States Allowing Immediate Market Entry:**
-- NONE
-
-**States Requiring Approval, Outreach, or Special Handling:**
-- NONE
+NEEDS REVIEW: The state of Arizona and Hawaii were not mentioned in the provided files. Determine if any specific requirements exist for these states or if they do not require action items at this time.

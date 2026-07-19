@@ -2,11 +2,11 @@
   "state": "California",
   "state_code": "CA",
   "industry": "commercial lodging",
-  "source_file": "2026-07-18_California_lodging_compliance.md",
-  "training_required": true,
-  "training_duration_minutes": 20,
+  "source_file": "2026-07-19_California_lodging_compliance.md",
+  "training_required": false,
+  "training_duration_minutes": null,
   "training_frequency": null,
-  "new_hire_deadline_days": 180,
+  "new_hire_deadline_days": null,
   "new_hire_deadline_text": null,
   "signage_required": true,
   "provider_approval_required": false,
@@ -14,41 +14,63 @@
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "California's Office of Civil Rights (CRD)"
+    "California Attorney General"
   ],
-  "applicable_to": [
-    "hotels/motels"
-  ],
+  "applicable_to": [],
   "required_topics": [
-    "human trafficking awareness"
+    "Human Trafficking Notice"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
     "languages_required": [
       "English",
-      "Spanish"
+      "Spanish",
+      "Arabic",
+      "Brazilian Portuguese",
+      "Cambodian",
+      "Chinese",
+      "Eastern Armenian",
+      "Farsi",
+      "Haitian Creole",
+      "Hindi",
+      "Hmong",
+      "Italian",
+      "Japanese",
+      "Korean",
+      "Laotian",
+      "Pashto",
+      "Polish",
+      "Punjabi",
+      "Romanian",
+      "Russian",
+      "Tagalog",
+      "Thai",
+      "Vietnamese"
     ],
     "minimum_size": null,
     "font_size": null,
-    "posting_location": "public/victims",
+    "posting_location": null,
     "required_content": [
-      "human trafficking hotline numbers"
+      "Telephone hotline numbers for seeking help or reporting unlawful activity"
     ]
   },
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    "SB 970 regarding human trafficking training for hotel/motel employees"
+    {
+      "statute_name": "California Human Trafficking Prevention Act",
+      "code_section": "",
+      "public_act": "AB 2538"
+    }
   ],
   "source_urls": [
-    "California's Office of Civil Rights (CRD) webpage on Human Trafficking",
-    "CA Attorney General website on SB 970"
+    "https://www.oag.ca.gov/news/human-trafficking-prevention-act"
   ],
-  "harbor_alliance_posture": "immediate-entry",
+  "harbor_alliance_posture": "needs-review",
   "harbor_alliance_actions": [],
-  "risks_or_constraints": [],
-  "notes": [
-    "Training must be provided by Jan 1, 2020 to employees who interact with victims. Existing employees as of July 1, 2019 and new employees within 6 months are covered."
+  "risks_or_constraints": [
+    "Failure to post the notice as mandated can result in penalties."
   ],
+  "notes": [],
   "needs_review": []
 }

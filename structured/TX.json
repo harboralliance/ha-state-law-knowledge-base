@@ -2,10 +2,10 @@
   "state": "Texas",
   "state_code": "TX",
   "industry": "commercial lodging",
-  "source_file": "2026-07-18_Texas_lodging_compliance.md",
+  "source_file": "2026-07-19_Texas_lodging_compliance.md",
   "training_required": true,
-  "training_duration_minutes": 22,
-  "training_frequency": "annual",
+  "training_duration_minutes": null,
+  "training_frequency": "annually",
   "new_hire_deadline_days": null,
   "new_hire_deadline_text": null,
   "signage_required": false,
@@ -14,46 +14,40 @@
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "Texas Department of Licensing and Regulation"
+    "Department of Labor",
+    "Texas Attorney General's Office"
   ],
-  "applicable_to": [
-    "establishments with 10 or more rooms"
-  ],
+  "applicable_to": [],
   "required_topics": [
-    "identifying vulnerable workers",
-    "recognizing signs of trafficking",
-    "reporting incidents"
+    "human trafficking prevention",
+    "response to suspected cases"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
-    "languages_required": [
-      "English",
-      "Spanish"
-    ],
+    "languages_required": [],
     "minimum_size": null,
     "font_size": null,
     "posting_location": null,
     "required_content": []
   },
   "recordkeeping_requirements": [],
-  "certificate_requirements": [],
+  "certificate_requirements": [
+    "training completion certificate"
+  ],
   "law_references": [
-    "Texas Human Trafficking Prevention Act",
-    "Texas Penal Code \u00a7 22.014"
+    "House Bill 390"
   ],
-  "source_urls": [
-    "https://www.texasattorneygeneral.gov/training-courses/human-trafficking-training-for-hotels/",
-    "https://nationalcourseportal.com/courses/texas-commercial-lodging-human-trafficking-awareness-and-response"
-  ],
-  "harbor_alliance_posture": "approval-required",
+  "source_urls": [],
+  "harbor_alliance_posture": "immediate-entry",
   "harbor_alliance_actions": [
-    "Complete state-approved human trafficking training",
-    "Ensure annual compliance through required training"
+    "implement training program in compliance with House Bill 390"
   ],
   "risks_or_constraints": [
-    "Non-compliance with state laws can lead to legal consequences",
-    "Requires annual training for compliance"
+    "cost of training for providers",
+    "ensuring consistent training frequency"
   ],
-  "notes": [],
+  "notes": [
+    "training is free for some providers and costs a fee for others"
+  ],
   "needs_review": []
 }

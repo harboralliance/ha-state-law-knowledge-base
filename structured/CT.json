@@ -2,32 +2,44 @@
   "state": "Connecticut",
   "state_code": "CT",
   "industry": "commercial lodging",
-  "source_file": "2026-07-18_Connecticut_lodging_compliance.md",
+  "source_file": "2026-07-19_Connecticut_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
-  "training_frequency": "annual",
+  "training_frequency": "annually",
   "new_hire_deadline_days": null,
   "new_hire_deadline_text": null,
   "signage_required": false,
-  "provider_approval_required": false,
-  "provider_approval_type": null,
-  "approval_authority": null,
-  "approval_contact": null,
+  "provider_approval_required": true,
+  "provider_approval_type": "annual certification",
+  "approval_authority": "State of Connecticut, Department of Children and Families (DCF)",
+  "approval_contact": "NEEDS REVIEW",
   "enforcing_agencies": [
-    "Department of Children and Families (DCF)",
-    "State Police"
+    "State of Connecticut, Attorney General's Office",
+    "Local law enforcement agencies"
   ],
   "applicable_to": [
-    "hotels",
-    "motels",
-    "inns",
-    "similar lodging; hospitality industry"
+    "Child Protective Services staff",
+    "Foster parents",
+    "Teachers",
+    "Police officers",
+    "Emergency medical personnel",
+    "Hotel staff"
   ],
-  "required_topics": [
-    "human trafficking awareness training"
-  ],
+  "required_topics": [],
   "reporting_contacts_required": [
-    "Suspected child trafficking reported to DCF Careline"
+    {
+      "type": "State attorneys and local law enforcement",
+      "responsibilities": [
+        "Document training, investigations of missing children, trafficking referrals, and cases referred for prosecution"
+      ]
+    },
+    {
+      "type": "Hotels, motels, and lodging businesses",
+      "responsibilities": [
+        "Provide annual trafficking training and awareness campaigns",
+        "Keep guest transactions and receipts for at least 6 months"
+      ]
+    }
   ],
   "signage_details": {
     "languages_required": [],
@@ -36,22 +48,38 @@
     "posting_location": null,
     "required_content": []
   },
-  "recordkeeping_requirements": [],
+  "recordkeeping_requirements": [
+    {
+      "type": "State attorneys and local law enforcement",
+      "requirements": [
+        "Document work related to human trafficking, including training, investigations, referrals, and cases referred for prosecution"
+      ]
+    },
+    {
+      "type": "Hotels, motels, and lodging businesses",
+      "requirements": [
+        "Keep guest transactions and receipts for at least 6 months"
+      ]
+    }
+  ],
   "certificate_requirements": [],
   "law_references": [
     "Human and Sex Trafficking Legislation",
-    "Prostitution is a class C felony; commercial sexual exploitation of a minor is also a class C felony"
+    "Public Act(s) related to sex trafficking, commercial sexual exploitation of minors, and the protection of victims (2010-)"
   ],
   "source_urls": [
     "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/trainings-for-providers",
     "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/human-and-sex-trafficking-legislation"
   ],
-  "harbor_alliance_posture": null,
+  "harbor_alliance_posture": "needs-review",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "Need for ongoing training and public awareness campaigns",
-    "Potential legal penalties for non-compliance with reporting requirements"
+    "Lack of enforcement and coordination among agencies",
+    "Potential for gaps in training coverage"
   ],
   "notes": [],
-  "needs_review": []
+  "needs_review": [
+    "Approval contact information is not provided",
+    "Specific content and language requirements for signage are not mentioned"
+  ]
 }

@@ -2,27 +2,29 @@
   "state": "Minnesota",
   "state_code": "MN",
   "industry": "commercial lodging",
-  "source_file": "2026-07-18_Minnesota_lodging_compliance.md",
+  "source_file": "2026-07-19_Minnesota_lodging_compliance.md",
   "training_required": true,
-  "training_duration_minutes": null,
+  "training_duration_minutes": 45,
   "training_frequency": "annually",
   "new_hire_deadline_days": 90,
-  "new_hire_deadline_text": "within 90 days of hire or annually thereafter",
+  "new_hire_deadline_text": null,
   "signage_required": true,
   "provider_approval_required": false,
   "provider_approval_type": null,
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "Minnesota Department of Health"
+    {
+      "name": "Minnesota Department of Health",
+      "contact": "health.safeharbor@state.mn.us"
+    }
   ],
   "applicable_to": [
-    "owners",
-    "managers",
-    "on-site employees"
+    "hotel, motel, and short-term rental staff"
   ],
   "required_topics": [
-    "recognize and respond to potential signs of sex trafficking"
+    "human trafficking",
+    "labor trafficking"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
@@ -34,24 +36,36 @@
     ],
     "minimum_size": null,
     "font_size": null,
-    "posting_location": "back-of-house",
+    "posting_location": "back-of-house poster",
     "required_content": [
-      "required back-of-house poster"
+      "Human trafficking awareness information",
+      "Training completion date"
     ]
   },
-  "recordkeeping_requirements": [],
+  "recordkeeping_requirements": [
+    {
+      "type": "roster of employees who completed the training",
+      "frequency": "annual"
+    }
+  ],
   "certificate_requirements": [],
   "law_references": [
-    "Minnesota Sex Trafficking Prevention and Response Act (Chapter 120F, Subdivision 3)"
+    {
+      "name": "NEEDS REVIEW",
+      "code_section": null,
+      "public_act": null
+    }
   ],
   "source_urls": [
-    "https://www.health.state.mn.us/health/professionals/specialists/trafficking/"
+    "https://www.health.state.mn.us/divs/ohs/hrm/training-and-certifications"
   ],
-  "harbor_alliance_posture": "needs-review",
+  "harbor_alliance_posture": "immediate-entry",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [],
-  "notes": [],
-  "needs_review": [
-    "Specific actions or strategies for Harbor Alliance to take need clarification."
-  ]
+  "notes": [
+    "Training must be completed within 90 days of hire and annually thereafter.",
+    "Signage must be displayed in locations where all staff will see it.",
+    "Additional languages (Spanish, Hmong, Somali) will be available in late fall 2023/early 2024."
+  ],
+  "needs_review": []
 }
