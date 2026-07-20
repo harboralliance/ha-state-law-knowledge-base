@@ -2,84 +2,64 @@
   "state": "Connecticut",
   "state_code": "CT",
   "industry": "commercial lodging",
-  "source_file": "2026-07-19_Connecticut_lodging_compliance.md",
+  "source_file": "2026-07-20_Connecticut_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
-  "training_frequency": "annually",
+  "training_frequency": "annual",
   "new_hire_deadline_days": null,
   "new_hire_deadline_text": null,
-  "signage_required": false,
-  "provider_approval_required": true,
-  "provider_approval_type": "annual certification",
-  "approval_authority": "State of Connecticut, Department of Children and Families (DCF)",
-  "approval_contact": "NEEDS REVIEW",
+  "signage_required": true,
+  "provider_approval_required": false,
+  "provider_approval_type": null,
+  "approval_authority": null,
+  "approval_contact": null,
   "enforcing_agencies": [
-    "State of Connecticut, Attorney General's Office",
-    "Local law enforcement agencies"
+    "Department of Children and Family Services",
+    "Law Enforcement",
+    "Emergency Medical Services"
   ],
   "applicable_to": [
-    "Child Protective Services staff",
-    "Foster parents",
-    "Teachers",
-    "Police officers",
-    "Emergency medical personnel",
-    "Hotel staff"
+    "hotels, motels, lodging businesses"
   ],
-  "required_topics": [],
-  "reporting_contacts_required": [
-    {
-      "type": "State attorneys and local law enforcement",
-      "responsibilities": [
-        "Document training, investigations of missing children, trafficking referrals, and cases referred for prosecution"
-      ]
-    },
-    {
-      "type": "Hotels, motels, and lodging businesses",
-      "responsibilities": [
-        "Provide annual trafficking training and awareness campaigns",
-        "Keep guest transactions and receipts for at least 6 months"
-      ]
-    }
+  "required_topics": [
+    "human trafficking awareness",
+    "training for employees"
   ],
+  "reporting_contacts_required": false,
   "signage_details": {
     "languages_required": [],
     "minimum_size": null,
     "font_size": null,
-    "posting_location": null,
-    "required_content": []
+    "posting_location": "all locations",
+    "required_content": [
+      "annual trafficking training and awareness campaigns"
+    ]
   },
   "recordkeeping_requirements": [
-    {
-      "type": "State attorneys and local law enforcement",
-      "requirements": [
-        "Document work related to human trafficking, including training, investigations, referrals, and cases referred for prosecution"
-      ]
-    },
-    {
-      "type": "Hotels, motels, and lodging businesses",
-      "requirements": [
-        "Keep guest transactions and receipts for at least 6 months"
-      ]
-    }
+    "guest transactions and receipts for at least six months"
   ],
   "certificate_requirements": [],
   "law_references": [
-    "Human and Sex Trafficking Legislation",
-    "Public Act(s) related to sex trafficking, commercial sexual exploitation of minors, and the protection of victims (2010-)"
+    "2017 Public Act 17-32",
+    "2016 Public Act 16-71",
+    "2015 Public Act 15-195",
+    "2014 Public Act 14-186",
+    "2013 Public Act 13-166",
+    "2012 Public Act 12-141",
+    "2011 Public Act 11-180",
+    "2010 Public Act 10-115"
   ],
   "source_urls": [
     "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/trainings-for-providers",
     "https://portal.ct.gov/dcf/knowledge-base/articles/supports-for-children-and-families/hart---sex-trafficking/human-and-sex-trafficking-legislation"
   ],
-  "harbor_alliance_posture": "needs-review",
+  "harbor_alliance_posture": "approval-required",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "Lack of enforcement and coordination among agencies",
-    "Potential for gaps in training coverage"
+    "need for annual training and awareness campaigns"
   ],
-  "notes": [],
-  "needs_review": [
-    "Approval contact information is not provided",
-    "Specific content and language requirements for signage are not mentioned"
-  ]
+  "notes": [
+    "The state requires annual trafficking training and awareness campaigns for employees in hotels, motels, and lodging businesses."
+  ],
+  "needs_review": []
 }

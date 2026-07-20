@@ -1,0 +1,27 @@
+{
+  "status": "OK",
+  "searchresult": {
+    "summary": {
+      "page": "1 of 1",
+      "range": "1 - 1",
+      "relevancy": "100% - 100%",
+      "count": 1,
+      "page_current": 1,
+      "page_total": 1,
+      "query": "((Zbed:(pos=1) AND Zbreakfast:(pos=2)))"
+    },
+    "0": {
+      "relevance": 100,
+      "state": "GA",
+      "bill_number": "SB281",
+      "bill_id": 1985992,
+      "change_hash": "2a603511454a0472db93d5f09e958432",
+      "url": "https://legiscan.com/GA/bill/SB281/2025",
+      "text_url": "https://legiscan.com/GA/text/SB281/2025",
+      "research_url": "https://legiscan.com/GA/research/SB281/2025",
+      "last_action_date": "2025-03-13",
+      "last_action": "House Second Readers",
+      "title": "\"Port Wentworth Convention and Visitors Bureau Authority Act\"; enact"
+    }
+  }
+}

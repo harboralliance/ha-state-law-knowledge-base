@@ -1,28 +1,62 @@
 # Harbor Alliance Action Items
 
 ## Texas
-- **Next Steps:** Ensure that all employees at commercial lodging establishments with 10 or more rooms complete the required annual human trafficking training.
-- **Immediate Market Entry:** NOT ALLOWED
-- **Approval/Outreach/Special Handling:** Coordinate with local training providers and organizations approved by the Office of the Attorney General to facilitate the training process.
+- **Next Steps:**
+  - Ensure all commercial lodging establishments comply with HB 390 by providing annual human trafficking training to employees.
+  - Verify that all required anti-trafficking signage is posted in all lodging establishments.
+
+- **States Allowing Immediate Market Entry:** NONE
+
+- **States Requiring Approval, Outreach, or Special Handling:**
+  - Conduct a comprehensive review of existing training materials and ensure they meet the Office's approved standards.
 
 ## California
-- **Next Steps:** Ensure all hotel and motel employees receive at least 20 minutes of classroom or other effective interactive training on human trafficking awareness.
-- **Immediate Market Entry:** ALLOWED
-- **Approval/Outreach/Special Handling:** NONE REQUIRED
+- **Next Steps:**
+  - Ensure all hotel and motel employees receive at least 20 minutes of human trafficking awareness training by January 1, 2023.
+  - Provide outreach to employers who have not yet provided the required training as of January 1, 2020.
+
+- **States Allowing Immediate Market Entry:** NONE
+
+- **States Requiring Approval, Outreach, or Special Handling:**
+  - Coordinate with California Coalition to Abolish Slavery and Trafficking (CAST) and National Human Trafficking Resource Center for additional resources and support.
+  - Develop a plan for regular compliance audits.
 
 ## Illinois
-- **Next Steps:** Provide annual human trafficking recognition training to all relevant staff within six months of their employment and every two years thereafter. Ensure that the training includes the key components outlined in the legislation.
-- **Immediate Market Entry:** NOT ALLOWED
-- **Approval/Outreach/Special Handling:** Contact the Department of Human Services for model curriculum and any additional support needed.
+- **Next Steps:**
+  - Provide human trafficking recognition training to all relevant employees within six months of their employment by June 1, 2023.
+  - Ensure annual retraining every two years thereafter.
+
+- **States Allowing Immediate Market Entry:** NONE
+
+- **States Requiring Approval, Outreach, or Special Handling:**
+  - Develop a model curriculum for human trafficking recognition programs if the Department has not done so yet by July 1, 2023.
+  - Monitor and enforce compliance through local government or law enforcement units.
 
 ## Minnesota
-- **Next Steps:** Provide Minnesota Lodging Sex Trafficking Prevention and Response Training to all owners, managers, and on-site employees within 90 days of hire. Ensure new employees complete training within 90 days of hire.
-- **Immediate Market Entry:** NOT ALLOWED
-- **Approval/Outreach/Special Handling:** Access the training package through the Minnesota Department of Health Learning Center.
+- **Next Steps:**
+  - Ensure all hotel, motel, and short-term rental staff complete the MN Lodging Sex Trafficking Prevention and Response Training within 90 days of hire by June 15, 2023.
+  - Conduct annual retraining for all required staff every year thereafter.
+
+- **States Allowing Immediate Market Entry:** NONE
+
+- **States Requiring Approval, Outreach, or Special Handling:**
+  - Provide employees with access to the MN Department of Health (MDH) Learning Center training materials.
+  - Monitor and enforce compliance through local government units or law enforcement agencies.
 
 ## Connecticut
-- **Next Steps:** Provide annual human trafficking training to all hotel and motel employees. Ensure that the training covers the introduction to child trafficking, labor trafficking, and the roles in reporting and responding to instances of human trafficking.
-- **Immediate Market Entry:** NOT ALLOWED
-- **Approval/Outreach/Special Handling:** Contact the Department of Children and Families for additional resources and support.
+- **Next Steps:**
+  - Ensure all hotel and motel employees receive annual trafficking training as per Act 2026 requirements by June 1, 2023.
+  - Provide outreach to employers who have not yet provided the required training as of January 1, 2020.
 
-NEEDS REVIEW: The state of Arizona and Hawaii were not mentioned in the provided files. Determine if any specific requirements exist for these states or if they do not require action items at this time.
+- **States Allowing Immediate Market Entry:** NONE
+
+- **States Requiring Approval, Outreach, or Special Handling:**
+  - Coordinate with the Department of Children and Families (DCF) for mandatory data reporting.
+  - Ensure compliance with class C felony penalties for commercial sexual exploitation of a minor and other forms of human trafficking.
+
+---
+
+NEEDS REVIEW:
+- The effectiveness of outreach programs in various states.
+- Specific enforcement mechanisms and potential penalties that may be required.
+- Ongoing resources and support needed by state-specific training providers.

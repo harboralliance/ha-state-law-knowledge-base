@@ -2,27 +2,34 @@
   "state": "Texas",
   "state_code": "TX",
   "industry": "commercial lodging",
-  "source_file": "2026-07-19_Texas_lodging_compliance.md",
+  "source_file": "2026-07-20_Texas_lodging_compliance.md",
   "training_required": true,
-  "training_duration_minutes": null,
+  "training_duration_minutes": 22,
   "training_frequency": "annually",
   "new_hire_deadline_days": null,
   "new_hire_deadline_text": null,
   "signage_required": false,
-  "provider_approval_required": false,
-  "provider_approval_type": null,
-  "approval_authority": null,
-  "approval_contact": null,
+  "provider_approval_required": true,
+  "provider_approval_type": "Office of the Attorney General (OAG) approval required",
+  "approval_authority": "Office of the Attorney General (OAG)",
+  "approval_contact": "[email\u00a0protected]",
   "enforcing_agencies": [
-    "Department of Labor",
-    "Texas Attorney General's Office"
+    "Office of the Attorney General (OAG)",
+    "local, state, and federal law enforcement agencies"
   ],
-  "applicable_to": [],
+  "applicable_to": [
+    "commercial lodging establishments with 10 or more rooms",
+    "all lodging establishments in Texas"
+  ],
   "required_topics": [
-    "human trafficking prevention",
-    "response to suspected cases"
+    "human trafficking prevention and response"
   ],
-  "reporting_contacts_required": [],
+  "reporting_contacts_required": [
+    {
+      "contact_info": "National Human Trafficking Hotline: 888-373-7888, Text Line: Text 233733",
+      "url": "https://iWatchTX.org"
+    }
+  ],
   "signage_details": {
     "languages_required": [],
     "minimum_size": null,
@@ -30,24 +37,27 @@
     "posting_location": null,
     "required_content": []
   },
-  "recordkeeping_requirements": [],
+  "recordkeeping_requirements": [
+    "retain a paper or electronic copy of each annual certificate of completion for every employee who completes the training"
+  ],
   "certificate_requirements": [
-    "training completion certificate"
+    "certificate of completion must include the date the course was taken and the title of the course",
+    "records must be made available for review and inspection at the request of the OAG, local, state, and federal law enforcement agencies"
   ],
   "law_references": [
     "House Bill 390"
   ],
-  "source_urls": [],
-  "harbor_alliance_posture": "immediate-entry",
-  "harbor_alliance_actions": [
-    "implement training program in compliance with House Bill 390"
+  "source_urls": [
+    "https://www.texasattorneygeneral.gov/human-trafficking-section/human-trafficking-training-and-signage/commercial-lodging-training-resources/available-training/approved-training",
+    "https://www.nationalcourseportal.com/texas-hotel-human-trafficking"
   ],
+  "harbor_alliance_posture": "approval-required",
+  "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "cost of training for providers",
-    "ensuring consistent training frequency"
+    "need for OAG approval for training providers",
+    "records retention requirements",
+    "certification and record availability requirements"
   ],
-  "notes": [
-    "training is free for some providers and costs a fee for others"
-  ],
+  "notes": [],
   "needs_review": []
 }

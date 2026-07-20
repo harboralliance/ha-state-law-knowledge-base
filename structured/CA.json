@@ -2,8 +2,8 @@
   "state": "California",
   "state_code": "CA",
   "industry": "commercial lodging",
-  "source_file": "2026-07-19_California_lodging_compliance.md",
-  "training_required": false,
+  "source_file": "2026-07-20_California_lodging_compliance.md",
+  "training_required": true,
   "training_duration_minutes": null,
   "training_frequency": null,
   "new_hire_deadline_days": null,
@@ -14,63 +14,45 @@
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "California Attorney General"
+    "California Attorney General's Office"
   ],
-  "applicable_to": [],
+  "applicable_to": [
+    "hotels/motels"
+  ],
   "required_topics": [
-    "Human Trafficking Notice"
+    "human trafficking awareness"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
     "languages_required": [
       "English",
-      "Spanish",
-      "Arabic",
-      "Brazilian Portuguese",
-      "Cambodian",
-      "Chinese",
-      "Eastern Armenian",
-      "Farsi",
-      "Haitian Creole",
-      "Hindi",
-      "Hmong",
-      "Italian",
-      "Japanese",
-      "Korean",
-      "Laotian",
-      "Pashto",
-      "Polish",
-      "Punjabi",
-      "Romanian",
-      "Russian",
-      "Tagalog",
-      "Thai",
-      "Vietnamese"
+      "Spanish"
     ],
     "minimum_size": null,
     "font_size": null,
-    "posting_location": null,
+    "posting_location": "inside business premises, in a visible location",
     "required_content": [
-      "Telephone hotline numbers for seeking help or reporting unlawful activity"
+      "Human Trafficking Model Notice with hotline numbers"
     ]
   },
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    {
-      "statute_name": "California Human Trafficking Prevention Act",
-      "code_section": "",
-      "public_act": "AB 2538"
-    }
+    "Civil Code Section 52.6",
+    "SB 970"
   ],
   "source_urls": [
-    "https://www.oag.ca.gov/news/human-trafficking-prevention-act"
+    "https://oag.ca.gov/human-trafficking-resource-center",
+    "https://www.cga.ca.gov/legis/billtext/2019/chapter_2/sb00970.html"
   ],
   "harbor_alliance_posture": "needs-review",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "Failure to post the notice as mandated can result in penalties."
+    "need for regular training and signage"
   ],
-  "notes": [],
+  "notes": [
+    "Training duration/frequency not specified in the note",
+    "Signage language requirements detailed but not explicitly mentioned as a state requirement"
+  ],
   "needs_review": []
 }
