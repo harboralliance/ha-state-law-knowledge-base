@@ -2,31 +2,31 @@
   "state": "Illinois",
   "state_code": "IL",
   "industry": "commercial lodging",
-  "source_file": "2026-07-20_Illinois_lodging_compliance.md",
+  "source_file": "2026-07-22_Illinois_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": 20,
-  "training_frequency": "every 2 years",
-  "new_hire_deadline_days": 180,
+  "training_frequency": "every two years",
+  "new_hire_deadline_days": null,
   "new_hire_deadline_text": null,
   "signage_required": false,
-  "provider_approval_required": false,
-  "provider_approval_type": null,
-  "approval_authority": null,
+  "provider_approval_required": true,
+  "provider_approval_type": "Department of Labor approved curriculum",
+  "approval_authority": "Department of Labor",
   "approval_contact": null,
   "enforcing_agencies": [
-    "local government unit",
-    "law enforcement agency"
+    "Local government units",
+    "Law enforcement agencies"
   ],
   "applicable_to": [
-    "employers",
     "lodging establishments",
     "restaurants",
     "truck stops"
   ],
   "required_topics": [
+    "human trafficking definitions",
     "identifying individuals at risk",
-    "distinguishing labor from sex trafficking",
-    "employee roles in reporting and responding to human trafficking"
+    "difference between labor and sex trafficking",
+    "reporting procedures"
   ],
   "reporting_contacts_required": [],
   "signage_details": {
@@ -36,20 +36,26 @@
     "posting_location": null,
     "required_content": []
   },
-  "recordkeeping_requirements": [],
+  "recordkeeping_requirements": [
+    "training records",
+    "incident reports"
+  ],
   "certificate_requirements": [],
   "law_references": [
-    "Illinois Act on Human Trafficking Recognition and Reporting",
-    "Public Act 107-132"
+    "Public Act 102-0984 of the Illinois General Assembly"
   ],
   "source_urls": [
-    "http://www.ilga.gov/legislation/ilcs/docs/HumanTraffickingRecognitionReportingAct.pdf"
+    "https://www.ilga.gov/legislation/ilcs/docs/735_12.pdf"
   ],
-  "harbor_alliance_posture": "immediate-entry",
+  "harbor_alliance_posture": "approval-required",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "civil penalties up to $1,500 per offense"
+    "non-compliance penalties",
+    "need for timely approval"
   ],
-  "notes": [],
+  "notes": [
+    "Training program must cover specific topics.",
+    "Employers can use third-party programs or the Department of Labor's approved curriculum."
+  ],
   "needs_review": []
 }

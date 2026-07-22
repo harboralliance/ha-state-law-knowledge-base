@@ -2,7 +2,7 @@
   "state": "Minnesota",
   "state_code": "MN",
   "industry": "commercial lodging",
-  "source_file": "2026-07-20_Minnesota_lodging_compliance.md",
+  "source_file": "2026-07-22_Minnesota_lodging_compliance.md",
   "training_required": true,
   "training_duration_minutes": null,
   "training_frequency": "annually",
@@ -17,51 +17,43 @@
     "Minnesota Department of Health (MDH)"
   ],
   "applicable_to": [
-    "hotel license holders",
-    "resorts",
-    "bed and breakfasts",
-    "vacation shares",
-    "short-term rentals"
+    "Owners, Managers, and On-Site Employees",
+    "New Employees",
+    "Existing Staff"
   ],
   "required_topics": [],
   "reporting_contacts_required": [
     {
-      "contact_name": "MDH",
+      "contact_name": null,
       "contact_email": "health.safeharbor@state.mn.us",
-      "contact_type": "primary"
+      "contact_phone": "651-201-4500"
     }
   ],
   "signage_details": {
     "languages_required": [
-      "Spanish",
-      "Hmong",
-      "Somali"
+      "English",
+      "Spanish/Espa\u00f1ol",
+      "Somali",
+      "Hmong"
     ],
     "minimum_size": null,
     "font_size": null,
     "posting_location": null,
-    "required_content": [
-      "specific back of house poster"
-    ]
+    "required_content": []
   },
   "recordkeeping_requirements": [
-    {
-      "description": "Keep a roster of employees who completed the training and date"
-    }
+    "Fill out a roster of completed trainees and keep it on file for inspections"
   ],
   "certificate_requirements": [],
   "law_references": [
-    "Minnesota Statutes, chapter 234A.075"
+    "Minnesota Statutes, section 623B.01 to 623B.47"
   ],
-  "source_urls": [],
+  "source_urls": [
+    "https://www.health.state.mn.us/safeharbor"
+  ],
   "harbor_alliance_posture": "immediate-entry",
   "harbor_alliance_actions": [],
-  "risks_or_constraints": [
-    {
-      "risk": "non-compliance with the training requirement can lead to penalties and legal actions",
-      "constraint": "costs associated with printing posters"
-    }
-  ],
+  "risks_or_constraints": [],
   "notes": [],
   "needs_review": []
 }

@@ -2,10 +2,10 @@
   "state": "California",
   "state_code": "CA",
   "industry": "commercial lodging",
-  "source_file": "2026-07-20_California_lodging_compliance.md",
+  "source_file": "2026-07-22_California_lodging_compliance.md",
   "training_required": true,
-  "training_duration_minutes": null,
-  "training_frequency": null,
+  "training_duration_minutes": 20,
+  "training_frequency": "initial training within six months for new employees; no additional training required after January 1, 2019",
   "new_hire_deadline_days": null,
   "new_hire_deadline_text": null,
   "signage_required": true,
@@ -14,45 +14,46 @@
   "approval_authority": null,
   "approval_contact": null,
   "enforcing_agencies": [
-    "California Attorney General's Office"
+    "California Respect for Democracy (CRD)"
   ],
   "applicable_to": [
-    "hotels/motels"
+    "hotel and motel employers"
   ],
   "required_topics": [
-    "human trafficking awareness"
+    "human trafficking awareness",
+    "response to human trafficking incidents"
   ],
-  "reporting_contacts_required": [],
+  "reporting_contacts_required": [
+    "employees likely to interact with victims"
+  ],
   "signage_details": {
     "languages_required": [
       "English",
-      "Spanish"
+      "Spanish",
+      "other minority languages"
     ],
     "minimum_size": null,
     "font_size": null,
-    "posting_location": "inside business premises, in a visible location",
+    "posting_location": "not specified in the research note",
     "required_content": [
-      "Human Trafficking Model Notice with hotline numbers"
+      "human trafficking hotline numbers"
     ]
   },
   "recordkeeping_requirements": [],
   "certificate_requirements": [],
   "law_references": [
-    "Civil Code Section 52.6",
+    "California Respect for Democracy (CRD)",
     "SB 970"
   ],
   "source_urls": [
-    "https://oag.ca.gov/human-trafficking-resource-center",
-    "https://www.cga.ca.gov/legis/billtext/2019/chapter_2/sb00970.html"
+    "https://www.dcj.ca.gov/law-and-policy/crime-prevention/human-trafficking/",
+    "https://www.crucialcrd.com/what-we-do/"
   ],
-  "harbor_alliance_posture": "needs-review",
+  "harbor_alliance_posture": "immediate-entry",
   "harbor_alliance_actions": [],
   "risks_or_constraints": [
-    "need for regular training and signage"
+    "need for compliance with state anti-trafficking laws and training requirements"
   ],
-  "notes": [
-    "Training duration/frequency not specified in the note",
-    "Signage language requirements detailed but not explicitly mentioned as a state requirement"
-  ],
+  "notes": [],
   "needs_review": []
 }
